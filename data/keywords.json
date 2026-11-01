@@ -1,42 +1,42 @@
 {
-  "date": "2026-11-01",
-  "updated_at": "2026-11-01 17:27",
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02 05:16",
   "briefing": {
-    "text": "북한이 올해 전 세계 가상자산 해킹 피해의 89%를 저질렀다는 분석이 나온 가운데, FBI는 바이낸스 해킹 배후로 북한을 지목했다.\n\n트럼프 대통령은 북한 소행이 확인되면 대화에 나서겠다고 밝혔고, 영국에서는 북한 IT 인력의 위장취업이 기업 수천 곳을 표적으로 삼았다는 보도도 잇따라 사이버 위협의 범위가 광범위하다는 우려가 커지고 있다.\n\n국내에서는 호남 반도체 클러스터 조성을 둘러싼 국회 공방이 격화됐다. 부지 선정 진실공방에서 알래스카 LNG 연계, 재생에너지 공급 설계까지 쟁점이 확산되는 한편, 삼성전자는 소극적인 주주환원 정책으로 외신의 비판을 받으며 SK하이닉스와 대조적인 분위기를 연출했다.\n\n연예·스포츠 분야에서는 최민정이 쇼트트랙 월드투어 통산 50번째 금메달을 달성했고, 우지윤의 딸 우서윤이 미스코리아 진에 오르며 화제를 모았다. 배우 김용건은 '전원일기' 동료였던 최불암의 빈소를 찾지 못하는 착잡함을 전해 안타까움을 샀다.",
-    "period": "저녁",
-    "generated_at": "2026-11-01 17:27"
+    "text": "트럼프 대통령이 이란 추가 타격을 시사하며 중동 긴장이 고조된 가운데, 루비오 국무장관은 공격 재개가 확정된 것은 아니라고 선을 그었다.\n\n북한은 탄도미사일 집속탄두 위력 시험으로 13㏊를 초토화할 수 있음을 과시했고, FBI는 바이낸스 8조 원대 해킹의 배후로 북한을 공식 지목해 군사 도발과 사이버 공격이 동시에 부각됐다. 루비오 장관은 한국 의원들의 비자 발급 지연이 20여 년 전 행적 때문이라고 직접 밝혔다.\n\n국내 스포츠에서는 삼성 라이온즈가 KIA를 꺾고 2년 만의 한국시리즈 진출을 확정했으며, 1차전은 kt 위즈와 11월 3일 맞붙는다. KIA는 '승패패'로 벼랑 끝에 몰렸고, 이범호 감독의 작전이 도마에 올랐다.\n\n드라마 '닥터X'는 전공의 파업 관련 설정 논란이 이어지며 시청률이 15%대로 2회 연속 하락했고, '100일의 거짓말'에서는 박진영·김유정 조합과 송지효의 독특한 이중 모친 역할이 화제를 모았다.",
+    "period": "아침",
+    "generated_at": "2026-11-02 05:16"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프의 이란 추가 타격 경고·미 중간선거 사전투표 5천만 돌파·북한 연루 바이낸스 해킹 등 국제 이슈 잇따라",
+      "summary": "트럼프, 이란 추가 군사 타격 시사하며 협상 병행·플레이스테이션, 신규 컬렉션 및 PS6 호환 소식 발표",
       "keywords": [
         {
           "rank": 1,
-          "word": "논쟁",
+          "word": "돼지",
           "count": 2,
           "articles": [
             {
-              "title": "호남 반도체 부지 '진실공방'...알래스카 LNG 논쟁도",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZjBqcThMQUttMFFxSTBNT2thdzVwSzF5akI3LXhYWkRVN0NyTVM0V0U4REJmeXpvZ2xndC1LVTZiVi1INWk4Z25lS3o2aVFMdnhtSk93bVBqV0kyRVE?oc=5",
-              "source": "YTN"
+              "title": "이재명 대통령 시정연설 D-1, 외교성과 감싼 정부…\"돼지눈엔 돼지만\" 정상 외교 공방 계속",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43VFVHc3JJaXVmcEhHNjktVFhMZFlpcnRacVJQVDZlb0R4QTY1dmpvSHlHbjlseWZHY2Q0RlkzZzJMc2w2aFZSSkpjR0xGUEpFN2YxRA?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "호남 반도체 클러스터, 국회 공방 격화…정치 논쟁 넘어 실행 해법 찾아야",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tMlc4X3hScWJnWHFzRmZtN0RKRXFiUmdQLVZEUDJZb2dDQm9OSGdfUFN2U2dIZXUybVRKVzFTTTRHZ1I3a2ZveTNKajhUeTAzOE0yd01NUV9Zb2FFVU8xUXczQ2YxQzJ0Z1E3T1V3?oc=5",
-              "source": "뉴스후플러스"
+              "title": "北, 대형 불고기식당 지어놓고 '고기 없어 휴업'…주민에 돼지 먹이까지 요구",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNXh0ZXJ0MzBETWxTMVVKVzZLSHJqQmpudlVGMzA4b0tnOVRhUGFBZHNkdWo2blFYWXprYnBVSFB5ZFJOb0lNbjU4UHhJOVZO?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "호남 반도체 팹 4기, 전기는 어떻게...재생에너지 논쟁의 핵심은 ‘공급 설계’",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LaWx1Q2RDalZOZjF0VFpkc1poUk9uTUhZek5iMVNHTmhIaHpwTzZ1R1Rnbmo4M1hHYmJTQzFVZU5SaGFVOGdqbU1fVk45eWxXS0Jnb1dMNGp4YXZnUjJkQjZjUkVjWEk?oc=5",
-              "source": "M이코노미뉴스"
+              "title": "내년 세계 돼지고기 생산 감소에도 수출 경쟁 심화…한국 수입 3% 줄 듯",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aR1dhYXFmVXlUdmpEV1ZmT0ZYUzVnMkphaV9fMnF6NFpqcE5JdVJFc2QxRnpNRzV1QnNfSzV5N293aUNSdDVJbk1jRGtwRVcxVC1FVmNMUWQ5UEZGX0ItbkJB?oc=5",
+              "source": "돼지와사람"
             }
           ],
-          "description": "호남 반도체 클러스터 조성을 둘러싼 논쟁이 국회에서 격화되고 있다. 부지 선정의 진실공방에 이어 알래스카 LNG 연계 문제, 반도체 팹 가동에 필요한 재생에너지 공급 설계까지 쟁점이 확산되는 양상이다. 정치권 공방을 넘어 실질적 실행 방안을 찾아야 한다는 지적도 나온다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "호남 반도체 클러스터, 국회 공방 격화"
+          "description": "북한이 대형 불고기식당을 지어놓고도 고기가 없어 휴업한 채 주민들에게 돼지 먹이까지 요구하고 있다는 소식이 전해졌다. 한편 내년 세계 돼지고기 생산이 감소하는 가운데도 수출 경쟁은 심화돼 한국의 돼지고기 수입이 3% 줄어들 것으로 전망된다. 국내에서는 이재명 대통령 시정연설을 앞두고 '돼지눈엔 돼지만'이라는 표현을 둘러싼 정상 외교 공방도 이어지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "北, 주민에 돼지 먹이까지 요구"
         },
         {
           "rank": 2,
-          "word": "표적",
+          "word": "이란",
           "count": 2,
           "articles": [
             {
@@ -45,95 +45,95 @@
               "source": "연합뉴스"
             },
             {
-              "title": "트럼프 \"이란 표적 한두 곳 더 처리해야…10분이면 가능\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xSEFKOHJKNVdhanhDOEEzMi00ZVJnVHduWWVPQkhBRmxVR2hQN1ZxdmlnSUxHaEVHbUVWV2tOU3pyM3dnY24tXzRWQVVOZWZ3Z3NXWjNBVUNCZ1AzeHJQU0hLRzdVWk0?oc=5",
-              "source": "연합뉴스TV"
+              "title": "트럼프 “이란 군사력 대부분 무력화…‘곡괭이산’ 10분이면 타격”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qcVpiZGVvRnJjRkItRXozc3paSEEzTy1Bdl8xRWp0M3dPckRoMjZfcGlTdG8wcjc3c1FINWE2TTZuYUxaaXFBRkNIaWwwMEJHZVBMYnVfM0luMFBZOUN5akVCWUNrN3ctV05WTUxzVm8ya1XSAWZBVV95cUxON2tWTWd1QTFsNk96VUVfaTRudjgxZ0tHa3M1WS1hOWlIeDF0eXpvTVJPT2RUVklMYXpDc0RDa0sta0w4aEZhSlI4eDFmVjRMV3dRX0ZhSG5XYUhNa3VFbTVfNHZ6dGc?oc=5",
+              "source": "동아일보"
             },
             {
-              "title": "트럼프 “이란 표적 한두 곳 더 처리해야”…이란 재공습설 ‘모락모락’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUFZ1OXBSYmdIV3lPVU0zVVRQUk9fMFg4UU5fOEpIZlp1UzhxaEF5NXdNMzhfTTVBQkt5b3BiWUMwSnB5QzNPUGhQXzQ2Tm0yUTd4d2tpMFNFOTA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "네타냐후, ＇美 중간선거 직후 이란 타격＇ 압박…트럼프 ＇유보적＇",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWpIanpMY2l5ZFROU3FsS2NNUXpJa2gzX3Z6TWFhYlNvT01LejFUbXBXRmFlaGNteVZaaEQtbi1Hb2hGR2k0UkdReVdESlpmb0pidUlUTVFpallQT0FtWVhEYmFvVlpkdUNwNHJYa0FFWl9MREFab3pJSXd5U0hiSQ?oc=5",
+              "source": "한국경제TV"
             }
           ],
-          "description": "트럼프 대통령이 이란의 표적 한두 곳을 추가로 처리해야 하며 10분이면 가능하다고 발언해 이란 재공습 가능성이 주목받고 있다. 이번 발언으로 이란 재공습설이 확산되며 중동 긴장이 다시 고조되는 분위기다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "트럼프 \"이란 표적 추가 타격\" 시사"
+          "description": "트럼프 미국 대통령이 이란의 표적 한두 곳을 추가로 처리해야 한다며 '곡괭이산'을 10분이면 타격할 수 있다고 발언해 긴장감이 높아지고 있다. 그는 이란 군사력 대부분이 이미 무력화됐다고 주장했으며, 네타냐후 이스라엘 총리는 미국 중간선거 직후 이란 타격을 압박하고 있는 것으로 전해진다. 이란군은 미국이 공격하면 서아시아 밖 미국 자산까지 전방위 타격하겠다고 경고했다. 이란·카타르 사이 종전 협상도 사흘째 이어지는 상황이다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프, 이란 추가 타격 시사"
         },
         {
           "rank": 3,
-          "word": "사고",
+          "word": "루비오",
           "count": 2,
           "articles": [
             {
-              "title": "거제터널 171㎞/h 음주 사망사고 30대女감형",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrZ0xhWWxQWXZPeFV4S3I2c3JXaUlFTjR5WkItY1RUSWxzVG8tTEpxYWVMS2tVLVhlNGY4bHJKNjFjd1FYMEZoel9SeDhRZWFf?oc=5",
-              "source": "문화일보"
+              "title": "루비오 “한국 의원들 비자 발급 지연, 20여년 전 행적 때문”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBETHdCdEpKd3hHWm5sejM5b1hoMGs0UzRadG9zU21RVnZ1NW04dFNVSEJzR2VkR0x0cmxnOEFKUHJZWkw1U0FfT0NJLWRaOHVJVndjME1oVWpFd9IBX0FVX3lxTFBUdzRQQWJfbHJsN2R6VWxNVTRqNmRBQmlBcWJpM29GaF9wY2czNHF0dzMwN0JlNWlvN0VfbmhBejBpRW5JOGkyOGV3eVpUdjVXQnV5b3laOWxxWnhkOFJJ?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "터널서 시속 171㎞ 음주운전 사망사고 30대 여성, 항소심서 감형",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PNE1CVGxsSHkweEk1ZlBFZXN4TWU5bElkM1RTZEFuVTdWNlIxS2t2bmdpQWZQYzdqUnJXZy0wU1ktVjJ2cVlncU1sOVF0cHJ2NVdhQTlPY0VBYldha0t4R9IBYEFVX3lxTE9PNE1CVGxsSHkweEk1ZlBFZXN4TWU5bElkM1RTZEFuVTdWNlIxS2t2bmdpQWZQYzdqUnJXZy0wU1ktVjJ2cVlncU1sOVF0cHJ2NVdhQTlPY0VBYldha0t4Rw?oc=5",
+              "title": "이란·카타르, 사흘째 종전 협상… 루비오 “이란 추가 공격 미결정”",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fSjdvWWNRV0NOWmNmR2duTmR6ME5xQUhEck9McTVJMzRnamFyUkpHM0NlOWZpY3dsWXBQNE5uamJOdWhmS0Vfc1FCN1MxRHBW0gFTQVVfeXFMT3FicDM4R0hsNXdHVEdGU21jUHZtdlI4Sk1xMGtiVmpMX3d0elZWZXhDN3E4REEzMzBfZFFTZkpwazVCbE1SN0dUZl9xV3pQdW1QZGc?oc=5",
+              "source": "VOA 한국어 홈페이지"
+            },
+            {
+              "title": "美국무 \"트럼프, 이란 공격 재개 아직 결정 안 내렸다\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84bHF1RU1QcE1WX2VoUFdhcU1ibkh2Vk1HeGxJVzlOVnpJQlpEX0JhN1hfeTBZSlp4cTAxR3pYNmlwNlk3TjZEWEVKanF4b3d5ODRqaUdTUVlXQlXSAWBBVV95cUxNNnd5X3VodllocDA4dkxnR2tqOEh3ekhGa2hqUVZLQ2xDV3NBU1FRc3N4RzRnT1RHZkJkSmt1UDNKb3BpTXNyY1diLXo5WEhiN0VmT21ic0w3aHJCR2JPRXM?oc=5",
               "source": "연합뉴스"
-            },
-            {
-              "title": "거제 양정터널 만취운전 사망사고 낸 30대女 항소심 징역2년6월",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zcFVyT1hocVd4TTBWS3A3N21QUl9BVEZmbkFsaUZSMkY0ZndIYWpZcUxnM2E4NEU5OWZSaTFzeXAtUkNzWEZFUzAzRkZkQl9kU0Itd3U5ajkyTDRIdm1uS0VkbzFFRjR0bkVOdWRKMDE4c3M?oc=5",
-              "source": "거제저널"
             }
           ],
-          "description": "거제 양정터널에서 시속 171㎞로 만취 운전해 사망사고를 낸 30대 여성이 항소심에서 감형을 받아 논란이 되고 있다. 항소심 선고 형량은 징역 2년 6개월로, 음주 고속 운전으로 인한 사망사고임에도 형량이 줄어든 것에 대해 비판적 시각이 쏠리고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "터널 음주 사망사고 30대 여성, 항소심 감형"
+          "description": "마르코 루비오 미국 국무장관이 한국 의원들의 비자 발급이 지연된 것은 20여 년 전 행적 때문이라고 직접 밝혔다. 루비오 장관은 또한 이란에 대한 추가 공격 여부는 아직 결정되지 않았다고 밝히며, 트럼프 대통령이 이란 공격 재개를 확정하지 않았음을 재확인했다. 이란·카타르 간 종전 협상이 사흘째 진행되는 가운데 루비오 장관이 외교 전면에 나서는 모양새다. 오늘 처음 등장한 키워드다.",
+          "headline": "루비오, 한국 의원 비자 지연 이유 밝혀"
         },
         {
           "rank": 4,
-          "word": "해킹",
+          "word": "미국",
           "count": 2,
           "articles": [
             {
-              "title": "\"바이낸스 해킹 20분…임원진은 공포에 질려 지켜보기만 했다\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWFNrWERLRkE1Qkh4NWhnbE9VeG5ySV82LWlvNVRSSHVhRlFLVHZSREVnRWZERlk3Rmp3ODdJZG4tdm55a21hVm9Iby1RdlRuUS1LZFg2d3c2NknSAWBBVV95cUxOWW5OWDBHRS1Rb0YwcVczeWhzNHhMVXF0ZnZTRllCZ0RLTnIzTk5Cb2ZuTVBfQ1lLVzVWTU1aRk9yS0k3dEpQdGlTd2wwdkhfbHNoV3A5MWNUUWNVTVpHclY?oc=5",
-              "source": "연합뉴스"
+              "title": "미국이 러시아에 테러 첩보 제공…모스크바 공격 모의 미성년자 체포",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WRTgxaHlGVzJBQks1TmIyOGhaVjJTYUREUmF3dzBRNGpFbGFrWVZTSGlQcjRGWjB2VHM3WFRfdVA1WnB5Q1VCS2wtT1U0SzVPTWR3?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54eXF4S1VxdGdmd29iOEdjR0dqSWdTX3pMaE92TFY3NThqUzZISG9hbFpidXluc2k4MkVQUmNQWDVQR2ZlbjJlOUtpZlVKM3ltVjFuMkJzRWs2cWZYQ3fSAWNBVV95cUxOR2JQaFZKd0F1WDYtdC1jTFRNMS1mbjk1MENUMkRhTk9yZDdnVS1fNDh6UGhmQ1VUV1hiOFplZDBXektpUWNGbjRUY2F6WnBtZlZ2SE1ZSEVhbEswZ0Y2ZWNtSkk?oc=5",
-              "source": "BBC"
-            },
-            {
-              "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 북한과 대화할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5waE9Makd5Qm1DbGRjbzBETTJ1RjhfQjhrZmNORmJIa2JQa2VmM3VZWEN2clhlTi0zWkZXVkFtcDUwREFIc0ZyMGhZZDNxNVNLUXoycl9XbVlPekVuUDF6TnVvSDlrR2VhV0VnSzQzTmJRWDh10gF0QVVfeXFMTlFlT28zV0ZXNDdjVnR0UEcxMXp3MG5iMlBlcDE5bkN5dm5GbjJoSU9KU3RCQ19oaTNhYnVKZUFUVEFMa3M3V3lSR0c4em85Q3BDYjFGZFNaRWhoMGVBb3lpNXVaMjBlQTZyUzRmR2g2bUZzVlc?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "대형 암호화폐 거래소 바이낸스가 해킹 피해를 입은 가운데, 북한 엘리트 해커 집단이 유력한 용의자로 지목되고 있다. 트럼프 대통령은 북한 소행으로 확인될 경우 북한과 대화에 나서겠다고 밝혀 외교적 파장도 예상된다. 해킹 당시 임원진이 20분간 속수무책으로 지켜봤다는 내부 상황도 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "바이낸스 해킹, 북한 소행 의혹 부상"
-        },
-        {
-          "rank": 5,
-          "word": "중간",
-          "count": 2,
-          "articles": [
-            {
-              "title": "美중간선거 사전투표 5천만명 돌파…공화후보 인신공격도 과열",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSTNQSjZGWkN1SEcwdXB2NWlWNkl1NlFHYnplc2xXazlXQkFQYnpXR2FXX2ppSmhWc0NMWk9ib3hNTG1SOWJlU1NvY1g3cG9obndnNmM1MzREeFnSAWBBVV95cUxNbVdnSlNKclJhZlVleVBjWmROX2JVeFRzdHczWnYyeU1XckJrek5LejgzZ2VGZUpDTnNLZlZBb1o2NUxVSVR1aDNnV3FacnRGc2ZjQ2pUX0YxNllMYWt0cjU?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "미국 중간선거 사전투표 5천만명 돌파…공화후보 인신공격도 과열",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42T0FKbm04Wm5LamloTk9nLWg5Rnkwcm9URDVCRVg3RE10Y0R2QTZhUEI4bHBJZmxOY192MHp3RjdOQkNBeGYyS1hpMG5oOG1rNlZvX3FERDNzYU0?oc=5",
+              "title": "‘미국 대공습’ 임박했나…이란 최고지도자의 지시 ‘섬뜩’ [지금뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PbmNEY2d5SzFsVkxhai1pZGhTVXY5Rm5WZXRvc2pJQ0U0WHpPSnJ1R0FFVC1iYXY4N1R1SjRVZTBWWVVQYjB2QkthOEVtZEJnOHRFLVQ1bWRrcHc?oc=5",
               "source": "KBS 뉴스"
             },
             {
-              "title": "트럼프 1기 책사 \"중간선거 이후 공화 '내전'\"…이유는?",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZR2hlekg2VFZNOXhUOGtEdWZJMTlOS2NRQjhKQ19sX2xEZlhXejB0SVA2LW9HTS03cC03M25NTm1jZEliYm53TFdVY3hPVmNnckl1LVNROWZrTHQxQTdhdUZRYVBIdklsUlgweURsZF9seGdnYkNDRjBWTQ?oc=5",
-              "source": "이데일리TV"
+              "title": "이란군 \"미국이 공격하면 서아시아 밖 美 자산도 전방위 타격\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JUTJpaGdoT3czVG16d3ptSjh6WktYMGxhMVJyUDJCUEVBckZKdkd6QWVsWUN5Rkhzb2FyaWhwVlowT3lyWVRhYVRJV2NrYjVkUEx2WmhqTWRjSmvSAWBBVV95cUxQaU14ZjF1eVF0ZHZwTnhPcnBFQzFWMXQzdlM2d25NQVBackZWVngydTZRMHdCeEVzclhQcllCaXllamxyUzJ6XzMtSWhqTWtBeTBQSm9Tbkhmb0FLRlZhUGo?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "미국 중간선거 사전투표자 수가 5천만 명을 넘어서며 열기가 달아오르고 있다. 공화당 후보 측의 인신공격성 선거운동도 과열 양상을 보이는 가운데, 트럼프 1기 핵심 책사는 중간선거 이후 공화당 내 '내전'이 벌어질 수 있다고 경고해 눈길을 끈다.",
-          "headline": "미국 중간선거 사전투표 5천만 명 돌파"
+          "description": "트럼프 대통령이 이란 표적 추가 타격을 시사하면서 미국의 대이란 군사 행동 여부에 국제적 관심이 쏠리고 있다. 이란군은 미국이 공격할 경우 서아시아 밖의 미국 자산까지 전방위 타격하겠다고 맞받아쳤으며, 이란 최고지도자의 지시를 두고 '미국 대공습이 임박했다'는 관측도 나오고 있다. 한편 미국은 러시아에 테러 첩보를 제공해 모스크바 공격을 모의한 미성년자 체포를 도운 것으로 전해지는 등 복수의 외교·안보 이슈에서 존재감을 드러내고 있다.",
+          "headline": "미국, 이란 추가 공격 여부 주목"
+        },
+        {
+          "rank": 5,
+          "word": "플레이스테이션",
+          "count": 2,
+          "articles": [
+            {
+              "title": "플레이스테이션, 90년대 투명 테크 미학을 살린 '프리즘 컬렉션' 출시",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkxxQ3Bza1N2akhlNUVlSlFxSGdmYjViZkhYOHV2ZlNsdUZuaGw5M0ZEakxmQldjSXcwcFpBakJETmRJU0Rka1Z5c2dKNG02OHY1X3hwRGZQaW9tbWNyNU1pZEItenNneFhENGZOYmhKTENfYnZSTjZEUkdjY05kMTJ1V21ULU9iaVlfVENPRHhDVFdKcWRvV3NCUzhlQlR6NXNMNTEyX0I?oc=5",
+              "source": "Hypebeast.KR"
+            },
+            {
+              "title": "플레이스테이션 5의 듀얼센스 컨트롤러는 곧 출시될 플레이스테이션 6와 완벽하게 호환됩니다.",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNejQ3TXJHanBSZ29tdkxqclE4TTdUbWp2NjFmS0hVa0Mtc3dpcU9ZVXR0eVlwaEZEQThscmk0YnRhak82R19TZGFUZ2F1a0FYU1kxZHhVcXJqZDhacS1ubURFaERkSEdDZzNjMDlTM1VybEw1VDFOaUUtQjZkaUJXeThLd294TTRNM3ZPRE5RNkpNY2duQTNhZVdPUC1lb19jcDZGamFrMUZzeE5TUHJBYjY1aEJKVEV4cnRz?oc=5",
+              "source": "GameGPU"
+            },
+            {
+              "title": "‘PS5 게임’ 설치도 본체도 필요 없다, 클라우드 스트리밍 써보니",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aOGJCUTl2d1RIN0ZkcDROcm8wSUp2R1BZNTNXS1BVZXdacVZab0Jrd0paN1FKTUdCVFZ3TFJoZFRnQ01kRnFXV3RVSXVYeGE1NE1LSjJQSXRNZ2VkWjVybmp1UmY2RHd3dmc?oc=5",
+              "source": "게임뷰"
+            }
+          ],
+          "description": "플레이스테이션 5의 듀얼센스 컨트롤러가 곧 출시될 플레이스테이션 6와 완벽히 호환된다는 사실이 확인돼 게이머들의 관심이 모이고 있다. 소니는 90년대 투명 테크 미학을 살린 '프리즘 컬렉션'도 새롭게 출시하며 레트로 감성 마케팅에도 나섰다. 아울러 PS5 본체나 게임 설치 없이 클라우드 스트리밍으로 게임을 즐길 수 있는 서비스도 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "PS6, 듀얼센스 컨트롤러 호환 확인"
         }
       ]
     },
     "경제": {
-      "summary": "북한의 바이낸스 해킹 의혹 제기 · 삼성전자 부진 속 SK하이닉스 약진 · 현대차 내수 침체로 연말 할인 확대",
+      "summary": "FBI가 바이낸스 8조 원대 해킹을 북한 소행으로 확인 · 이재용, 일본 반도체 패키징 거점 점검",
       "keywords": [
         {
           "rank": 1,
@@ -141,23 +141,23 @@
           "count": 4,
           "articles": [
             {
-              "title": "FBI, 바이낸스 해킹 배후로 北 지목…\"눈 뜨고 코 베어 가\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DdlNnSzVjcnNfU2ZDTkVhVWFlR0pWS0k0cWdWckkwSFpjZThKcVJSM0VhODBrbXl6TU5xNF8yLUx3c2hLbDkzbF9qczloaWhab1ZmMWZTZmFzOWFMV0plRnZGcjA1RXc?oc=5",
-              "source": "연합뉴스TV"
+              "title": "“바이낸스 8조 원대 해킹 배후는 북한” FBI 첫 확인",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rTzVKc2lsM01NODBkNUNjVERjUGJRTGRTN191b1RORVZYdC1LcThZQ05JUjBwV0xUenFQVmMyZmtjb1hudjQ3OXVJRzFiZnR1NnBqTkVxY2hlVlk?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "\"올해 가상자산 해킹 피해 89%, 북한 소행 추정\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBRVFiV2prSVVNMHlZODhPdlNPbHJva3VHUERQN2JFM0stRkVYdXRyYkdjaE0yNTJKN0lRUk5yMzNpWWxrNnU3U01peFdTdzZXOEYyV3FncXpKN0R6ZGY0U1RmNUc0Qmw30gFuQVVfeXFMTjlyOThWQk1xNWpaUFJPcVA4MUtLU3VLT0xxOGpEQWptakVMSGVkVVA1Z1piNV9IZ2hxWGQ4QUYtZGlmOC0yQmNuTFFJTHdHX0hyaEpkVWNwM0h2OUlURjNUZU9qR0xzbTZ0SmNiRWc?oc=5",
-              "source": "머니투데이"
+              "title": "‘해킹’ 이제 아파트까지 뚫렸다…홈네트워크 입주민 정보 유출 불안",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HQWNKaVFwdkJBUXNCNG5FZEp1WDFCRXhPWi1VTFVNM0swQjBUVnBYQ0xSTEVCMVNuaFhmMlFmT3p3dC0yWDJuZU1RVFd2VzFnRWN0eTExMDlQMGVYVmpWdlVlX3lCUkx6V2JKU0dLM1VFUQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "해킹에 '약한 고리'…자산 탈취 위협 속 중소형 금융사는 안전할까[내 계좌를 노리는 해킹②]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hU3RNRXBBSWN4d2pQd1kwYUdBQ3gwWHBsSy1JS3NhMTZ6eHk2aGNDZW9lU2hOUFZ0ODBKOTRIVkpuME9xbExRTTVSTF9hTGk5TW5aWXlGakxyT1E2WjN1TNIBeEFVX3lxTE9kMDkzeFZLekFUcVFBQndzemFHLUtnemNnaG93NEJKbXdSamRyYThJSUV0NnhRRUw3UVBfTkFQVkppWWZLRFlOOGI2UDZXZ0cyT0YyMEpXRDRQQ2trOFJsR1hLWktzTS01TWx4NDY3V2tPMUNsb2dYcg?oc=5",
-              "source": "뉴시스"
+              "title": "1년 30곳 뚫은 독학 해커… AI 쓰니 40일 만에 60곳 해킹",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tQ29oc1pIcEU2dzNPNENEaUh1MjYxWmppV3Y2bEFRUGlISE5jQm00MmNqT0Z6UElod1V5MjMtXzJWQkItbjJpa3pZMEJWQkFraHlLV2ZmQm9QZ3A5NW1HT2dsVXFqZl9YR0QtUk1sU191ZWp6M2fSAWZBVV95cUxPZ2dsOHZKRlVRNWFkcG4xTDRfdW5Ya0ROekx1UGE5bzN2ZjF5RUc3LXZjdFh2TWxnYjJ6R0ZCLXJXR1l4ZnpyamFTLTVnbFpqWlR0TkFZTERtX0l1ejNZYjBZa0RoLUE?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "FBI가 바이낸스 해킹 배후로 북한을 지목하고, 트럼프 전 대통령도 북한 소행이 확인되면 대화에 나서겠다고 밝히면서 북한발 사이버 공격이 집중 조명받고 있다. 올해 가상자산 해킹 피해의 89%가 북한 소행으로 추정된다는 분석도 나왔다. 가상자산 거래소에 그치지 않고 중소형 금융사의 보안 취약성도 도마에 올라, 사이버 위협의 범위가 광범위하다는 우려가 커지고 있다. 해킹 키워드는 어제 3위에서 오늘 1위로 올라섰다.",
-          "headline": "올해 가상자산 해킹 89%, 북한 소행 추정"
+          "description": "FBI가 바이낸스 8조 원대 해킹의 배후로 북한을 공식 지목했다. 미국 수사당국이 특정 사이버 공격에 북한 개입을 직접 확인한 것으로, 바이낸스 측은 피해 자산의 대부분을 보전했다고 밝혔다. 한편 아파트 홈네트워크가 해킹돼 입주민 정보가 유출될 수 있다는 불안도 커지고 있으며, AI를 활용한 해킹 속도가 급격히 빨라지고 있다는 보도도 나와 사이버 보안 위협이 전방위로 확산되는 양상이다.",
+          "headline": "바이낸스 8조 해킹, FBI '북한 소행' 확인"
         },
         {
           "rank": 2,
@@ -165,23 +165,23 @@
           "count": 3,
           "articles": [
             {
-              "title": "리룡현, 세계역도선수권에서 금메달 3개",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rMTh0ZTNrWWpLQkkyQ3dWZWluZHBrS256bEtWbGNyckNpS1ZZRUotaUgwWVlwUjZHSllLS052Nk5tQTBBOV9HeDZwZGFBaWpTOXpzcWVhTGExcEnSAWBBVV95cUxPVko3T2ZZeXVUcmc2YXRRYkpEdVZGMnBhYzZ1SmNhdmNvVUVJb296bDVScUNVbm5MOGU4Nkc4QW51eUo4UzZhZEFYUW1LM1V1TFdMdDJpeDhuOURha2JIMnI?oc=5",
-              "source": "연합뉴스"
+              "title": "미 FBI \"바이낸스 해킹 북한 소행\"...바이낸스 \"피해 자산 대부분 보전\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuaU4tanQyWmlqMkNpUFNmT2RsdkM2RmxPRWVEUTVfRnMxdS1SbFJqWjVCNXM0VlpmNy1vZUxwbjdrQXBHU2QweXJhajRlYmJhNWEyLTJVSEs5LTNialE?oc=5",
+              "source": "YTN"
             },
             {
-              "title": "트럼프 \"바이낸스 해킹, 북한 소행 확인되면 북한과 대화할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5waE9Makd5Qm1DbGRjbzBETTJ1RjhfQjhrZmNORmJIa2JQa2VmM3VZWEN2clhlTi0zWkZXVkFtcDUwREFIc0ZyMGhZZDNxNVNLUXoycl9XbVlPekVuUDF6TnVvSDlrR2VhV0VnSzQzTmJRWDh10gF0QVVfeXFMTlFlT28zV0ZXNDdjVnR0UEcxMXp3MG5iMlBlcDE5bkN5dm5GbjJoSU9KU3RCQ19oaTNhYnVKZUFUVEFMa3M3V3lSR0c4em85Q3BDYjFGZFNaRWhoMGVBb3lpNXVaMjBlQTZyUzRmR2g2bUZzVlc?oc=5",
-              "source": "MBC 뉴스"
+              "title": "북한, 탄도미사일 집속탄두 위력 시험…\"13㏊ 면적 초토화\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10b1RSbDltNDg5Z0FoY3d4UE9MRmwzSWtuS3JPT1h0a19MaWRrTzhhbmNCWmR2SEw2bnBfaG9XUkozQlZjVW5NWHV4QVBEMFV4M3l2bmpyOUNUM0V6ajZBd2NHemZTbnc?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "영국도 '북한 IT 위장취업' 기승…\"은행 등 기업 수천곳 표적\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Sb2FfNUpOZ3lhVm43NEQ5MFRndTVESGJta1B0RW1IczRxRGlkWThGdC1aUHhQMFhMYk5PSG91eGRIajdaNHhFME41bW1ab2RHYjJyblgtWnhlNExmRDcwQg?oc=5",
-              "source": "아시아경제"
+              "title": "북한, 집속탄두 위력 시험…\"13ha 초토화\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pdTdub0g1aDBiQkJuS0s5a0tVanE5dGx5ZEowd3AwT3lLVTdEcDdHLXpidk5xVDVXWHVDank3d0hRUXpKVzFlUzRiRTFZS0VxaHpZdXdfdV9BQVZDekJDN3ZFUEVTTWFtTWc?oc=5",
+              "source": "SBS 뉴스"
             }
           ],
-          "description": "바이낸스 해킹 배후로 북한이 지목된 데 이어 영국에서도 북한 IT 인력의 위장취업이 기승을 부리며 은행 등 기업 수천 곳이 표적이 됐다는 보도가 나왔다. 트럼프 전 대통령은 해킹이 북한 소행으로 확인되면 북한과 대화하겠다는 입장을 밝혀 외교적 파장도 주목된다. 한편 리룡현이 세계역도선수권에서 금메달 3개를 획득하는 소식도 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "바이낸스 해킹·IT 위장취업, 북한 연루 의혹 확산"
+          "description": "북한이 탄도미사일 집속탄두 위력 시험을 실시해 13㏊ 면적을 초토화할 수 있음을 과시했다. 집속탄두는 하나의 미사일에서 다수의 소형 탄두가 분산 투하되는 방식으로, 광범위한 지역 타격이 가능해 위협 수위가 높다는 평가다. 같은 날 FBI는 바이낸스 대규모 해킹의 배후로 북한을 지목해, 군사 도발과 사이버 공격을 병행하는 북한의 행보가 동시에 부각되고 있다.",
+          "headline": "북한, 탄도미사일 집속탄두로 13㏊ 초토화 시험"
         },
         {
           "rank": 3,
@@ -189,283 +189,259 @@
           "count": 3,
           "articles": [
             {
-              "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVm82ZFlpaUlPQ09xdUlvZThoeEtXSFRvRDZoVkNQQjRySVhiQS1QQWktMUh6OGtxZDlWeE9McG40OWhfWWJNN3BWRkN2YV9PVnRCbjlqN1Nsdw?oc=5",
+              "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWmd1dXctV1RSUC15cEJERExIWllka0pUUDdwWEhFX1pQdEZRTWJhOUFMakdIM2lKRkJFemV0dW1jV0p2RmJQUWhyTmJON25hU19nc2JOc0pmQQ?oc=5",
               "source": "한국경제"
             },
             {
-              "title": "‘역대급 축제’ 엇갈린 표정…SK하이닉스 웃고 삼성전자 고개 숙이다",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
-              "source": "블로터"
+              "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EbW52UWh5TTZvdmRlYXltT3hGU1pzZkJEUGloUlJ3TXY5TDV4MHh6UVdQM21XZXdkWElndDl4MTVWZEZ6dUdlNzlFRnpWTnFiZUNaM2tn?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "삼성전자 소극적 주주환원에 외신 비판, \"주주 불만 커지면 자충수 될 수도\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10Y3ZieUtMdU1OTUJ3U3hEcGRWbC1ZR0t2SmMzXzFoMGJ4Q3Y2d21KUW83Rkc0blc4WWVKd2tSNlBfdnFndDkxVTVndWswR1ctQXNvMlN5ZWFXanktX3JzNjdja0RNdlBoRkFlR0ZfVUh2WmM?oc=5",
-              "source": "비즈니스포스트"
-            }
-          ],
-          "description": "삼성전자가 소극적인 주주환원 정책으로 외신의 비판을 받으며 주주 불만이 자충수로 돌아올 수 있다는 경고가 나왔다. 같은 반도체 업황 속에서도 SK하이닉스가 웃는 동안 삼성전자는 고개를 숙이는 엇갈린 분위기가 연출되고 있다. 반면 일부에서는 삼성전자 매수를 권고하는 목소리도 나와 시장의 시각이 엇갈리고 있다.",
-          "headline": "삼성전자, 소극적 주주환원에 외신도 비판"
-        },
-        {
-          "rank": 4,
-          "word": "반도체",
-          "count": 3,
-          "articles": [
-            {
-              "title": "수출 1조 달러 눈앞에...'반도체·대기업 편중' 과제",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBZUhybF9XR2JMenVyR3Jxa0paRkdfcDkxUEd2dTJJVml4c3dERFE3NFJoU05ZZ3NSclYwZXN1dGo0ZTBvVXZhMWNiTGw0SlB1Y1BIdERXdWRGSmVOVFE?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "전남광주 광산구, 주민과 반도체 클러스터 대응 과제 모색",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcEJLb041M0VjZEJ2RmVPOUhXZW1PdzNUU2ZQTDBQbnk5cHBSdWl3NDNTdkFsNUhvNDRlMWdTeDhiTVBTTUVPckZyX1h1OUNKdUwtSjJ6UFRlZlNoanc4VdIBeEFVX3lxTE91YlV6ME55U1Qyc2hZVHYzQ3dGVFR2Yk8yR2JhZUhVdlo4WmNpbGVNeHRzbjJ3UjlYVEdROGpUeFRncVV4SWZOLUVLMk5ocDN3NmtmUE1fcXlibHhJWUZUTHVKeGh5LTJ3WG5XZEJXV2t2THh5VGlhVg?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "광산구, 반도체 클러스터 대비 주민 의견 수렴",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ta0prUXVKM0Q5UEhzT0hib3Zfd015eHo4YWxFbnZUNThuRXp6dEJnSzlLbzFlOTRHNG9PNy1oc0xXMG01OHVJMklIS0FfaVB3RHVKdHRtdFFqRnfSAWBBVV95cUxQUzJYR2ZWU1lMbHhVUlNjLWttVkNtalVJS1dmWW8yZHBZOVZaR29TeldLSzZoZENDajZjYWZ4c0VaUERidEVjdHFKVkU1NHhrWTEwSDcxbElfMzRKNmpDanM?oc=5",
+              "title": "프로농구 삼성 10연승 도전, 한 둥지 이웃 된 SK가 저지(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RmhQTGlWOFoxUTBqNGhYOE9jc2F2cFVpT1BNNEJ4WVZwQ3dxTUpuMS1KSVgxanFBSTN2WEE1emdHNlFGMXYyZTRSOVlaZmZYTDV5VFJUNmVxQW_SAWBBVV95cUxPRlNQalk5QkhFeEYwUkpMQTBiR1JzSTRoam1OZ3J2UldnWXNZc1BpbGlncGNTdXVLQjN2d3diSlVvT0xSbExiOUxrYTc3dHBEY1IxdjZwelp6Vi1vNjJ0aTI?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "국내 수출이 1조 달러를 목전에 두고 있지만 반도체·대기업 편중 구조가 해결 과제로 꼽히고 있다. 지역 차원에서도 광주 광산구가 반도체 클러스터 조성에 대비해 주민 의견 수렴에 나서는 등 산업 저변 확대를 위한 움직임이 이어지고 있다.",
-          "headline": "수출 1조 달러 눈앞, 반도체 편중 과제 부상"
+          "description": "삼성의 러닝 특화 신제품이 30만 원대 가격에도 물량이 달릴 만큼 인기를 끌고 있다고 보도됐다. 폴더블 플래그십 갤럭시Z폴드9 울트라의 변화에도 관심이 쏠리며 하반기 신제품 라인업에 시선이 집중되고 있다. 스포츠단에서는 프로농구 삼성이 10연승에 도전했으나 SK에 막혀 연승 행진이 멈췄다.",
+          "headline": "삼성 러닝 신제품, 30만원에도 품귀"
+        },
+        {
+          "rank": 4,
+          "word": "중간",
+          "count": 2,
+          "articles": [
+            {
+              "title": "20년 전 부시의 수렁 닮았다…트럼프, 중간선거 ‘참패의 경고’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZXc0ZldPMUpSQ2o3V09yVjRVX2MwakpobUxPUmo1aE91eUUyTEdtVG4zSDV2c0VZZ3JxeUMtOFdUdVdvay1wQzJpa1VxNHE4U1drb2N3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "미 중간선거 D-2…바이낸스 해킹 배후 北 지목",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6aTlGR2pWXzNuTk84UEZSblhSYmdOam5JYkk4bElIN0J0dTNoVU9kTUlzOWQtbngzZGx2bWktanFNYXYyeTJsTjlhbjBYMHlHa255WDBPV01NSkZ3QXhacmx5VTZiRzQ?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "중간소득층 40% 벌이 줄었다…8명 중 1명은 소득 '반토막'",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13SGtwTC1uTXAtY0t6YkFZTjU4SVhDVVVHT2steDdaRlkwS2JGdDYtLXJ4UGNBcGJKdERTaW1OTVZiMGFjRWhjRHhRdEJ2QkNPZnVyTkotN0VuNUJzWXBoSdIBeEFVX3lxTE5EeE5mT1R3dEVlMDB0bkJzWGJ5SGQ3Y0F2UklOQ3M4YVA2UWxVdjQydEFaZm82c1NLVkpCak82N0NjTllYc0VvYzR4NjlKQmUyaXVwUTNUbWtORG5IeG5HVE4yaUNqcVJfam0yRDZjdFJ4UkNvX1A0TA?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "미국 중간선거를 이틀 앞두고, 트럼프가 20년 전 부시의 중간선거 참패와 유사한 상황에 처했다는 경고가 나왔다. 국내에서는 중간소득층 40%의 벌이가 줄었고 8명 중 1명은 소득이 반토막 났다는 분석이 제기되며 '중간'을 둘러싼 정치·경제적 위기감이 동시에 조명받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프, 중간선거 '참패 경고' 직면"
         },
         {
           "rank": 5,
-          "word": "현대차",
-          "count": 3,
+          "word": "반도체",
+          "count": 2,
           "articles": [
             {
-              "title": "현대차·기아, 내수 침체에 연말 할인전…쏘렌토 최대 550만원, 싼타페 200만원",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TaW9FMGFrYTQtdU9GXzRmNXVSdUhneUxxR3RBczNSWHNnYzR4bTExWEZJZjlWQWMxVE9YNmZBOTRhQXJrcUNTUFhhZFplR0F4cldyZG9MTVdxOXRWdnFWczJEN1Rqc3VHbEpfYzBYMGpWemdydlJVZXRDcVZZdEU?oc=5",
+              "title": "이재용, 창립기념일에 日 반도체 패키징 연구 거점 찾아",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa0poZnlBVExEdWZFV0FqS0pzZ2hvTWNsT3ZWcDNwX1lRLTFmWmg3cW9GYkVGSzNiMjVucVZ0RzJGdWt0ZXAzWHo0N0NyTjBBc1hZQjlYUXJFQ2hIa0ZjRVZ6V19kQW81bWFjRlNuUzI4R0VKWGZydHQ2UzlRbEVsV0d3Szc4RU94UGFtZVFVZw?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "\"역대 최대 실적인데, 왜?\"...현대차그룹 주가 '주르륵'",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0blp2UnkxeFZob3I4UVZxTnpPMDg4aDdvSzFiR0lpVlhDdFNNcEl0cjROV0hvbDMydF9mZFZ6SkVyUXZDVXZQWVB1a0pISEYyOHFZQzB1QTFCQQ?oc=5",
-              "source": "한국경제"
+              "title": "AI반도체 챙기는 이재용, 日 첨단패키징 거점 점검 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kMDNfZEpBSmtLeVpmdVdGcnlLd0VoZFZDNXJOaDN3Z28tQUFxRXhuZ2laQzNHQldSanNISkZvcDh1UktFQmlmc2dzTkItVDFxMXR6c25aTlJSeTlqZGRzV25nbmREdVZoV1NuMNIBckFVX3lxTE1zMkhEVmIyRjZZaDNscGhCSWVIR0thQ2ctRDQ4LW16dGpickZpTG5raWVTT09HYkJtNFVjbHdlUXFYSXFPQTh0enpnTjdGNXpVLTlaWGthN1lfRUlLZlJRSUZLUG5GQ3A5WExSeHJVcHp2Zw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "\"주차 때마다 조마조마 했는데\"…월패드로 출차 누르면 3분 만에 차 빼주는 현대차로봇",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92QjFScVI1OVAwaUhpMnZHdXJfVjN2NmtEWm0tTmxjU1h4U2QyYUxsMElIbDFVb1h5M3NKMl9vT3ZWbG5TZG5KM0hRdkgzdw?oc=5",
-              "source": "전자신문"
+              "title": "이재용 회장, 日 R&D 첨단연구소 현장점검…삼성전자 반도체 초격차 다진다",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEpZMmpBRWZMMnZ2bEdfR1RpOHVrYml4RzdfaURlc1FCa0ZiT1ZqeTVhV1BDXzU1MXBQNXZwTDJuNGREVTFob1dmRnQzNmVBTHk2azl3ZnFFSWxXSjIzcG9RODBacjFSazZfODR0a0FDbk5QblQ4M2FlNjBON3hVNnNQVUwyX05oSkNLakRR0gFmQVVfeXFMUFduWlliZW1waDVXNHpXOXhMV3NPTHdkdlVybHJ5cDF4RzdxNVV1YWx6YlBWTEh2QTNVTEJKa25vM3d0dVpyQmJ0elJ5alkzVHJzSWUyeXFwUUxtR2JSeVlqZzNNdUp3?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "현대차·기아가 내수 침체 속 연말 공세로 쏘렌토 최대 550만원, 싼타페 200만원 할인 행사에 나섰다. 역대 최대 실적에도 불구하고 현대차그룹 주가가 하락세를 보이며 시장의 의아한 시선을 받고 있다. 한편 월패드로 출차를 지시하면 3분 만에 차를 빼주는 로봇 주차 서비스도 주목받고 있다.",
-          "headline": "현대차·기아, 내수 침체에 연말 최대 550만원 할인"
+          "description": "이재용 삼성전자 회장이 창립기념일에 일본의 반도체 패키징 연구 거점을 직접 찾아 현장을 점검했다. AI 반도체 경쟁이 치열해지는 가운데, 첨단 패키징 기술이 차세대 반도체 경쟁력의 핵심으로 떠오른 상황에서 이 회장이 직접 현장 챙기기에 나선 것이다. 삼성전자의 반도체 초격차 전략이 일본 R&D 거점까지 확대되는 행보로 주목받고 있다.",
+          "headline": "이재용, 일본 첨단패키징 거점 현장 점검"
         }
       ]
     },
     "연예": {
-      "summary": "차예련 학폭 의혹 제기 및 소속사 부인 · 김용건, 최불암 빈소 못 찾는 사정 화제 · '닥터X' 시청률 하락",
+      "summary": "블랙핑크 지수 신곡 'ADDICTED' 발매 · '닥터X' 논란 속 시청률 하락",
       "keywords": [
         {
           "rank": 1,
-          "word": "김유정",
-          "count": 2,
-          "articles": [
-            {
-              "title": "한남동 유엔빌리지 떠난 톱스타 김유정, 성동구 월세살이 택한 진짜 이유",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3MGlkcWRENnhudFRWSDFBWDVPSjhkaUlmU1N6QVIwNGV0aFNSdEM5Z2stN041SC14N0hQbmluNmJDdmxUeU14WmU1dlJtUG00T3dqUy14YlTSAVRBVV95cUxQaDMyTjVfaFRoWi1yOTY4QTJlUW5mU2tzUURKenI0UU9mckd0T28waHZIbThDWkg5QzRlYlV0YWxYa0Zod1U5MVJMV3VnU0ROQkdKeEk?oc=5",
-              "source": "세계일보"
-            },
-            {
-              "title": "‘100일의 거짓말’ 박진영, 김유정에게 조선 이름 ‘김태웅’ 밝혔다",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwTHhmdTlIMUdMWlllWVRyN3FBQmNpR0RTZG5Id29udXdaLXNWTXVTQTBCUndkdGh0WUZtdDN6V01NdnM1Q0ZHT3hNR3VGVVYtd0lNczFEbloyQWxSTEdlZG1seGZ6YWJOOXc?oc=5",
-              "source": "천지일보"
-            },
-            {
-              "title": "유연석·서현진도 안 되네…‘라이어’ 2회 연속 1.9%, 김지원·김유정에 완패",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Tc25FUjRlTHNDTDI2MFY3YXlqYjJBUzNWWmZUaUNnLVp6OU03MUhrZVFJaXhfRzkyMFRubTZXQzJPWFRQcFFVSTI1RGtVaE56NElkR05xazA?oc=5",
-              "source": "매일경제"
-            }
-          ],
-          "description": "배우 김유정이 한남동 유엔빌리지를 떠나 성동구에서 월세 생활을 택한 이유가 화제다. 드라마 '100일의 거짓말'에서 박진영이 김유정에게 조선 이름 '김태웅'을 밝히는 장면도 주목받고 있다. 한편 김유정이 출연 중인 드라마는 유연석·서현진 주연의 '라이어'를 시청률에서 앞서며 흥행을 이어가고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "김유정, 유엔빌리지 떠나 성동구 월세 이사"
-        },
-        {
-          "rank": 2,
-          "word": "지윤",
-          "count": 2,
-          "articles": [
-            {
-              "title": "[지윤철학원의 오늘의 운세] 2026년 11월 1일 일요일 띠별 운세",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QZC1oeG92T25nRG4yZmVlMTdUUVloN2NUMDdJZ0s5UmNXQ3VPYzdTMzhEZEVWV2dqakhjWWZpbDM2VFZvX21iT1BfbV9OV0lIaXBmYmMwU1NacFFoZnc?oc=5",
-              "source": "뉴스투데이"
-            },
-            {
-              "title": "우지윤 딸 우서윤, 미스코리아 진 이후 \"아빠 이겼다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwbzdmMjNzdmU1Y2FhR2VRMG1EMHdES3JKLXFxT3RBazJqWkM2Znl6aUc2di1zSDFtRXpEMDgtX1o3Nzh4WUJ0VGt5dzJqX1JTWXlYVlNWcXZmenpqTkU3bNIBeEFVX3lxTE5ENV9BQzI1dVJFWnV6VElpLU00UWR2UEhhNlhyVWhYbU4yLVNraWIyVjFGU2VKenBoLUdMQ2VWeS0xRVI4Z0VHWlo2Uk9OR3d5b2NZaDB3NzVsbDZYamM5b0FqWFY1Tm4xQXgyTF9YSDBMR3ZyS2xqUA?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "[지윤철학원의 오늘의 운세] 2026년 10월 31일 토요일 띠별 운세",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51OC1CMEZXNGphVDlPemVhOWx4eGZDRmtpemtLTXBHMkNVLUhkQnJFeUdYNjAwZ05ENGs0U080TDNDQkxfNmJMT2FyamJvRWRiT1dQVjNXR1FsakU4OHc?oc=5",
-              "source": "뉴스투데이"
-            }
-          ],
-          "description": "우지윤의 딸 우서윤이 미스코리아 진에 오른 뒤 '아빠 이겼다'고 말해 화제가 됐다. '지윤'이라는 키워드에는 운세 코너 '지윤철학원의 오늘의 운세'도 함께 묶여 주목을 받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "우지윤 딸 우서윤, 미스코리아 진 차지"
-        },
-        {
-          "rank": 3,
-          "word": "김용건",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'전원일기 장남' 김용건, 최불암 빈소 못 가는 이유 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vM0dDSEJnV2ZmcEtlNFYxekJMMVE1X1I1aUxWYUtkbGs4LTVZLUotbkhKSlByT1F0cWc0d3ktcTRBUjZDSGh5Nm95a0RlMnE2VzJaTzFHSXN3RkFpdlc4NVlaemVuUjc1OWVGVDVlcTRuSlHSAXhBVV95cUxQZGlKdkdPSTFIeV9hZXBTWnpON05ydFg1TTF4ODdNQTZUQ0VRQTFCcG90b3ZQNkNlM2ZhR0FxOGtiSEt5R2V2OXA5RHlWUXdpZ0N4dnhuR09RWWtISFBDUXpjd0daMVNKRHVhUDlyYldpOUo4akhIS0Q?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "‘전원일기’ 장남 김용건, 최불암 빈소 못찾는 속사정…“나도 만류”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nSU1pbWR2aHBMeFRUZlhKWElmeUtKLUd5dm8zQ2tmSWg0QjBWd2ZLLXpySkgtZ1pmbkphNnRKdm54QzBkNmVfbV9MR0QyYS04NUdEMnFn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "아들 결혼 앞둔 김용건 \"최불암 빈소 못 찾아 착잡해…곁에 있어야 하는데\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJeUR3TUFPdzIzRUJqc0dtRGxKa2FNcF8zek80YjRka1RIRUZabmxTVnphdHNlZUNJR1NsNllqa2g2dldLNk5qTXFyaDJpQ3RqdlZtRDFtQzVwSWxEcTBTS0pYal9BWWM?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "배우 김용건이 '전원일기'에서 함께했던 최불암의 빈소를 찾지 못하는 사정을 밝혀 안타까움을 사고 있다. 아들 결혼을 앞둔 상황에서 곁에 있어야 한다는 마음과 조문을 가지 못하는 현실 사이의 착잡함을 직접 전했다. 전원일기 장남 역으로 오랜 시간 최불암과 호흡을 맞춰온 터라 더욱 눈길을 끈다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "김용건, 최불암 빈소 못 찾아 착잡함 토로"
-        },
-        {
-          "rank": 4,
-          "word": "차예련",
-          "count": 1,
-          "articles": [
-            {
-              "title": "차예련 ‘학폭 의혹’ 일파만파…소속사 부인→과거 폭로글 재소환",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01bm45Z1FkbmxJMTFwak1pTTBuTm1uaFFVNmxSVG0tbnNkUFBoQ0IyYmhSV05VMEVNOVZ0UXlnTU5tbXM5XzhUSHp1RmdydjYwVXd1VXVSeG9LRF9MbFHSAWNBVV95cUxPX29LM2tHSmlFVkVSak94dHVUNFFWeTNucndhb25TSFljaWJOUWtnbGR0S1RocXBHR1JvRWc4S2dwLVAxdXZWNWVBdTRKaWRTTnJLVmVKdTE5T1U4aHlYajZsckE?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "“뺨 때려 고막도 찢어졌다”…차예련, 학폭 의혹에 “사실무근”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Q2dOVThiWlEtOEZORS1zUmxOeXpUV3FTZVZuOF9PNnFlUTEwdlVHM1pJc1VhaGVKR3l0NC1XZXhJWW11dDNPemFKcGw4TEUxOGxSNUV3?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "“뺨 맞아 고막 찢어졌다” 차예련 학폭 의혹…소속사 “사실무근”",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93V210N3dIcFFYWUp5VXdPcnk3Qko1YUphcFVNWW4ycXJyWGx4QlNHdlRkcHNycUFzZkM1cVdldXBtNEM0OVM4MEJ0bjBUZEF1Q1VUc3ByU0xMN0QzSWFIQXo2bWlyaUhMT3fSAW5BVV95cUxPRUM2S0NoTV9qZFRPYVMyTmpQaUx5MHk2Z25CZEwtSkhvbEhPY0hFMkdObXFFQjh1ekJjVm9OTzF6SDZYeHd0bE1Sd194QmFjSWNZLWJyZFBSTVRtVXE3akRaekp1cGdUaV9IcTB1QQ?oc=5",
-              "source": "주간조선"
-            }
-          ],
-          "description": "배우 차예련을 향해 '뺨을 때려 고막까지 찢어졌다'는 과거 학교폭력 의혹이 온라인에서 확산되고 있다. 소속사는 즉각 '사실무근'이라고 부인했지만, 과거 폭로 글이 재소환되며 논란이 일파만파 번지는 양상이다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "차예련, 학폭 의혹 제기…소속사 '사실무근'"
-        },
-        {
-          "rank": 5,
           "word": "닥터X",
-          "count": 1,
+          "count": 2,
           "articles": [
             {
-              "title": "닥터X : 하얀 마피아의 시대 7회",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NZEdwcVpadVhkNnh2LWk1bV9hRHJMZ0ctVlhwaGpVVGRCbkg0TkktSmpiZWhKY0dWelh5OEw3Sm9MT0JjSjhtOC1Xb0JyNnc2THBqRC0tUDlUT3dHYjVCRmROeE04R0UxQmlBMF9VNA?oc=5",
-              "source": "programs.sbs.co.kr"
-            },
-            {
-              "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락…20% 돌파 급제동[Oh!쎈 이슈]",
+              "title": "김지원 어쩌나 ‘닥터X’, 연이은 논란에 결국 시청률 대폭 하락… 20% 돌파 급제동[Oh!쎈 이슈]",
               "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjhLS0xPa1J3WFBacnlZWW5ORWVnRGhySHlvdWFYa1hDenBwYy1BTjBTdUU4eF92OWQ1cEY3akRUeEZlaDhRMGZ3QnhYVENEd2RwYjFRUjBpaklYcXVUVWNQUGd5RDZKZV9mOVpKVzJDRko4S3VBS3ViLTJUYU5HMG9xRjF5TEZCTVNfbElGVQ?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "‘닥터X’·‘모던워페어 4’ 논란…표현의 자유 ‘줄타기’",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UN29LZWxobF9td2M1VGx4SkNUX2VTMzhQcWRORS1vRWUzTE83UXRMWDFVSE9pUWZYSU9VSU4wYkt4RUtka0U2Vm9EeXpNVDljT1FvaXFpOUlBa0VfVi1OLVQ1b1hjWmdlanEzcjBIeDbSAXRBVV95cUxOOHQxc0Z4MGpYRHBBVndjV0FNdzhBZndIZ1N0eUQ4enI2T2tiaE80M3hsMXFjZmdCb3BzazdfQUp4aGg4bFRuSFVieEVQVDdiYm4tcDQ0UXFrZGZKTlVYNElBY2hmQ1d2NFdlQ0V4SlZPLUlyUw?oc=5",
-              "source": "주간한국"
+              "title": "닥터X : 하얀 마피아의 시대 8회",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UU9QVjQwNlZBaVRpRDBudTBXcjExcG5mOFV3Nzh6X0FOZkEtNFlhTnBhb0pKbXdpUkJMWkI4Y2Qza2twQWxiX1BQODdlSmdVZUVxSm1BcjRJUHBneVM5eUVDalpvNUR0cjZ5WFBUQQ?oc=5",
+              "source": "programs.sbs.co.kr"
+            },
+            {
+              "title": "시청률 20% 앞두고 15%대로…‘닥터X’ 전공의 파업 일침, 2회 연속 하락",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yUlEySDdfT0Zmd21iM3BVeUNyQkczLW9TeUN0RVpZdmtVTU04N09uSFdiM1F2WXZIVUlnZmRIU0x6OW9CZzBWSHRXTEowN0JJYVdhMlpVZUk?oc=5",
+              "source": "매일경제"
             }
           ],
-          "description": "드라마 '닥터X'가 연이은 논란에 휘말리며 시청률이 대폭 하락해 20% 돌파에 급제동이 걸렸다. 극 중 표현 방식을 둘러싼 논란이 이어지는 가운데, 주연 김지원의 행보에도 관심이 쏠리고 있다. 7회가 방영된 상황에서 흥행 기세가 꺾일지 주목된다.",
-          "headline": "'닥터X', 논란 속 시청률 급락·20% 제동"
+          "description": "20% 돌파를 눈앞에 뒀던 드라마 '닥터X'가 연이은 논란 속에 시청률이 15%대로 떨어지며 2회 연속 하락세를 기록했다. 전공의 파업을 다루는 극 중 설정이 논란의 불씨가 됐고, 주연 김지원의 흥행 기세에도 급제동이 걸린 모양새다. 한때 20% 돌파가 기대됐던 만큼 이번 하락이 더욱 주목받고 있다. 어제 5위에서 오늘 1위로 올라서며 화제성은 오히려 정점을 찍었다.",
+          "headline": "닥터X, 논란에 시청률 15%대로 하락"
+        },
+        {
+          "rank": 2,
+          "word": "박진영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘100일의 거짓말’ 박진영·김유정 母 모두 송지효였다… 잔인한 운명의 소용돌이",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nWmJTYjdVR2pWNERNeU1LbEI4UHY5Q3Voc3M1N04zTzMwNjNRMUJpc0VkM0FSZEtnMXlfaHVrV0ZhQU1oYW9TUVp4bk11elducVVtY2FIdVVvUVpVeVHSAWNBVV95cUxPNGdGNF9hX1JnVFBPeEloaTVVdTBCUTNBZ242ZU9ubWkweXVUZjhDZklYSHFSYXlfQ0V5Y3lOZWxuNFYwQ1V3LVJXdEprVzNja0ZUQlRhUWVCU2w3M1ZOQTN3SEk?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "'JYP' 박진영이 이름까지 주고 주니어로 꼽았던 이 배우..누구?",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmlKV09hVExGbWUzWnRSbzhvaUttZFhhcUxneWZfS0pHTWNzQ1VEclZEdHNaYmJZbHcyYVVEVjVMb25TYTZZZXlNT3dxREI2MVNtSWRIWWxWODNjd1N0YnlKM3RyQkJCTmFfNGh2WTBpMmFadXlzRm9PUnBJS05LamNUbW1ONlZzR3c?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "김유정·박진영의 100점 비주얼 합은 거짓말 아닙니다",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhWWRDTVRqbUVUUUJBdzRTS1Y0c04tY2Y1MGpNZ0VwUC1HSG4yc28yZjc4ZmhaVUtWamRhZE0zRXFPOHlHUE9heDFFYWJTems?oc=5",
+              "source": "엘르 코리아 │ ELLE KOREA"
+            }
+          ],
+          "description": "드라마 '100일의 거짓말'에서 배우 박진영과 김유정의 조합이 화제다. 극 중 두 사람의 모친 역할을 송지효가 모두 맡은 설정이 '잔인한 운명의 소용돌이'라는 반응을 얻으며 눈길을 끌고 있다. 또한 JYP 박진영이 자신의 이름을 줄 만큼 아꼈다는 배우라는 소개도 재조명되며 관심이 더해졌다.",
+          "headline": "배우 박진영, 김유정과 '100일의 거짓말' 호흡"
+        },
+        {
+          "rank": 3,
+          "word": "사당귀",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘사당귀’ 손지창, 보스 라이프 최초 공개",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVdXlrYzY5VDdkSjNzc1NhNmpkT2NhejJSS0liTnh6N1UxN29nd3c3eWdRb1VQWGNDbWNEYllCdmpxcUJjQlluekF0UG1fLTFNQkpETHVPZExEb2wxMDdMSGN2LTY?oc=5",
+              "source": "BNT뉴스"
+            },
+            {
+              "title": "'100억 카지노 잭팟' 손지창 \"연매출 60억\" 또 대박..이벤트 회사 CEO 근황 [사당귀]",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1RsbnhLVWR4eHdSTVdYclUtRDBtc3FpMERhcC1YWnBTSGVkVnhpZ1ZfN00tZk1uLWE3WUFXVGtmLVRVLThVZjJBOGxRTlZHRks1Y0s2VjRSSGlzTXlaOE1JTDlmbTRDLUdZVjUyZFc1cXFvQTJGSUJGSFVVVW4xOQ?oc=5",
+              "source": "스타뉴스"
+            },
+            {
+              "title": "원희, ‘대선배’ 손지창에 “똑 부러진다” 말실수 후 사과 “무례했던 것 같다” (‘사당귀’)",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VOHBjMnpWUDAtckNNd2NOdVJHOXBVRW9XcndaRWFaZGtubmk2cTVrajRQanFKYkR5N2RzY3ZnQUxROEdraklDV204blZnRDNfZGpnaG5TMWs2MlJzY2lXSU4xT3BvQQ?oc=5",
+              "source": "매일경제"
+            }
+          ],
+          "description": "'사당귀'는 선배 연예인들의 현재 삶을 들여다보는 프로그램으로, 이번 회차에서는 배우 손지창의 이벤트 회사 CEO 근황이 공개됐다. 연매출 60억 규모의 사업가로 변신한 손지창의 '보스 라이프'가 최초로 공개됐으며, 100억 카지노 잭팟 에피소드도 화제를 모았다. 후배 원희가 손지창에게 '똑 부러진다'는 표현을 써 사과하는 장면도 눈길을 끌었다.",
+          "headline": "사당귀, 손지창 CEO 근황 공개"
+        },
+        {
+          "rank": 4,
+          "word": "지수",
+          "count": 2,
+          "articles": [
+            {
+              "title": "블랙핑크 지수, ‘ADDICTED’ 발매…수중 퍼포먼스로 ‘치명적 변신’",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zcDNVOGljcnVZUm9PUU10OXJmR1Bsc2s2a2VCZ2VfY3p2UlRycGJfTXBMekFKZTdySnZEMi1EVE1ObFUwZWZ2NXZlSHFpVlczVmVF?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "블랙핑크 지수, ‘ADDICTED’ 콘셉트 담은 루시 화보 눈길",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMWJIa1d2TzBjS3BqN0Q5T0RMektFTEQ2SjVxdWVzUThkMzAtZGNBQnNDOVdkeGwxLTREVTl1OEJSTVhSODZ1dTRwS2RSaU5ub3R2OUd1SVVzYlhDUC05T1BHcVVJZXN3S0RXU2xYWHpRZw?oc=5",
+              "source": "톱스타뉴스"
+            },
+            {
+              "title": "블랙핑크 지수, 신곡 ‘ADDICTED’ 챌린지 로제와 함께…“we so addicted”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qWEgwRkl0Wkcxank4MWFRaG9lWlRWOTBTNHFWV2JVQzRwSXpweFZLaG9SM19ZZG9PUDdWdzVRN1BhaXpxUkdTcEYxZ1JCRXllQ1pia2R2RXpBTFdHVk96ODlTdGt6REQwYnBHRHIzVWYyZw?oc=5",
+              "source": "톱스타뉴스"
+            }
+          ],
+          "description": "블랙핑크 지수가 신곡 'ADDICTED'를 발매하며 수중 퍼포먼스로 강렬한 변신을 선보였다. 콘셉트 화보와 함께 멤버 로제와 함께한 챌린지 영상도 공개돼 팬들의 반응을 끌고 있다. 오늘 처음 트렌드에 등장한 키워드로, 신곡 발매가 직접적인 화제의 트리거가 됐다.",
+          "headline": "블랙핑크 지수, 신곡 'ADDICTED' 발매"
+        },
+        {
+          "rank": 5,
+          "word": "블랙",
+          "count": 2,
+          "articles": [
+            {
+              "title": "블랙핑크 리사, 엉덩이 다 드러내는 ‘몸매 자신감’",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YU19ZLVRmRHkxck95UGRhcVFHVVF4dTMxeG5fY3hUVktXSFJSNzJzVjRleTJWaVN1Vy00QndQZ0JpTVVmTVZyQXowX3JoRjFtQzJBVk04NjBWNHZicWhIcXVYNWJUcHNBYTVQMHRn?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "롯데온, 블랙프라이데이 맞아 '블랙온세일' 연다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jT2kxWVd2Q1NrZ1RBeWx0V3UxREVKUjREV3RUSXUyX3cwUTYtWV9fdjV0ZmFiRkxndWlWcHRTb1FGaWIzYXBOQ1NtbmpRV1liSEI3cjBn?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "올겨울 블랙과 브라운보다 자주 볼 매혹적인 컬러!",
+              "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQXM5VmlDOTVteHpRTzU1ZGU1N0RaWlYxY3dUS3dmaDF5RE9CZGs3MUZudmZyNmYxbk9ZYWU4UV8tT0JLc20zQnE1RXc5bWRQSmtaUnBHaW5mOVE4MS16ZmNoT3dxampjaVhicElhbDVtOXB4TFZSLXJoX2JVVmlaNVViNlRiWjF6NXRHY0ppbFltNGdOdEx2Y2liZmJhZzFGekpwbWtYRVR2WTJ0OExPXzM4WWE2MGVsdjFKaktFNzdMSUZyLWVRQS1fbWQyRkd6SklLNFNPNTBRVHBmRkRJdWFkcjdiTGMtcVpTMHliUzhEdDlwenp6WGV5YkU5WHlUNTJxZEFmQVpGQ2lCUV94bG55cGtJb2x0Zm5SeVhhRGpkcE95TEtUTF9XbkxKYTcyUGk5Rk5zeGhJNlQ1bjh2eEE5TDE?oc=5",
+              "source": "Vogue korea"
+            }
+          ],
+          "description": "오늘 '블랙' 키워드는 블랙핑크 리사의 파격적인 화보가 주요 화제로 떠오르며 처음 트렌드에 등장했다. 블랙프라이데이 관련 쇼핑 이벤트 소식과 겨울 패션 트렌드 기사도 함께 묶여 검색량을 끌어올린 것으로 보인다. 단일 사건보다는 복수의 '블랙' 연관 콘텐츠가 동시에 주목받은 흐름이다.",
+          "headline": "블랙핑크 리사, 파격 화보로 화제"
         }
       ]
     },
     "스포츠": {
-      "summary": "삼성 라이온즈가 KIA 꺾고 한국시리즈 진출·최민정 쇼트트랙 월드투어 1000m 역전 우승",
+      "summary": "삼성이 KIA를 꺾고 한국시리즈에 진출했으며, BNK가 여자농구 개막전서 KB를 완파하고 KLPGA 에쓰오일 챔피언십에서 이예원이 우승했다.",
       "keywords": [
         {
           "rank": 1,
           "word": "삼성",
-          "count": 8,
+          "count": 5,
           "articles": [
             {
-              "title": "\"후회말고 삼성전자 사라\"…100조 '뉴노멀'에 개미도 들썩 [강경주의 테크X]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wVm82ZFlpaUlPQ09xdUlvZThoeEtXSFRvRDZoVkNQQjRySVhiQS1QQWktMUh6OGtxZDlWeE9McG40OWhfWWJNN3BWRkN2YV9PVnRCbjlqN1Nsdw?oc=5",
+              "title": "러닝할 때 딱이네…\"30만원에도 없어서 못 산다\"는 삼성 신제품",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzWmd1dXctV1RSUC15cEJERExIWllka0pUUDdwWEhFX1pQdEZRTWJhOUFMakdIM2lKRkJFemV0dW1jV0p2RmJQUWhyTmJON25hU19nc2JOc0pmQQ?oc=5",
               "source": "한국경제"
             },
             {
-              "title": "‘역대급 축제’ 엇갈린 표정…SK하이닉스 웃고 삼성전자 고개 숙이다",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV0FkQXhZVkxQVDlpZ1dlNHlQb3hCU2Zmb1FvUGNUT0tNbHNJODd0UllnaEQ4UjRjS0xaTlFpcmc0aFVLRUF5MF9tbkExbGxXbjU4dkpJLVlGeFRmRThrWkM5Wm9SN0Rf0gFsQVVfeXFMTzI3QjVCeUthS01JSEs3eEhTTkQzVjBFYlRINWtRNnltWF8yNHAxQkhtVUYwdDF1OXBPaFZDUjdBNlEzUlNQWEdYQk9tdXNxa1FTRHpZbjd6c2ZZUld5LWhYRWRFeVlJZDMyWDBM?oc=5",
-              "source": "블로터"
+              "title": "삼성 갤럭시Z폴드9 울트라, 얼마나 달라지나",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EbW52UWh5TTZvdmRlYXltT3hGU1pzZkJEUGloUlJ3TXY5TDV4MHh6UVdQM21XZXdkWElndDl4MTVWZEZ6dUdlNzlFRnpWTnFiZUNaM2tn?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "삼성전자 소극적 주주환원에 외신 비판, \"주주 불만 커지면 자충수 될 수도\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10Y3ZieUtMdU1OTUJ3U3hEcGRWbC1ZR0t2SmMzXzFoMGJ4Q3Y2d21KUW83Rkc0blc4WWVKd2tSNlBfdnFndDkxVTVndWswR1ctQXNvMlN5ZWFXanktX3JzNjdja0RNdlBoRkFlR0ZfVUh2WmM?oc=5",
-              "source": "비즈니스포스트"
+              "title": "프로농구 삼성 10연승 도전, 한 둥지 이웃 된 SK가 저지(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RmhQTGlWOFoxUTBqNGhYOE9jc2F2cFVpT1BNNEJ4WVZwQ3dxTUpuMS1KSVgxanFBSTN2WEE1emdHNlFGMXYyZTRSOVlaZmZYTDV5VFJUNmVxQW_SAWBBVV95cUxPRlNQalk5QkhFeEYwUkpMQTBiR1JzSTRoam1OZ3J2UldnWXNZc1BpbGlncGNTdXVLQjN2d3diSlVvT0xSbExiOUxrYTc3dHBEY1IxdjZwelp6Vi1vNjJ0aTI?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "삼성전자의 주주환원 정책이 외신의 비판을 받으며 투자자 불만이 커지고 있다. SK하이닉스가 반도체 호황을 누리는 것과 대조적으로 삼성전자는 상대적으로 부진한 성과로 고개를 숙이는 분위기다. 한편 '100조 뉴노멀' 국면에서 삼성전자 저가 매수를 권유하는 시각도 나오며 개인 투자자들의 관심도 달아오르고 있다. 삼성 키워드는 3일 연속 1위를 기록 중이다.",
-          "headline": "삼성전자, 주주환원 소극적 외신 비판"
+          "description": "삼성 라이온즈가 KIA를 꺾고 플레이오프를 통과해 2년 만의 한국시리즈 진출을 확정했다. kt와의 한국시리즈 1차전은 11월 3일로 예정돼 있다. 스포츠 외에도 러닝 전용 신제품이 품귀 현상을 빚고 있다는 소식과 갤럭시Z폴드9 울트라 관련 기사도 화제를 모으고 있으며, 프로농구 삼성은 10연승 도전에 나섰으나 SK에 저지당했다. 삼성은 4일 연속 1위를 기록 중이다.",
+          "headline": "삼성, KIA 꺾고 한국시리즈 진출"
         },
         {
           "rank": 2,
-          "word": "투어",
-          "count": 4,
+          "word": "부족",
+          "count": 3,
           "articles": [
             {
-              "title": "최민정, 쇼트트랙 2차 월드투어 1,000ｍ에서 역전 우승",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96bEQ0RXNTdWN6cW1Bak5KcUFYRWRiZXIybGNFNUpfRFduWFdJUHp4UWxZTDZTZU1BcjdDTko2Ql9pYVlHelY3VUZtcEpTUWFTbHBNVUc5aFRteGtGbTkxNUo3cDF4ZDJPTXNOeTFIaDczOUxXdnfSAXZBVV95cUxQNDd2WFdjZWM1NHF0dUduekVEMHA3LVZGUWpHRndCQmY4bXVHdkI4Vms2TkxOTUV5OHRvNmwyRDh4M1g4dkdGZk5XeUJiMjNoWGRNSzIydS1rU19CS3htd2hWcElGV0ljUFJZSFYtX09aOFhJWElB?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "최민정, 쇼트트랙 2차 월드투어 1,000ｍ 우승…3명 뚫고 역전극",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1SnZyZWNTa3gwMWFjRTdLRDZLR2lIVkl1bFZUUFktTVV4ZDNBcGpMcExEQnhqLUZIdmQ0LXRTaTBQeDFwTFFFalFhelZsRGZUUEFXanVnX1lpdjTSAWBBVV95cUxQZlRNVXNuejJiS0p3VmExN0p3c0hqMmN2UXBFWFVBUzI3alZvTWVzMGQtZ0FvbFd3SnZUVmtxTy10d2pETlNHeUFMMTUyYWxKNExiS1VLeDVjUEVjeU14cm4?oc=5",
+              "title": "이범호 KIA 감독 \"최선 다해 준 선수들이 정말 고맙다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nZXJkSUlCOFpuVW1VbFJzRjZPMjZZV2RtVHdOYkFBYWJNLVZBWUVHQ1RpSnZyTEVFNTVpUjJTZnhsbzdvYlZWdHJuM2IxNWptaEZYaHk4RlJ3YVFyVmhQdtIBYEFVX3lxTE9nZXJkSUlCOFpuVW1VbFJzRjZPMjZZV2RtVHdOYkFBYWJNLVZBWUVHQ1RpSnZyTEVFNTVpUjJTZnhsbzdvYlZWdHJuM2IxNWptaEZYaHk4RlJ3YVFyVmhQdg?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "최민정, 2연속 우승...쇼트트랙 월드투어 통산 50번째 金",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fRUxDMk1hYVdjM0Q0RzJPTVpnd2ZZa1lsdEgwVnEweXYxS3BYZlFTcFRNbGpidG03QVR6WWxTUldUYU8wdm1wbXhNN3plMV9zaVdnZnJNUnVrY2hU?oc=5",
-              "source": "뉴스핌"
-            }
-          ],
-          "description": "최민정이 쇼트트랙 2차 월드투어 1,000m에서 3명을 제치는 역전극으로 우승을 차지하며 월드투어 통산 50번째 금메달을 달성했다. 직전 대회에 이어 2연속 우승을 기록하며 압도적인 존재감을 과시했다. 오늘 처음 등장한 키워드다.",
-          "headline": "최민정, 월드투어 통산 50번째 금메달"
-        },
-        {
-          "rank": 3,
-          "word": "김도영",
-          "count": 4,
-          "articles": [
-            {
-              "title": "'2번 김도영'에 삼성도 깜짝 놀랐다, 박진만 감독 \"선수들 경험 믿는다, 대구 편하게 가고파\" [PO4]",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdlVuTi01X0lVZTZKci0yVHpVSlYzQlV3d29lcHJpTlhPN2kxOTdaT3ZTRDJ2VGw0Z1dYNld4dlVDMkMycTlMb0NfdTlwMWtMazIxeDRVbk1ZM2M?oc=5",
-              "source": "일간스포츠"
-            },
-            {
-              "title": "'김도영 땅볼로 잡는' 후라도 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHNjZVSTRqQ3o4WlZWVXdiTVBFWURtQWpJSFFwbW1QTWZfdlVzemloSkRKVElrZlBOTmVSOUxlTFEyVU5pMGFsWHdZMXVpSGtEZE1kaFlFemczeTZaUGVNR0FrUUlTRjlud1HSAW9BVV95cUxNbWJOTEVWNkdCZXpNaG0yT1JBbWFRaGQyS3RyUlBFOGN5MzVzckRTUjhjOFJDTzZEVVp3OXRKaG11eTJVRFBsRXlBckxlY0JGYS1uZHhZRFdWQmdDaVhheDM3NUUzeEpxMDBsR2x6dUk?oc=5",
+              "title": "'승패패' 벼랑끝 위기, 이범호 감독 \"따라갔는데 홈런 맞아 어려운 경기였다\" [PO3] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mR1hnN3RrcVhlOEQwWURxUndWandocjFrTm52dGgxdEI3NzFxY3l3RnhTeVZGOHdNdHRrZWpiVWRHZXRvc1QzNWZFOXBfOFZTaEN2NDJmc21xbm9nbnh4TjhaTGZQdDYweWfSAW9BVV95cUxQVXBHc3NCcjlUYldySi1Rc0hiMlZodTNpOVNpM3ZaN2IzSGtyTXozUzZiVVA0bm5TLXl4ZTA0UEI1VTVOOGlIZlhsYWk4eG1Mak02dlM1UnBaamNmMUxNbHptOUFLN0VLdXpkREs4Sm8?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "1년 만에 반등 성공한 KIA, 한국시리즈 우승 향해 다시 뛴다",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaUxiWTV4bG1UUmVrb0FKSlF1X0RZLWhwV1MwcE43Tjg5NDhJQkgwb2phTnZVZlZ2cXJxWkR2Vnprb3BSQ2FqRG9TQjVHV3NwOWVfN3RtYm13WEHSAWBBVV95cUxNVERvbDFpVXFzcDYtY0pxZ1B4NVRWV0VMR3M5LUtkOW9HLW1KeGplSDJWM3kxWkJiaTUwNG01Ym44SElHUk9VZnNoOG9keHVaRXB3Mkp6U1J5eHZkMV9TQjI?oc=5",
-              "source": "연합뉴스"
+              "title": "반 박자씩 빗나간 이범호 카드…위기에 몰린 KIA",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5WGxHRThLcXJpZW5SdmRscVhJOWhVSWVRZXM3S2E4Q3I2MUxtLXNtX0tpVm9PcnZDNzJETF9CSzlFT0NDSEsxUWNrTHhzcDAzQ2xmVVZaRkNmbWc?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "KIA 타이거즈의 김도영이 플레이오프에서 2번 타자로 출전해 삼성을 당황하게 만들며 주목받고 있다. 삼성 박진만 감독은 선수들의 경험을 믿겠다고 밝혔지만, 결국 삼성이 KIA를 꺾고 한국시리즈 진출에 성공해 김도영과 KIA의 시즌은 마무리됐다. 지난해 홈런-도루 20-20을 달성하며 KBO를 달군 김도영은 이번 포스트시즌에서도 핵심 전력으로 활약했다.",
-          "headline": "김도영, 플레이오프서 삼성 뒤흔들다"
+          "description": "KIA 타이거즈가 플레이오프에서 '승패패'로 벼랑 끝에 몰리며 이범호 감독의 작전 선택이 도마에 올랐다. 이범호 감독은 경기 후 '따라갔는데 홈런을 맞아 어려운 경기였다'며 아쉬움을 토로했고, 반 박자씩 빗나간 승부수가 위기를 자초했다는 분석이 나온다. 반면 이범호 감독은 최선을 다한 선수들에게 고마움도 전했다. 오늘 처음 등장한 키워드다.",
+          "headline": "KIA, 플레이오프서 벼랑 끝 위기"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "word": "시리즈",
           "count": 2,
           "articles": [
             {
-              "title": "삼성, KIA 꺾고 플레이오프 통과…2년 만에 한국시리즈 진출",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pRjZzZnEyWlFneGNFdjZfeGQySUtRTkd4WnNiZlpKWGdWRHJscXVMMGFPUThXb1U1ZEhFeV9GRzJMN2lvSEE1eFFJRVFYbWpvNFdVdF9mZi1DcFVGdWt5WWRsUEZ4UQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "삼성, 2년 만의 한국시리즈...KIA 꺾고 플레이오프 통과",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CX29JMjZZc2x5TmFxdUdFU3piOFcxMmVWb0RwQk1sMDFvRDQ1YndKOWhUNm5LdnZoNW9MUUMtUkk5cHpDSHBxMGpyRzVlN0Vr?oc=5",
+              "source": "문화일보"
             },
             {
               "title": "삼성, KIA 꺾고 플레이오프 통과…kt와 한국시리즈 격돌(종합2보)",
@@ -473,37 +449,61 @@
               "source": "연합뉴스"
             },
             {
-              "title": "한국시리즈로 가는 삼성 라이온즈",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WMm1HbE9DNThJOUJmdTZMN21pNHk5bjNXalJvMEtaOXdmblVWcGdHekNhQWJ6RHFVd29JWjZLbnA2cl9SdGJWeU1xNlhyekJ2NTBla0xDY2NrWmQxVjliVA?oc=5",
-              "source": "뉴시스"
+              "title": "삼성·KIA 플레이오프 5차전 11월1일…한국시리즈 1차전 3일로 순연",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13M3d4a0E5SmlOZEZtMGFOb3FrOGV1dlpONW9nTWVzSkJGeUtyTURhajN0ZVBOVllkdU5rUEVsUHd2TlhvWFZhbjl2eUZZTkliZURES2ZMYTJBdDhvZEs5S2JR?oc=5",
+              "source": "매일신문"
             }
           ],
-          "description": "삼성 라이온즈가 플레이오프에서 KIA 타이거즈를 꺾고 2년 만에 한국시리즈 진출을 확정했다. 상대는 kt 위즈로, 두 팀의 한국시리즈 맞대결이 성사됐다. 정규시즌 하위권에서 포스트시즌을 통해 극적으로 올라온 삼성의 기세가 앞으로의 시리즈 향방에 관심을 집중시키고 있다.",
-          "headline": "삼성, KIA 꺾고 한국시리즈 진출"
+          "description": "삼성 라이온즈가 KIA와의 플레이오프를 통과하며 한국시리즈 진출을 확정했고, 상대는 kt 위즈로 결정됐다. 삼성의 한국시리즈 진출은 2년 만이다. 당초 일정이 조정되며 한국시리즈 1차전은 11월 3일로 순연됐다.",
+          "headline": "삼성, 한국시리즈서 kt와 격돌"
         },
         {
-          "rank": 5,
-          "word": "이범호",
+          "rank": 4,
+          "word": "디펜딩",
           "count": 2,
           "articles": [
             {
-              "title": "KIA 이범호 감독 \"광주서 끝내지 않으려 했다...5차전 선발은 올러\"",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1M4YUt0c0R6Ui16bjl1SGktR1V0T1JTNDRyeHRNc0RhcUZXU3NwOTloRzJWLXZ0c3EzeHNIQjh4QVdjZHowb1lueU5yajVKSHktSndKb0VZWkZOSW11eWMxUGRXYXN0N3NrM0VLN3pvR05tUG9OVFBzSDMzOFF3OGdXT2c3eGM?oc=5",
-              "source": "KBC광주방송"
+              "title": "BNK, 여자농구 개막전 '디펜딩챔프' KB 완파…김소니아 더블더블",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOOWZEN0JjUlFmeGR4c1JWc0g2bFc1a3NySm14amxBM1BsazU2LTllbS1qcWdCbHRBU0N5RTZobzdlTmpGQmYyYkVoMWxDa2pJNG1IRVZWYUVkVW_SAWBBVV95cUxQYTYyWDd4X2EwWmwzTmxZMDN3U2V5dVRORl9jVDZrbnRnNmNsZ2hnOXNPdGY4VnVjR21LaEIwVVpDYjFWUnh4Q1B1TzVrQ0RWblNRV0RKTkpsUGFNYkFicmU?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "미출전 양현종, PO 5차전도 결장? 이범호 감독 “곽도규·이의리로”",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVDZJRGhmUWZtZmQ3RWZhOGlrdFBvaXBSUGRjLVRvY1N2M2p1WUtRblhMUWltY2puckkyd3U3RENkSXZZbDBoVDJHZWNiajdkUUFGa013ZU40ckQtdUdNMDgyTkt4ZjFLSXNFd1BJY0JuSXh6bjhRZy1xQlo5djBVNTc2SVR4Q0h5WHVKbUduTTRCRDQyd2VkRHp2Qkg4MFpjWWxJeVI3TEZtbHFQV203Q3lPTFlTSDhEZEZ1dm10RmFSb3FxYnZyOURNQVNHaEdhOHA3dGhieXJkWXBndGRVLWpxaHVYU1IzWjZ5X0lMRE12LUZYWWc1Rw?oc=5",
-              "source": "데일리안"
+              "title": "BNK, 개막전서 ‘디펜딩 챔프’ KB 완파… 김소니아 더블더블",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wYXduQ2RzeXhlR053eXRkUWVnOGdSeS14R250UVRjZFVGVmFlbjBmZWpRWWJjb3BzckNEOTYyWFFiREN5amhmMnRoVWw2QlBPbm00eGQ3NW9kcE9mNklxc3JCYzdLQlhqdkE?oc=5",
+              "source": "천지일보"
             },
             {
-              "title": "이범호 감독 ‘아쉬움 가득’",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOHJLQ3FvaEc2TktaaE44aTZzVTRYMXIwTzB0NlpOdV9PWm4yZUEtcFdoQzBwRlhXbm9ha2MwUWUtTF84Q1ZXU2xIUEFzZ2wwTDM2em5EV0I?oc=5",
-              "source": "스포츠서울"
+              "title": "'김소니아 더블더블' BNK, '디펜딩 챔프' KB 29점 차 완파… 개막전 대반란",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SVEdDYnpyd20zdk0xd3ZLUXJnWHNwUzd5ZVhQMmNFUUp1eGNYbmo3WnpKVmFQMGhscHI2b1BMLTFQTlZSeWYzSVlSYTlYUUVFUTZ6Rkd0WkJSZWpaalpMWXNVZ2pjWTQ2S3M0blExVmVnNEsxaTU3MXBMb9IBf0FVX3lxTFBvSWhlRHRTeHpvMEFLemcyaUl6SF9OSlBNNUhOTVh4ZDl0YVFETmk4MzF0YnA3eGNUakZ2ODEtY2hzbXRvZTRXa3BzYjE5Q2k5aW0tZnZiTTFTOFVIcUFZRkJFRUlKMDk2d1MzQkg2VUdVQ1J1QTRkZzdaQ2s1YU0?oc=5",
+              "source": "데일리스포츠한국"
             }
           ],
-          "description": "KIA 이범호 감독이 플레이오프 5차전 패배 후 아쉬움을 드러냈다. 감독은 광주에서 시리즈를 끝내지 않으려 했다고 밝혔으며, 5차전 선발로 올러를 낙점했지만 결국 삼성에 역전을 허용하며 탈락했다. 부상으로 인해 에이스 양현종이 5차전에도 결장하며 전력에 공백이 생긴 것이 뼈아팠고, 곽도규·이의리가 마운드를 메웠지만 역부족이었다.",
-          "headline": "이범호 감독, PO 탈락 후 아쉬움 토로"
+          "description": "여자농구 BNK 썸이 2024-25시즌 개막전에서 디펜딩 챔피언 KB 스타즈를 29점 차로 완파하는 대반란을 일으켰다. 김소니아가 더블더블을 기록하며 승리를 이끌었다. 챔피언 자리를 지키려는 KB를 개막 첫날 무너뜨리며 BNK가 강력한 우승 후보로 존재감을 알렸다. 오늘 처음 등장한 키워드다.",
+          "headline": "BNK, 디펜딩챔프 KB 29점 차 완파"
+        },
+        {
+          "rank": 5,
+          "word": "챔피언십",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'50억 클럽 합류' 이예원 \"더 많은 우승하겠다\"... S-OIL 챔피언십 정상 '통산 11승 달성' [KLPGA] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IdkVCdktjMm9TSU04eVpvazVJM1VScm81dHpsUnRfeWZjbnVGaXhZN25WWnZKWmpuT0EzWFNwR3pnbmRMNUEtZ2FMd29HQmlmNVN2cHVHVXl1ZkxRRG9qRUVKY3JSYXlkR2tJ0gFwQVVfeXFMTUNTaVE0NDdOZldpNTV0U2kyMm5BYVFGUG16TERmaUoyMEpVcnRLWENLQzJHZmpSdncxNnJFanF5SmVkNE5YbV9FRnNtaF9SRGFyNnBidk9KeG5aNWpMbUsxcW9HaTFZTXlRZEVEQWhtMg?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "이지현, KLPGA 투어 에쓰오일 챔피언십 3라운드서 1위로 올라서…데뷔 첫 승 보려",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ME5idmo1bFB6cmZIVGVWbEZQMzEtbXo2dTR3V3hhWUM1Rmh6ajhuZ0NXZlZuT3lOS0Z5ZEVXSlpxU3RvMG1ZVnFLSmJSQ0JTU3dQWFg0dzdLZw?oc=5",
+              "source": "브릿지경제"
+            },
+            {
+              "title": "김민솔, KLPGA 역대 최초로 단일 시즌상금 16억원 돌파",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISVkzMHdfalZpLS1fT2hteFBMWWV6aXdOYUlRRE9rTGhCcUJzci1iVzI2ZDRfWWZBMjZ1Q0ozWW03WlJLZDVLWndiX0hrQ1hHLWlNaTFFZGVRS3NPQ0JPcF93cmRkeFFzeHpmc2pmeEZ2RVd2Z2JGM9IBfEFVX3lxTFA5dEV6ZWJtRTZJdllLeElCTEdKZW85dGdQWmZtZ2RxcVNlUC1xN3Npb2wxNEtxVTVqcllrUDlLcS16T3ExYmRIWi1jY1owQ2FDd2puSmRQRndGQ0FPd192MWxYQ3VMMlNfb1pxbE5QOVJRdU9DZGZoMkdZdTQ?oc=5",
+              "source": "골프한국"
+            }
+          ],
+          "description": "이예원이 KLPGA 에쓰오일 챔피언십에서 정상에 오르며 통산 11승을 달성하고 50억 클럽에 합류했다. 이예원은 '더 많은 우승을 하겠다'는 포부를 밝혔다. 같은 대회에서 이지현은 3라운드 선두로 올라서며 데뷔 첫 승에 도전했다. 한편 김민솔은 KLPGA 역대 최초로 단일 시즌 상금 16억 원을 돌파하는 역사적 기록을 세웠다.",
+          "headline": "이예원, S-OIL 챔피언십 우승·통산 11승"
         }
       ]
     }
