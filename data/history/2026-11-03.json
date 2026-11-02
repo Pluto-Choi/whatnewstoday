@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03 05:17",
+  "briefing": {
+    "text": "고병원성 조류인플루엔자(AI)가 야생포유류에서 검출되고 인체 감염 시 치사율이 47.8%에 달한다는 사실이 알려지며, 감염병 경계령이 높아진 하루였다.\n\n북한발 사이버 공격도 동시에 주목받았다. 북한이 바이낸스를 해킹해 테슬라 보유량을 웃도는 비트코인을 탈취한 것으로 드러난 가운데, 국내 ERP 기업 더존비즈온 해킹 여파로 국기원·창비·하이브 등 고객사들의 개인정보 유출 우려가 잇따라 불거졌다.\n\n정치·경제 분야에서는 이재명 대통령이 SNS에 쓴 '돼지 눈엔 돼지' 표현을 둘러싼 온라인 설전이 달아올랐고, 삼성전자는 2030년까지 8인치 파운드리 사업에서 완전 철수하겠다는 계획을 공식화했다.\n\n연예·스포츠에서는 탑과 나나가 열애 인정 후 함께 외출한 모습이 포착되고, 로이킴이 축가 거절 논란에 직접 해명에 나섰다. 스포츠에서는 손흥민이 빠진 토트넘이 21개월 만에 EPL 3연승을 달성했으며, 한국시리즈에서는 24년 차 우규민과 23년 차 강민호가 첫 우승반지를 놓고 맞붙는다.",
+    "period": "아침",
+    "generated_at": "2026-11-03 05:17"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "ASF·조류인플루엔자 감염 재확산 · 하이브 등 개인정보 유출 사건 잇따라",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "감염",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'사라지지 않는다'.....16일 만에 다시 나타난 ASF 감염멧돼지",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZNFoyMGtabVVDUTVHTkFOVi1FWTBGMUpPem43U0V2NG90WE1vdEduNTFPcXNGQ3NPMnluWTlLZlhHX1Z1WFZIaWZmZloxa2xrdHh4dXB4cVBVWU1pSi14dnlR?oc=5",
+              "source": "돼지와사람"
+            },
+            {
+              "title": "고병원성 조류 인플루엔자 야생포유류 검출…인체 감염 치사율 47.8%",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkTHFQZEVIYmRiUUpnZUJJemNhaC15ZjhabzNQZjRlTVV4dkFHd2FqLVJLMkI0VzlhMnRmOEc5VXBxS01PXzlDekY0RkRVV2lsV1ByOTdPaVNUeE9Td2ZhNkRsMHdIZ1FIOVV5Y3E5UQ?oc=5",
+              "source": "서울신문"
+            },
+            {
+              "title": "계양구보건소, 조류인플루엔자 인체감염 대응 모의훈련 실시",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Qc3cwUkVBV3A0WEhBV1JsRjJ6cVFnRGxQSFEwUHJZOXU3dW9CTF93TkpjVjBLYnc5bGZDWTJsbm1JSDB1WWxQSExSLWJENmpRTjhHU2N4aS1qTlBaZlRIcFZ3bXYzVmxhb2NN?oc=5",
+              "source": "일간투데이"
+            }
+          ],
+          "description": "고병원성 조류인플루엔자(AI)가 야생포유류에서 검출됐으며, 인체 감염 시 치사율이 47.8%에 달하는 것으로 알려져 우려가 커지고 있다. 지역 보건소는 인체 감염 대응 모의훈련을 실시하며 방역 태세를 점검했다. 한편 16일 만에 ASF(아프리카돼지열병) 감염 멧돼지가 다시 발견되면서 야생동물 감염병 관리에 대한 경각심이 동시에 높아지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "AI 야생포유류 감염, 치사율 47.8%"
+        },
+        {
+          "rank": 2,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘트럼프 운명의날’ 미국 중간선거…상원 접전, 하원 민주 탈환 전망",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIX1V2SUVPUWJJcGgyRjkyVEplaEl6YXNIN2dxQTRscHh6Szh4WDhXOFhNTWZkNTRHV25UZU1CWmJ1YXZBN3JsdHFnMnV1TVBSejlDLUlVRjdvclE?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "\"북 소행? 잘 모르겠어요\" 북 해킹 선 긋는 트럼프",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvUDVvQ3FlQ1VPNUdqcUFGOXJHbkRrMFpoUEh1SHRTQ3hFTFpOdTV0OFZIQllQalB2Q2pLRFdVZTRURnRQcnpIdm9YMXJ0TWJOem1ERTJleFVBa1ZYa3c?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "트럼프 두 아들 투자한 광산업체 상장 추진…이해충돌 논란",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VMUR1UjZtemg1bnJzckxpeUhrSUFEUkJJenJXM19pUGpCZ0NrV2FldTdFTlRSc0lBdmNrLXVJX1JOQXY3bEEwSnBTUzdua05MWHBQSUZ2eV9VeVVQZ3dQZm85ODhpRk0?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "트럼프 전 대통령의 두 아들이 투자한 광산업체가 상장을 추진하면서 이해충돌 논란이 불거졌다. 북한 해킹 사건과 관련해서는 트럼프가 '북한 소행인지 잘 모르겠다'며 선을 그어 주목을 받았다. 미국 중간선거 국면에서 상원 접전과 하원 민주당 탈환 전망이 동시에 보도되며 트럼프를 둘러싼 정치적 관심도 이어지고 있다.",
+          "headline": "트럼프 아들 투자 광산업체 이해충돌 논란"
+        },
+        {
+          "rank": 3,
+          "word": "돼지",
+          "count": 2,
+          "articles": [
+            {
+              "title": "李대통령 \"부처 눈엔 부처, 돼지 눈엔 돼지…한글 표현하면 격 떨어지나\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41WmhiMVVKSXE5dWlTRER1SnBuUEE5d0RWaE1GakhYcW1SQy1BMzhETVJLQU9JYXBIdFowd1k3QWVlQ1ZQUEdUbkh1Nm8zdnhMbVRHTl9weTFqUTZwYkpJLVJ2RkFNVGRvTE5TStIBckFVX3lxTE9YWU8wakRoZEFrRGxxZ0pwd093TmcwNFk0eUtoX3BEbFNHSXM4MGctdndfTTJEQ3BiMGpSX3lBakFUVUR2Ml9ycnFZcTNfWnJuQjBDNHN0YWpNYXFfVVFtRVNVUHV5eVc1dmRGM3JxYkVQZw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "“쫄깃한 식감에 단백질 풍부”… 이창섭 반한 돼지 자궁 ‘암뽕’, 반전 영양",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uRTh5cGt1SXY3eVNHdzJyWVMzdUc4TWpoTTA0YnBlbnA3UmVIZ3dZQUNBVXVQTkRQQV92dHd0MVlaQUxUSTV1RGtlREJEbU1tNEhlYUUxSzR4dWsyaXU2bE56d0xCTnZSaTVsQ3NWcGZnM0xTQlNrbVVLbEE5ZmM?oc=5",
+              "source": "헬스조선"
+            },
+            {
+              "title": "\"돼지 타령\"vs\"한자쓰면 괜찮나\"...대통령 SNS 설전 [앵커리포트]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFSWI0T3UzalkyRVhtcG8wZ1hzZC14TmNhWFZuOF9mcmdkcmd6RGwwVXduQkR0c28xZ0JYaThHMXU0T2k5UXVtV1BxUV9zTEppZmNPazhSMGxwWnJWM1E?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "이재명 대통령이 SNS에 '부처 눈엔 부처, 돼지 눈엔 돼지'라는 표현을 써 온라인 설전이 벌어졌다. 한글 표현의 격을 둘러싸고 '돼지 타령'이라는 비판과 '한자를 쓰면 괜찮냐'는 반론이 맞붙으며 화제가 확산됐다. 어제 5위에서 오늘 3위로 올라섰다.",
+          "headline": "이재명 대통령 '돼지 눈엔 돼지' 발언 논란"
+        },
+        {
+          "rank": 4,
+          "word": "우울",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"일조량 줄어드는 11월\"…'이것' 찾아올 수 있어",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xbk5jNDJGTlc3Y2FTa09TaHBBZlVBRXhRalFkcFpSZ2hTUEo3WGlvaWFJY2x5TTV0cnZRV1VmR09PRnpIdHhsc1lELS1TVEZQcWw0ak9HR3lQWDhXUmsxRA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "\"열심히 사는데 우울증이라고?\"…'갓생' 속에 숨겨진 위험 신호",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NR09YcHlKTmJKVUdwVTZvQ1VyUFZDM19qMWIxUVFMNGFOOEpKLUVkTF9FbDZkX2hoNUI1TDhNSzZDWWl1ZUt1TGV6YjFqTEVaQllQX1VCQWtXQQ?oc=5",
+              "source": "파이낸셜뉴스"
+            },
+            {
+              "title": "스트레스에 우울·불안까지…국민 10명 중 7명, 정신건강 문제 경험",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05dW50bW00N04xM0pMek56akZVOFlmSmxHSXVPMmRGNHc4ZlNhVmpZNmM0TlF2Y1BmdVNId21pM3M3RzAxeFBLZjBfSEZWV2lGX2lVeWRZQ3U2RDk5SlFKV3R6OG9ndEhCVnhZ0gFvQVVfeXFMUFl1TDhPTXFaUnI4ZjFiNWhKYjNXbEhzbW92M2xrSHJ2MTdXU0NCd0NjT0JUcFRQNGI1a0VDTTVmZjRnRFZkenNfc3B3T1lGMzB3VlNNb19sUkNSQ2RldkZWR2RnV3JTLXI4NGNUelVR?oc=5",
+              "source": "투데이신문"
+            }
+          ],
+          "description": "국민 10명 중 7명이 스트레스·우울·불안 등 정신건강 문제를 경험한 것으로 나타났다. 일조량이 줄어드는 11월에 계절성 우울이 찾아올 수 있다는 경고도 나왔다. '갓생'을 살며 열심히 사는 사람도 우울증 위험 신호를 보일 수 있다는 보도가 이어지면서, 성취 지향적 라이프스타일 이면의 정신건강 문제에 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "국민 10명 중 7명 정신건강 문제 경험"
+        },
+        {
+          "rank": 5,
+          "word": "개인",
+          "count": 1,
+          "articles": [
+            {
+              "title": "원주 개인정보 유출 주민 반발 확산",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wbHVvZmt5TU9xaUtzTmczNVY0S3llOXRuaFpmS091dV9WbEFHNXFmMFhHakRBV0xsSDI3dWJZeG1wdXZGVm5lU2RnWkVrampUaFhiMHBqS1RmR00?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "하이브, 내부 시스템서 전·현직 직원 개인정보 유출",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sTjZlR1pla0J5bkNoUFctVXNEcHo4eTA5ZDhVQXpfa2thWFozSlNJOHJ6cHVRTklseHdKVXI3VHhpLTNLR19YQXZMTUwyTW1hMEI1eGFn?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "하이브, 사원 여권·카드번호 등 개인정보 유출‥\"깊이 사과\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zQVNDZXdFMkNyem5oYThQMzQ4YnN4cWZTdEhPdjdVdFprQWdjTlhjM2FDbk5lX3F5cTVmUENZX2NiWURkbHdwRWlsZF9UWEliTjF6Wk1oai14VVFoanBtMWZGM1lRSW10bmZaTTBDM25Ib2530gF0QVVfeXFMTU1LY01jOTBWQTFvbUJhZFhKMnVYVUxUN1JCeEUzdElrZjdjX21Ua3BCSUZRX003cG5Jclc3dzZmUDRUYzFDeW1KQ25tMjVWRXNaVWxaMHBTRDhIcFNFQWtmanQ4TG5OQjIwU3pCMG5HS3JzUXk?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "하이브 내부 시스템에서 전·현직 직원의 여권번호와 카드번호 등 민감한 개인정보가 유출돼 회사 측이 공식 사과했다. 같은 날 원주에서도 주민 개인정보 유출 사건에 대한 반발이 확산되며 개인정보 보호 문제가 동시에 부각됐다. 기업과 공공기관 모두에서 유출 사고가 잇따르면서 정보 관리 체계에 대한 비판이 높아지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "하이브, 임직원 여권·카드번호 등 개인정보 유출"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "북한의 바이낸스 해킹·더존비즈온 해킹 피해 확산 · 한국 수출 9천억달러 돌파, 반도체 쏠림 우려",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "해킹",
+          "count": 5,
+          "articles": [
+            {
+              "title": "北, 바이낸스 해킹 ‘한방’에…테슬라 보유량보다 많은 비트코인 탈취",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WVnFJcHdRajBscmJpdk13UVdZcmM4T3h3Rmh5b3dlRGhwZTQyVjY4UnlnbkVzMTZYa05GbGNBWXFac3M3b2dUZzhTSXJaM2VBaHc?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "더존비즈온 해킹, 고객사로 확산 '일파만파'...10곳 유출 우려 긴급 공지",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OM0FGbU9ya1hiUkZRTzdQZmZTaWRhOFdmYnhXTFNqYUQyNGdOVERlS0MyVkJyTFE3c0laRHp0WjU4UkxGZU1qV0JHYlhqNzBCNUVMbjRuZHhxM3dwRDk2ZEZ0dGROUQ?oc=5",
+              "source": "디일렉"
+            },
+            {
+              "title": "日 IT 대기업 해킹도 북한? \"사이트 접속 IP, 北조직 사용 주소와 같아\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IUWNIeFJJaTdfRlhIZFdITVlDZEhjRWJTOWFrcXdOQzV0U2tFM0FOU1Z2OEtSakkySVoxQWlrcmZiR19PZFhqZEFRZ2pNVkNKbkRtQ182UnltTnhaRjBaU2Y4cVpwakh6SzVyNVp3d29Qd0xONDhvcNIBeEFVX3lxTFBEc0g1NzhrRV9ocldVejZUVTI3SHFVdTNyUThzMnhjMjN6T2VBTlYteThOdEk3UkFZMUNkSExFbmtXSzJROUo3ZTRuQmU1U2taVE04UnNxbzlCdS1wWmZ1ajFJYS1US0ZYb0pSaEtabmNLaFBhcmpHMQ?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "북한이 세계 최대 암호화폐 거래소 바이낸스를 해킹해 테슬라 보유량을 웃도는 비트코인을 탈취한 것으로 드러났다. 국내에서는 기업 ERP 솔루션 기업 더존비즈온이 해킹 피해를 입으면서 국기원·출판사 창비 등 고객사 10여 곳으로 개인정보 유출 우려가 확산되고 있다. 일본 IT 대기업 해킹에도 북한 연계 조직의 IP 주소가 확인됐다는 보도까지 나오며, 북한발 사이버 공격의 규모와 범위에 이목이 쏠리고 있다.",
+          "headline": "北, 바이낸스 해킹으로 테슬라보다 많은 비트코인 탈취"
+        },
+        {
+          "rank": 2,
+          "word": "유출",
+          "count": 4,
+          "articles": [
+            {
+              "title": "국기원, 개인정보 유출 가능성…더존비즈온 해킹 여파",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rWjdaNWxGbGFMU0lxdGJKQkduYTl3UHRiYW9lOXpuNHRESTNDdmd2WXhKZU9iLUdPNVB1TXNqeURKMWtqeTkyYlR5Yl9Dd3hGeUFha2xBMkptVUlrYnRoejlaRVAyN3l0bHNJ?oc=5",
+              "source": "보안뉴스"
+            },
+            {
+              "title": "출판사 '창비' \"저자·거래처 정보 유출 가능성\"…더존비즈온 해킹 일파만파 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95Y1BqemdVa3RpZWZKTFFFVEQ0OWxxQlhhRWFMNUVianFFWkkzM015RlM3RWhndUhXdzRyYllDSVhsdk5WNDV5cVhabTBPeG1vcHgyS1FJeG5mbUVJUWxkSGRUU0NVVlZyUUxV0gFwQVVfeXFMUEtBRDdSVlZtTmh6bk1nNHNBYjJuckRDUm1WeE52ZXNSV3ZJc1FyRVplSHA3UjI1RkFDdTB0a1RlbHZqUnZLTW5fTGppLTlIWTJKekhsVUZZOFV1Vy10SEFuUVY1djlad2dxVHJDWjMtcw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "하이브, 내부 시스템서 전·현직 직원 개인정보 유출",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sTjZlR1pla0J5bkNoUFctVXNEcHo4eTA5ZDhVQXpfa2thWFozSlNJOHJ6cHVRTklseHdKVXI3VHhpLTNLR19YQXZMTUwyTW1hMEI1eGFn?oc=5",
+              "source": "지디넷코리아"
+            }
+          ],
+          "description": "더존비즈온 해킹 사태가 번지면서 국기원·출판사 창비 등 고객사들이 저자·거래처·회원 개인정보 유출 가능성을 긴급 공지했다. 하이브에서도 전·현직 직원 개인정보가 내부 시스템을 통해 유출된 사실이 확인되며 기업 데이터 보안에 대한 우려가 높아지고 있다. 유출 키워드는 어제 5위에서 오늘 2위로 급상승했다.",
+          "headline": "더존비즈온 해킹 여파, 개인정보 유출 줄줄이"
+        },
+        {
+          "rank": 3,
+          "word": "삼성",
+          "count": 3,
+          "articles": [
+            {
+              "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1za01uUTFXdWcyNG1sbWpIRy1jT2hTaEQyVFVTcjAwb0N6amRnTHF3ckpTZl9yTVFKZ0ZZbDNoQnY2QnNLaEt0QjRSdnpmMzJobS1XNkhqcUZVR1J5T2ktbEVQRi0yZw?oc=5",
+              "source": "디일렉"
+            },
+            {
+              "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qc1pxUHhJSjlXWndxaURxYk9kbGMwWW9mNlZ5ejhyaC13d3dxR2VBX1JKa3lXUkpMT1lnemQzakFTbzRpVnB2TXhlb0I1akN3aUIwa3RJTTFNSlE?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "'세계 1위' 삼성전자 또 일냈다…애플마저 제친 '뜻밖의 효자'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qd1htd1NsS2tqV0FpeTducGFnYzA5eVBfTVhFZVdUYVZnX2tYc0xzTG1JQ1RIR2dFbVFRLWVXeEwxN21nQUpwMW1PVjRBeFczUi1XWV8wUkZwQQ?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "삼성전자가 2030년까지 8인치 파운드리(반도체 위탁생산) 사업에서 완전 철수하겠다는 계획을 밝혀 업계의 주목을 받고 있다. 한편 스마트폰 화면 내구성 논란을 담은 영상이 조회수 1000만을 돌파하며 화제가 된 가운데, 삼성전자가 특정 제품 부문에서 애플을 제치고 세계 1위를 기록했다는 소식도 전해졌다. 파운드리 구조조정 방향과 제품 경쟁력을 둘러싼 관심이 동시에 집중되는 하루다.",
+          "headline": "삼성전자, 2030년 8인치 파운드리 완전 철수"
+        },
+        {
+          "rank": 4,
+          "word": "반도체",
+          "count": 3,
+          "articles": [
+            {
+              "title": "한국 수출 첫 9천억달러 돌파…반도체 수출 급증",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub0d3eGg0OVNSa3IwTkFnZW8yN0w4TXN2VTlsaVI2T2JTeUpiWm5UX1V1VjA5dEMzMmVxZkNLaTNNdkNkU2NrOVpBUTNWTzZmNG1fb05JcDZSbnpVODFsMTk4YXlGRGM?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lS3NLU1FPVkxaeWFreXZfdXFFVXl5NlBaUjFiN3pUQ1JIT1hHU2RFNmdlT1ZsTlEwR1lPZHhsTUFnUkkyMFNsVHkwTDNVSTlla2s5eg?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "빅테크 신용 경색에 흔들린 반도체…아시아 하드웨어 수출망 촉각",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjN5b3Q2ZXhvalBNOER0ejJiV2ZEVzRBWGhiQ0IwT1U4eUlLM0JJNWViTWNORDdGNTBKRnUwWTNwdElPU2luOWhNV1F6OEpoaXFLRU50S3lzVFZHSU8wNG05U3Nmai16bUg1NnZTWHpsVVQxQ3lSN1hpU0R2MVJ1NjlJR0dZcm8?oc=5",
+              "source": "글로벌이코노믹"
+            }
+          ],
+          "description": "한국 수출이 사상 처음으로 9000억 달러를 돌파했으며, 반도체 수출 급증이 핵심 동력으로 작용했다. 전체 수출의 약 49%를 반도체가 차지하는 구조여서 '수출 1조 달러 시대'가 가시화되는 동시에 반도체 의존도에 대한 경고도 제기되고 있다. 빅테크 신용 경색의 여파로 아시아 하드웨어 수출망이 흔들릴 수 있다는 분석도 나오며, 반도체 시장의 변동성에 촉각이 곤두서 있다.",
+          "headline": "한국 수출 첫 9천억달러 돌파, 반도체가 견인"
+        },
+        {
+          "rank": 5,
+          "word": "성장",
+          "count": 3,
+          "articles": [
+            {
+              "title": "李대통령 \"소수의 성장이 아닌 모두의 성장으로 대전환\"",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGhZSzY5b2NCeTUzSWhyRXE1R29FQWZ1UHdhYVdjZDIwbXpGTjJ2WG1uYWFTZl9yWVRva2hfc3NCeFE3cVM4S09CRUQwSmJ2N1JNeC1tS2JTVGQ2aWxMRWFmbmhtZWdBU2pfN0xvYWhiWWFXeXZydk1RSi1xREFvUzBhSm5KLVhKczE4c2FHRG8?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "네이버 '외형 성장'·카카오 '수익성 개선'…3분기 실적 전망은",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DbW1BN0E5alIwVUpXb0xyZE85czZQVU1HTDZaa2tyT3pFRFVscUR0OV9YN3hJRVd2RmNEM0JRSDd1SjVVZVVLX1h1TDNsR0RBZW5WMWxR?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "3편: 한인 은행 성장의 배경과 미디어의 역할",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xUHhQS0EwdkNEZS1rcEJydHktRTNfM1JoMUJqZjBDZHFMdHFMUjR5b0QzSjFkQlpwX1pvRHVUTWFFcWs5cjVHX1owRHdiY2pqQnhWM3pzOWtidmYzUkFnVnJHZlg?oc=5",
+              "source": "라디오코리아"
+            }
+          ],
+          "description": "이재명 대통령이 '소수의 성장이 아닌 모두의 성장으로 대전환하겠다'는 경제 기조를 공식화했다. 기업 실적 측면에서는 네이버가 외형 성장, 카카오가 수익성 개선을 각각 3분기 목표로 삼는 등 플랫폼 기업들의 전략 방향도 주목받고 있다. 경제 정책의 방향 전환과 주요 기업들의 성장 전략이 맞물리며 '성장'의 의미와 방식을 둘러싼 논의가 활발하다.",
+          "headline": "이재명 대통령 '모두의 성장'으로 대전환 선언"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "고 최불암의 발인이 엄수된 가운데, 탑·나나 열애 공개 후 동반 포착, 로이킴 축가 거절 해명 논란이 이어졌다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "닥터",
+          "count": 2,
+          "articles": [
+            {
+              "title": "정치색, 먹방형 간접광고... ‘닥터 X’ 시청률 꺾였다",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFFPVlgteHB4NnBpVHZVNzlnMnI5OWtDVk0yTjJqN0JtMHlpWGpCT3RTc3pkelEtTnJEXzFWTVFrcWM1TEREb1pyZTNfN2RIM2dxZlFyQWd1TjdXRzhrRm1LRHg2Q0Y1T1FpRDdqWGRUY3NFSllud2hyVXpFbjlmNlVvbUNnU3d2REs3aUJ1NW9JQjBZ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "닥터X : 하얀 마피아의 시대 8회",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82UU9QVjQwNlZBaVRpRDBudTBXcjExcG5mOFV3Nzh6X0FOZkEtNFlhTnBhb0pKbXdpUkJMWkI4Y2Qza2twQWxiX1BQODdlSmdVZUVxSm1BcjRJUHBneVM5eUVDalpvNUR0cjZ5WFBUQQ?oc=5",
+              "source": "programs.sbs.co.kr"
+            },
+            {
+              "title": "‘암살자(들)’ ‘닥터X’에 뛰어들다… ‘사이버레커’ 정치인 전성시대",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DSE9idE5oVzQ2U1pSaDJzWlZseS1FX0NBZjJHV2xtM1hmeDdqdDdRTGtFcUdTei1rRVFIeXJudUJfMW5LRTdhOGZBNjVKMVlVYzZXUml2R2Q0Q2lzQjRWSkZqZGNhMzgzY1V5T0JCU3YyZw?oc=5",
+              "source": "한겨레21"
+            }
+          ],
+          "description": "'닥터X'가 정치색 짙은 내용과 먹방형 간접광고 논란으로 시청률이 꺾였다는 분석이 나왔다. 극 중에는 이른바 '사이버레커' 정치인 캐릭터가 등장해 화제를 모으기도 했다. 방영 8회를 맞은 현재, 초반 관심을 이어가지 못하고 있다는 평가가 나오고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "드라마 '닥터X', 시청률 하락세"
+        },
+        {
+          "rank": 2,
+          "word": "로이킴",
+          "count": 2,
+          "articles": [
+            {
+              "title": "지예은 “한 입으로 두말”…축가 거절 논란에 로이킴, 해명 나섰다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SSDAzMkhTcXRnWXZOQkIwNFA4QjhYZVdkZ3dVUUZRd194cEFfMTJTbVd4Y0JKTTAtRTk0QjNLQVd3aEEyc0pRUldFbzJwLUhlN0pDUmVn?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "\"로이킴 너무 싫어\" 성시경, 실명 언급에 깜짝",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjl2UmVkYUYwbktkazFGVGo0RTRLVzlfZlRxZHN6T01qN2ZmS0NLblBmQ0FYZjVoeUlDcWFLem9sRjR5bzEzOEpIVk1sZWNVdEJYR2FlcUF0Q3FIeXFSSXJPRHJra3FOelZoUlZvMjQ0YmVUNlppYXEyX3NUaFVnOU9uTlpkb2ZSOUgwUlhicw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "로이킴 추락사고, 무대서 갑자기 쿵 “14년 만에 떨어져 봤다”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Vl9UX1BCY2dMNWNCZmhBd0JHcm1LdXRSSWZPYXdzS2JoLXg0OUtYQms4N2oyNk9kNDJhZjl5NDE4TXhZcnJtOE5JZlVNQTJGLTliTkhTTjRmNkVPN0VXWE4xNDFoQ2RCeVlkMldR?oc=5",
+              "source": "스포츠동아"
+            }
+          ],
+          "description": "가수 로이킴이 축가 거절 논란에 직접 해명에 나섰다. 지예은이 '한 입으로 두말했다'며 문제를 제기하면서 논란이 불거졌고, 로이킴은 자신의 입장을 공개했다. 한편 성시경이 방송에서 '로이킴이 너무 싫다'고 실명 언급해 웃음을 자아냈고, 무대 중 추락 사고로 14년 만에 넘어졌다는 소식도 전해졌다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "로이킴, 축가 거절 논란에 직접 해명"
+        },
+        {
+          "rank": 3,
+          "word": "나나",
+          "count": 1,
+          "articles": [
+            {
+              "title": "탑♥나나, 열애 인정 후 동반 포착…생일 카페 방문",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OZzBtdjBRVTNkTWFjMTZxajM1LWM5S0hjMVE3SEpDTkJSNjEwaVR5T3pyYW0wNGhydUVJU1NwSmI5V1UzSnlIX1prUEhnQzRWa21wYjFpTHN4MjQtS0p5V9IBeEFVX3lxTE9DTVA3QmpOMEc4eEw3ZUM5MnFHR2dweHFPRWw2YnFCWXpNWFYzeE9Wa0xnR1hIS1JrMGQ4Vzk1R0NueXhJUnhmMWQ3dnBqSVA3U0djWFc2b2lkLUpZZ19pMjRkMFZKZjVTa1FBN2tEc3FqaHNaeEhGaA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "이순재 별세→나나 강도사건..'11월 괴담' 올해도 이어질까 '긴장' [스타이슈]",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBITW1RS3hRVUp2REV1NERGSlIyTjJRSkswV3lwZzVhck56UUJjUlFhUVpTaHBDNEp4VnZ4ajYtNGdSWGFBeVZnOFpHTHN6bjZvZ0xBbUpqNFRYWWdGTlJraVJIZE1TZ0hERjdyMXhWeVUxRW8?oc=5",
+              "source": "스타뉴스"
+            },
+            {
+              "title": "탑, 연인 나나와 데이트…팬들이 준비한 생카 방문",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VZ1BiZ3dQVm9XbGVicGRZVWIya0swZFEydnFFam9Ra1lSWjdGeU4xeTlFNzNTOWFkMHR5ZEtCNTUxODRiUGFIMzZKMS1tdjFzMEtjOQ?oc=5",
+              "source": "JTBC"
+            }
+          ],
+          "description": "탑과 나나가 열애를 공식 인정한 뒤 함께 외출한 모습이 포착됐다. 두 사람은 팬들이 준비한 나나의 생일 카페를 함께 방문한 것으로 알려졌다. 한편 일부 온라인 커뮤니티에서는 나나 강도 사건 등을 언급하며 '11월 괴담'이 올해도 이어지는 것 아니냐는 우려 섞인 반응도 나왔다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "탑·나나 커플, 열애 인정 후 데이트 포착"
+        },
+        {
+          "rank": 4,
+          "word": "김정난",
+          "count": 1,
+          "articles": [
+            {
+              "title": "\"이때 못하면 최소 15년 뒤\" 김정난, 관상따라 4년 뒤 결혼할까",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXl6Y3gxU2VTU1p3cFFKcC03MmR3Q0N1dEZBczFGa0owRDI0bTh4RUZ4VXZZVlB4akdiNnZqWDd6VzNzZy1rS1NMQWI4ZmdXUEVlSXJNTDBieDEtVXhXVWJ1Q09yaC1ybnZOUXhheXRDbDFkUnFXUTktdlUyV3ZMdkpQQU9BcGk3YURMWWl2MA?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "김정난, 갑상샘암 수술 후 근황…“6개월간 정말 힘들었다”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04ZmE0bDFjZVNoWG5SWDJVVkZpakFfaDZTMGxEV0FVLVluTV9BaUNLY3FJZnotRHI0TFFFSi1USjA4Q1QxV29hNXEwa2o0U2pkT3pHZTJTRDFjVEtuWDBaS0ROVXdmZ0RIU1RmdFNn?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "김정난, 갑상샘암 수술 후 안타까운 심경 \"6개월간 많이 힘들어, 아프니까 무섭다\"",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUpzakRyUXVGeG52SWM1QXJQS2IwdzJxNHJyX0dQTEdheGZfckpPV1dPaEVSU1NTZzh1cW9nQ1RubkhHeG9YeFUzRXh0bm1NVE9idDBvX2cxQlFRY3RaSnN5bnVSbGhPMW5nM0RYSlBMQ0Q5el9VdVpkYnlJRVJBbUVqSkw?oc=5",
+              "source": "스포츠조선"
+            }
+          ],
+          "description": "배우 김정난이 갑상샘암 수술 이후 6개월간 힘든 시간을 보냈다고 솔직하게 털어놨다. '아프니까 무섭다'며 안타까운 심경을 전해 팬들의 걱정을 샀다. 아울러 관상에 따라 4년 뒤 결혼 가능성이 있다는 이야기도 화제가 됐다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "김정난, 갑상샘암 수술 후 힘든 근황 고백"
+        },
+        {
+          "rank": 5,
+          "word": "최불암",
+          "count": 1,
+          "articles": [
+            {
+              "title": "’국민 아버지’ 故 최불암 발인 엄수…눈물 속 배웅",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JYnBmTFNYeF9YYVh1NXRyd0RhNko0T05hclpDanpXQTkwOWdBSnM5Qjh5Y2FkNWNzTy1KWGRSUzV4M1BIcHNQOE1FT2g4YUZBRnRVYldvRnB3SVhCb2xFN3NIcDRzV2c?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "“내가 죽으면 들러달라”…故최불암, 장지 가기 전 이곳 갔다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FUHprdThYM2ZqckVsUFlVR1FLVURSejFSSXpzU2NTdGx1M1hfSk45elB6MEEtZ24tbFQ2OEhjY2V6bDV0Sm5zclI0UmZvNHFyQzFTd0JR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "'국민 아버지' 최불암 영면…아내 김민자 연신 눈물 흘려",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DU21LVHRrN3piaXQxQ28xRmw1MURJQWlhN0ktR1hHNDZWWkxPbDAweUEyNFVONUdrY3hDZ3RwRHBCb01VaGxnZGp4eDdGenV2MXJTVFpfUE5lc0XSAWBBVV95cUxOOU5EdnNzeVRvUFFXM3hCdVNWVE1pRUxVRjNOdVVQQ1JKdWg3Z3M4YkhBSFNUOFcyS2FQYWdTdzk2Uks1MkFCbjQxUGtSMmJDdHUwbnZhdXZLbUgwT0JRUVg?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "'국민 아버지' 故 최불암의 발인이 엄수됐다. 아내 김민자가 연신 눈물을 흘리며 남편을 배웅했고, 많은 이들이 슬픔 속에 그를 떠나보냈다. 장지로 향하기 전 생전에 '내가 죽으면 들러달라'고 말했던 장소를 마지막으로 찾은 것으로 전해져 더욱 뭉클함을 자아냈다.",
+          "headline": "故 최불암 발인…눈물 속 영면"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "삼성이 KIA 꺾고 KS 진출해 KT와 격돌 · 은퇴 앞둔 최민정, 월드투어서 금·은메달 획득",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "삼성",
+          "count": 5,
+          "articles": [
+            {
+              "title": "삼성전자, 2030년 8인치 파운드리 완전 철수",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1za01uUTFXdWcyNG1sbWpIRy1jT2hTaEQyVFVTcjAwb0N6amRnTHF3ckpTZl9yTVFKZ0ZZbDNoQnY2QnNLaEt0QjRSdnpmMzJobS1XNkhqcUZVR1J5T2ktbEVQRi0yZw?oc=5",
+              "source": "디일렉"
+            },
+            {
+              "title": "“삼성 여권폰 화면에 금이 쩍?”…조회수 천만 찍은 영상의 정체는? [잇슈#태그]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qc1pxUHhJSjlXWndxaURxYk9kbGMwWW9mNlZ5ejhyaC13d3dxR2VBX1JKa3lXUkpMT1lnemQzakFTbzRpVnB2TXhlb0I1akN3aUIwa3RJTTFNSlE?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "'세계 1위' 삼성전자 또 일냈다…애플마저 제친 '뜻밖의 효자'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qd1htd1NsS2tqV0FpeTducGFnYzA5eVBfTVhFZVdUYVZnX2tYc0xzTG1JQ1RIR2dFbVFRLWVXeEwxN21nQUpwMW1PVjRBeFczUi1XWV8wUkZwQQ?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "삼성전자가 2030년까지 8인치 파운드리 사업에서 완전 철수하기로 했다. 한편 스마트폰 부문에서는 애플을 제친 뜻밖의 효자 제품이 주목받고 있으며, 여권폰 화면 파손 논란 영상이 조회수 천만을 기록하며 화제가 됐다. 반도체·모바일을 아우른 다양한 이슈가 맞물리며 삼성은 5일 연속 1위를 유지하고 있다.",
+          "headline": "삼성전자, 2030년 8인치 파운드리 철수"
+        },
+        {
+          "rank": 2,
+          "word": "손흥민",
+          "count": 3,
+          "articles": [
+            {
+              "title": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRb2pKeEZTVEgzRHVUNFhtVzlFN2FuSm9nLVMzYWRpemdfTDA1Z1ZOemtZdGQwZ1NNRkRsZ0taRGxIYVlZM2tIRXFQRzk5eTRjdXVOd010ams1MXpfT1JQWdIBeEFVX3lxTE5hLVluSmxTRXZFQVNyS3pBTHo4azktdlpuNFZXRjhzZ014SnJleUJybDhQYURUbjNjVWhQVGpULURQa1hUUXdsb3ZBRjZ0SDFDN1NqUlYxdDFWelZLOGhjT3Q2R09wbEY4Qjh3ZC1zQ2hqa3lkV0VRdQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "'도대체 왜' 토트넘, 손흥민 없이 완벽 부활 성공했나 'EPL 새역사 압도적 경기력'... '무려' 21개월 만에 3연승",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVm9TSE0xeWdodVRYekJSZEcyR2pvcFEtOUtieVdGUVJsZEJyLTMwMk9ta21mV053cXA4Q2w0dy1OMVhNR3R4YnlyOGdMdnFvYjg4UFRiNUpoLUZmSEhNYlB0bmdaRjlZYm5QMk1VM3ZLWTJvZGc?oc=5",
+              "source": "스타뉴스"
+            },
+            {
+              "title": "\"토트넘이 새로운 손흥민을 찾았다\" 힘들었던 1년의 기다림…후계자 찾기 드디어 끝? \"아카데미 출신에게 큰 부담\"",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IMnBMMUVEa1licmczVUwtTkNzeHN0dlBwVXFBY0lPRWlidHRQRjh5NDhtdHJob1RXWlVQbElRdS1QcElwbFBYbjFVTUc3WWFsWnBtZ0F4OXBtWjczOGVTUWNTam4tb0x2QjNsYk5UTmNMd2RWaExUS2lvUnhTdw?oc=5",
+              "source": "스포츠조선"
+            }
+          ],
+          "description": "손흥민의 올 시즌 도움 수가 15개로 정정된 가운데, 그가 빠진 토트넘은 21개월 만의 EPL 3연승을 달성하며 완벽한 부활을 알렸다. 손흥민 없이도 압도적 경기력을 보인 토트넘을 두고 '새로운 손흥민을 찾았다'는 평가가 나오며, 아카데미 출신 후계자의 등장에 관심이 쏠리고 있다. 손흥민 본인은 LAFC 소속으로 미네소타와의 경기에서 1-3 완패를 맛봤다.",
+          "headline": "손흥민 도움 15개로 정정…토트넘은 21개월 만에 3연승"
+        },
+        {
+          "rank": 3,
+          "word": "반지",
+          "count": 2,
+          "articles": [
+            {
+              "title": "KT 우규민-삼성 강민호 “첫 KS반지 양보 못해”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HVkpmRlRNcFV4QmJOcWRORzl3cmo1TnloZ2VWRkpfa25YVlQ1czE5Y2pZSmdPY0RFMW5VcU5NV1U4Zjd4ZG5qU3RNREJfU2hqcXk0RXY5eXpBQjVKb2JybW8tLWJld21yTXktLVNHNkhNUER40gFmQVVfeXFMTU5obFZKWWxFNHN5QTdjeU9wM1B2NHdTckMtM1MySC11bUFXZmpqMTQ3VTJzUW85ZVFIVjR6bE03cFBSNTNyMWlDU05EOEV4SlRXT3NHT0FfclhFSExDVjFZRE9zVTFn?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "41살인데 반지 0개, 한 명은 또 우승 못한다…\"민호야 다음 기회에 우승해라\"→\"규민아 내 우승반지 줄게\" 누가 웃을까",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZm1aandtaHctWnVOYWVwYVhrakdRTDRPcllSTkRCUW9jYl9xSUJ2R0p1NlZZTDVJdG84cjZGVnlNUDg0VWlwQ1lQZXJCeTFOU3R3WmQ5MnlraTJSd1VRM3hKVS1lOXgxSDNJUXdCanY3M2hnckdjVms1ZFNCUU5DeFNnQQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "'24년 차' 우규민-'23년 차' 강민호, 누군가는 우승을 한다…박진만 \"규민아 내 반지 줄게\" 장성우 \"민호 형 봐주지 않겠다\" [MD수원]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMDZ4NWZPZWtYZW8xRFdXZENKcVUxWl9NcGZkUFpodDU0UVZsajMybEljbnU3QVZkaUxNTUg4bldZQno1ZTY3SFc0ak1CWWhxYTBndW1VNDgzR2xCU3h4Uw?oc=5",
+              "source": "마이데일리"
+            }
+          ],
+          "description": "올해 한국시리즈에서 KT 우규민과 삼성 강민호가 나란히 우승반지 0개인 채로 맞붙게 됐다. 24년 차 우규민과 23년 차 강민호, 모두 41세의 베테랑으로 누군가는 반드시 첫 우승을 차지하게 되는 상황이다. '내 반지 줄게'라는 선후배들의 응원 발언이 화제가 되며 오늘 처음 트렌드에 등장했다.",
+          "headline": "우규민·강민호, 한국시리즈 우승반지 맞대결"
+        },
+        {
+          "rank": 4,
+          "word": "라스트",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘라스트 댄스’ 최민정, 은퇴 앞두고도 전성기…월드투어 메달 7개",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0dW9DeHhxN2JIYXpXb2pmTkhkUWRnMXpoaG5zTWs1SU56THhxMS15MGpNZWZVTVhTSTJUeXV3cGdCNnJFelpqWVJyQTlWcmdEWG9fZl9ta3VtNEE?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "‘라스트 댄스’ 최민정, 여전한 기량…월드투어 2차 대회 금1·은2",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56V1NIbFhwQTJLcmY1bzhLZjFTTlozeEFveExhdzVpbGtZZDloclVGcmFTUEk1NVN1SW1pSGVaMDN4U2RBaWVsc21FdTVDd0syQjJ5SWFEQUtlTko5WmM4M2xoT3RiQzU5RUJtcVRaUQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "'GOAT의 라스트댄스' 최민정, 쇼트트랙 2차 월드투어 첫날 전 종목 조 1위 예선 통과 '기염'",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzM4UEtmU0NpV1U4X0JzVll4dGI1eF9xTGlyVTFuR1VxSmdpeUkxbDlqbDczcjhTZ1Mtb2NyUTBaNms1LXBWbmZhc1gwXzE1alYxVjhOZ2t4cXByNEc4anN1UGxWamRkQXM5d3NCdjNxTHNrNlo1bTNlVENBd2ZQYVJjekg5R1hCSjdF?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "'라스트 댄스'를 예고한 쇼트트랙 최민정이 은퇴를 앞두고도 전성기 기량을 과시하고 있다. 월드투어 2차 대회에서 금1·은2를 포함해 시즌 누적 메달 7개를 쌓았으며, 첫날 전 종목 조 1위로 예선을 통과하는 기염을 토했다. 오늘 처음 트렌드에 등장하며 GOAT의 마지막 시즌에 팬들의 시선이 집중되고 있다.",
+          "headline": "최민정, 은퇴 앞두고 월드투어 메달 7개"
+        },
+        {
+          "rank": 5,
+          "word": "시리즈",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼성, KIA 꺾고 플레이오프 통과…kt와 한국시리즈 격돌(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QOWY2b01YU3plSmZMbURFQjV1ZjJVQ2w2emVFY1FudlNDckN5RVFCMTc0MjZZTzFEcHc5aTFlRlh5ZnVRSDJXbjU5S29Dczl4eVdFSUJsYndJQ1HSAWBBVV95cUxOMEJPeXpwZ3VtRnFRZ29GT040UDNYVDMtTXFtdVltWHB4S19lMkNzc0U3SktUbWhoX3NCUExsNXd2SUZTUG5tRU5WY2pmR2ZzcTRZaUk4NEk5dE5PamxnRFA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "삼성, 2년 만의 한국시리즈...KIA 꺾고 플레이오프 통과",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CX29JMjZZc2x5TmFxdUdFU3piOFcxMmVWb0RwQk1sMDFvRDQ1YndKOWhUNm5LdnZoNW9MUUMtUkk5cHpDSHBxMGpyRzVlN0Vr?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "삼성, KIA 꺾고 한국시리즈 진출…KT와 경기 일정-예매 방법?",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFUGZ3SFE3M3QtWmN4RVlIWlBNamFyUGhTQ3FqVnNGMm9Xck0xZXhTU21wWkxXdFdFVERRUVJUczlrRnYwNUc3T0hYaWVGZ1FacXBIVVl3VExkZVN4WXMtek9CdVhyaW5nT3pFSmRWclJhQQ?oc=5",
+              "source": "톱스타뉴스"
+            }
+          ],
+          "description": "삼성 라이온즈가 플레이오프에서 KIA 타이거즈를 꺾고 2년 만에 한국시리즈 진출을 확정했다. 상대는 KT 위즈로, 앞서 우승반지를 향한 강민호·우규민의 맞대결로 화제를 모은 바 있다. 한국시리즈 경기 일정과 예매 방법에도 팬들의 관심이 몰리고 있다.",
+          "headline": "삼성, KIA 꺾고 2년 만에 한국시리즈 진출"
+        }
+      ]
+    }
+  }
+}
