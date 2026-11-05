@@ -416,6 +416,8 @@ stopwords_economy = stopwords_common | {
     '주주',
     # 개인: "개인정보 유출" 기사에서 Kiwi가 개인정보를 개인+정보로 분리 추출하는 형태소 파편 — 정보는 이미 필터, 개인도 단독으로 경제 이슈 특정 불가
     '개인',
+    # 중간: "중간선거"에서 Kiwi가 분리 추출하는 형태소 파편 — 단독으로 경제 이슈 특정 불가, 선거(stopwords_common)와 같은 이유
+    '중간',
 }
 
 stopwords_entertainment = stopwords_common | {
@@ -578,6 +580,8 @@ stopwords_sports = stopwords_common | {
     '자랑',
     # 개막전: "IBK알토스 홈 개막전"처럼 리그 첫 경기 기사마다 반복되는 경기 형식어 — 개막(stopwords_common)의 합성어, 어느 팀인지가 중요하지 '개막전' 자체는 키워드 가치 없음
     '개막전',
+    # 시리즈: "한국시리즈"에서 Kiwi가 분리 추출하는 형태소 파편 — 어느 팀의 어떤 시리즈인지가 중요하지 '시리즈' 자체는 키워드 가치 없음(결승·리그와 같은 이유)
+    '시리즈',
 }
 
 def parse_feed_with_retry(url, retries=3, delay=3):
