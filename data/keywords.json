@@ -1,509 +1,507 @@
 {
-  "date": "2026-11-06",
-  "updated_at": "2026-11-06 17:27",
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07 05:17",
   "briefing": {
-    "text": "코스피가 하루 만에 6% 넘게 폭락하며 서킷브레이커가 발동되고 5000선이 붕괴됐다.\n\n글로벌 증시에서는 AI 성장 서사에 급제동이 걸리며 나스닥이 장중 4% 이상 급락했고, 삼성전자와 SK하이닉스가 각각 9%대·11%대 추락하는 등 반도체주도 직격탄을 맞았다. 금융당국 수장 이형일은 선제 대응 방침을 밝혔고, 코스피 5000선 붕괴는 정치권 공방으로까지 번졌다.\n\n트럼프 대통령은 중간선거 참패 이후에도 최대 300% 관세 부과 방침을 고수하며 외국 기업을 압박했고, 이란은 핵 협상에서 미국에 7개 조건의 선이행을 요구하는 협상안을 전달하며 맞섰다. 국내에서는 이재명 대통령이 민변 출신의 이용철 방위사업청장을 법무부 장관 후보자로 지명하고, 최인호 전 의원을 청와대 정무수석에 임명했다.\n\n연예계에서는 걸그룹 리센느가 신곡 5곡으로 멜론 차트 1~5위를 동시에 석권하는 이례적 기록을 세웠고, 드라마 '나의 유죄인간'은 글로벌 1위를 기록했다. 구급차 안에서 태어난 임신 31주차 신생아가 약 50일간의 치료를 마치고 건강하게 퇴원했다는 소식도 많은 이들의 관심을 끌었다.",
-    "period": "저녁",
-    "generated_at": "2026-11-06 17:27"
+    "text": "미국 민주당의 의회 장악 여파로 코스피가 하루 만에 8% 폭락하며 서킷브레이커가 발동됐다.\n\n국내 정치에서는 검찰의 기소 조작 의혹을 특별검사가 수사하도록 하는 '조작기소' 특검법안이 국회를 통과했고, 경찰 지휘부 공백을 메울 차기 경찰청장 후보로 김종철 후보자가 지명됐다. 서울 은평구에서는 전 연인을 살해한 혐의를 받는 60대 남성에 대해 경찰이 구속영장을 신청하며 스토킹 범죄 피해자 보호 문제가 다시 주목받았다.\n\n연예·문화 면에서는 배우 최불암의 빈소에 추모 행렬이 이어지는 한편 일부 식당의 상업적 편승 홍보가 비판을 받았고, 샤이니 민호는 마라톤 '밀어주기' 논란 끝에 완주 기록을 자진 반납했다.\n\n스포츠에서는 삼성 라이온즈가 한국시리즈 3차전에서 KT를 5-1로 꺾으며 2연승을 달렸는데, 부상을 무릅쓰고 2타점 3루타를 뽑아낸 구자욱의 활약이 승리를 견인했다.",
+    "period": "아침",
+    "generated_at": "2026-11-07 05:17"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 선거 참패에도 300% 관세 고수 · 이재명 대통령, 이용철 법무부장관 지명",
+      "summary": "배우 최불암 별세 · '조작기소' 특검법안 통과 · 은평 전 연인 살해 60대 구속영장 신청",
       "keywords": [
         {
           "rank": 1,
-          "word": "미국",
-          "count": 3,
+          "word": "특검",
+          "count": 2,
           "articles": [
             {
-              "title": "\"미국에 공장 안 지으면 관세 300%\"...트럼프 선거 참패에도 고집 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BUVNXOW1XTW13WTlpM0JZQlY1R1djZy1jSzRQWXYySlFTanE2OHhCN0g4WmNDaG9PeVRvY3ktQUFZZmZyMEVyTWdXRkVoTHNCekFXOHo4akw1cVJKLU9ZVzZFYnNkVWxu0gFuQVVfeXFMTmdTcEt3RjR6RHEzc042ODh3ZnVmWGJSNDM1QzV3dmVSdFlka05SNElXZUV4c3g4WGJ3S2RLcklJWjJPd2dQazJHcVhQeFBYWGZTUkRqTlNWb2JMWVFMV0N4dXpGTVJnZUFpRXpBa0E?oc=5",
-              "source": "머니투데이"
+              "title": "검찰범죄 특검을 해야 하는 50가지 이유⑬ '조작기소' 특검법안 마침내 통과",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iQ0xoUE1LYVM3aEJaUm9tSVo1VUszODlWTGhVd0pzSHRZcTdwV09EZG0tSUQ3TC1RY3RvTE1iOGVqSl84Y0ppNlZ3?oc=5",
+              "source": "뉴스타파"
             },
             {
-              "title": "트럼프, 중간선거 참패에도 '관세 폭탄·대이란 강경책' 고수",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXFHS0JfOVM2N0NPTDJOVEJXN2N1UGg4azBXZFp1SktieWd4UGRmQUFzSzd4ekJfOHdUVkxjRzRBc0JOVFgxSm14TG92OU81OGhjbUFGT3lYNExDV1pMRmZBdFpQdWFWSHdoSEZxOHFMcE9qUmZ0cVJ3b3JXUjUta3RHU2htVlg2QURuYQ?oc=5",
-              "source": "YTN 사이언스"
+              "title": "'검찰범죄' 특검을 해야 하는 50가지 이유⑫ 문자 조작 등 뉴스타파 케이스(2)",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wRXFFMElJMEdxR0VhMzJtUUlwYkJRUnZ3WFk4SzhsN21mM3p2UzNLVXFPeENhOGc3azdBVnNmX3Z4RXpCN0ZlUm9B?oc=5",
+              "source": "뉴스타파"
             },
             {
-              "title": "이란, 미국에 핵 협상안 전달…“7개 조건 먼저 이행”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqQWRWWjNKOXF2TFhBV0JiOUJHY0dXdlVlbXlvVUxYQ0ZTb3lmQ2xjMXJXNUZjWGlHRVVCVk4zZXlPY0U5b053UE1pTEg0c2xYX2VnajNYU1FqZ9IBX0FVX3lxTE1ybjFSekJTNEtnRlBNN3E3ZWVOZ2s3WlBPQnA3cDR2eFAyQ2w4SG1RMGZmYm1TZXBhVVhUdzhwTmd1NGpGaHZKNFgtd0JXOFVOdFd5N3ZjX3VJUlRXMmdZ?oc=5",
-              "source": "경향신문"
+              "title": "‘검찰범죄’ 특검을 해야 하는 50가지 이유⑨ 쌍끌이 사냥과 반쪽 항소",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SWGEyV3JOaFR1QlF2TDJTUkJBelJvdDRtcnY4SUJWVnVlbkpudk44NzFKeG1SVjRoMHNWTC1ZYl8wdVBLWVZ5TjVB?oc=5",
+              "source": "뉴스타파"
             }
           ],
-          "description": "트럼프 대통령이 중간선거 참패 이후에도 '미국에 공장을 짓지 않으면 최대 300% 관세를 부과하겠다'는 강경 통상 기조를 유지하고 있다. 한국을 포함한 외국 기업들을 직접 겨냥한 발언으로, 국내 산업부는 대미 협상의 시험대에 올랐다는 평가가 나온다. 한편 이란은 핵 협상과 관련해 미국에 7개 조건의 선이행을 요구하는 협상안을 전달하며 미국의 대이란 강경책에 맞서고 있다.",
-          "headline": "트럼프, 선거 참패에도 300% 관세 고수"
+          "description": "'조작기소' 특검법안이 마침내 국회를 통과하며 오늘 특검이 화제에 올랐다. 해당 법안은 검찰의 기소 조작 의혹 등 이른바 '검찰범죄'를 특별검사가 수사하도록 하는 내용을 담고 있다. 관련 언론은 문자 조작, 쌍끌이 수사 등 구체적 사례를 들며 특검 필요성을 연속 보도 중이다. 오늘 처음 등장한 키워드다.",
+          "headline": "'조작기소' 특검법안 국회 통과"
         },
         {
           "rank": 2,
-          "word": "후보자",
+          "word": "경찰",
           "count": 2,
           "articles": [
             {
-              "title": "이용철 법무장관 후보자, 민변·참여정부 거친 법률 전문가",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVl4dTRZalltWWc2cFFRVWhXZWhIeWZneTNUTkpoNXdjcFdqT3JRcVZ6dk9VY2JaaHNNbW9Qb3RiSHE0U3JSTURMTUpPRTFKM2VqU2FFLUlSeTJqQzRTbGhna01aeFpVTnRRRlE5Q1J1dHpCZ3prTkQ4TG9yU0dLNQ?oc=5",
-              "source": "이데일리"
+              "title": "경찰청장 후보자 김종철 국가경찰위 참석‥\"막중한 책임감 느껴\"",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MbEg3LS12d3phSmpFdDVYNVBtQzZfc0RINDlhMnlYcVVBRDNCLXZhdkQzNHFTeUtkc3g1LW1HcXViVmRxbUpneEdNRWNEOEZVWTM3YS1fc0ptX2doQkJNZE1USkFxWktBTDVRbl9EUXlucjJFSDI40gF3QVVfeXFMT3l0RFo4R3pnektDTUU5eDRBLXhMaHRLYm5ONUs2VDBrRlFLdWk4amxUVlVSVlpnc2hmOGpnaFJabm8tMTNlOVZYVE5kTFpObnBpNzVmc1BueTJxT05EV0dDTFhmb2pNRVA4TGpnZWJjczZ3bFJnMTQ?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "李, 법무장관 후보자 이용철 지명…靑 정무수석은 ‘친노’ 최인호",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUjU3c1AzSUZ4aVVrR0NWY1pwOXlxWGZNQzNjb2JJR2V2RlpNNnZ3a0FjZm9IMV9pdXNnS1lkUHZtNVkzRENfR2lpU3Z0VWk5b2tDck9zLTdtaURrM1NXWVUyZndzcUtVZ0p1ZE5vb9IBc0FVX3lxTFBONXJZRjRUSGI0ODlDMFQtVDYtVDFDQ05tOTEtMjN2Rm1nRVFVSFRScnU3MVpnMmpSZkdkTUdOMVg5anltaGszcXJSd1ZMdndlOUF4MURXQUd3ckVjM2JicUQybERSR21ROVJxeHdfWS01UWs?oc=5",
-              "source": "시사저널"
+              "title": "경찰 지휘부 정상화 눈앞…김종철 청장 후보자 “책임 있게 검증 임할 것”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80UWdGVVk0Q2FnVEI1Sjk3bUZVTzNTMzJsUnJXWDREYW9TalNyWV81OGI4Tmo4eTlRaWZibExSUDFfd2xjdXFEdEVQcExJUTFPLTBCcm9sTU9rQU0?oc=5",
+              "source": "경기일보"
             },
             {
-              "title": "법무부 장관 후보자에 이용철 방위사업청장 지명",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PUHVLalFyYVZsS0VWQjJYdW5ueDdUdThiazQzdm42NWcwdEFsbGM5aW9yYzJkQjV6cEZTM2sxb1dVTE1zenVZUk9yVXlJcXNlM0xrRXllUHNMNVNqRzhzOWloQnVuSDZKUElr?oc=5",
-              "source": "한겨레"
+              "title": "행안장관 \"김종철, 형사사법체제 개편·경찰개혁 안목 겸비\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ScDQ3S3pIYXR2YU4wRDUwZVVPSFZKRjBlR2pYYjFVckJzMGxuV0xQNDVtMUJlblZJbXNWTVpMUGJvUjlHYm5SbEtoLUV6MFhQajFNWjY2WVc1ZDTSAWBBVV95cUxQQ2laejdKN05nTDhMSnhibFRPc2twOURNYmdVTDRiLXh2RnFuSGx3elZYcWQ1MzFvamcxVjRsMjZQc2FXY1lHYm8wU2tvakxBbXZlR0U0ZEt4WHNXUmp4NWE?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "이재명 대통령이 신임 법무부 장관 후보자로 이용철 방위사업청장을 지명했다. 이용철 후보자는 민주사회를 위한 변호사모임(민변) 출신으로 참여정부를 거친 법률 전문가로 알려졌다. 청와대 정무수석에는 '친노' 계열의 최인호 전 의원이 임명됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "이용철 법무장관 후보자 지명"
+          "description": "김종철 후보자가 차기 경찰청장 후보로 지명되며 오늘 경찰이 주목받고 있다. 김 후보자는 국가경찰위원회에 참석해 \"막중한 책임감을 느낀다\"며 \"책임 있게 검증에 임하겠다\"고 밝혔다. 행정안전부 장관은 그가 형사사법체제 개편과 경찰개혁 안목을 겸비한 인물이라고 평가했다. 경찰 지휘부 공백이 이어지는 가운데 조직 정상화에 대한 기대가 모이고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "김종철, 경찰청장 후보자로 지명"
         },
         {
           "rank": 3,
-          "word": "치료",
+          "word": "살해",
           "count": 2,
           "articles": [
             {
-              "title": "구급차에서 태어난 31주 신생아‥50일 치료 마치고 건강히 퇴원",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ocE1yZENzODhxeDdaeVFhaXlCYXBYeG1LeE9UdUlOLTBUTnZvUlphSXRjU01ycUJvMm5mcjZic1NwdjNvd2E1c3NLcTlCaVNQN2tjT1ZYYjZLenlMUk16MVZrb1hIMmRlRWpwejEyZUhnSHRUSGI40gF3QVVfeXFMTnlWcmVzbHN3ZGdrMENLRzAyT2ljTnpSR2VRZjlSQkM4Um9MUVNUX3pfNlJSWFc1MnRqS3pzeTJPUEVaeWtyZ1dNRnFCRW9jV1ktaWctTUFkWjI0amtlTW13X3MxdU5ZM2o4ZXNvY3RkQVJ2OUgwRnc?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "구급차서 태어난 31주 아기…119 응급처치로 생명 구해",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EXzBuX0x0VmFKVWJJNTNRLUdKYi1tb05OdmtNRmxxLXpmVE1LNC1VeU1CbExPUTlHekhpSk1zbGRIQmQtUEhkTXZ4dGdQSC1WZzNVTnEteUhLa3pScDJkYtIBYEFVX3lxTE5EXzBuX0x0VmFKVWJJNTNRLUdKYi1tb05OdmtNRmxxLXpmVE1LNC1VeU1CbExPUTlHekhpSk1zbGRIQmQtUEhkTXZ4dGdQSC1WZzNVTnEteUhLa3pScDJkYg?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "구급차서 태어난 31주 아기…50일 치료 마치고 퇴원",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNEdGdklKSEZveVk3Zlp2N1NUQldBbmtYUjIyeTdSNjQ3YXZrTUtRTU5aM0NfVVh1ZmJZMEVxaEYwbnJtX09NNlJNX1N0MlBLZWlKR05xdzRnLWdoWGZ1VlJGT0daYjROTTFsZkdkeldXNUVHbW9tSdIBeEFVX3lxTFBXNEdGdklKSEZveVk3Zlp2N1NUQldBbmtYUjIyeTdSNjQ3YXZrTUtRTU5aM0NfVVh1ZmJZMEVxaEYwbnJtX09NNlJNX1N0MlBLZWlKR05xdzRnLWdoWGZ1VlJGT0daYjROTTFsZkdkeldXNUVHbW9tSQ?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "구급차 안에서 태어난 임신 31주차 신생아가 119 대원들의 응급처치로 생명을 구한 뒤 약 50일간의 치료를 마치고 건강하게 퇴원해 화제를 모으고 있다. 극한의 상황에서도 신생아를 살려낸 응급 의료진의 대응이 주목받으며 많은 이들의 관심을 끌었다.",
-          "headline": "구급차서 태어난 31주 아기, 50일 치료 후 퇴원"
-        },
-        {
-          "rank": 4,
-          "word": "트럼프",
-          "count": 2,
-          "articles": [
-            {
-              "title": "한국 거론한 트럼프‥\"공장 안 지으면 300% 관세\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xbURrbkxkcXJwamNXX3RNa19mbVgzWmwzU1VVeUpxb2RtNnhKYzR3TmpIZldTc1A0RnhremlYOWhmcUM1RmZtRVFDUmlJcHlGM2phVkpKSU80TlZqQ3lQb0w1V1kxdjEtLUpRZ0tUdzVpVkpKRFgzRdIBeEFVX3lxTE1KLVNsbzhaVnhiV216eER1NVZ0VXozMFFRa2dmLTNSWWZEeXg2aXRxeHlidlVBcGg0MW9HeC1oVHFIcjBxaldlWHl2LWx0ZEJRYVluX2NPZUZrN2pCSlp5RWNYekZ6VXlTVVB0UE81RUVGUV81dDRwOA?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "트럼프, 선거참패 이틀 뒤 “미국에 공장 안 지으면 300%까지 관세”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4aWR0cVhqLVZENmI4Y2pLSkFGdnF2T1BaLXFRWXNpUU5jd3o0VjhJclhaVXhvN25fa3ZHUXR6cWRwZjl5cWxLS2t3RW5HSHAyNlI5eFdxNWVmVVk?oc=5",
+              "title": "경찰, ‘전 연인 살해’ 60대 남성 첫 조사…“화가 나서 살해했다”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tcHlaTDdlemNDdE9CVGwyZmlmaEVpU05PU0hVNnBhWWI0WTZVNG1kbXllYmVZYzQzX1A4ZS0zY0thUFAtdWRWZEpHVU1WV2ttdHlOckxVQUEzcEE?oc=5",
               "source": "KBS 뉴스"
             },
             {
-              "title": "궁지 몰린 트럼프, 관세 압박 본격화…산업부, 대미협상 '시험대'",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ab3dRbEIyOTM1eTBWU1ZwNU1yd1RZOWEtaHRBOWlVRzZDWGJ5Nnd6UjRGb2tKcl9YMFpqNXU0ekR5VzA0TWFCVkxJRGxtQVYwQlZzR3NWM2hHSVFi?oc=5",
-              "source": "뉴스핌"
-            }
-          ],
-          "description": "도널드 트럼프 미국 대통령이 중간선거 참패 이틀 뒤 '미국에 공장을 짓지 않으면 300%까지 관세를 매기겠다'고 공언하며 관세 압박을 본격화하고 있다. 한국도 직접 거론되면서 국내 산업부가 대미 협상 대응에 나서야 하는 상황이다. 선거 결과에도 흔들리지 않는 트럼프의 보호무역 기조가 글로벌 통상 환경에 미칠 파장에 관심이 쏠리고 있다.",
-          "headline": "트럼프, 300% 관세 압박 본격화"
-        },
-        {
-          "rank": 5,
-          "word": "법무부",
-          "count": 1,
-          "articles": [
-            {
-              "title": "李대통령, 신임 법무부 장관에 이용철 방사청장 지명",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05WHdFNnY5WEVGcHFkNTRkT1VFdEZWQ09HUkJiZHQ0QV9zUHE0OUlqTmpWa0NBZkduUi1iaUNqQTZDcmUxaFZmZTRuVjV2b2wxMGp0NmVn?oc=5",
-              "source": "중앙일보"
+              "title": "경찰, '은평 전 연인 살해' 60대 구속영장 신청",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VSVl6dm85RlJ5ak5icngybTByc1lGdWRUaWRyX2FBN3JYQ01lVk9aeUozMmNWUWlGeTlMZ0pKY1loVE1Na2U2UVkyU1ZUS0lndDFuMjN4TVpodWJYeG1uY9IBeEFVX3lxTE9ubVFQWVBXeG9lbndNMmc4SmZhRndUbkdRVFRJejNZemNZTEdkcllrSlNiOXZVVXVjYUJxbDVhdVQ4UVY0VG1XeEFsNk1hcmhqc1lES2Q2S2xNS0RiemNSN19kZVk1M0pHZ1dvOUgtUkRlajIyamJhSQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "이 대통령, 법무부장관에 이용철 방사청장 지명...정무수석엔 최인호",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XLVJiQ0FEVjhvV3QzY0JnSTZlbEVxQzdPWUFsQUFiWDdyd0VQbkNNNkVwWkZ6V1ZmakpWM0RDU3dfRE9fWFE5S0U4XzREQlBtWHYtSXNJLWdwYU9LQlE?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "수사권 없어진 검사에게 다시 수사권? 법무부도 '우려'",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YUE1VRXVHajBHeXFCaWFSbjRGUU5yQjU5WnJraTI2ekJDNjJrWmpFLW42UVk2aEZlYzhUSElkWTFWNllfNUdGd05TQ2dkU3hYQUljSDQ3VThRZDNVTl84TlJvZHFIYUhOTzlvT2htbkxYRVN3SDAxStIBeEFVX3lxTFBJVFJicHFsdUNUNlM2X1VKWVpIanNsdERkNVgzcW1Obk5tLXM1VW1ydXIwZERiaVFMR2V5OVJWaU9sdUNBNXdWNlpiVXlxR05hWW9xOE9uYmp4TFhRVW1mSmRFdjNuSk43VWZZWDIzalB4ZjdqazZINQ?oc=5",
+              "title": "'은평 스토킹 살인' 60대 \"화가 나 살해\"‥경찰, 오늘 구속영장 신청 방침",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdS1saE9uQ3o2NzdoR3NJbnlySmozNkVUUk1jT3pORFFsWUV0VmZPdlMxak05YlhIc0d2NHdvU0p3Z0MwOTVIQ0M4czVGck1OdzNiVXdqZXVvMjN1Tzk4Z3pZdHFHWHI4Z1BaRTk4Q2VZckY2WUtZ0gF3QVVfeXFMTnB1LWxoT25DejY3N2hHc0lueXJKajM2RVRSTWNPek5EUWxZRXRWZk92UzFqTTliWEhzR3Y0d29TSndnQzA5NUhDQzhzNUZyTU53M2JVd2pldW8yM3VPOThnell0cUdYcjhnUFpFOThDZVlyRjZZS1k?oc=5",
               "source": "MBC 뉴스"
             }
           ],
-          "description": "이재명 대통령이 법무부 장관 후보자로 이용철 방위사업청장을 지명하면서 법무부가 주목받고 있다. 한편 검찰 수사권 조정과 관련해 수사권이 없어진 검사에게 다시 수사권을 부여하는 방안을 두고 법무부 내부에서도 우려의 목소리가 나오고 있어, 새 장관이 이 쟁점을 어떻게 풀어갈지 관심이 모인다. 오늘 처음 등장한 키워드다.",
-          "headline": "이용철 방사청장, 법무장관에 지명"
+          "description": "서울 은평구에서 전 연인을 살해한 혐의를 받는 60대 남성에 대해 경찰이 구속영장을 신청했다. 해당 남성은 경찰 조사에서 \"화가 나서 살해했다\"고 진술한 것으로 알려졌다. 이번 사건은 스토킹 끝에 벌어진 범행으로, 스토킹 범죄의 위험성과 피해자 보호 문제가 다시 도마에 오르고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "은평 전 연인 살해 60대 구속영장 신청"
+        },
+        {
+          "rank": 4,
+          "word": "배우",
+          "count": 2,
+          "articles": [
+            {
+              "title": "더없이 따뜻했던 배우 최불암을 기리며, 배우 최불암(1939~2026)",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PSTIxbnFWUWcxZFpyWk9iYko2Q2xta2dwYUs1cVdndlJMNUM0Yk5MekZ5aUpVMVBpRG84dVluRWM2OVlkZVJnVk84YUJreTRtQ1RiT1pn?oc=5",
+              "source": "씨네21"
+            },
+            {
+              "title": "‘국민아버지’ 배우 최불암 떠나보내며",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUgwekNxa2ZReXQ3eHI0dnd6TGtmMl85M2Y4alVOSXo3Q0t4NlktQnl5ZGNZZmRkNDB2NnlRQ3RSZ1dscm55WG5KRDE3WE1QUnpFTlBMMzhvbkgwOHdwSzdWcmxGLXNmQWloTXg4c1FNMEdkcXh6dW9SdGJfRFkyYm1XMEI5VjZmT1prSWpn?oc=5",
+              "source": "국제신문"
+            },
+            {
+              "title": "’영원한 수사반장’ 배우 최불암 별세…향년 86세",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZ2dZRmhza3N3TE05bGxSMlgyWXRfZUlPY1dRY0xhUmdsblBETGx4TFA5bG9UcVBtakJ5X3hZTzBkRS11YVFDRjBRQ0wwT3E0bkRkbzFzdkNmYzRHZGFjSGtDc3hZWXM?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "'국민 아버지'로 불리며 수십 년간 사랑받아온 배우 최불암이 86세를 일기로 세상을 떠났다. 1939년생인 고인은 드라마 '수사반장' 등으로 세대를 아우르는 대표적인 국민 배우로 자리매김했다. 언론과 동료 배우들은 그의 따뜻한 인품과 오랜 연기 인생을 기리며 애도를 표하고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "배우 최불암 별세, 향년 86세"
+        },
+        {
+          "rank": 5,
+          "word": "최불암",
+          "count": 2,
+          "articles": [
+            {
+              "title": "“故 최불암 장지 5분, 소주 1병 무료” 선 넘은 식당 홍보 뭇매",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NGZfTDd6aUV3MTB5RVBKc3A3UFJLd1lseHZWVmNUSzRoclk5Q0ZHNnliWVJxS0lHZVA5WVl4RlNZUmJQd0VBX2JZeU1XeFF6NmppTlFR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "김혜수 “최불암 선생님, 배웅해주신 모든 분께 감사”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNmNtWGpKMVpSYTFkRHRPWXgyUjh1YVdNSWhwckQ4QTB1eGphNnVZdERUV3JQUU1tRnJPODlENGJycU9nZHdha0lnUmFBSlRYM3Etc3ViSmdubkJsVEE?oc=5",
+              "source": "주간경향"
+            },
+            {
+              "title": "“선생님 없었다면 전 세상에 없었을지도”…최불암 빈소에 남겨진 편지",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzhmU3p0T1ZaV1FYQ0p3bC13aGlJbS11Z3hnd0ZwaW9fNU1pSER5cFBOSlgzTmtOUXctUEVVaThVMWpLS1NMZVJDYnN3MUxXakhPOU81WVl0aUFFWXlKTzRDMmZvVkE2VDduVHFVcWljcXEzSzlMVkNVYlpqbFFBRQ?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "배우 최불암의 별세 소식이 전해지며 각계의 추모가 이어지고 있다. 배우 김혜수는 \"최불암 선생님, 배웅해주신 모든 분께 감사하다\"며 슬픔을 전했고, 빈소에는 \"선생님 없었다면 전 세상에 없었을지도 모른다\"는 편지가 남겨지는 등 동료·팬들의 애도가 깊다. 한편 일부 식당이 고인의 장지를 언급하며 무료 소주 홍보에 나서 선을 넘었다는 비판을 받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "최불암 별세, 빈소에 추모 물결"
         }
       ]
     },
     "경제": {
-      "summary": "코스피가 8% 폭락해 서킷브레이커가 발동됐고, 금융사 37곳 해킹으로 개인정보 47만 건·10억 원이 유출됐다.",
+      "summary": "미국 블루웨이브 여파로 코스피가 8% 폭락·서킷브레이커 발동되며 정부가 긴급 대응에 나섰다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "증시",
-          "count": 6,
-          "articles": [
-            {
-              "title": "이형일 \"증시 지나친 반응 않도록 조치 선제적 강구할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQ09COC1YX25lZElVUlRtRFNPMEl6Sm84eklUZlJ5cm9aS1RGaGR3azVnVkNWZEhvUVhKSnRycU03WEVWbG1CeGh4aEh1X2VhdHdHeQ?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "블루쓰나미에 AI 성장 서사 급제동…글로벌 증시 ‘패닉셀’",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlaXdSTXNJeGQ1bFktZ1RkbTJCdVRyUmNmZ3p1ZkhaRVN1TnpzUU05ME5RbFJnRDVoeHRJMDdtelpBQXB2U2hQakZGb1N4b3VjZWFGdXRmZURPZw?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "미국 나스닥이 장중 4% 이상 급락하며 조정 국면에 진입하고, 글로벌 증시 전반에 패닉셀이 쏟아졌다. 블루쓰나미로 AI 성장 서사에 급제동이 걸렸다는 분석이 나오면서 투자심리가 급격히 위축됐다. 국내 금융당국 수장 이형일은 증시 과민 반응을 막기 위한 선제적 조치를 강구하겠다고 밝혔다.",
-          "headline": "글로벌 증시, AI 서사 꺾이며 패닉셀"
-        },
-        {
-          "rank": 2,
-          "word": "성장",
-          "count": 4,
-          "articles": [
-            {
-              "title": "씨젠, 3Q 영업익 116억원…\"비호흡기 매출 성장이 호실적 견인\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mMjVzSEtDVlF6MUJXZnJzMnRMWm55a2xFbGdMYkhMQ3paWXR6ZTF1cXBIX1BoaHhaRFI0U3g5R0FIWUlDcWk3ZVRfbXlGS29ROUlaMzNScWtFMXQ2My1ld25VWnZ3aVFKWFHSAW9BVV95cUxPdjd0TEhoZ3picmhjWFlweEdOaFppcGxyVkNicThnWDdFdGxDV2pib29tZ0hzUVlVRnYtQWFoUDRxdVVxTnBTYnBSeVlZZmxpRTV2MnRveENNRGNrM2E1R0Q1bWpKcXNNT2xEZ29PYWM?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XVVJoTUVsUjR2UUZ2MzNxTXpIal9JSmVLdWpWcVlUQ0NDSmw4T001TEY5X1YtTVNmWWxETG5BQU1PdFRheS1kZXE5SlRFbUxUMHc?oc=5",
-              "source": "매일경제 마켓"
-            },
-            {
-              "title": "현대로템, 협력사와 상생성장 추진 가속화…“동장성장펀드 2배 이상 확대”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kVy1wOHRWeG9YWW1FVWYtUE02MWxOYjdXblZERklsQjc2bG1rME1xXzVWU0hUVE52LWRBUzFpbXlRaXRfU3hCZk0xcWJJczVD?oc=5",
-              "source": "문화일보"
-            }
-          ],
-          "description": "씨젠이 비호흡기 부문 매출 성장을 앞세워 3분기 영업이익 116억 원을 달성한 반면, 카카오는 플랫폼 사업 매출 성장에도 불구하고 IBK투자증권이 목표가를 낮췄다. 현대로템은 협력사와의 동반성장펀드를 2배 이상 확대하며 상생 행보를 이어가고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "씨젠·카카오·현대로템, 성장세 엇갈려"
-        },
-        {
-          "rank": 3,
           "word": "코스피",
           "count": 4,
           "articles": [
+            {
+              "title": "'블루 쓰나미' 여파에 코스피 '검은 금요일'‥세계 증시도 동반 '충격'",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9taXVMcU1MSlp6cmJubmhQSGhhU05GRVZYS3o4TElvR1A0UUxjMWRfLXA1Z3pJS3l1bU9ucTBtc3RWaHQxcERtQWpQejFDRW42NG5qWXN5NGNOY2g2V3ByTEptMzJnelZlcHJJUlZTblA2TGxjUVVGVtIBeEFVX3lxTE1YcHh3OFU2N1lMVVh4bUx3ZGpIU1gzNkg0cjhwNkhMbExicVdtbUNHMWt6eTkxYTNvMzBXdDM3MjUwdFFDYjVaS0U5MUJxbEdLdlF4c0lrTlpEbE9KeFlRbzlBbVBzUFRnaV9wVTlrcGZPLVJScFdsRA?oc=5",
+              "source": "MBC 뉴스"
+            },
             {
               "title": "코스피, 8% 폭락에 서킷브레이커…5000선 붕괴",
               "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SlhNUC1UVDJMeFBiVzU0TnUtaGZ1azV4VFVRRTZtd181Yzd0MTVzcjh6Z09FdXJtRnU3WWgwbUp4QXVGelBIbndUMThSZkFKSzFtbm1RODVQZ9IBX0FVX3lxTE9SUTNvaGRyckxkSVVKOXRZSzlYTjRmVXp1YldMX09xclQ4TGhibTM4aS1USmh0YVJFdHl5QlQtNzZndlh1ek1LMm1EdjFRRVdsY09aTUNyMXFUZ0NkV09B?oc=5",
               "source": "경향신문"
             },
             {
-              "title": "파랗게 질린 코스피… 6.02% 하락한 5059.69 마감 [뉴시스Pic]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CWTBIZG9mRzI3TkZta3pHaE9YeGY0a2JSLWpqU3MzYlRRQURLTXljUU0yN2o3SWVvRnZLSWtmdnpiLUtVT3NsZzRnUmxKRXFjNURUQ3FvTE0zUng3bnNuY9IBeEFVX3lxTFB3WV9YM1VCQjBmV3p0ekFhYnlNLVJxT1hydzJGMWUxaHZEako1a25DX0hqanhuU3Z1d25sZEowRzZxelRGdmVEajlCRGI4OXk4Mjd4UkFPSE5XU28zdC0yREVCN2RjeVdRX3huMTFoS1U5UkVfUHFPNQ?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "한동훈, 코스피 5000 무너지자 \"대통령 답하라…투기판 벌인 대가\"",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Yb1A4cFZTeHRYR0haU2RCWXB6ZUhaM3BaakhOZ05DQWZJTjRUTjIyWTduM3BQOEJ3WlhYZGdieV9fSi1iLUl2cEwwRElYVk55ZnIzdA?oc=5",
-              "source": "JTBC"
+              "title": "5000피 깨졌는데 여전히 “코스피 1만 간다”…노무라가 꼽은 ‘상승 동력’ 4가지",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VQ01qWGdfWmlYQmtCTE94anh3STVBTks5RTk0SjBFeVVCUVFqS25oMUN6aXVMcGVqOVc5cEp6U3hnVlQwNHB1YlJTOFl5MFNaOEHSAVNBVV95cUxOaE45a0o0OFRBMFBULTd4bjIzSnJSNURiU2JtNE52R3gyaW5teGU5R050anhROVoxZExSRjQzWGs0QVdkN1REQXNtMFNSYW9JTVlwaw?oc=5",
+              "source": "서울경제"
             }
           ],
-          "description": "코스피가 하루 만에 8% 가까이 폭락하며 서킷브레이커가 발동됐고, 5000선이 무너진 채 6.02% 하락한 5059.69로 장을 마쳤다. 한동훈은 코스피 5000선 붕괴 직후 \"대통령이 답하라\"며 투기판을 벌인 대가라고 직격했다. 글로벌 증시 패닉과 맞물려 국내 증시 충격이 정치권 공방으로까지 번지는 양상이다.",
-          "headline": "코스피 5000선 붕괴, 서킷브레이커 발동"
+          "description": "코스피가 하루 만에 8% 폭락하며 서킷브레이커가 발동되고 5000선마저 붕괴됐다. '블루 쓰나미'로 불리는 미국 민주당의 상·하원 동시 장악 여파가 한국을 포함한 세계 증시를 동반 충격에 빠뜨렸다. 일부 전문가들은 패닉 속에서도 노무라가 제시한 상승 동력 4가지를 근거로 '코스피 1만' 가능성을 거론하고 있어, 시장 전망을 둘러싼 극단적 온도 차가 나타나고 있다. 코스피는 어제 3위에서 오늘 1위로 올라섰다.",
+          "headline": "코스피 8% 폭락·서킷브레이커 발동"
         },
         {
-          "rank": 4,
-          "word": "해킹",
+          "rank": 2,
+          "word": "규제",
           "count": 4,
           "articles": [
             {
-              "title": "금융사 37곳 해킹‥정보 47만 건·10억 원 유출",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9janM3cWxDeGFmVnpkUF91UGZkdlFUUHRLTnJOYlRKb1I2X2FLWXh3WGdYd2ZsZDVJeUR2SlFCaFVhRGk3RDdZZFNmOUdTT0t0ZmNFelF5OXdQbU1HSTRtYXpocnlocHpWYXF0RzhTRFZvNXdDLWI4WmFB0gF6QVVfeXFMTThmenpqclpWWnV5RGFYaGFHSS1NMmJuMmU1YzBLa1QtLUQ4WmgtNnZRR0Z6YUZJOGdSa0x5UVFBNm5GTGJlSDlZVWhURWNwSUNjTTNmdU56VEk1TDlkRkVwQThDcDl0NUloODVvTVpVTVlXUFJXZmM3SWc?oc=5",
-              "source": "MBC 뉴스"
+              "title": "국토부, 11월 주택시장 추가 규제설에 \"사실무근\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sOUI0X3dMM3p1MU5fd2NnZEVqdjl2SEpPanp2LWV3ajBZOVpYN3BNNnlXZ09MWTNoeGNuS2g4X2JyYmxPR196OE5LcnpvRjA2WXNWUjlMVUpvTFpMMEEteUdLNkRScHluTTlLelZ5cHc?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "전 금융권 해킹 대책 회의...\"정보 47만 건·자금 10억 유출\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5dnhiRjJmbThCQkFrbk15QWVRNDY1YzZUZzBWaElISzFia09QWURPakF0UnRqQXlvdnhaRDkxREUxVUF0czhmRGNTRWd1VE50eWxsb0F2RGdnWVRwc0E?oc=5",
-              "source": "YTN"
+              "title": "25억 넘는 집 대출 금지?...국토부 \"부동산 규제 허위 사실, 수사 의뢰\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNllaOTVJa1JSd2lCX1B1Z2FfWjE1NkIycVhaMHh3ZUpDWWxjZEVtc0V2U2hfLUV3VUJySHZIZWhrNmpidmFWSjAxU1lneEtuaVFVb3hjVGhPZFRPaGtmWjN3Z0IzRExVd2fSAW9BVV95cUxOcXFwS255R3ZZZ2JsZWRHYUdtclpaS2RmZnQ2SVIyX0tKSXpNYkoxNkhPXzlOTmF4UjhQTFdxLVhabWFfUjdobV95YVZDZjNYdENaYWRHQWk2OUtOZ1FNRmxIa2JlR0t4aWhDOWpJY3M?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "금융당국, 해킹 대책 실효성 우려에 보완 검토 \"현장 검사 통해 실효성 확보",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95SHQ1RHBzdVBDT3dRSm1hcUJudS1ub2ZFVE50REFlaWdEY19zcnhIWnh2djJvcWR4dVhabTF1bzNYcEtxSXlObm1XcEQzVHFfLW1BdDdHTjRJN2w0?oc=5",
-              "source": "뉴스핌"
+              "title": "25억원 초과 주택 대출 금지설에… 국토부 “추가 규제, 사실 아냐… 수사 의뢰”",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2ctVk1Ua3Y2WXZEYUltT3gtSlZ2LVFEbG9GNi1Na2xKNXBPb0YwWkV2cXI0aGRqLThkMHF3UTdRYTItYmdxQ0dlR2x4QnBUODc0VS1iMDFqMmNCakpfai1mdk0zenluWWFGYkhkMXluR0J0WDdCNnQwdU9wcGdzRHEteW5QS2hEVjZlNjE1MzllaWQtWE8tc9IBrAFBVV95cUxQVk9faW9oMkdNR3lMc3hTMGZTTHNlaUZNbFJyQVN6NVlfVHRlMTlxTnR1aC1rU1FIc2N6RkpZTEF6U1llQ1hVVlFBLTFva0x0dXBhd3plSXJLMXVBVF9wNjkzc1VHUkxWRmxJZTNpcmJxQm02cHYzM1FqazBDY2JGNVJFTUlFQjJTV195aVhDUHhMMU9pM2VqMjJobS1DclM2RHN2U3dDcmMxbDQz?oc=5",
+              "source": "Chosunbiz"
             }
           ],
-          "description": "금융사 37곳이 해킹 피해를 입어 개인정보 47만 건과 자금 10억 원이 유출된 것으로 확인됐다. 금융당국은 전 금융권을 대상으로 긴급 대책 회의를 열었으며, 현장 검사를 통해 대책의 실효성을 확보하겠다고 밝혔다. 기존 대책의 실효성에 대한 우려가 제기되면서 당국은 보완 방안도 추가로 검토 중이다.",
-          "headline": "금융사 37곳 해킹, 47만 건·10억 유출"
+          "description": "25억 원 초과 주택에 대한 대출을 금지한다는 추가 규제설이 확산되자 국토부가 '사실무근'이라며 허위 사실 유포자를 수사 의뢰하겠다고 밝혔다. 11월 주택시장 추가 규제 가능성을 둘러싼 소문이 온라인을 통해 빠르게 퍼지며 부동산 시장에 혼란을 초래했고, 국토부는 강경 대응 방침으로 진화에 나섰다.",
+          "headline": "국토부, 부동산 추가 규제설 '사실무근' 일축"
         },
         {
-          "rank": 5,
-          "word": "긴급",
+          "rank": 3,
+          "word": "노조",
+          "count": 4,
+          "articles": [
+            {
+              "title": "'같은회사 같은권리' 외치는 삼성전자 동행노조",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9McF9Nelc1Q0Npb0xPclhNX2hIMUpHZDk5dFo3T3A2bXNZWGFnZllncVEzQVN1WW1UTkNPdnRRTDJNcE1FcVZZYVpjR0F3Z1Ftb0NTUElON1h3QmPSAWBBVV95cUxPU2tlVnJEVUNLNnM1MVg4M0dicVNlQ3dWbDA2WjdMUFZlZUhUa29OY00xTnlFSFB4VXMxVGtfUFlZQmJDWkdYSl9CZUVyTW1WQ3gwQ1BoWlNFbGZEY3ZXS1U?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "삼성전자 DX노조, 수원사업장 앞 집회…'공정한 보상체계' 요구",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50bkpYckE5WjlEaXY4LXJYaEd2WG56U09TUWNXNnRKVS05S1ZyVDFkOVB2MnZKcDJtdEhyX0R2cTlTUElPMEkxOWRDd0xHQVJqOEE?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "삼성 ‘제6노조’ 준비위 최초 인터뷰 …\"노동3법 실무경력 보탤 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xeFQ5MDNDZEVmekJQVnRhRjZDQlB0dzllUGZxS0RZSlZEeXFYTjFCZmxXbGtoRkRCNGJEUlJNTUhkQlRzQWRVVzlIUEQxRHVTSkpNTjJ6OU4zT0l3ZHllbVZFZlhNbnlP?oc=5",
+              "source": "녹색경제신문"
+            }
+          ],
+          "description": "삼성전자 DX노조가 수원사업장 앞에서 공정한 보상체계를 요구하는 집회를 열고, 동행노조는 '같은 회사 같은 권리'를 외치며 목소리를 높였다. 여기에 삼성 내 여섯 번째 노조를 준비 중인 단체가 최초 인터뷰를 통해 노동법 실무 역량을 갖춘 조직을 만들겠다는 뜻을 밝혀, 삼성전자 내 노동조합 활동이 한층 다층화되는 양상이다.",
+          "headline": "삼성전자 노조들, 잇따라 집회·창립 움직임"
+        },
+        {
+          "rank": 4,
+          "word": "증시",
           "count": 3,
           "articles": [
             {
-              "title": "증시 급락에 긴급 처방…증권사 신용융자 담보비율 유지의무 3개월 면제",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRkxseUlHbDUzNHhmS2RjbWhwUXZ0Mko1bzJvNXdSbjVxbGRyd1ZWMllhQTVzd2VTWVRWNTdFazgyMGh3Xzk5bkxHeVh2UFlaZVYyYw?oc=5",
-              "source": "JTBC"
+              "title": "정부, 증시 급락에 긴급 대응‥신용융자 담보비율 의무 3개월 면제",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MdzhWSUc5X092ckExV1owUEU5c09GR1g3OFl0eVY4by1VZkFaTHBSWGZiNHI1bjdlVGlEMHFNcGQ0WTdTYzdWaHBUZEZqLXhsRzJCNmtFbFV6ZjJrVUhxalU1TmNVN2RPaEtJVTJ4dy01ZkFO0gF0QVVfeXFMTWgzY29iS0wtSG1EUG84QkdnWkhBaTA3bS1ZMmNxTE9sQ3JFT043aVdtWHktOUNkbi1EenNYb3pqN0o5VnR1WjYwODJsSWliVTNMc0JKSkdIY0U4aFJoVU5hd1dJWGFoSy1aNDU2SF83T0Z1LUQ?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "안철수“李대통령 당장 라방 켜…긴급대책 밝혀야”",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OYm1OUDlzSDhuc01PMDNvNC00bDI0TGJMUE5IWmJVejNDS2g0ckdFQ1ZUTTJWWVZtTWh0RzJGdmtoeG1rb0t6dHd4MU1zUmRJ?oc=5",
-              "source": "문화일보"
+              "title": "한·미 증시, 블루웨이브에 파랗게 질렸다... 코스피 5000선 붕괴",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazdHYnRTQ0luemFsLXRIZlNGcXhmcXAyWEUxSUhPcEVkbEJvVDVfR2FIN3RkQ2xjSG0zWlZrUFBFTmpRQ0ptOE4wbk9uWVR4Y3hiSDVscjE3a24wMk9HRDdGRF9nQ0p4Z1BZRmlKMGVGZDByNmR1aU8wME9kS296VkVDajJDRDJFVzdv?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "행안부, ‘정보공개포털’ 원문 다운로드 긴급 차단... “개인정보 전수점검 착수”",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wcVFEc1JtZzBJUjZPNFh3YklrVk1iczJ5ZWNKTkJoVW9BLS1PN3k0dVhfUWZtNFZKWmdCdjhjYml4U2pZVWxKRGZRb2hSRGFOUURtWFhQM1ZWeVpLUFc2VGRFejR1d3ZlTDc0?oc=5",
-              "source": "보안뉴스"
+              "title": "\"울고 싶다\" \"연봉 날아갈 판\"…삼전닉스 등 증시 폭락에 개미들 패닉",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IS0pwbFMzV0xnSkMwN0IyUnVQY3VYSk1SUzRSa053bWsxcjQxUVRRNDBqdFIwdmpkVi1OZGNKRVN2UWNfVXJTSlVPa2xkNWV3ODZ2WXJ2OHZFV2PSAWBBVV95cUxPeGFLYTRJNFo3UFpuSndOVk5Oc2R6OVhYU1RkemhrVGR4QVNZalBMNUt1YUtpaUhrMXU5ajV3WXo2MDRmX2t6dDI0UWVjdExkck50Y29KQnFlSW9xUmZVV3Y?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "코스피 폭락에 대응해 금융당국이 증권사 신용융자 담보비율 유지 의무를 3개월간 면제하는 긴급 처방을 내놓았다. 안철수는 이 대통령이 즉각 라이브 방송을 열어 긴급 대책을 밝혀야 한다고 촉구했으며, 행정안전부는 정보공개포털 원문 다운로드를 긴급 차단하고 개인정보 전수점검에 착수했다. 증시·정보 보안 등 여러 분야에서 동시에 긴급 대응이 쏟아진 하루였다. 오늘 처음 등장한 키워드다.",
-          "headline": "증시 급락에 신용융자 담보비율 3개월 면제"
+          "description": "미국 민주당의 블루웨이브 가시화로 한국과 미국 증시가 동반 급락했고, 코스피는 5000선이 무너지는 충격을 받았다. 정부는 긴급 대응에 나서 신용융자 담보비율 의무를 3개월간 면제하는 조치를 발표했다. 삼성전자·SK하이닉스 등 주요 종목까지 폭락하면서 개인 투자자들 사이에선 패닉 분위기가 역력하다.",
+          "headline": "블루웨이브 충격에 한·미 증시 동반 폭락"
+        },
+        {
+          "rank": 5,
+          "word": "데이터센터",
+          "count": 3,
+          "articles": [
+            {
+              "title": "텍사스 \"데이터센터 멈춰야\"‥빅테크, 그래도 멈출 수 없다",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNjJXTERELW5Mdy1UT1JVU3pUQUFtRjN4RWpnMnFaMXpGaWQ4M2UtS3IyUUUtRE9xOFlTZHdWakZvT3hpakg5NHZ3RmZJZTdBQ3JPM0lfNDd6MTk4SzRTVGlycnd1MGNvNnVrczlodjBxWlRxSXZrS9IBeEFVX3lxTE5tS3hMVlZ6bEphYjRsZGE2ajZGdnU5WGJfRTFrLWJhTktlcVd0ZHJqSG1ZWUdoUHExeVZtUXlOWENkY084elhPbU4tXzJCNFMxVUs4Q0RrNG5TMkFSTVlYVnpfR0lrWEs4T0RJN2QwMjM4RmhCS1FuNA?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "\"데이터센터 규제 우려 과도…반도체 비중 확대 기회\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Mcktkb3kyU2pEQ1l2cnN0RElPV09pRzluMl9CTXktVEU4MDdHejZVS0lULTdObFFuQXJrOUZpMDA5M2Q4N1VNV2lQQnprbkZFdi1aVEl3UDhfWjJyYmF6Qkptd0pQLXF0aE9JaDg3YWw?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "퀄컴, 데이터센터 투자 둔화 우려 일축…전일 급락 딛고 주가 5%↑",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85aG1kVlpqRkJyZmhWU1ctd1dSOG9fNGN5cXgyV0lFMUxFWS1JU3VJTHdDdWdFN3h1SlNWdUdWakt1WTFHaGZZZENSYkxYa25LaFo1cWZuSW1MRFJsdGVJRVBvcUlDczRuWEVFQTNCT3NuYTQ?oc=5",
+              "source": "마켓인"
+            }
+          ],
+          "description": "텍사스주가 전력 문제를 이유로 데이터센터 가동 중단을 압박하는 가운데, 빅테크 기업들은 투자를 멈출 수 없다는 입장을 고수하고 있다. 퀄컴은 데이터센터 투자 둔화 우려를 일축하며 전날 급락을 딛고 주가가 5% 반등했다. 전문가들은 규제 리스크가 과도하게 반영됐다며 오히려 반도체 비중을 확대할 기회로 볼 수 있다는 분석을 내놓고 있다.",
+          "headline": "빅테크 데이터센터 투자 지속 여부 주목"
         }
       ]
     },
     "연예": {
-      "summary": "리센느, 신곡 5곡 멜론 1~5위 석권 · 소지섭 '김부장'으로 업계 압도적 1위",
+      "summary": "샤이니 민호 마라톤 완주 기록 반납·최불암 추모 관련 식당 홍보 논란·민희진 하이브 주장 반박·김수현 법적 대응 지속",
       "keywords": [
         {
           "rank": 1,
-          "word": "리센느",
-          "count": 2,
-          "articles": [
-            {
-              "title": "1위 리센느 원이, 2위 리센느 제나, 3위 리센느 미나미",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Xa09QZC1Za04xSkE4Rm10dm1RVzBwSlB6X3RaTkxaMlZ3SWg4dmhSQ2xZSDRCWlByMnhvNnZ1WXk1bUQxdk9xYUNwM0E4U2VLYm5Qd0wtbUpOVlN1N3ZOZTV2TmlvSk5qcmR5bjlEMFl4cjhS?oc=5",
-              "source": "스타뉴스"
-            },
-            {
-              "title": "리센느, 신곡 5곡 모두 멜론 1~5위 등극…이례적 기록 세웠다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QZF9vV1NpT1l5bFREUTNkOFIzMVcxbEQ2QzhJbVF1Mjk5T2xOcjU3dlctRTd5Rng2VXZRMEpmM0xGYmZqRHN2d3VsT2JYMk5Lam5MZVpGS1lsSmI3eWc?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "'스타뉴스룸' 리센느 멤버들이 꼽은 팀 내 액션 능력자 1위는?",
-              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ocnVKMzNXSXVtRnR5VFJrbXQyUk52RjhGWnR6bGh6NzYzNDkyellNZjJZRFVYcW9sQzZISDZhZy10eUdibm5NTFRoOV9nMFBvSmtUNnVYUzlVdVl2YXJ3?oc=5",
-              "source": "YTN star"
-            }
-          ],
-          "description": "걸그룹 리센느가 신곡 5곡을 멜론 차트 1위부터 5위까지 동시에 올리는 이례적인 기록을 세웠다. 개인 순위에서도 멤버 원이·제나·미나미가 1~3위를 차지하며 차트를 독식했다. 한 팀이 발매곡 전체로 주요 음원 차트 상위권을 한꺼번에 점령하는 사례는 드문 일로, 데뷔 이후 가장 강력한 성적표를 받아들었다는 평가다.",
-          "headline": "리센느, 신곡 5곡 멜론 1~5위 석권"
-        },
-        {
-          "rank": 2,
-          "word": "연우",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“벌써 이렇게 컸어” 장윤정, 연우·하영 남매 자랑에 ‘광대 승천’",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSFJ0REs1VDZxeEpoMGdjSFdLRDJTTENrdTZqb041bm1uNVY4XzByZ0ZpX1YzTW9iYktEQmZMTmFYVVdVZklxRVg2WnBaWGR4bU9xMnBPdUppclVqNlHSAWNBVV95cUxPZU43enVRc29SRENYOFNBOFR4QjBLZWxoaXF1bGYxUTRPN0VGTlFJX2ZFLVZRakhzY1UtSUtuUUtkSmgxTm1mbmJYdUQ0ZVVxNlB4U0dRakVVdkFfbmFQQ3RLbzA?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "김정현♥연우 하룻밤 뜨겁게 보낸 뒤 반전…새국면 (나의 유죄인간)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ob3NfVkYyaTdwTW9YbGJkcmZPQUY1VzFsLTNxN1VVZGdxWld2djREOHpENmZBNUw5OWlhdkhvR2NiOUdBV2Vrb21Sb2UzSnBuTXUxZi04ZXBVeFVZaE1GVThpc1FjWlBaVEpBdzZR?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "‘나의 유죄인간’ 김정현X연우, 살인사건 속 피어난 ‘어른 로맨스’…글로벌 1위 위엄",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQUI1SlBrU3V0SmdpTXNlYkdNRTNSTnVoQTJZNk1EV2tGbGlfMjVLUWUzWFl1UERlM3NfaVA1RWhiRkZBR2pFdkdrNTllMTNGSlVreEQ0TmlCZm9qUHfSAWNBVV95cUxQeVk2Sl9EQVFEZ240RDNWSEpOaW5FeGFVdDVWMTFzdXZ3X0tUQkNaZzU5alJnVDlkN2pjVDhkZDhxcndYTDUyVHJVZFNFdDBySGVkdDh2V1pNbEg3VnFpXzN6MVU?oc=5",
-              "source": "스포츠경향"
-            }
-          ],
-          "description": "배우 연우가 출연 중인 드라마 '나의 유죄인간'이 글로벌 1위를 기록하며 화제를 모으고 있다. 극 중 김정현과 함께 살인사건을 배경으로 한 어른 로맨스를 그려내 호평을 받고 있으며, 두 주인공이 하룻밤을 보낸 뒤 국면이 전환되는 반전 전개로 시청자의 관심을 끌고 있다. 한편 연우는 개인 예능에서도 장윤정이 자녀를 소개하는 장면에 함께 등장하며 눈길을 모았다. 오늘 처음 등장한 키워드다.",
-          "headline": "연우 주연 '나의 유죄인간' 글로벌 1위"
-        },
-        {
-          "rank": 3,
-          "word": "서장훈",
-          "count": 2,
-          "articles": [
-            {
-              "title": "450억 빌딩 내놓은 서장훈이 방송서 건물주 저격한 이유",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ldkdrV0FUY0pZM1JBWmtmODBkaWtIMjhHa2NCS3FQSjVDRjlGdlA5dFJZX1FxQ1NuaWZQTU1La0ZaSlFVNTFrZnJDbmVHelFwaU5FaURqeDnSAVRBVV95cUxNSGlMWlAtSzh5aDh3ZkFYMFJmSU1fN2tUc0N1dWoydjdSdlRfWEdOMjRDWnloVVBEVVhSLW5Ic0tURW00VG1kcDdIemhuQi00OFloYzM?oc=5",
-              "source": "세계일보"
-            },
-            {
-              "title": "서장훈, 분양권 2채 투자한 부부에 \"그건 안 올라\"…답답",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45U2pMSFhiMDlLZE1XZkNpaUd3U3Z4TGhqQUhIeVFsTHRsdUR2RzJuOEg3aFhRbXpZS3dlZWtRZnBEakJfZmlaaWZLVVV0Q245V2wzcnhPOUhqeUVXQlloNA?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "미분양 2채 사고 잔금 위기…'건물 3채' 서장훈 \"그게 어떻게 오르나\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OeDhmX1duakEzZktZRjdZaTlpVjFCa1gweW9mWWU3YXBDNF9ZSmkxaW5FZ2FJRWFtUWQ3TDJkZUtWemoyQjdYVDJHR0RyNzlDMkMzZFRqZTF2NkE1andrcNIBeEFVX3lxTFBhSk1oR2hVakg2YmRVc2lGOXBfb2lESDM3RFFoNUtHcFJkTDQ0cEZaTWd0R1MxbTI0R0duX0RRU2NLa0h6Q0thQWFNZFlzUlE3Yk9mQWtJRGkwaGYtYkE5anBBT2dtaGpRalhwaUtGaXFnVnljS0VJbA?oc=5",
-              "source": "뉴시스"
-            }
-          ],
-          "description": "서장훈이 450억 원짜리 빌딩을 내놓은 사실이 알려진 가운데, 방송에서는 분양권 2채에 투자한 부부에게 '그건 안 오른다'며 쓴소리를 쏟아냈다. 건물 3채를 보유한 건물주이면서도 잘못된 부동산 투자를 거침없이 비판하는 모습이 화제가 됐다. 미분양 물건을 매입했다가 잔금 위기에 처한 사례를 직접 언급하며 현실적인 조언을 이어가 눈길을 끌었다.",
-          "headline": "서장훈, 450억 빌딩 매각 후 부동산 직격"
-        },
-        {
-          "rank": 4,
-          "word": "이요원",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이요원, 23살에 낳은 첫딸 공개..‘173cm' 엄마 닮은 美 명문대 출신",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFNGVG9uSk56cUhVQ3V6WDVZLUxGd1ZZWDJfZFB4aUU0SXNKMUZlZVBRRnVDQzg3S21VQll2b3hsYjFBWnBLVUVlZVVpd3ctV0s0SVJPelVSMy15empqQ3dzQ0M1eUhtYjk4M0Y5NDlNUE1TN3pQeXVaS25iU082Sk1rZUtiM2lwdU5kamdJYw?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "이요원 \"남편과 24시간 밀착? 정신건강에 안 좋아\"... 최수종·하희라와 극과극 (살림남)",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1dqbXM0ZFZ4NGpiajlLRVVkMHl4cnBrelpVcUJiUmFlV2dBSUFld3FSLUJBRjhMUDlOMDZURElfYV9aaUVBVG9xTTVQeXg0X0oxNk1fVDRma1N4b2VUd0FWaWV1SU9HSGhVWFhMa1pnelV4Q0lFa29RN2stcmtLYWw1VmFpbUJmMllnTUl1OA?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "박서진, 강남서 리프팅 시술 고백 \"당일에 바로 효과\"…이요원도 관심",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ld09YNXFKTTlVX3FHNllEOFprbVFLcEtGWW5SV1FYeVRMN0R0NmJOYlJidWo1bkFwN2xXclRDTmF5UVFybjgzajNtLThsQmFtRXM3dEtqRHZDem4zcnNiNQ?oc=5",
-              "source": "뉴스1"
-            }
-          ],
-          "description": "배우 이요원이 23살에 낳은 첫딸을 처음 공개해 화제다. 173cm의 이요원을 닮은 딸은 미국 명문대 출신으로 알려져 눈길을 끌었다. 예능 '살림남'에서는 남편과 24시간 밀착 생활이 정신건강에 좋지 않다고 솔직하게 털어놓아 최수종·하희라 부부와 대조를 이뤘고, 강남 리프팅 시술에도 관심을 보이는 모습이 함께 소개됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "이요원, 23살 낳은 첫딸 첫 공개"
-        },
-        {
-          "rank": 5,
-          "word": "김부장",
+          "word": "민호",
           "count": 1,
           "articles": [
             {
-              "title": "나랑 같이 은퇴하는 옆자리 김부장…그런데 왜 훨씬 많이 받을까?",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tNk5zeGN3N1hPS2tnaWhOWTVUU1B2SW5wMjFpWXM4QV9hS0c4amlqU2h5TWJKM1h6WHFraXZMUEMzMWhXZzR3dXJKMFVRWDNYSkJMSnNWY2l2bmhSM09nZUR3?oc=5",
-              "source": "아시아경제"
+              "title": "‘마라톤 밀어주기 논란’ 샤이니 민호, 철인 3종 경기 출전 현장 공개",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFpsMkQyZUlMNFFjTXFQWmY0bTRSRlYxOW1wSjBfMm53SFlua0dYVUZCSXlqNzBKVXNMR1RZdnpVUGtkVGU4THpNc1dwLW1qZjlNMHRkZUNxOVF0S1RMZHRDMjhGX1NDdnd3S1dOekd3bWJsSEhDY2pXekNlODJCMHF4cFpVS2hEMExUaVhoYUtWREXSAacBQVVfeXFMTW9UekNmdkpjX2ctbGdrTzZrYWxzYVNHWlJxaGZ3Y19FOU9lMk5OZVZNVFZBSS1YNWRmZkxkdzNMRzUxck13dXk5aDhIbkh4STlFZzRNVEI1czhLZmpCVnZCeXVSd25CdjNIalFQSmtkNFlMRi1Uem5aVjFaVk53X3lMaU5hdEhzWHh3RWhjVFJJOTltSjRtdmpwNzA1Q010aE1mUHFZMjA?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "‘김부장’ 소지섭, 업계 30표 휩쓸었다…2위와 두 배 격차 낸 이유 있었다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VdUdGQko3Q0gtTjhYNFdqUlZyR3hyNGJ0cDlfeFE3cDZkN2M0WmhRQmlUcEREa1VOcndpRnhnbHppcWF3RDF3Xy1jYU4yRXhoSDlBU2tR?oc=5",
-              "source": "위키트리"
+              "title": "민호, 마라톤대회 완주 기록 자진 반납했다",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95RnJSN183RlF5eFhacTRRSms2aWZ3dGlpNldQaW1FVTdGdFdGZExVb01USlRDb0RMY293dFBOUFN5a2xtd3g1N2RZWUlRZEpBNFRVSzZZNmgxWDk5VGZBLdIBeEFVX3lxTFBmbG5Bcm9sbzI1V2ZPeC1hMGFTZjZTNzI4eG9uTThTdTZxcjMySnZnSW9FZDhfc2hlYXdMWW1aRUdHMEkzaWdXZjEtOFZjX00wbTA5N0x4QWs1Y0dzRE84c2dPNm9JOUpUam5scVFsTjJTTl94a1FESw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "차예련 학폭에 '김부장'까지 불똥..주상욱 포상휴가 가고도 연기대상 '먹구름' [Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ramFNbDNiT0wwallCZk9oSU9FM2RLUGhhWHczSVZQUVBRVDNqekJRMVFWcm10ZHpvZVRZZmZBdlByMVhBZW4tR0Rac2xFVURmZWtoOA?oc=5",
-              "source": "OSEN"
+              "title": "샤이니 민호, 마라톤 완주 후 '갑론을박'…공정성 논란 휩싸인 장면 [지금이뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtUEFkbG9pd18zaUFsUjl4X00ybWpWT1V0YjR1RXRQOGtmQ2FuUUdVR2k1RTg4R1lGdjBlY2Q0UTV4SnVLVmNPc0hMUnlvQ05ncGZVcVExSE5KTVVLRlMwNktOdk9tdlVmbjNIQzRWdXAxWGtMM0E?oc=5",
+              "source": "YTN"
             }
           ],
-          "description": "소지섭이 주연을 맡은 작품 '김부장'이 업계 투표에서 30표를 휩쓸며 2위와 두 배 격차로 1위에 오르는 등 연기력 호평이 이어지고 있다. 반면 차예련 학폭 논란이 불거지면서 같은 작품에 출연 중인 주상욱의 연기대상 수상에도 먹구름이 드리웠다는 분석도 나왔다. 오늘 처음 등장한 키워드다.",
-          "headline": "소지섭 주연 '김부장', 업계 30표 압도적 1위"
+          "description": "샤이니 민호가 마라톤대회 완주 기록을 자진 반납했다. 대회 중 '밀어주기' 논란에 휩싸이며 공정성 문제가 제기된 것이 계기가 됐다. 민호는 이후 철인 3종 경기에 직접 출전하는 모습을 공개하며 운동에 대한 진정성을 보여주려 했지만, 논란은 여전히 이어지고 있다.",
+          "headline": "샤이니 민호, 마라톤 완주 기록 자진 반납"
+        },
+        {
+          "rank": 2,
+          "word": "최불암",
+          "count": 1,
+          "articles": [
+            {
+              "title": "“故 최불암 장지 5분, 소주 1병 무료” 선 넘은 식당 홍보 뭇매",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NGZfTDd6aUV3MTB5RVBKc3A3UFJLd1lseHZWVmNUSzRoclk5Q0ZHNnliWVJxS0lHZVA5WVl4RlNZUmJQd0VBX2JZeU1XeFF6NmppTlFR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "김혜수 “최불암 선생님, 배웅해주신 모든 분께 감사”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qNmNtWGpKMVpSYTFkRHRPWXgyUjh1YVdNSWhwckQ4QTB1eGphNnVZdERUV3JQUU1tRnJPODlENGJycU9nZHdha0lnUmFBSlRYM3Etc3ViSmdubkJsVEE?oc=5",
+              "source": "주간경향"
+            },
+            {
+              "title": "“선생님 없었다면 전 세상에 없었을지도”…최불암 빈소에 남겨진 편지",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzhmU3p0T1ZaV1FYQ0p3bC13aGlJbS11Z3hnd0ZwaW9fNU1pSER5cFBOSlgzTmtOUXctUEVVaThVMWpLS1NMZVJDYnN3MUxXakhPOU81WVl0aUFFWXlKTzRDMmZvVkE2VDduVHFVcWljcXEzSzlMVkNVYlpqbFFBRQ?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "배우 최불암의 빈소에 동료·후배들의 추모가 이어지는 가운데, 일부 식당이 장지와 연계한 홍보를 내걸어 뭇매를 맞고 있다. 김혜수는 배웅해준 모든 분께 감사를 전했고, 빈소에는 '선생님 없었다면 세상에 없었을지도 모른다'는 절절한 편지도 남겨졌다. 고인에 대한 진심 어린 애도와 함께, 슬픔을 상업적으로 이용하는 행태에 대한 비판 여론도 거세다.",
+          "headline": "최불암 별세 후 추모 물결, 상업 편승 논란도"
+        },
+        {
+          "rank": 3,
+          "word": "어벤져스",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'어벤져스: 둠스데이' 배우 에번스·헴스워스 내달 7일 내한",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yM2xNOVhHX3hveDNIZjhJZUE5blpBQ29WU1JPUGJ6bk1CYmktU3NNTl9pQ3JfeDBuM2k0NkV5N0JjMG9rY2syRkdqT3YzeFV0NG9adExva1B0VHfSAWBBVV95cUxPRzZWNUl5QVhNcXB6WFFVRC1QQVdpbnhxV1gwYk9KTndhNWFCSGtKZERJZWNiNWhYR0tWYTdOdEVMRHdpa09SVTc1b2picmRFdFIxNnRsekcxMTdqVUtucTU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "“같이 찍었다고요? 처음 뵙는데”… ‘어벤져스5’ 황당한 촬영장",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQm53Z1pScml4OE9Hd2diaXh3YW4yOTAxMFJZcXFyeFlKbG5scWFSQmJuTFVhTzQtY0ZfOVFMZzB2bUpxbWFQWUZTdTc1a2NhVDdLV1p3LVQ4VU5laWZwV2JnT2NTV0FXYjJxaFRmdjJEZjg3M2NZM2lGbGp5bUNkeQ?oc=5",
+              "source": "이데일리"
+            },
+            {
+              "title": "'어벤져스: 둠스데이' 캡틴 아메리카X토르, 12월 7일 한국 상륙 [공식] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Um1sLTRlc3Nncmo1NXFMVXlNRFEyaVg1UzY3bFRiMU5oTlZGbVc3bnBJZDU0VjZabFJ3OWxSZVBHMlktc3NPZFd0MFlCdEc5QmlkVU1zc0NwSkx1dXJOZElmQ1FEaUhGLXpSdjVvSVlHSmN1Sk5mUdIBeEFVX3lxTE12Um1sLTRlc3Nncmo1NXFMVXlNRFEyaVg1UzY3bFRiMU5oTlZGbVc3bnBJZDU0VjZabFJ3OWxSZVBHMlktc3NPZFd0MFlCdEc5QmlkVU1zc0NwSkx1dXJOZElmQ1FEaUhGLXpSdjVvSVlHSmN1Sk5mUQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "'어벤져스: 둠스데이'의 캡틴 아메리카 역 크리스 에번스와 토르 역 크리스 헴스워스가 다음 달 7일 한국을 공식 방문한다. 두 배우가 같은 장면을 함께 찍었는지를 두고 '처음 뵙는데'라는 황당한 에피소드가 화제가 되는 등 촬영 비하인드도 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드로, 내한 공식 발표가 팬들의 관심을 집중시킨 것으로 보인다.",
+          "headline": "어벤져스5 에번스·헴스워스, 내달 7일 내한"
+        },
+        {
+          "rank": 4,
+          "word": "민희",
+          "count": 1,
+          "articles": [
+            {
+              "title": "\"터무니없는 '만물 민희진설' 그만\"…하이브 주장 정면 반박",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxUERqSkF1bDRBYUVWNFJrRV9yU1k0N2FEMzk3cTM0dnd5RmN1R095ZVhCa193bDFBWU1JeFFjMWpmSWs5VElNZ0M3UjdtVXlTSDJ2c0R2WnktQQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "민희진 측, 뉴진스 계약 책임론 반박…‘만물 민희진설’ 비판",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNDNpVWwwdTlrTzNGTHdNR1RPaHB0QWpGM1I4X2xlZ0FHYVNuVnJEZ0lqdWtwSmQ5R05oazFuay1Xa2pKdnJJVGZ6VzE2MnhLQVg4N3FEd1dSTFdoNEZFUHBtQlFhR2hTSVp2SG5tMkdKWklDREpfdnlrOWpBdHpnalpYejUzOFJ2WncwWXlhaGQ5Nm9OWkNuaS1qd2h3eEQ2Mk5jSW9kZE50UlpRdGl0cmRmYVk2MF9NazlnRS1JS1l2S3hRTFJkUkMwNGMtZkVlalNOamIzblV4Nl9CcVQ5eW12MFBHOVhUcE9lS3l0QlFYaUd1ellLdG9Yd3JMRDZiLVRVQW9VaHYtN0JZYU5NeTVPZEllalln?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "민희진 \"하이브, 뉴진스 계약 승인해놓고 책임 전가…`만물 민희진설` 벗어나길\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zeldrS0xwNXkybllURENwZ0l6dXdHMGlCc0F6dGwxd2dKMm5mNUJVTmRJeGtvc0FCNV9OQTFJSnlub3IwZFgzZndyY3ZJRXVkanoyMFBvUWxNdy1TamRobw?oc=5",
+              "source": "마이데일리"
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "word": "김수현",
+          "count": 1,
+          "articles": [
+            {
+              "title": "배우 김수현, 가세연 영상 삭제신청...법원 \"범위 축소\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14RVRoa3pkV3lHX0dJWE1qSDl3TV9rcVFQbWVZTmxzaEZxM21jVXl4c0FmUHFEcnRoaDhOSmJlMzRVV1JyMjhvR19xUzIyOGdwQnA2NFlYRWotWVpSQUE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "김수현, 11일 김세의 명예훼손 재판에 증인 출석…비공개 전망",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YZThacGpZdzR5bFBNSHRBa1JZVXVDLThPLURsTE5fVmU2RDRLTlVXbWhIQ0xSQjhPeXFFbzZFS0czWEVzNDhUOHZCWnNzMmtxNTN2Wnk2Q1oydjDSAWBBVV95cUxOa1FSNEpQWXEwQ1ZxeW9xOW5qNjJhajlPQnlBRXpsbU5idUk1MVQzYXhTaEh1dnNZdGRhNXU5YXpVQlJlQUtrblBQeDRYOUV5cmhaMFduQWtPdEg0LWtIVXE?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "김수현·김혜윤 남녀배우 1위…김희재, 변우석과 2만4870표 차",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1M0tHVW1GMklRZm5SbFA3ZU10ajNQc0xJQ1QwNjh4ZGpTd0xXY185UGpnTnVoeTFySUd2UUtzWVF1dG0xRGp2WjBRRkRRei1VNjNoUGVyOHduTTFZbVVDelI0UkhBcURsQ3NzZmx3ME9VQQ?oc=5",
+              "source": "톱스타뉴스"
+            }
+          ],
+          "description": "배우 김수현이 유튜브 채널 '가로세로연구소' 영상에 대해 삭제 신청을 냈으나 법원이 범위를 축소 결정했다. 오는 11일에는 김세의 명예훼손 재판에 증인으로 출석할 예정이며, 비공개로 진행될 전망이다. 법적 공방이 이어지는 가운데서도 남녀배우 인기 순위에서는 1위를 기록하는 등 대중적 관심은 여전히 높다. 오늘 처음 트렌드에 등장했다.",
+          "headline": "김수현, 가세연 영상 삭제 신청·명예훼손 재판 증인 출석"
         }
       ]
     },
     "스포츠": {
-      "summary": "한국시리즈에서 삼성이 kt를 꺾고 1승 1패로 반격에 성공한 가운데, 조규성의 미트윌란은 아약스에 1-6 완패했다.",
+      "summary": "삼성이 한국시리즈 3차전에서 구자욱의 2타점 3루타 등을 앞세워 KT를 5-1로 꺾고 2승 1패로 앞섰다.",
       "keywords": [
         {
           "rank": 1,
           "word": "삼성",
-          "count": 6,
+          "count": 4,
           "articles": [
             {
-              "title": "반도체주 추락…삼성전자 9%·SK하이닉스 11%대 급락",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CMktITjI2TkR0dERIc0ZfNHdxTWdWX0NCYm9EVkpoUURGcGQ1T3BfMTZPdjEzcHpiTkVEaTFpOWpfdlNZNVFhM3loR2o4RFFldTV6SXByLUk1R3PSAWBBVV95cUxOY0E0bHl4THdCMXF0WjREck5JRFpCRzE5ZWhqekJEVjVueFpMc1F2ZEZabFVUd0tNdjVtSDc0dnNrODNkWENyRTN0WUh0TkJQWEI1bXc4ODZtTE5QVExWQng?oc=5",
-              "source": "연합뉴스"
+              "title": "삼성, 한국시리즈 3차전 5-1로 kt 제압… 1패 뒤 2연승",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5SEhNQkRsWm9MRUZqamVXS3VCaE5YV3J5YkxGNmQtOFU2ajBnQk1KaWdrSUhDcVR3THNtcWxlc3Y3SzNTNmxKQmxOOU14MGh6Vlp4bE9kQ3hpd080VFpkUms1dzNhLVM3dGc?oc=5",
+              "source": "천지일보"
             },
             {
-              "title": "삼성, 폐쇄한 기흥 8인치 S7 장비 300대 DB에 통째 매각",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iOU40VUpWTlMyYW5YdFZabDdXck93RVB1NXJpdDdCdURBS19qSFJFZktMcXY3a2dBRTItbWVxMkZ6ZnNFdnBfYTNSLUpQLWI4bGFMNXFERUxmc1J0S0FNNUtTWk1IUQ?oc=5",
-              "source": "디일렉"
+              "title": "삼성전자 주주환원 유보에 증여세 논란…이사회 독립성 시험대",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54V1hjWFlTOGhyOC1LVEs3QUV6aldGcnliamNwaHBZNUQ2R1RsVFZOSVNGZ3pGVFNtU21KZHdaZEVvWTlPY1J0b3NBTXNQV1RxSWVkQ0ZwYUpqSU1HSGJYT3BRXzIxYmxiRUJrOWVZVDM?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "삼성바이오 노조, 오늘부터 부분파업…400명 규모",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oNWg1ZDBobGtHUkFIaFZCdTlJUFdKaWRjUTB4N0JOYVVSazBLRE5Ec2xZamhGanBGbFBVcnExOUJ5MWxEU1lYNDhLbl96RlY3UWloVEdQUG5DZ9IBX0FVX3lxTE85bUEyZXJyRXY5VzNxNkIzT1VWQmlHYWs2SGI0QmFQa2YxdUtlQ3MwX3lOLXVLY0h1MDl1OUNWVEVBX2l6S2FXeWJGb0JNRlVlNl96bzg0ZDNTSlRMcUxr?oc=5",
-              "source": "경향신문"
+              "title": "삼성전자 노태문 대표이사, 자사주 3천 주 매입‥6억 3천만 원 규모",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MTi1sZnRsYTJMXzZIRExPSlFTOHJuRXU5VWUwbWVUT0J4ME1WNWZRSTUxRzZPS2FCT0FGNU9rZ1pEQ0VlNEdCSWxBVmNyVlJvZVlpSTNfQ29hdXRCUUFhME1vM0c4TGU5VWVscGlhMmptUEl10gF0QVVfeXFMTktPV2pTeVJzbVBYd0xaRlZuSGNtdHFLRmRvTk1CNHVaTjhQNm43ZVhHbElYdndwVTIzeUpfbXQ5c0NGdEtuQUItVVFlNHVxdDJyZWVqQ3U4YzVhemhmd0EwOXIxTWZIZHRBcVpCUnRIZEc2SWg?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "삼성전자가 9%대, SK하이닉스가 11%대 급락하며 반도체주가 일제히 추락했다. 삼성은 기흥 8인치 S7 라인 폐쇄 후 장비 300대를 DB에 통째로 매각하는 등 사업 구조 조정 움직임도 이어지고 있다. 삼성바이오로직스 노조는 오늘부터 400명 규모의 부분파업에 돌입하며 내부 갈등까지 겹쳤다. 삼성 관련 이슈가 연이어 쏟아지며 8일 연속 1위를 기록 중이다.",
-          "headline": "삼성전자 9%대 급락"
+          "description": "삼성 라이온즈가 한국시리즈 3차전에서 KT를 5-1로 제압하며 1패 뒤 2연승을 달렸다. 구자욱의 2타점 3루타 등이 터지며 흐름을 완전히 가져온 가운데, 이승엽 감독의 선수 기용도 주목받고 있다. 야구 외에도 삼성전자 관련 소식이 이어지고 있는데, 노태문 대표이사가 자사주 3천 주를 약 6억 3천만 원 규모로 매입했으며, 주주환원 유보를 둘러싼 증여세 논란과 이사회 독립성 문제도 화제다. 삼성은 9일 연속 1위를 기록 중이다.",
+          "headline": "삼성, KT 꺾고 한국시리즈 2연승"
         },
         {
           "rank": 2,
-          "word": "완패",
-          "count": 3,
+          "word": "이닝",
+          "count": 2,
           "articles": [
             {
-              "title": "’조규성 45분’ 미트윌란 완패…오현규의 베식타시도 역전패",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVm1ILUtvMW9kUlNPdk1XV0RQUUx3a2UwMTMxdFdZT1J5WFp6TURYRkZpYTgyaFVpVVo0LTk1VF9NNDdoSVdhV3E0aGVvbDg5cmpLTnR2NDRrQm5EOC15R05pNnFzNTQ?oc=5",
-              "source": "연합뉴스TV"
+              "title": "‘2차전 7이닝 1실점’ KT 고영표 “페덱의 샤라웃 고마워, 다음 등판에서는 제가 이기고 샤라웃 하...",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMTY2NzJIV2RyVHBnUzBWX2xLcGFHRnJvTVM2MGpQRDBaWXdtYktPXzRwZlJ2ZlpRcExNZ2w4NHZScGJGVHlGb29MNVpCdnowS24wSHRYdHQzdlR3bkHSAWNBVV95cUxQeUNDLTBJUDVWZ2pZMkVuQnE0TGVmNnpzU09RWEZid3lBclFsQ3dUX1QwX0J1NjdNcDNJUmRZMDRaZ0xCU0h4UDV0azJMUHR2XzRteUo1XzdkWFZjZGEzdHBnS0U?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "'조규성 선발출전' 미트윌란, UECL 3차전서 아약스에 1-6 완패",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wWVlmdTRISDEzc2pDZ3pqSU9WMjh6anFDWHpZcGtuWDZKU2xqbjd6RGV4RU53M0lpREZsOV9sc0dvOFdiQ3hlT0Q1QnZCdE4zZEVtcW01ZGxMUkHSAWBBVV95cUxORjg2RkJZTUFvVEpRTFlQWUJKOHF4Y0t6emNPWGhyTDNza2pnQnY1QUY0M1RqTDd1czZYcG5YWDloRXotWmNIUXM4RkdmLTlBem5tS0xjNW1RT1ZDXzV6dmk?oc=5",
-              "source": "연합뉴스"
+              "title": "'이게 한국시리즈지' 고영표·페덱 7이닝 1실점 숨 막히는 명품 투수전",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ST2l4V2x6eXJTazVNZnl6U2ZpSW96a2lpYVIyWnhqSVpoTXJpT1Y3bm4yUXllQ1k4QkI4NGRCUXV6dl9ZQ0hVaG0xTVN5VXR0bkE?oc=5",
+              "source": "노컷뉴스"
             },
             {
-              "title": "'조규성 선발·홍현석 교체' 미트윌란, 수적열세 속 1-6 완패",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4dE5ZSDlxbldwbkt5OXRUNWdPLXpjckJfekxpZ0wzME5hdjJhY3o1akkxel9lMGNlQVMwdUhNeFNBLXVGbHdEeUkxeTJwV3NDUno2ekM1VFZaQ1dS?oc=5",
-              "source": "뉴스핌"
+              "title": "사자 잡는 KT 고영표, 7이닝 1실점…돋보인 위기관리 능력[KS2]",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43VnBoRkFMMnNDd0FWQXp2azRYc2U5MjRQQjFCQTFMeUxtZGRkOHZTOTl1aHJpaHhtNkFDT1VnQm56d2VPV2JVMjlVb0JKNWkxU2FmMGpBVQ?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "조규성이 선발 출전한 미트윌란이 UECL 3차전에서 아약스에 1-6으로 완패했다. 조규성은 45분 만에 교체됐고, 미트윌란은 수적 열세까지 겹치며 대패를 피하지 못했다. 같은 날 홍현석도 교체 출전했으나 팀의 흐름을 되돌리기엔 역부족이었다. 오늘 처음 등장한 키워드다.",
-          "headline": "미트윌란, 아약스에 1-6 완패"
+          "description": "한국시리즈 2차전에서 KT 고영표와 삼성 페덱(Fedde)이 각각 7이닝 1실점을 기록하며 숨 막히는 투수전을 펼쳤다. 고영표는 경기 후 상대 선발 페덱의 샤라웃에 고마움을 표하면서도 '다음 등판에선 내가 이기고 샤라웃 하겠다'며 각오를 다졌다. 두 선발의 압도적인 위기관리 능력이 돋보인 이번 맞대결은 '이게 한국시리즈'라는 평가를 받았다. 오늘 처음 등장한 키워드다.",
+          "headline": "고영표·페덱, 7이닝 1실점 명품 투수전"
         },
         {
           "rank": 3,
-          "word": "원태인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "5차전은 잊어라! '선발 복귀' 원태인 카드, 4차전에 써야 하는 두 가지 이유 [KS]",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW5aTmUweGZrZW42R0stbk9xUDhvM21zMFlnbVQtZ2dudGN2RFJJLUVVcXVuclFQUFhDMGhPR3pFQXN4U29BekczM1JhT190R093RFRPWFotekVPOGp2MFBiRDdSb2FZVDh6S24xWTFGdnJBTUNHVXZoazdRT1VkQ05OMA?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "'삼성 팬들이 사랑하는 후라도 뜬다' 삼성 라인업 발표! 43세 최형우 4번타자 좌익수, 김영웅 6번→류지혁 8번…원태인 안 나온다 [MD대구 KS3]",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wODRLTHRDeGc3Wll1b1NrRHlqeERuTldDYlVDZkhiUXJoQ1VRenl5WThpUC1JOUxqZjRxc28tcGd0UVJVTXZya2RxQkZPSkJtQjlsQWpOdnNUZWtBWWhMNw?oc=5",
-              "source": "마이데일리"
-            },
-            {
-              "title": "삼성 박진만 \"철벽 박영현? 언젠가는 치겠죠 ... 원태인은 5차전 선발\"",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXN3emZMclUxMUNQNE5FUjlhVHhoU0hhZUk3cTZJTVdpZjlOUkpKaXNrSGFYd3dncFZSc1RTY0Q3bmJWdmFNdmhaeVI1LWM3WGZ5d0hKc212SHIyTVIyVnItVTVRV3dNNWNmZTBHN2dmWnl0TWFIVVRabXRGc0dndGE0bw?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "삼성 라이온즈 박진만 감독이 원태인을 한국시리즈 5차전 선발로 낙점했다고 밝혔다. 3차전에는 원태인이 등판하지 않는다고 공식 발표됐으며, 일각에서는 승부처인 4차전에 원태인 카드를 미리 써야 한다는 주장도 나오고 있다. 선발 복귀 시점과 등판 순서를 둘러싼 전략 논쟁이 뜨거운 화제다. 오늘 처음 등장한 키워드다.",
-          "headline": "원태인, 한국시리즈 5차전 선발 예고"
-        },
-        {
-          "rank": 4,
-          "word": "반격",
-          "count": 2,
-          "articles": [
-            {
-              "title": "`선발진 변화 준다` 반격 성공한 삼성 라이온즈, 한국시리즈 전략 수정",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxTFYxZGxwWUdIeU1MN1NXODJMVHNuNlhCWHRCV3QzNS1rdGM1U0x4WXpvSjZ6S1V3R2ZPajFFODJtT0F3THhaX1BhcHJyNURVLWlTUkNsRUlBZG5WRU9Tb2Rn?oc=5",
-              "source": "매일신문"
-            },
-            {
-              "title": "삼성의 '반격' 시작, 연장 12회 끝에 kt 잡았다 … KS 1승 1패",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1dXdlR4eElyWFBHUHBSNDJIZ011Wm43MzRUMjN6UDhZa2ptdDFBd1duQlhSS0xKSllOQm1ud1NjOS11VzEyWkVHc2dINk9qMTZCT2lEaUpCZDVvVzZwSzdiRUJXYmwzUzdWOTRZeEpTOTlXZGxEWGxBVElScXVnONIBgAFBVV95cUxNR1dXdlR4eElyWFBHUHBSNDJIZ011Wm43MzRUMjN6UDhZa2ptdDFBd1duQlhSS0xKSllOQm1ud1NjOS11VzEyWkVHc2dINk9qMTZCT2lEaUpCZDVvVzZwSzdiRUJXYmwzUzdWOTRZeEpTOTlXZGxEWGxBVElScXVnOA?oc=5",
-              "source": "뉴데일리"
-            },
-            {
-              "title": "치열한 선두 경쟁 펼치는 2위 삼성라이온즈..여름 끝자락 반격 가능?",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0w5ZGtoNS1xd1Zlamc0ZmtLZVBpMFlnb1NQRFhnakVzNHg4NWw1al9aVVdPbm1MZDRtU0ZrQVhvSlZlSk11NkZ2RURCRlk3V1lvcjVPWUtjVU14OElUa1poVFV5NFFBTzlONWp3elRZSnNOel81OXJ1REt6VWVNdnRabzNDN2RRTE53Z2ZvNWZtYWdJUWdSaVFKRlhBcnM?oc=5",
-              "source": "안동MBC"
-            }
-          ],
-          "description": "삼성 라이온즈가 한국시리즈에서 연장 12회 접전 끝에 kt를 잡아내며 1승 1패로 균형을 맞췄다. 반격에 성공한 삼성은 선발진 운용 등 전략을 수정해 나머지 경기에 대응할 계획이다. 치열한 시리즈 흐름 속에 삼성의 반전 가능성에 팬들의 관심이 집중되고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼성 라이온즈, 연장 끝에 KS 1승 탈환"
-        },
-        {
-          "rank": 5,
-          "word": "박진만",
+          "word": "구자욱",
           "count": 1,
           "articles": [
             {
-              "title": "박진만 감독 '김지찬 상태 괜찮다' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vWmhhdnplSHV2WjhyeGsyVllObmU1QlRySEEycHVaNlhvYXdEbHlCdkV1YlF1NDFfMmNGQTFCeFptQ2RJdkczbExhVWpwbWs1SDY0eTdwNW14Nm45T3l0MnQwanMxWVhwdnfSAW9BVV95cUxQdU0zUlRvMl9mTVR5bFA3X0dkQkQzcVBlLVVURnYzbkxvUldYTk1OMjJPa0VYdl8wU25DV0l2OUNDcndXQW5JYWZ3aGNjY3pGcFZZMkJIVmlkek9BeUlVbGdoRFRtT2xFd0J0RjVCSTA?oc=5",
+              "title": "이승엽 “꼭 우승하라” 삼성, 후라도+구자욱 카드로 KT 완파…2승1패[한국시리즈]",
+              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPWDctVXlSYzhDYUNwUTQ4OWRjczlDQTFPbTFaOVpvOHY1enRwYVRjY280QTgyQ3kwbTM4QjdDdHVtd3M0LXA4SEE5YzIxaGRSV1F4c2hYUk9aUjlTY3NhZXdnRWNKQWNyU1RwWEFsOWpnUlAxRXd1SnRNRUVjSGF1bmhvSHZ5SWRqYzZDRFdRN1dfSV9weHQ4MEFLbDhQOGVsTFdzNWFKX1BlSEt0ZzdRcTU0S3pSLUVHOFl5cU92bWJzY2VOX3pZbzVLQlJLY2c1UktNQXFmdkJkY3o4dnlFUWpUelppeXljYlZTZEE4eDEwd1hBeENwY2hBeENzci02SlN0NnpWMTJFOXF5cTBtOTUtVHJ2elFQYTVhODRCVXlKalk?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "'이승엽 깜짝' 삼성 레전드는 왜 두산 시절부터 그렇게 감탄했나…\"구자욱 이제 진정한 라이온즈 리더다\", \"이승엽 감독님은 나의 영웅\"",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDdHc1VExkaDlEWWJCQVhua3ZPT0taVHBYMVZXMGhiN3o5cHZNSEdRRnRQc0c1NWFWLVFQN1NQYUtJbDhpU2hCME9naVl5Z0hvLWtGTV9DSmZOc2I1Z28wSFo2Z1lNdw?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "'무관의 주장' 삼성 구자욱 \"선수들의 의지가 승리 만들었다\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5selJrWmNtUVgxSkZUcVRETEx1azNzdEx0WlZkTzYtSkNLckYyWnJ3WXN6ZU0zUlNuSmd2dkxZbEJqbnVlcF9kNWMyMHlLbURRS2x2dGN0Vkljem5hbEVIWtIBYEFVX3lxTE5selJrWmNtUVgxSkZUcVRETEx1azNzdEx0WlZkTzYtSkNLckYyWnJ3WXN6ZU0zUlNuSmd2dkxZbEJqbnVlcF9kNWMyMHlLbURRS2x2dGN0Vkljem5hbEVIWg?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "삼성 구자욱이 한국시리즈 3차전 2회에 2타점 3루타를 터뜨려 팀 승리를 이끌었다. 부상으로 아픈 다리를 이끌고 질주한 장면이 화제가 됐으며, 이승엽 감독을 비롯한 삼성 레전드들도 그를 '진정한 라이온즈의 리더'로 추켜세웠다. 구자욱 본인도 경기 후 '선수들의 의지가 승리를 만들었다'며 팀 공을 돌렸다.",
+          "headline": "구자욱, 2타점 3루타로 한국시리즈 승리 견인"
+        },
+        {
+          "rank": 4,
+          "word": "결정",
+          "count": 1,
+          "articles": [
+            {
+              "title": "구자욱 회복세에 반색한 박진만 감독, 최형우 좌익수 기용은 여전히 고민…\"단기전은 수비가 중요\" [오!쎈 대구]",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0ttS1A5RHNBLVpFVTQ3MkE2RHBzdFBZUVUxLUc4STcxOEtuTHJhUmpSbnFWRkpvQVNHanZQOWJBM0ZWS3NBN3Zlbm83bWRjdTBEVGNIYXYwV3UyUzNfUlJadmlKYnVNQUQwRUJtZGItT0tnaFB1S080UGVSM0RVUXRzbw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "구자욱, PO 1차전 지명타자? 대타? “담장 밖으로 넘기고 살살 뛰면 최고” 박진만 감독의 유쾌한 바람 [오!쎈 대구] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tdTA5QlNGYnJpNmhqaW9HZkpfQlZVQTlaMVlEUXBmRmk4eGJ5cnFUNFdCbHJmVkRzRUZSakJPdVg4QTBNcmR6cHE4S2pHZ2F3Vy15Ym9PTTdCdU9oaFg3OUVRSDFlV1dSSnfSAW9BVV95cUxQdmdsSUZROGFQcUlNWlJzbnNvRURSV0RyMmxyS1A5eklQSllncU05dXh5aW5YM2dMOUlUelk1djRrSjhkcnJBWWlQNkZyend4WlNxUUM0ZnRjQU5tVzkyRUI4TU5Ba0p3clBwMFMzeUk?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "박진만 감독 \"소형준 빨리 내려야 승산…원태인 5차전 선발\"[KS3]",
-              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5GbXNkandYWXVGZnFHQnJNM3UzelRrdDFhS0VoZ2NJd3BRM2JBQ0hQMFNnT0FZbnJWX2ZhdVo2WUk4dGM0ZFo3OWZtYUoxTEVJZllRc2NUWQ?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "한국시리즈 3차전 각오 전하는 삼성 박진만 감독",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlpsTnJSYkVaT1NjdlpPeDRMdjQtRVRJaHVydjN3R2dFUWV1MkNMbVk5WkdGb1ZXbTIzZm40b2pWMUhxckhkNjZOVmpyOE00TjN2Y3RSYWRTMExGQUo2eEhCc2VZcTYyMW4wQ2dHMVNneG4wQ2xkQ1VPN0Q2ME4tSlpuU2JzNG11?oc=5",
-              "source": "조선일보"
+              "title": "구자욱 먼저, 최형우 대기… 박진만 감독의 선택 “단기전엔 수비 중요”",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uS09ZajV3MHlzZ2Z2eEdsb3lhYWRiNEs4Mi1XRF91N0VVSXV2aWNRLUo4S294R2FZdlYzbWdSYUxGODY0dVBOQnllaDFkNnJrZm51RjZsT0xVcUZydk1LekFR?oc=5",
+              "source": "스포츠월드"
             }
           ],
-          "description": "삼성 라이온즈 박진만 감독이 한국시리즈 3차전을 앞두고 각오와 전략을 밝혔다. 박 감독은 '소형준을 빨리 내려야 승산이 있다'며 상대 선발 대응 방침을 언급했고, 5차전 선발로는 원태인을 낙점했다. 부상 우려가 있던 김지찬에 대해서도 '상태가 괜찮다'고 전하며 전력 이탈 걱정을 일축했다. 오늘 처음 등장한 키워드로, 한국시리즈 열기 속에 주목받고 있다.",
-          "headline": "박진만 감독, 한국시리즈 3차전 선발 전략 공개"
+          "description": "삼성 박진만 감독이 한국시리즈를 앞두고 구자욱과 최형우의 포지션 기용을 두고 신중하게 저울질했다. 단기전에서 수비가 중요하다는 판단 아래 최형우의 좌익수 선발 여부를 고민했으며, 구자욱에 대해서는 지명타자 또는 대타 활용 등 여러 선택지를 열어뒀다. 결국 구자욱을 먼저 내세우고 최형우를 대기시키는 방향으로 가닥을 잡았다. 오늘 처음 등장한 키워드다.",
+          "headline": "박진만 감독, 구자욱·최형우 기용 고심"
+        },
+        {
+          "rank": 5,
+          "word": "3루타",
+          "count": 1,
+          "articles": [
+            {
+              "title": "구자욱 2타점 3루타, 달아나는 삼성",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVaW10d24zVGlQMU1GcmJoTVc0U21QVE1LVkZfWGF2VTNRcHEyanJFWkhNMzZ5NEdaQjZPQmsxTjNmS0wzVHFmbUZuUHlscGhKbGEwQzloRGRNMHRVam04YWhVM0p6QQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "구자욱, 짜릿한 2타점 3루타",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OQkhrQjN5RC1HSU5KNFNlWE15TXNacHNlNVlPdUptc3lJLXBwdkdrT3ZGQzA2UThUUEMzSmJ4UDlvZzd1Z21wbncxX2Q3S1hZdmlDRzg4YWVrRUpVWGhlaVFDbkxoMzNBUjVmaHhxWnVzSHRieV9fTUVQTkt3UQ?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "'무관의 주장' 삼성 구자욱, 2회 2타점 3루타…아픈 다리로 질주",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiSkNTNVhZanV2UGIzT2ZiWXNsd2ZnRE9yNEpnSDdvbGthMWhGek1GSkNpOEQ3V3F0UkNOYk5XMEljc1FINDIxeGV3WnJxTTJ2Ni15YTRvS3BqU0XSAWBBVV95cUxOTTRCUlBEemdYaGlnQ0Zpal8tVUZrZGRaR0NNTl9TQnpreUtDZHVXYmhVRExDOFFxMXBCTHJOSHF4VGNHYTd4eDFxY2wwTTVxSjVFTTBxTUR1eERVYTk5Sjg?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "삼성 구자욱이 한국시리즈 3차전 2회에 짜릿한 2타점 3루타를 터뜨리며 팀의 점수 차를 벌렸다. 부상 중에도 전력 질주를 마다하지 않은 모습이 팬들의 뜨거운 호응을 얻었다. 이 한 방이 삼성이 KT를 5-1로 완파하는 흐름의 발판이 됐다는 평가다. 오늘 처음 등장한 키워드다.",
+          "headline": "구자욱, 2타점 3루타로 삼성 달아나"
         }
       ]
     }
