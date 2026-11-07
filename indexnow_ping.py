@@ -52,11 +52,16 @@ def is_live(url: str) -> bool:
 
 def main() -> int:
     urls = collect_urls()
-    probe = urls[1]  # 오늘 날짜 페이지 = 새 배포가 반영됐는지의 신호
+    # 날짜 페이지만 보면 저녁엔 아침 배포본으로 이미 열려 있어 새 키워드 페이지가 404인 채로 핑했다.
+    # 알릴 페이지가 전부 열릴 때까지 기다린다(이미 열린 건 다시 확인하지 않음).
+    pending = list(urls)
     deadline = time.time() + DEPLOY_WAIT_SEC
-    while not is_live(probe):
+    while True:
+        pending = [u for u in pending if not is_live(u)]
+        if not pending:
+            break
         if time.time() > deadline:
-            log(f"배포 대기 시간 초과 — {probe} 미응답, 핑 건너뜀")
+            log(f"배포 대기 시간 초과 — {len(pending)}개 미응답(예: {pending[0]}), 핑 건너뜀")
             return 0
         time.sleep(30)
 

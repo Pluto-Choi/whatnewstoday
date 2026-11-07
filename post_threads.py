@@ -14,7 +14,9 @@ Threads 자동 게시 스크립트.
   ANTHROPIC_API_KEY     - 훅 한 줄 생성용(없거나 실패하면 훅 없이 게시)
 
 둘 중 하나라도 없으면 조용히 건너뛴다(파이프라인을 깨지 않음).
-게시 실패도 비치명적으로 처리하고 종료 코드 0을 반환한다.
+push 뒤에 실행된다: 새 키워드 페이지는 재배포 전까지 404라 링크 첨부가 실패하므로,
+페이지가 열릴 때까지 기다렸다 게시한다. 게시 실패 시 1회 재시도하고, 그래도 실패하면
+종료 코드 1로 끝내 실패가 Actions에 드러나게 한다(예전엔 조용히 성공으로 떴음).
 직전 게시와 내용이 동일하면(키워드 변동 없음) 중복 게시를 건너뛴다.
 """
 
@@ -33,6 +35,8 @@ SITE = "https://www.whatnewstoday.com"
 DATA_PATH = "data/keywords.json"
 STATE_PATH = "data/threads_state.json"
 TEXT_LIMIT = 490  # Threads 본문 한도 500자보다 여유
+DEPLOY_WAIT_SEC = 900  # 재배포 반영 대기 한도
+RETRY_WAIT_SEC = 60
 
 HERO_CATEGORY = "오늘의 이슈"
 CAT_EMOJI = {"오늘의 이슈": "🔥", "경제": "💰", "연예": "🎤", "스포츠": "⚽"}
@@ -87,10 +91,28 @@ def make_hook(headline: str, description: str) -> str:
     return hook
 
 
+def keyword_url(k: dict) -> str:
+    return f"{SITE}/keyword/{urllib.parse.quote(k['word'].strip())}"
+
+
+def wait_until_live(url: str) -> bool:
+    deadline = time.time() + DEPLOY_WAIT_SEC
+    while True:
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "whatnews-threads"})
+            if urllib.request.urlopen(req, timeout=20).status == 200:
+                return True
+        except Exception:  # noqa: BLE001 - 404/타임아웃 모두 '아직 안 열림'
+            pass
+        if time.time() > deadline:
+            return False
+        time.sleep(30)
+
+
 def build_text(category: str, k: dict, hook: str) -> str:
     word = k["word"].strip()
     headline = (k.get("headline") or "").strip() or word
-    url = f"{SITE}/keyword/{urllib.parse.quote(word)}"
+    url = keyword_url(k)
     lines = [f"{CAT_EMOJI.get(category, '🔥')} 지금 가장 많이 찾는 뉴스", "", headline]
     if hook:
         lines.append(hook)
@@ -166,16 +188,26 @@ def main() -> int:
 
     text = build_text(category, k, make_hook(k.get("headline", ""), k.get("description", "")))
 
-    try:
-        post_id = publish(user_id, token, text)
-        log(f"게시 완료 id={post_id}")
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode()[:300]
-        log(f"::warning:: 게시 실패(HTTP {e.code}): {detail}")
-        return 0
-    except Exception as e:  # noqa: BLE001 - 게시 실패는 비치명적으로 처리
-        log(f"::warning:: 게시 실패: {e}")
-        return 0
+    url = keyword_url(k)
+    if not wait_until_live(url):
+        log(f"::error:: {DEPLOY_WAIT_SEC}초 기다려도 키워드 페이지가 안 열림 → 게시 안 함: {url}")
+        return 1
+
+    post_id = None
+    for attempt in (1, 2):
+        try:
+            post_id = publish(user_id, token, text)
+            log(f"게시 완료 id={post_id}")
+            break
+        except urllib.error.HTTPError as e:
+            log(f"게시 실패 {attempt}/2 (HTTP {e.code}): {e.read().decode()[:300]}")
+        except Exception as e:  # noqa: BLE001
+            log(f"게시 실패 {attempt}/2: {e}")
+        if attempt == 1:
+            time.sleep(RETRY_WAIT_SEC)
+    if post_id is None:
+        log("::error:: Threads 게시 2회 모두 실패")
+        return 1
 
     save_state(
         {

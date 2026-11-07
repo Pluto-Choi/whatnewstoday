@@ -54,12 +54,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: pip 캐시 (torch 휠 재다운로드 방지)
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-ner-torch-cpu-transformers-5.10.1
+          # pip 캐시: 키가 requirements 해시라 버전을 바꾸면 새로 저장된다(고정 키는 처음 저장본에 갇혔음).
+          cache: pip
+          cache-dependency-path: requirements-collect.txt
 
       - name: HuggingFace 모델 캐시 (modu-ner 재다운로드 방지)
         uses: actions/cache@v4
@@ -68,9 +65,7 @@ jobs:
           key: hf-Leo97-modu-ner-v1
 
       - name: 라이브러리 설치
-        run: |
-          pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install feedparser kiwipiepy "numpy<2" anthropic transformers==5.10.1
+        run: pip install -r requirements-collect.txt
 
       - name: 키워드 수집 실행
         run: python collect.py
@@ -86,6 +81,16 @@ jobs:
           if len(cats) < 2:
               print('ERROR: 카테고리가 2개 미만입니다')
               sys.exit(1)
+          # AI 단계가 통째로 실패(크레딧·키 만료)하면 형식은 멀쩡해도 설명·브리핑이 빈다 → 배포·게시 막기
+          b = data.get('briefing') or {}
+          if not (b.get('text') if isinstance(b, dict) else b):
+              print('ERROR: 브리핑이 비어 있습니다')
+              sys.exit(1)
+          kws_all = [k for c in cats.values() for k in c.get('keywords', [])]
+          filled = sum(1 for k in kws_all if (k.get('description') or '').strip()) / max(len(kws_all), 1)
+          if filled < 0.7:
+              print(f'ERROR: 설명이 채워진 키워드가 {filled:.0%}로 70% 미만입니다')
+              sys.exit(1)
           for name, cat in cats.items():
               kws = cat.get('keywords', [])
               if len(kws) < 3:
@@ -97,14 +102,8 @@ jobs:
           print(f'OK: {len(cats)}개 카테고리, 총 {sum(len(c[\"keywords\"]) for c in cats.values())}개 키워드')
           "
 
-      - name: Threads 자동 게시
-        run: python post_threads.py
-        env:
-          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
       - name: 결과 저장 (Git commit + push)
+        id: push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
@@ -112,12 +111,14 @@ jobs:
           git add -A data/
           git commit -m "Update keywords $(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M KST')" || { echo "변경사항 없음"; exit 0; }
 
-          # 충돌 방지: 최대 3회 재시도
+          # 충돌 방지: 최대 3회 재시도. 다 실패하면 스텝을 실패로 끝낸다(예전엔 마지막 sleep 때문에 성공으로 떴음).
           for i in 1 2 3; do
-            git pull --rebase origin main && git push && break
+            git pull --rebase origin main && git push && exit 0
             echo "Push 재시도 ($i/3)..."
             sleep 5
           done
+          echo "::error::push 3회 모두 실패"
+          exit 1
 
       # 수집 성공 직후 급상승 본문 생성 루틴을 즉시 호출(이벤트 체이닝).
       # 고정 시각 추측 대신 키워드가 푸시된 그 순간 본문이 따라붙는다.
@@ -136,7 +137,34 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{"text": "키워드 수집 완료 — 급상승 본문 생성해줘."}'
 
+      # 게시는 push 뒤에: 새 키워드 페이지는 재배포 전까지 404라 링크 첨부가 실패했었다.
+      # post_threads.py가 키워드 페이지가 열릴 때까지 기다렸다 게시하고, 실패하면 1회 재시도 후 스텝을 실패로 끝낸다.
+      - name: Threads 자동 게시
+        id: threads
+        if: ${{ !cancelled() && steps.push.outcome == 'success' }}
+        run: python post_threads.py
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      # 중복 게시 방지용 상태만 따로 커밋. vercel.json ignoreCommand가 이 파일만 바뀐 커밋은 빌드하지 않는다.
+      - name: Threads 상태 저장
+        if: ${{ !cancelled() && steps.push.outcome == 'success' }}
+        run: |
+          git add data/threads_state.json
+          git diff --cached --quiet && { echo "상태 변경 없음"; exit 0; }
+          git commit -m "Update threads state"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          echo "::error::threads_state push 3회 모두 실패"
+          exit 1
+
       # 새 키워드 페이지를 네이버·Bing에 바로 알린다(IndexNow). 재배포 반영을 기다렸다 핑.
+      # Threads 게시가 실패해도 색인 요청은 보낸다.
       - name: IndexNow 색인 요청
+        if: ${{ !cancelled() && steps.push.outcome == 'success' }}
         continue-on-error: true
         run: python indexnow_ping.py

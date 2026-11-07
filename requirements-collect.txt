@@ -1,0 +1,9 @@
+# collect.yml 수집 의존성. 버전 고정(2026-11-07 기준 CI에서 돌던 버전) — 올릴 땐 로컬/수동 실행으로 확인 후.
+# 이 파일 해시가 pip 캐시 키라서, 바꾸면 캐시도 새로 만들어진다.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu
+transformers==5.10.1
+feedparser==6.0.14
+kiwipiepy==0.24.1
+numpy==1.26.4
+anthropic==2.6.0
