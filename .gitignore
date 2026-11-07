@@ -74,3 +74,9 @@ experiments/
 invest-news/
 tech-news/
 gukshil_qr*.png
+
+# Notion 페이지 로컬 백업 (UTF-8 원본, 인코딩 손상 대비)
+notion_backup/
+
+# OpenClaw 로컬 상태
+.openclaw/

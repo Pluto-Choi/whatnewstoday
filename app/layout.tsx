@@ -84,14 +84,6 @@ export default function RootLayout({
             __html: `(function(){try{var t=localStorage.getItem('theme');var d=t?t==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;if(d)document.documentElement.classList.add('dark');}catch(e){}})();`,
           }}
         />
-        {/* PWA 제거 정리: 예전에 등록된 서비스워커와 캐시를 재방문자 브라우저에서
-            해제·삭제한다(안 그러면 옛 캐시가 계속 남아 오래된 화면을 보여줌).
-            충분히 배포된 뒤에는 이 스크립트를 지워도 된다. */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(){if('serviceWorker'in navigator){navigator.serviceWorker.getRegistrations().then(function(rs){rs.forEach(function(r){r.unregister()})}).catch(function(){})}if(window.caches&&caches.keys){caches.keys().then(function(ks){ks.forEach(function(k){caches.delete(k)})}).catch(function(){})}})();`,
-          }}
-        />
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
         {/* Pretendard를 렌더 비차단으로 로드한다 (media=print → onload 시 all). */}
         <script

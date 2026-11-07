@@ -1,3 +1,0 @@
-NOTION_WRITE_OK
-mcp__Notion__notion-update-page
-no-id
