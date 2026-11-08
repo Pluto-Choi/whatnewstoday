@@ -4,27 +4,64 @@ import path from "path";
 import type { Article, KeywordsData, KeywordSection, KeywordSource } from "./components/KeywordDisplay";
 import { HERO_CATEGORY } from "./categories";
 
+// 데이터는 빌드에 굽지 않고 런타임에 GitHub main에서 읽는다(데이터 커밋마다 재배포하지 않기 위해).
+// 1) 현재 main 커밋 SHA를 git smart-HTTP(info/refs)로 얻는다. no-cache 응답이라 CDN 지연이 없고
+//    REST API의 시간당 호출 제한도 없다. 이 fetch에만 태그를 달아 /api/revalidate가 무효화한다.
+// 2) 파일은 raw.githubusercontent의 SHA 고정 URL로 읽는다. 내용이 불변이라 영구 캐시해도 되고,
+//    한 렌더의 모든 파일이 같은 커밋에서 오므로 "반쯤 갱신된" 섞임이 생기지 않는다.
+// 실패(네트워크/비200)는 throw → 빈 데이터로 렌더하지 않고 ISR이 마지막 정상 페이지를 계속 서빙한다.
+// 로컬 개발(next dev)이나 DATA_SOURCE=local이면 예전처럼 data/ 파일을 직접 읽는다.
+// DATA_REPO/DATA_RAW는 테스트용 덮어쓰기(로컬 GitHub 흉내 서버).
+const LOCAL = process.env.NODE_ENV === "development" || process.env.DATA_SOURCE === "local";
+const REPO = process.env.DATA_REPO ?? "https://github.com/Pluto-Choi/whatnewstoday";
+const RAW = process.env.DATA_RAW ?? "https://raw.githubusercontent.com/Pluto-Choi/whatnewstoday";
 const DATA_DIR = path.join(process.cwd(), "data");
-const HISTORY_DIR = path.join(DATA_DIR, "history");
-const DATE_RE = /^\d{4}-\d{2}-\d{2}\.json$/;
+export const DATA_TAG = "data-ref";
 
-// 데이터 파일은 빌드 시점에 고정된다(수집→커밋→재배포 주기). 정적 생성 시
-// 342개 키워드 페이지가 각각 별도 요청이라 React cache()로는 페이지 간 공유가
-// 안 되고 같은 JSON을 매 페이지 다시 읽고 파싱한다. 파일별로 프로세스 전역
-// 프로미스를 메모이즈해 빌드 전체에서 한 번만 읽고 파싱한다. 빌드는 매번 새
-// 프로세스라 stale 걱정이 없다. 실패 프로미스는 캐시하지 않아 재시도를 허용한다.
-function memoFile<T>(loader: () => Promise<T>): () => Promise<T> {
-  let p: Promise<T> | undefined;
-  return () => {
-    if (!p) p = loader().catch((err) => { p = undefined; throw err; });
-    return p;
-  };
+async function getDataSha(): Promise<string> {
+  const res = await fetch(`${REPO}.git/info/refs?service=git-upload-pack`, {
+    cache: "force-cache",
+    next: { tags: [DATA_TAG] },
+  });
+  if (!res.ok) throw new Error(`data ref fetch failed: ${res.status}`);
+  const m = (await res.text()).match(/([0-9a-f]{40}) refs\/heads\/main\n/);
+  if (!m) throw new Error("data ref: refs/heads/main not found");
+  return m[1];
 }
 
-export const loadCurrentData = memoFile(async (): Promise<KeywordsData> => {
-  const raw = await fs.readFile(path.join(DATA_DIR, "keywords.json"), "utf-8");
-  return JSON.parse(raw);
-});
+// 정적 생성·재생성 때 페이지마다 같은 JSON을 다시 파싱하지 않도록 파싱 결과를 프로세스 전역
+// 메모이즈한다. 키는 커밋 SHA라 내용이 불변이고, SHA가 바뀌면 이전 커밋 것은 비운다.
+// 실패 프로미스는 캐시하지 않아 재시도를 허용한다. optional 파일이 없으면 null.
+let memoRef = "";
+const parsed = new Map<string, Promise<unknown>>();
+async function readJson<T>(rel: string, optional = false): Promise<T | null> {
+  const ref = LOCAL ? "local" : await getDataSha();
+  if (ref !== memoRef) {
+    parsed.clear();
+    memoRef = ref;
+  }
+  let p = parsed.get(rel);
+  if (!p) {
+    p = LOCAL
+      ? fs.readFile(path.join(DATA_DIR, rel), "utf-8").then(JSON.parse, (err) => {
+          if (optional) return null;
+          throw err;
+        })
+      : fetch(`${RAW}/${ref}/data/${rel}`, { cache: "force-cache" }).then((res) => {
+          if (res.status === 404 && optional) return null;
+          if (!res.ok) throw new Error(`data fetch failed: ${rel} ${res.status}`);
+          return res.json();
+        });
+    const self = p;
+    self.catch(() => parsed.get(rel) === self && parsed.delete(rel));
+    parsed.set(rel, self);
+  }
+  return p as Promise<T | null>;
+}
+
+export async function loadCurrentData(): Promise<KeywordsData> {
+  return (await readJson<KeywordsData>("keywords.json"))!;
+}
 
 // 본문(소제목) 데이터는 keywords.json과 분리해 side file로 관리한다.
 // 수집(collect.py)은 keywords.json을 매번 덮어쓰지만 sections.json은 건드리지 않으므로,
@@ -35,14 +72,9 @@ type SectionEntry = {
   generated_at?: string;
 };
 
-export const loadSections = memoFile(async (): Promise<{ [word: string]: SectionEntry }> => {
-  try {
-    const raw = await fs.readFile(path.join(DATA_DIR, "sections.json"), "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return {};
-  }
-});
+export async function loadSections(): Promise<{ [word: string]: SectionEntry }> {
+  return (await readJson<{ [word: string]: SectionEntry }>("sections.json", true)) ?? {};
+}
 
 export type TrendEntry = {
   date: string;
@@ -67,47 +99,25 @@ export type TrendsData = {
   streaks: { [period: string]: Streak[] };
 };
 
-export const loadTrends = memoFile(async (): Promise<TrendsData | null> => {
-  try {
-    const raw = await fs.readFile(path.join(DATA_DIR, "trends.json"), "utf-8");
-    return JSON.parse(raw);
-  } catch {
-    return null;
-  }
-});
-
-// 날짜별 history는 [date] 페이지·trends 아카이브·키워드 상세가 모두 같은 파일을
-// 읽는다. 날짜를 키로 프로세스 전역 메모이즈해 빌드 전체에서 파일당 1회만 파싱한다.
-const historyCache = new Map<string, Promise<KeywordsData | null>>();
-export function loadHistoryData(date: string): Promise<KeywordsData | null> {
-  // 경로 조작 방지: YYYY-MM-DD 형식만 파일 시스템에 닿게 한다(심층 방어).
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return Promise.resolve(null);
-  let p = historyCache.get(date);
-  if (!p) {
-    p = (async () => {
-      try {
-        const raw = await fs.readFile(path.join(HISTORY_DIR, `${date}.json`), "utf-8");
-        return JSON.parse(raw);
-      } catch {
-        return null;
-      }
-    })();
-    historyCache.set(date, p);
-  }
-  return p;
+export async function loadTrends(): Promise<TrendsData | null> {
+  return readJson<TrendsData>("trends.json", true);
 }
 
+// 날짜별 history는 [date] 페이지·trends 아카이브·키워드 상세가 모두 같은 파일을 읽는다.
+export async function loadHistoryData(date: string): Promise<KeywordsData | null> {
+  // 경로 조작 방지: YYYY-MM-DD 형식만 파일·원격 경로에 닿게 한다(심층 방어).
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return null;
+  return readJson<KeywordsData>(`history/${date}.json`, true);
+}
+
+// 원격에선 디렉터리 목록을 못 읽는다. trends.json은 history 전 파일로 만들어지므로
+// (collect.py: days=len(files)) 거기 등장한 날짜 집합 = history 파일 목록.
 async function listHistoryDates(): Promise<string[]> {
-  try {
-    const files = await fs.readdir(HISTORY_DIR);
-    return files
-      .filter((f) => DATE_RE.test(f))
-      .map((f) => f.replace(".json", ""))
-      .sort()
-      .reverse();
-  } catch {
-    return [];
-  }
+  const trends = await loadTrends();
+  if (!trends) return [];
+  const dates = new Set<string>();
+  for (const entries of Object.values(trends.keywords)) for (const e of entries) dates.add(e.date);
+  return [...dates].sort().reverse();
 }
 
 export async function getRecentDates(limit = 7): Promise<string[]> {
@@ -175,7 +185,7 @@ export const getKeywordDetail = cache(async (rawTerm: string): Promise<KeywordDe
   const latest = sorted[0];
 
   // 오늘 등장한 키워드는 history에 아직 없으므로 현재 데이터로 폴백.
-  const source = (await loadHistoryData(latest.date)) ?? (await loadCurrentData().catch(() => null));
+  const source = (await loadHistoryData(latest.date)) ?? (await loadCurrentData());
   const keyword = source?.categories[latest.category]?.keywords.find((k) => k.word === word);
 
   // 본문(소제목)은 side file(sections.json)에서 키워드 단어로 조회한다.

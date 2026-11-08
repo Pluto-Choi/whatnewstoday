@@ -9,8 +9,8 @@ import { loadCurrentData, getRankChanges } from "../../data";
 
 type Props = { params: Promise<{ slug: string }> };
 
-// 카테고리는 고정 화이트리스트. 그 외 slug는 온디맨드 렌더 대신 404.
-export const dynamicParams = false;
+// 카테고리는 고정 화이트리스트(그 외 slug는 notFound → 404). dynamicParams=false는 태그 무효화 후
+// 재생성 때 NoFallbackError로 404가 나서 쓰지 않는다.
 
 export function generateStaticParams() {
   return CATEGORIES.map((c) => ({ slug: c.slug }));

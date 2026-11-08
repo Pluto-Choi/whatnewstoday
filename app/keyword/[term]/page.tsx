@@ -2,18 +2,17 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import AppShell from "../../components/AppShell";
-import { getAllKeywords, getKeywordDetail } from "../../data";
+import { getKeywordDetail } from "../../data";
 import { categoryEmoji, categoryLabel, categorySlug } from "../../categories";
 import { cleanTitle } from "../../lib/format";
 import { keywordJsonLdHtml } from "./jsonld";
 
 type Props = { params: Promise<{ term: string }> };
 
-// 키워드는 빌드 시점 수집 데이터로 고정. 미생성 키워드는 온디맨드 렌더 대신 404.
-export const dynamicParams = false;
-
+// 빌드 때 미리 굽지 않고 첫 방문 시 렌더 후 ISR 캐시(데이터 커밋 시 /api/revalidate로 무효화).
+// 없는 키워드는 getKeywordDetail이 null → 404.
 export async function generateStaticParams() {
-  return (await getAllKeywords()).map((term) => ({ term }));
+  return [];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

@@ -1,16 +1,16 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import KeywordDisplay from "./components/KeywordDisplay";
-import BriefingCard from "./components/BriefingCard";
-import SiteHeader from "./components/SiteHeader";
-import UpdatedAt from "./components/UpdatedAt";
-import KeywordSearch from "./components/KeywordSearch";
-import LeftSidebar from "./components/LeftSidebar";
-import RightSidebar from "./components/RightSidebar";
-import AdFitBanner from "./components/AdFitBanner";
-import { jsonLdHtml } from "./jsonld";
-import { loadCurrentData } from "./data";
-import { HERO_CATEGORY } from "./categories";
+import KeywordDisplay from "../components/KeywordDisplay";
+import BriefingCard from "../components/BriefingCard";
+import SiteHeader from "../components/SiteHeader";
+import UpdatedAt from "../components/UpdatedAt";
+import KeywordSearch from "../components/KeywordSearch";
+import LeftSidebar from "../components/LeftSidebar";
+import RightSidebar from "../components/RightSidebar";
+import AdFitBanner from "../components/AdFitBanner";
+import { jsonLdHtml } from "../jsonld";
+import { loadCurrentData } from "../data";
+import { HERO_CATEGORY } from "../categories";
 
 export async function generateMetadata(): Promise<Metadata> {
   const data = await loadCurrentData();

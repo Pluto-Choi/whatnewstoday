@@ -1,3 +1,5 @@
+// 홈 전용 스켈레톤. 루트에 두면 모든 페이지가 Suspense 안에서 스트리밍돼 온디맨드 ISR의 notFound()가
+// 404가 아닌 200(+noindex, 소프트 404)이 된다(docs: loading.js Status Codes) → (home) 그룹으로 범위 제한.
 export default function Loading() {
   // 스켈레톤은 실제 홈 레이아웃(헤더 → 브리핑 → 급상승 보드 → 분야별 보드 세로 스택)을
   // 그대로 흉내 내 로딩 완료 시 레이아웃 점프(CLS)를 줄인다. 모바일 퍼스트 기준.

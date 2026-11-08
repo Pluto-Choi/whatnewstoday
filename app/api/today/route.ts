@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { loadCurrentData } from "../../data";
 import { HERO_CATEGORY } from "../../categories";
 
-// 데이터는 배포 시점에 고정(키워드 수집 → 커밋 → 재배포 주기와 동일).
+// 정적 캐시. 데이터 커밋 시 /api/revalidate가 무효화한다.
 export const dynamic = "force-static";
 
 // 크롬 확장 등 외부에서 읽을 수 있도록 CORS 허용.

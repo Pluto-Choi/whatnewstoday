@@ -1,25 +1,15 @@
 import type { MetadataRoute } from 'next'
-import { promises as fs } from 'fs'
-import path from 'path'
 import { CATEGORIES } from './categories'
 import { SITE_URL as BASE_URL } from './site'
-import { getAllKeywords, loadTrends } from './data'
+import { getAllDates, getAllKeywords, loadTrends } from './data'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  let dates: string[] = []
   const keywords = await getAllKeywords()
   // 키워드 페이지 lastmod = 마지막 등장일. 빌드 시각으로 일괄 찍으면 구글이 lastmod를 불신한다.
   const trends = await loadTrends()
   const lastSeen = (word: string) =>
     new Date(trends?.keywords[word]?.reduce((m, e) => (e.date > m ? e.date : m), '') || Date.now())
-  try {
-    const files = await fs.readdir(path.join(process.cwd(), 'data', 'history'))
-    dates = files
-      .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-      .map((f) => f.replace('.json', ''))
-      .sort()
-      .reverse()
-  } catch {}
+  const dates = await getAllDates()
 
   return [
     {

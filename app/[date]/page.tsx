@@ -10,12 +10,10 @@ import { HERO_CATEGORY } from "../categories";
 
 type Props = { params: Promise<{ date: string }> };
 
-// 데이터는 빌드 시점 고정(수집→커밋→재배포). 미생성 날짜는 온디맨드로 렌더하지 않고
-// 404 처리해 임의 파라미터가 서버 함수에 닿는 표면을 제거한다.
-export const dynamicParams = false;
-
+// 빌드 때 미리 굽지 않고 첫 방문 시 렌더 후 ISR 캐시(데이터 커밋 시 /api/revalidate로 무효화).
+// 형식 밖/없는 날짜는 loadHistoryData가 null → 404(형식 밖은 원격에 닿기 전 차단).
 export async function generateStaticParams() {
-  return (await getAllDates()).map((date) => ({ date }));
+  return [];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
