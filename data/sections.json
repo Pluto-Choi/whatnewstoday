@@ -126,5 +126,41 @@
     ],
     "headline": "민주, 종부세 실거주 구분 폐지 요구",
     "generated_at": "2026-11-09 05:24 KST"
+  },
+  "가격": {
+    "sections": [
+      {
+        "heading": "FAO 설탕 지수, 전년 대비 28.8% 급등",
+        "body": "유엔 식량농업기구(FAO)가 발표한 2026년 10월 세계 식량가격지수는 133.9포인트로 9월보다 1.2% 하락했다. 그러나 설탕 가격지수는 같은 달 6.6% 오른 121.3포인트를 기록하며 4개월 연속 상승세를 이어갔다. 전년 동월과 비교하면 28.8% 높은 수준으로, 품목별 희비가 뚜렷하게 엇갈렸다."
+      },
+      {
+        "heading": "곡물·유제품 하락에도 설탕 나홀로 강세",
+        "body": "10월 FAO 곡물 가격지수는 전월 대비 4.5% 하락했고, 유제품·육류도 각각 1%가량 내렸다. 반면 설탕은 브라질 중남부 주요 사탕수수 생산지의 기상 악화와 인도·EU 등의 2026/27 시즌 공급 부족 우려가 맞물려 상승 압력이 지속됐다. 설탕 지수는 2024년 12월 이후 최고 수준을 기록한 것으로 전해진다."
+      },
+      {
+        "heading": "국감 쟁점 된 '1,300원 브라질 계란'",
+        "body": "국정감사에서는 브라질산 수입 계란의 단가 적절성이 도마에 올랐다. 개당 수입 단가가 브라질산 1,300원으로 태국산(305원)·미국산(454원)보다 훨씬 높았다는 지적이 나왔으며, 약 800억원 규모의 정부 예산이 투입된 것으로 알려졌다. 이재명 대통령은 '800억 낭비' 주장을 정치적 목적의 허위사실이라고 반박했다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Global food prices fall in October as sugar rises for fourth month",
+        "url": "https://www.bizcommunity.com/article/global-food-prices-fall-in-october-as-sugar-rises-for-fourth-month-639621a"
+      },
+      {
+        "title": "World food prices eased in October after three months of increases",
+        "url": "https://wikifarmer.com/library/en/article/fao-food-price-index-october-2026"
+      },
+      {
+        "title": "이 대통령 \"브라질 계란 수입에 800억 낭비?…정치적 목적의 허위사실\"",
+        "url": "https://weekly.khan.co.kr/article/202610151614011"
+      },
+      {
+        "title": "1464원에 들여와 143원에 푼 브라질산 계란… \"무리한 수입\" 질타",
+        "url": "https://supple.kr/news/cmv7i9u5f00le11cp7mqnezrm"
+      }
+    ],
+    "headline": "설탕 가격 28.8% 폭등, 식량지수 희비",
+    "generated_at": "2026-11-09 07:10 KST"
   }
 }
