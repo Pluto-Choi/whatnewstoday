@@ -120,6 +120,26 @@ jobs:
           echo "::error::push 3회 모두 실패"
           exit 1
 
+      # 사이트는 data/를 런타임에 GitHub에서 읽는다(데이터 커밋은 재배포 안 함). 방금 푸시한 커밋으로
+      # 페이지가 다시 렌더되도록 캐시를 무효화한다. 실패하면 새 키워드 페이지가 안 열리므로 스텝을 실패로 띄운다.
+      # 시크릿이 없으면(등록 전 머지) 수집은 막지 않고 경고만 남긴다.
+      - name: 사이트 캐시 무효화 (revalidate)
+        if: ${{ steps.push.outcome == 'success' }}
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_SECRET" ]; then
+            echo "::warning::REVALIDATE_SECRET 미설정 — 캐시 무효화 건너뜀(사이트가 새 데이터를 못 받음)"; exit 0
+          fi
+          for i in 1 2 3; do
+            curl -fsS --max-time 30 -X POST https://www.whatnewstoday.com/api/revalidate \
+              -H "Authorization: Bearer $REVALIDATE_SECRET" && exit 0
+            echo "revalidate 재시도 ($i/3)..."
+            sleep $((i * 10))
+          done
+          echo "::error::revalidate 3회 모두 실패"
+          exit 1
+
       # 수집 성공 직후 급상승 본문 생성 루틴을 즉시 호출(이벤트 체이닝).
       # 고정 시각 추측 대신 키워드가 푸시된 그 순간 본문이 따라붙는다.
       - name: 급상승 본문 생성 루틴 호출 (fire)
@@ -137,7 +157,7 @@ jobs:
             -H "Content-Type: application/json" \
             -d '{"text": "키워드 수집 완료 — 급상승 본문 생성해줘."}'
 
-      # 게시는 push 뒤에: 새 키워드 페이지는 재배포 전까지 404라 링크 첨부가 실패했었다.
+      # 게시는 push·revalidate 뒤에: 새 키워드 페이지는 캐시가 갱신되기 전까지 404라 링크 첨부가 실패했었다.
       # post_threads.py가 키워드 페이지가 열릴 때까지 기다렸다 게시하고, 실패하면 1회 재시도 후 스텝을 실패로 끝낸다.
       - name: Threads 자동 게시
         id: threads
@@ -148,7 +168,7 @@ jobs:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      # 중복 게시 방지용 상태만 따로 커밋. vercel.json ignoreCommand가 이 파일만 바뀐 커밋은 빌드하지 않는다.
+      # 중복 게시 방지용 상태만 따로 커밋. vercel-ignore.sh가 data/만 바뀐 커밋은 빌드하지 않는다.
       - name: Threads 상태 저장
         if: ${{ !cancelled() && steps.push.outcome == 'success' }}
         run: |
@@ -162,7 +182,7 @@ jobs:
           echo "::error::threads_state push 3회 모두 실패"
           exit 1
 
-      # 새 키워드 페이지를 네이버·Bing에 바로 알린다(IndexNow). 재배포 반영을 기다렸다 핑.
+      # 새 키워드 페이지를 네이버·Bing에 바로 알린다(IndexNow). 페이지 반영을 기다렸다 핑.
       # Threads 게시가 실패해도 색인 요청은 보낸다.
       - name: IndexNow 색인 요청
         if: ${{ !cancelled() && steps.push.outcome == 'success' }}

@@ -1,0 +1,31 @@
+name: Revalidate Site Cache
+
+# 안전망: collect.yml·본문 루틴의 revalidate 호출이 실패했거나 수동 데이터 커밋이 있었을 때를 대비해
+# 하루 몇 번 사이트 캐시를 무효화한다(현재 main 데이터로 다음 방문 때 다시 렌더). 데이터가 그대로면 무해하다.
+on:
+  schedule:
+    - cron: '30 20 * * *'  # 05:30 KST
+    - cron: '30 22 * * *'  # 07:30 KST
+    - cron: '0 3 * * *'    # 12:00 KST
+    - cron: '30 10 * * *'  # 19:30 KST
+  workflow_dispatch:
+
+jobs:
+  revalidate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 사이트 캐시 무효화 (revalidate)
+        env:
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        run: |
+          if [ -z "$REVALIDATE_SECRET" ]; then
+            echo "::warning::REVALIDATE_SECRET 미설정 — 캐시 무효화 건너뜀"; exit 0
+          fi
+          for i in 1 2 3; do
+            curl -fsS --max-time 30 -X POST https://www.whatnewstoday.com/api/revalidate \
+              -H "Authorization: Bearer $REVALIDATE_SECRET" && exit 0
+            echo "revalidate 재시도 ($i/3)..."
+            sleep $((i * 10))
+          done
+          echo "::error::revalidate 3회 모두 실패"
+          exit 1
