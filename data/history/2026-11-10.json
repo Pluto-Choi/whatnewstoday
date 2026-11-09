@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10 05:16",
+  "briefing": {
+    "text": "엔비디아 젠슨 황 CEO의 중국 스파이 불륜 의혹을 트럼프가 사전에 인지하고도 묵인했다는 보도가 나오며 미국 국가 안보 논란으로 번지고 있다.\n\n황우석 전 서울대 교수가 논문 조작 사태 이후 UAE 국적을 취득해 한국 국적을 상실한 사실이 확인됐다. 국내에서는 조작기소 특검법 갈등이 이어지며 야당이 장외투쟁에 나서는 등 '조작' 이슈가 정치권에서도 불거졌다.\n\n경제 분야에서는 AI 규제 우려와 반론이 엇갈리는 가운데, KDI가 AI 호황의 과실이 가계 전반으로 확산되는 속도는 더디다고 진단했다. 미국 반도체주가 반등했음에도 코스피는 외국인 매도세에 하락 마감했다.\n\n스포츠에서는 삼성 라이온즈가 KT를 꺾고 12년 만에 한국시리즈 우승을 차지했으며, 배드민턴 안세영은 시즌 11번째 우승으로 한 시즌 최다승 타이 기록을 세우며 압도적인 존재감을 이어갔다.",
+    "period": "아침",
+    "generated_at": "2026-11-10 05:16"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "엔비디아 젠슨 황 CEO 중국 스파이 여성과 불륜 인정 · 대신증권, 해킹 피해 고객 보상책 마련",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "젠슨 황-中스파이 여성 불륜, 트럼프는 알고있었다",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QU3ZRNzJFbzZkOVpRZDY1T3JKekh3eVRDTWxiYWtpQVpvNFdPb0hpOTdzTUVpd0RSVUlEckFNMXJkOFl0Tlk4dER4UGkxQ0wzRFEwU3JiclJkOEg3TDFkV1FpZHpwcEdtUXRMLV9UYkVKdU3SAWZBVV95cUxOaFNteVBYY0RMOHhfMW51SGtoYW9uaGRWZzZWLUVWclJtNWR0d0VtTjZiZXFVVVI0YUc4bEl0aV9lTWhtOE8yMElael9aUGZPVkxnM3oxdlhoTnZaczhKN1RpcGNyVHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "젠슨황, ‘중국 스파이’ 여성과 불륜 인정…트럼프 “훌륭한 사람”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdkkyT2hSaVFOUTRrSTJ1Z0g2bldmdVBaWUdsZTBxM1JYcUY2Zk4xVXZKdEpTSm9SV1VHbGRMRUtGNHBjOFhKM2JrS25wcjFPaXllcGllLTBfRnV4em94ZzRVcGpLUQ?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "극비 문건 올라갔는데 미중 정상회담에 젠슨 황 동행‥트럼프 대체 왜",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zYW9rTzhWT3F0dzVHQVJLMFN4TWVpUTlHZzNZbWNGS2J0RjlnTnd0NFpPcEhLNS00RGQxanY3RnZVdTBlc2NKanZQMkJWMDRHYmpnRTZaOS1ZZks5NVNBRk9kVTVfSURBU253bUVwNzFRTGJ4NGpkTdIBeEFVX3lxTE01S3hIS3hYaWJqWkJlYjRpMmhDdmk5OE5vcWxXUjRja2NLdFNaX1FnZnJnYnNPcThrNGFHc3RZeW01Q05TcXpfd3VNbVdOd0owcHo3ZVdtcTh2dmpKS3U5Mk53R1dfTW9xdmhZT21FY1JRR3Q2YVQ5LQ?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "젠슨 황 엔비디아 CEO가 중국 스파이 의혹을 받는 여성과의 불륜을 인정한 가운데, 트럼프가 이를 사전에 알고 있었다는 보도가 나오며 논란이 커지고 있다. 트럼프는 해당 사실을 알면서도 황 CEO를 '훌륭한 사람'이라 감쌌고, 미중 정상회담에 그를 동행시킨 것으로 알려졌다. 중국 측에 극비 문건이 넘어갔을 가능성까지 제기되면서 국가 안보 차원의 우려도 불거지고 있다. 어제 5위에서 오늘 1위로 급등했다.",
+          "headline": "트럼프, 젠슨 황 중국 스파이 불륜 알고도 감쌌나"
+        },
+        {
+          "rank": 2,
+          "word": "조작",
+          "count": 2,
+          "articles": [
+            {
+              "title": "조작기소 특검법 후폭풍…野, 청와대 앞 장외투쟁",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMRUctT1FDbXp1MlF0aFluNVZGUU5xdGVNUmpiTTc0Mm5ocS1JdkQzY2kxaUtmTnZVVlBDWmk0cWxvcTZwQWt3NFNYNnp1a3VtU2JLZTIzdGlrSnJMNWkzbWhsM3NYSkk?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "‘줄기세포 논문 조작’ 황우석, UAE 국적 취득해 한국 국적 상실",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmYyZy1tbWFCWFRBRktsNEVReFB0V3hHYUN4UThpMnJYcVM3THBZUXNtNF90U0RlVGVQVEJhMGZObHUwNWJuTUJQblM5R05hN245VXQ3Z1dCdDZvYkltZnZ0dXk3ckJpbzBDZ043dGE4WEEtZUlBNm9hVnNOLW92SG9xSGlLQUk?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "’논문 조작’ 황우석, 한국 국적 상실…UAE 국민 됐다",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOYmh5Mk5lZTdES3FpVVFUMThuSXdUSDB6UENidm1ZZTB6YjBCQVdKLWdMVDdXMmZqdHBCVEVtMFVzVllSS3VFMEdITkdvMWpvYXJQTGlacTcxYWRlWnRwWlZNZkZPTUk?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "줄기세포 논문 조작으로 국내외에 큰 충격을 줬던 황우석 전 서울대 교수가 아랍에미리트(UAE) 국적을 취득해 한국 국적을 잃은 것으로 확인됐다. 한편 국내 정치권에서는 조작기소 특검법을 둘러싼 후폭풍이 이어지며 야당이 청와대 앞 장외투쟁에 나서는 등 '조작' 이슈가 여러 방면에서 동시에 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "황우석, 논문 조작 후 UAE 국적 취득…한국 국적 상실"
+        },
+        {
+          "rank": 3,
+          "word": "해상",
+          "count": 2,
+          "articles": [
+            {
+              "title": "울산시, 중국 산업현장 조사…해상풍력·수소·AI 육성",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HRzJXT0o2cUN4NlhVb05NdS04OEtuMXdObEgzRXZFa01lOExWbGNncHM3MXIzMWdiOWp1UC1kOVFTd3RXWnQ4YVYyX2dNcEtubmN3dzhrZTYtbDlJb2ptZ1hpX0RtWDVpWG1ndtIBcEFVX3lxTFAxeGtibS1Lb1lqZG4zVVJRZ0hOLU5yUTFoQzc1U1VaNWQxZ1ZUOWZ3QXVzOGpmd3V3UnhJUlFCZHh0b0NRUXZHQkJocXRndUZCTVNVN0JKM1d0NTBXNFVNZnNlbTFpUTFrZ1lZMlpqYjk?oc=5",
+              "source": "전기신문"
+            },
+            {
+              "title": "부울경 해상풍력 준비 박차…“기자재 공급망 풍부해 입지 최적”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mWXA1QXJtTHI4a3BxNnl0cHltVHNFemQ0N0IxYjVxeUZyNGJKNzIxa3NJQ3lBblRXMW16Y2pTN3pNX0FOQ1BxWTVpLVh3X0pZWTA3NHFyWHFjZzE3VEE?oc=5",
+              "source": "기후에너지데이터뱅크"
+            },
+            {
+              "title": "국산화·지역 상생 앞세워 해상풍력 박차",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaXpvM0diMGctbWVzbTBOSGhMVkxYWHhpUTVZRDZJUTVzNnRQR3dnS09IbEVRWVNhZzhPdFQ3Z0dGc3hOME5aUDFyQUc1NmVhYWNGT21ER2hRdktEd09qQjFWRHhLX0ZFemIzSmZsUDBYaE5vUzhuT1J0MnprRUJVM01DM3FPeU5MRnMzSFNR?oc=5",
+              "source": "국제신문"
+            }
+          ],
+          "description": "울산시가 중국 산업현장을 직접 조사하며 해상풍력·수소·AI 육성 전략을 모색하고 있고, 부산·울산·경남 지역도 해상풍력 기자재 공급망을 앞세워 준비에 속도를 내고 있다. 국산화와 지역 상생을 핵심 전략으로 내건 해상풍력 개발이 동남권을 중심으로 가시화되는 흐름이다. 오늘 처음 등장한 키워드다.",
+          "headline": "부울경·울산, 해상풍력 개발 본격 박차"
+        },
+        {
+          "rank": 4,
+          "word": "중국",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘대중국 강경파’ 자처하던 다카이치 총리, 중국의 ‘보복 경고’ 한마디에 결국 꼬리 내린 사연 [월드픽]",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVUFlRGF6VS12RkpyMURXWmJRNFpUcXptQ0taZVNrXzBicURmbzJUWHB3MG5qa3JRRTZ3TW82ZUxRbzBfa0lDZmdZd1JlRUd1Um5tQlpvZXdJRWlZU1ppTW4zdXBXalhmaDRydlRHcmdRTUFURFMyYUhDSGZ0djg?oc=5",
+              "source": "서울신문"
+            },
+            {
+              "title": "\"일본, 중국에 APEC서 다카이치와 악수라도 해달라 요청\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YRUdnQ2M5ZUttcDUtMXJ6RHZEVWRuelFWZUp5VFF5VG1vREFvUC1GZHJVdk5vVlowQ3M4NHhaLTBGUlhtdmx3RE9qU3Z0TFc2cUhSaVY1UzBVdWwtSGc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "일본, '중국은 위협' 표현 보류한다지만… 중일 관계 개선 의지 약한 다카이치",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WWh5NVVvNkxjUjN1MjE4cUk5YU12eVF3N3lobE1rUEFURG11aVBxTmxMbzF6b1N6N2RtTjNIeUdhQnlfWkVhY3NUYkVXU1dPNllnU3paWGVjY21UWk1nN204bHFDaWh0cWt4M3V30gFzQVVfeXFMUEdURERoZi1VWWJVN2F1UW9kaUh4WHp4dHIxaVFhWlJIZkVhV1BwMnM3c05KMFZsOEljRVNIY3RuMTZ1U29KUXJLNGp0cUZQT2tIOEdRdGotelAxLVBwUy11Y21oX1JVb3RMT21JdWdzbjh6RQ?oc=5",
+              "source": "한국일보"
+            }
+          ],
+          "description": "대중국 강경파를 자처했던 다카이치 일본 총리가 중국의 보복 경고 한마디에 꼬리를 내렸다는 보도가 나왔다. 일본은 APEC에서 중국에 다카이치 총리와의 악수라도 요청했다는 외신 보도도 나오는 등 관계 개선에 공을 들이는 모양새다. 다만 일본 내 중일 관계 개선 의지가 여전히 약하다는 분석도 나오며 중일 관계의 향방에 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "다카이치, 중국 보복 경고에 강경 기조 한발 후퇴"
+        },
+        {
+          "rank": 5,
+          "word": "보상",
+          "count": 2,
+          "articles": [
+            {
+              "title": "대신증권, ’해킹 피해’ 보상책 마련…보상보험 가입 등 지원",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NeU0xcWU2QkZwa2p6cVN4YURJVHB0QzVzcHJ0amFXemlqRk8wNHdFLU5CNkIza1VVLUFvcFNqQlB1SWxDOEVSX29EeDI5a3dwYlFYdnNsQjc4VU1sTDVlY3FFSlFKT0E?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "대신증권, ‘해킹 정보유출’ 고객에 보상보험 가입 등 지원",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XaEo5ZWI2ZlNaWXR4eFNrYmZ5OUw2R3pXWDNTY1psZ1drNW5PLS1mQlpDVHc1MFVHU1ZMUmw3dXNRLUwxTTZsZjExanZMZnVKelhubTlrSy1VWHM?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "대신증권, '해킹 정보유출' 고객에 보상보험 가입 등 지원",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LUDZ5c2NaMmJ3QlpQN2lpZWsyVW9BdndZVTM3QmZmUzRnSlZ0eXA0alI0SlhDeGY5WmcwbjRHdkFXTTNjOG5Odk5sZWxYX096bzNBcFMyeEZRZ2fSAWBBVV95cUxONTJTdUk3Y09fX1hpOUpxS2Nna2M1bkd2RDhNM0w0TDRaa2VXaVVSaExKTm9fS2Z3ZUdrbnQwUlJpdkxlNmw2NGY5dnhncnRoT3BreFJjMHhQWHpHWVQwN1k?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "대신증권이 해킹으로 인한 고객 개인정보 유출 피해에 대한 보상책을 내놓았다. 피해 고객에게 보상보험 가입 등의 지원을 제공하기로 했으며, 증권사 해킹 사고에 따른 고객 피해 구제 방식에 이목이 집중되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "대신증권, 해킹 정보유출 고객에 보상 지원책 마련"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "외국인 이탈·코스피 하락 압박 속 AI 호황 성장세가 가계 전반으로 확산되지 못하고 있다는 우려가 제기됐다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "규제",
+          "count": 5,
+          "articles": [
+            {
+              "title": "美 데이터센터 규제 공포 과도, “장기 수요 이상 無”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DVHYyVVdJRzZ4VGZoam1xWE12LVYwQ2gyLVllcF93LXBZNUpGWFZvT2ZicTh0QVVSazY1NU9EcVQzM1ZWaGtmV0FfMGJQQQ?oc=5",
+              "source": "전자신문"
+            },
+            {
+              "title": "\"AI 규제 법안 쏟아진다\"…현실화하는 '블루쓰나미' 공포 [이슈+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YWE82QUlCU01ZQTdVUkVvRy1JOFhhdG5XbDJHNWl2RUFyMzZwYTFveXNKVElxOWN1S2NlQnhWVzBNZU5oQlJrb2R5a2tkc0hMQUtENHVPeFpJUQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "코어위브, 텍사스 데이터센터 규제 우려 완화 기대…주가 5%↑",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rejhlcWR5NGNVMV83M25uWG1vMjcydUdrV09tNElkYUtQbVdiTnFHeGVFU09NdlpxenozRk4zdGptZlFYWHE5SFVTdjV2UXZNczZTV3BaVnB5YjQzdDloc1VJWEVLRFpPbWpxdTJSaktqRzA?oc=5",
+              "source": "마켓인"
+            }
+          ],
+          "description": "미국 데이터센터·AI 관련 규제 우려가 커지는 가운데, 시장 일각에서는 '공포가 과도하다'며 장기 수요에는 이상이 없다는 반론이 나왔다. AI 규제 법안이 현실화하는 '블루쓰나미' 가능성이 거론되는 한편, 코어위브는 텍사스 데이터센터 규제 우려 완화 기대감에 주가가 5% 오르는 등 시장 반응은 엇갈렸다. 규제 리스크와 장기 성장론이 맞부딪히며 투자자들의 셈법이 복잡해진 하루였다.",
+          "headline": "AI 규제 공포, '과도' 평가 속 주가 반등"
+        },
+        {
+          "rank": 2,
+          "word": "호황",
+          "count": 4,
+          "articles": [
+            {
+              "title": "불황 땐 고통분담, 호황 땐 '나중에'? 반발하는 지자체",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MYkFXMTFuMmhPeTJkMWRlZEMySi1Gak5ITGN6OFRLaW8ySXVqRENVTThmSE5ZREdvMUFCbFByVzdNbDBJOWxLNEd2Uk9vWUdoeXlXUkZ4NWI0MTV3S25kY0dCWUpKazZfQTlwaW0zRkFSanFWdWJBONIBeEFVX3lxTE1uTE9GY2ttVDJNaV9oZlRlNnNVQlNDVWZqTHpveTRoajR3VHA2aVhGVVdHQU9leWJlZWhiWEwxOGM2SlVMb3JMa3RwLW9USTZYTl9zYW5JYS1URUg1a3QxdVVmTk9CLVU4UlVZcnlwdk8tVEJSQlhCVw?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "KDI “AI호황에 양호한 성장, 가계전반 확산은 더뎌”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaHVDNXZXMkluQ1V6RTNUdE1xOHFNdHBKVWhiUTBjZ2xVZVFXZlJhMHdiUHg2MVJrYWFDNlJNeFFYMWNrTDh2VE41MFFpX0ZjZEstMWwxVUFVRDRieHR4Nl9XcVdybzVFX3ZWUXFNWlU4M2Q1MlHSAWZBVV95cUxNOTNldEc1RkJmVG85bU1YWkZZV0tMeWphS1ZsNjBxVFJKTnBIVmVpVWMyei1UNWFDcndSSVdSMzJud040bXdoU3lKS3pWX3NsdTZlcEl2Z3VIV1c4QWE1TXVOU2ZWbFE?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "“올해 해운 호황은 세 전쟁이 만든 착시”…한·중, 2027년 공급압력 공동대응 논의",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Kcnp0UnhJZ0JoLWpDcVltMGo5QnBuTGE2ODJmV0dWbTlYcTZZZXNubFpTb3FwRjZDVTZ0UWhtQktnV1lTM0w2WURZUlNYMzhCeElILVUtUDRreW9ENHA1aDl4RGMwZWZfM1JF?oc=5",
+              "source": "해사신문"
+            }
+          ],
+          "description": "KDI는 AI 호황에 힘입어 올해 성장이 양호하지만, 그 혜택이 가계 전반으로 퍼지는 속도는 더디다고 진단했다. 불황기엔 고통 분담을 요구받고 호황기엔 '나중에'라는 말만 듣는다며 지자체의 반발도 나왔다. 해운 업계에서는 올해 호황이 세 개의 전쟁이 만들어낸 착시일 수 있다는 경고와 함께 한·중이 2027년 공급 압력에 공동 대응하는 방안을 논의했다.",
+          "headline": "AI 호황, 가계 전반 확산은 아직"
+        },
+        {
+          "rank": 3,
+          "word": "반도체",
+          "count": 4,
+          "articles": [
+            {
+              "title": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12QTNHbzhubHY4R2o5WFVsOGJNLXkyNWNHeHBOOVVLbGxVU0lfNkRkcFc2WUFSbXFwVEliWk85ZF90dHJObVpJQjM1djhkczdzOXc?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "5000선 겨우 지켰다…코스피, 美반도체 반등에도 하락 마감",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4M05Hd2FhOUNHZFE5T3ZySnR5MHZic1AwWGlwdHo5d2ZFZ3BPTmd5M3lSQmRmYi1MOFBod1ByUGJBck52V09pbWQzcHpBRnhGNUJoenhPUmN0UFQ0R0dma9IBeEFVX3lxTFBmVkpaQXZRS3BlMm0zN01HODEtLWl0Y1JMQVhqVm5xUkJlTDlud2FoZDFjd3lRVFBGMGtkbWEzVThRNkJSNG0tQjlEdlJTdUlKVWhZaTkwM25yWlNIVkF2XzNnbFdWS2tpSy10VURKNWs5aEtXYVgwQg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "폭락에 겁먹지 마라⋯ ‘반도체 거위’ 배 가를 정치인 없다",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnF3T3E4SHl0eUVPb2JzRmgxcUtLWnJSdFU0cWE0U3pDd0psWjdWSWtLSHVkNjVtQWNvWVlISzRISkhlOWlTSUd5WkI4dWhpS0taTnVWWGp3dTd4T3ZsRjZzRjNwTTF2aVlnOENZSUZpS3NUTE16YUg4TjQtYm02czE5clVISklNa2VR?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "미국 반도체 주가가 반등했음에도 코스피는 장중 5000선 아래로 밀렸다가 겨우 지키며 하락 마감했다. 외국인 대규모 매도세가 이어지며 국내 증시가 미국 반도체 훈풍을 고스란히 받지 못하는 모습이다. 한편 '반도체 거위 배를 가를 정치인은 없다'는 주장도 나오며, 단기 폭락에 과도하게 반응하지 말라는 목소리도 나왔다.",
+          "headline": "미 반도체 반등에도 코스피 하락 마감"
+        },
+        {
+          "rank": 4,
+          "word": "코스피",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQ29vOVFEX2RwM1hSZGNSYi10XzVKMjJ6amhiZ1YzeDBpdFNxNkg0Q0pzdnAxUWRNN1FFbENEQWhUZTIxZUd4eEdSQTBueVZsQnZ3UXNaOUx0dw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "최태원 \"코스피, 결국 '이렇게' 될 것\"…증시 붕괴 '섬뜩한 시나리오' 재조명",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wc1BHT1hMRm5qYWMzLUthRlQ2aEdfWkxmalVDVlJtNkZ0RU9sZk5zeHVLNWJVX3JyNmNQWWI1NkdJRHNXdTZ3NkZPdzZSbEE2YXEzS2NLRDI1anQ4dmxkLQ?oc=5",
+              "source": "아시아경제"
+            },
+            {
+              "title": "코스피 살까, 팔까… \"美기술주가 힌트\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UVTdrWnBNQTlNT2JmTmxoSjlnU0pOdnF1SHh3anZveldtNzUxVS1fdWpXcGY1aUJMSTBieUhsMDRJekpDbjFsa2lrOG1IZnVxX2hoNDhSUHJyMmxabWMzT1ZtSHRWTF9Z0gFuQVVfeXFMTVJiVW5oQnQtRnFVSmI2M2pJWXJacktZWmxvZGg1RTJEa3dVY2dodHl4RUZxcWh4akZhMEw5OFNVU1FoeEhxR2dQODI2U1RmLTNvYkVfbnRERU5rMHNXekRDTkJQRVhleWtadzlianc?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "외국인이 8조 원을 던지며 '코스피 대탈출' 경고음이 울렸다. 최태원 SK그룹 회장이 제시했던 증시 붕괴 시나리오가 재조명되는 등 시장 불안감이 고조되는 분위기다. 미국 기술주 흐름이 코스피 향방의 힌트가 될 수 있다는 분석도 나오면서, 투자자들은 매수·매도 사이에서 고민이 깊어지고 있다.",
+          "headline": "외국인 8조 매도…코스피 대탈출 경고"
+        },
+        {
+          "rank": 5,
+          "word": "외국인",
+          "count": 3,
+          "articles": [
+            {
+              "title": "\"외국인들 싹 쓸어가\"…불닭·신라면 제친 '이 라면' 일냈다 [박상경의 영수증 리뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OY1pVdUhTeWd1UmNXWUxhM1hjV3AzaVNuTDNKQ1BrbEhycVRFZlZnOVBCRTI2YWk2Rk5YS29NLUFjMkZrYUMzMTdGWXdFcDJmSnMwR1VjVm14Zw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"공장 노동자에서 식당 사장님으로\"…외국인 상권 '탄생 공식' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42VHAxMElYd3dqYW9NM3NnREw3R0h3OGphVmFwMEs0bVJuMi1xWVhiRUhkY2YyYlpRMmZ4OXN4UjNfZ2I1LU5NYmd3S09LekVkWk9JZTkwX3BWakZiZ0pMRVhlcjN5eUd2OEpF0gFwQVVfeXFMTnF4ZXM3bUVWSUtoZzAyQi1HQWJhVmdvOHVhVkNtRXViaE1vcFJiVDBkMHJUVnFleUU3blNyLWZQRFdFNGM2YV9rUVA4VUsxRmp1bTMxdmx0UU9HaWZ1XzVFX0JwTDNFVlNnWWt4QjFnYg?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "부산 찾은 외국인들, 1조 원 넘게 썼다",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sc0lhZHJfT3pMWHBLdmVNTVM0d0pxLWxuSTZpckE3eS1iSXE4QW1FajRpQ2E4WTJaeEFWdDZzYnVVcDRlQUN2LWRqT1VOZ2g2V0JfRzVxRWNzUTZHQUVYaGd2eHNqMldscGFB0gFmQVVfeXFMT2ZWaFhJbzdvX3FkX2JMVjNjd0tSc3lHbTdpbzNnMEt0QklXUDNQdTA2NEZyUjZhcWdsNXYwRi1EUXB4UFJTZ0sySzFGOHM0Z0pWUS1YVHcwUVpxV0FKcS05S2lXcmxn?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "불닭·신라면을 제치고 외국인들이 싹쓸이한 라면이 화제를 모으는 등 외국인 소비 트렌드가 주목받고 있다. 부산을 찾은 외국인들이 1조 원이 넘는 소비를 기록했다는 소식도 전해졌다. 공장 노동자에서 식당 사장님으로 변신하는 사례가 늘며 외국인 상권이 형성되는 흐름도 조명됐다. 외국인의 소비·창업·관광이 국내 경제 여러 분야에 걸쳐 뚜렷한 존재감을 드러내고 있다.",
+          "headline": "외국인, 라면·관광·상권까지 소비 확산"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "이종석의 부동산 재테크와 박진영의 사이비 의혹 해명, 리센느의 KGMA 4관왕, 홍준표의 '닥터X' 비판이 화제를 모았다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "이종석",
+          "count": 3,
+          "articles": [
+            {
+              "title": "이종석, 43억에 산 한남동 빌라 10년새 200억…'630억 자산가'의 남다른 부동산 재테크",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zRlNLaVFSRTFhOUM3Uk90MnV6QTEtNDk2clhXV25KZTREaXdXb1Ixb0ptZVZKVi01UFJIOFoyajVrR19WMnY3akpuRkwzTFl1cWdJSE1PTUVKS1B0VV9GS9IBeEFVX3lxTE9QbEpuTUoyZm5kX0xsTlJlb3NhZ18zMkdQZ0FTbDY5bDBRYTMtX3VTOGZ4QU5VT2dQZHF0T1MwbmFyMmE1QW4yRzRlZEZRVEhRbGo5eDhJdHowWDBCMExXSDNqMWljamZTLXN6UWQybUlIQW1CVWd5aQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "'재혼 황후' 이종석 호평 이유..의상 비밀은 임영웅? \"직접 제작 의뢰\"",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tOElSeTdzeXZ1RTVWUjlONzlzZWJyVndPWENzTmg0V25YbERINHV1bUF1TTk1QXdzUTQ2Q2ZHXzdYZUNidjNBaVROclhsOEpFbm1sMk9HU0ZETEtNTEZValp5OFhsRFlEeFZtTVJZNzJNcGM?oc=5",
+              "source": "스타뉴스"
+            },
+            {
+              "title": "\"얼굴이 자체발광\"…이종석, 캠퍼스 킹카",
+              "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE81MXRnLUp1anlFYnB2RjZfMUswM193TVNpanFHTDFpbVlkblN6eVMwbTYzbVphV3JrRG94RHNnWktWbkNGZDNNWnZB?oc=5",
+              "source": "디스패치"
+            }
+          ],
+          "description": "배우 이종석이 43억에 매입한 한남동 빌라가 10년 새 200억 원대로 올라 630억 자산가로 주목받고 있다. 탁월한 부동산 재테크로 화제를 모으는 가운데, 드라마 '재혼 황후'에서의 호연도 호평받고 있다. 의상을 임영웅에게 직접 제작 의뢰했다는 비하인드도 눈길을 끈다.",
+          "headline": "이종석, 10년새 부동산 157억 차익"
+        },
+        {
+          "rank": 2,
+          "word": "박진영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "박진영, 이단·사이비 의혹 재차 해명 \"신천지 출신 있다고 신천지 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10RGhCVEphVDRvU1R4MUZnRnVqOHZreWFfOEl5Tk9mYkVDTW05SktfVmRpQUxuRUZJeGQ0Um81MkFkaW9ZS3BqNnVLVGlzd3cyWm4xY0NVdTJxLXJnTTctYzhtaWtJQkI1OGc?oc=5",
+              "source": "주간조선"
+            },
+            {
+              "title": "박진영, 첫 콘서트 투어 서울 공연 성공적 마무리…올라운더 매력 발산",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16SzN1YWotUk91VzdSWUtkU1pvd1dJZDUxRHlLbFRrczQwaHFYSHN6Y25SbndUNnNiZVhYRFByQlp3cXdJOE9FZ1hKLWN6U0t4cGVTdmpzLVNIT1ctVnEw?oc=5",
+              "source": "YTN star"
+            },
+            {
+              "title": "박진영, 장충체육관 달궜다…첫 솔로 콘서트 'CODE#' 성료",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SNmh1LUhRa0JtLVFzWEZyNXNPTlIxX1RIVkRON2VqMldNWGU1U09ibnpGbTRjY2xfUkdWNzBrR1ctaWZYRTZVV1hMdlQxUC11blVXS1VYSEhFOFRNWXplMQ?oc=5",
+              "source": "iMBC 연예"
+            }
+          ],
+          "description": "박진영이 장충체육관에서 첫 솔로 콘서트 투어 서울 공연 'CODE#'을 성공적으로 마쳤다. 올라운더 매력을 발산하며 무대를 달궜다는 평가를 받았다. 한편 신천지 출신 직원이 있다는 이유로 불거진 이단·사이비 의혹에 대해서도 직접 재차 해명에 나섰다.",
+          "headline": "박진영, 첫 솔로 콘서트 성료·종교 의혹 해명"
+        },
+        {
+          "rank": 3,
+          "word": "리센느",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'국민 걸그룹' 리센느 압도적 1위…'이수만 신인'도 돌풍 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HWFI2N1ZnNkc1Qm9TeDB5TFBKQTdCRjhmUHlBWllQdjYzUzBkTlMyQUtkYjRpa09KRGFUVXR3ZDBPQ01CazNJMXlRTnhGSkRwYmVPT0l4YmRRR2pLMUpxaUN5c2JSaWNGTHoyTFFEemR0NXPSAXhBVV95cUxPdUVwRXptd3JjUGo0M3RINWZhNXcyRDRCVHBvRXM3U1JhZGYtZUVJZWZseUJmUVNUOVhtU05id2R0LUZvQVdjZlAxM0RkQmpwNDE1X2RfaFctaUsxUXZYWWpCUkt3Wm0tSWNUWjlUVE9kV1RqV1BPRVE?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "영케이 5관왕, 트레저·리센느 4관왕… 8팀, 최고 영예 그랜드 상 품었다[2026 KGMA]",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1dPUThOVFpDbkhJMU82R1ROWFN2MTJxYXVOTzVVcTh5NG5VUXNxeV9aS1U0NXh4cTBac2J4Q0d3LVlFT085U0k0LXJxcm9jMFRrX0pyQm1FdkZWc2FjU284dVlFM3pqM0hGdjJSRElKRHlTemlwX2V4a0RFWExHaQ?oc=5",
+              "source": "이데일리"
+            },
+            {
+              "title": "‘2026 KGMA’ 영케이 5관왕 질주…트레저·리센느·앤더블 최고상 영예",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rUEwycHVpY2RGUGY1Z3ZhVGZLTmtnYjhCcUxrTzU2YTZmalYyTE5FRExLQkxlRXRLMVZfY2xwc2pxbHQwR2pWQnVrb3p6SjlsV3pkMkdCTUlPa2F0ZDJZWDZ6M1VVNTQtU1VUdm5B?oc=5",
+              "source": "스포츠동아"
+            }
+          ],
+          "description": "걸그룹 리센느가 '2026 KGMA'에서 4관왕을 차지하며 최고상인 그랜드 상을 품었다. 같은 시상식에서 영케이가 5관왕, 트레저 역시 4관왕을 기록하며 경쟁이 치열했다. 별도 집계에서는 '국민 걸그룹' 타이틀로 압도적 1위에 오르는 등 존재감을 과시했다. 어제 5위에서 오늘 3위로 순위가 올랐다.",
+          "headline": "리센느, 2026 KGMA 4관왕 수상"
+        },
+        {
+          "rank": 4,
+          "word": "닥터 X",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"닥터X, 의사 집단 매도하는 막장 드라마\" 홍준표의 직격",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YTy0tMEpWOUdpMkVXUU9yR3ZHQmpGX3QtWkM3TFBUT2FNRldjSlJSaGpWVjhKclZ1QTU4R1JJMVRwWGxEMllhZnZNN0xNVTF6eWMtS19Obk1JQQ?oc=5",
+              "source": "파이낸셜뉴스"
+            },
+            {
+              "title": "“한 사람 영웅 만들려고 의사들 바보 만드나”…홍준표, ‘닥터X’ 작심 비판",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xLTR3cmFWd3lsd1ZLd0tPeEF5SGw2RHlia0dPRlo3QlpEbXRYRFZua0dmVzZYNkozRS14blBPMnQ1dGtpa3hTLW9MOUZCRXFOWTNiaF8wSlQ?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "이번엔 문화평론가? 홍준표 “‘닥터 X’ 좋은 드라마인지 의문···의사 집단 매도”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53QTU0b0VDNVlmcU1mVjBhQmRTczd1alNrZkJKU2ZiWFhBOHlXRnUwYjZRdzVmekFkNHJpOGMxX3FaUW9LZmxoOUQ0OVZsR2FYNVRWRXFoRVlPQ1YycWc?oc=5",
+              "source": "주간경향"
+            }
+          ],
+          "description": "홍준표 전 대구시장이 드라마 '닥터X'를 향해 \"의사 집단을 매도하는 막장 드라마\"라며 작심 비판을 쏟아냈다. 한 인물을 영웅으로 만들기 위해 의사들을 바보로 묘사한다는 취지의 발언으로, '좋은 드라마인지 의문'이라고도 덧붙였다. 정치인의 직접적인 드라마 비판이 화제가 되며 오늘 처음 트렌드에 등장했다.",
+          "headline": "홍준표, 드라마 '닥터X' 작심 비판"
+        },
+        {
+          "rank": 5,
+          "word": "설경구",
+          "count": 1,
+          "articles": [
+            {
+              "title": "설경구 \"'가능한 사랑' 오스카 수상 기대해, 최선 다할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GVHZoWG9PbnhuT3JRVUVCUEhBSEpsWWJ4RjJpTk1VVmpuWkhjQ09saTY4TFNmTldNWW1WQ3k2STlMTFFDOVdxUnU2WlM0RVFSNjBIakxreU85dnd2RDZJ?oc=5",
+              "source": "YTN star"
+            },
+            {
+              "title": "▒종합 경제정보 미디어 - 이데일리IR▒",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EUE5CODdtTURoZVZwMTdyeHB4b0YwLUhsREFQUmsyVDVEVlpCZ0lSVmo1OHJwX3hnbVNIUTQzTUM5dHJNbEFCbW5uUU9scDB2SXg4cm1ZTlBCdWw4T2pLanhlOTN1cnZsM1E?oc=5",
+              "source": "ir.edaily.co.kr"
+            },
+            {
+              "title": "'가능한 사랑' 설경구 \"전도연만 한 파트너 없어, 무궁무진한 배우\"",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1b18wSmNlRHlYZnhTZXAwS0puWEtzaXZ3cGktSVFvQmloc09MbDc2bW5EWXVuaS1yY2hzcTBQR215bktrVmU3OUNtd0ZEMGdGVFQ4THI2blNEdzcyaXV3?oc=5",
+              "source": "YTN star"
+            }
+          ],
+          "description": "배우 설경구가 영화 '가능한 사랑'의 오스카 수상을 기대한다며 최선을 다하겠다고 밝혔다. 전도연과 호흡을 맞춘 이번 작품에 대해 \"전도연만 한 파트너가 없다\"며 극찬했다. 오스카 도전 소식과 함께 두 배우의 케미에 대한 기대감이 높아지며 오늘 처음 트렌드에 등장했다.",
+          "headline": "설경구, '가능한 사랑' 오스카 도전 선언"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "삼성 라이온즈 12년 만에 한국시리즈 우승 · 안세영 승률 98.6% 대기록 · 강원FC 극장승으로 4위 도약",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "삼성",
+          "count": 4,
+          "articles": [
+            {
+              "title": "'갤럭시Z 슬라이드' 이렇게 나온다…삼성, 새 특허 공개",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTGhycWVCcWZ3M2dxdWJ3eEFwTTUxUDB2bDVrajJZTno4d2YxWXpNUGp6NE1weEg1UG1pRW80TEdTeVU1V0NFeE9NYUNOLVFWc2NGa25n?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "\"삼성전자 팔면 후회할까\"…20년 통계 봤더니 '놀라운 결과' [분석+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNm83X1V3bS1kNFI5aVByQTJCOGRrNU9ka3ViODZ2YTlrUFdxMFQySzBhazdrSkhjd2tDNDFMUzhFUm1SWHNaOTlrajNPWFhaY1RfT1lpbTd2Zw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"50% 폭락한 삼성전자, 반등 확률 97%\"…지금이 기회?",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXzJfSWg2QU5hY0gtNFdmaXJleUF3QTIxeThKTnR6UmktQnY4ZEhhSVhwcUJmd3VFOVpmYzAyWHN6S0x3bjR0SFYyR0FYXzd3LUJra2VMT05uMklhUzNrOG1Jb1o2ZTdUODlVaWVGZnRpRnloR2Z1eXFvTl91blhwcQ?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "50% 폭락한 삼성전자의 반등 확률이 97%에 달한다는 분석이 나오며 투자자들의 관심이 쏠리고 있다. 20년 통계를 근거로 '지금이 매수 기회'라는 시각과 함께, 새 폼팩터인 '갤럭시Z 슬라이드' 특허 공개 소식도 함께 화제다. 주가 반등 기대감과 신제품 기대감이 맞물리며 삼성은 12일 연속 1위를 기록 중이다.",
+          "headline": "삼성전자, 50% 폭락 후 반등 주목"
+        },
+        {
+          "rank": 2,
+          "word": "안세영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"경악\" '넘기 힘든 거대한 벽' 中 극찬 터졌다! '승률 98.6％' 안세영 대기록…'AN, 놀라울 정도로 완성도 높다'",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRklPdEgzZjVfSXRiQ1pLd0JuRHE0dlBXc3FGOWJKTS1MVXBCN21ia0xzYWVxcU5JQzNNX2ZmcGQwRFRGZUQta0g0MWxpazVmWVhvZjNmRGlYd2VwVkNNZjhudjdib1ZPUzZKZXhvYXVwVHVtY1gwSy12VEhlWWxxWUFudk5tUkhYWGRj?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "中 대환호! \"중국 안세영이 나타났다!\" 17세 천재 소녀 등장에 열광…31일 동안 17연승 '괴물 신인'→승률 95% 돌풍",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmMEUtSlZrNC03OTA2R2VVaFBBb2JkZmxKUXJudWNGSTRpb2k2TkdQSG9WZHVmV0RZdno5Nk1MNU9KWllnMktUb3hOZVZuVXR4eXNRMVB6VjAwVzBvTUVDT3I0Nkg1aVBfRnZEUkZzVjQ?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "안세영, 야마구치 꺾고 11번째 우승!…안방서 한 시즌 최다승 타이 기록",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iRFhNdGMwQ2RoRmhJTmZyQVlRdjMxdWZEOHJyLXJZaG9aUzNBMHFFT29ZY2xud1FJRTVVYnpFc1lDYjBDOWRmNmxhOXItZ0xMa3FVeEJub3BlNEE?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "안세영이 야마구치를 꺾고 시즌 11번째 우승을 달성하며 한 시즌 최다승 타이 기록을 세웠다. 승률 98.6%라는 압도적인 수치에 중국 언론까지 '넘기 힘든 거대한 벽'이라며 극찬을 쏟아냈다. 한편 중국에서는 승률 95%의 17세 신인이 등장해 '중국의 안세영'으로 주목받으며 비교 화제가 되고 있다.",
+          "headline": "안세영, 11번째 우승·한 시즌 최다승 타이"
+        },
+        {
+          "rank": 3,
+          "word": "KT",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'V9' 삼성, KT 꺾고 12년 만에 한국시리즈 우승…MVP 구자욱(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yaHlSZ2xwOWJZa2RJNk10eXlUaWVTLXVGZEdvTjh6WHBlOVhTTXNzSVdJOGNMWHY4bWw2SE94VjBmTXhHUURuRDJwUFJ1bFpPdGNrM3lnNXdGTzhYdGFKNjFRWVJURTdLUFE?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "정규시즌과 너무 달랐던 KT",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0N3V0lQOG9iejZ6OEVZOE9jS0I5ZVNDNUFqSjN3M3EySWQ3T015V2NLLUluc3Q2WEl5Q2w5SjdlTmFWamNFQkhqUEpMSXJtbWJHakFzekhRSTd1WXc0YnFTMWxBRmZ5YU5oRWpxQTlKb0RGeDc5RHlHWXgxRVB1dktvNA?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "2026 KT엔 없었다 ‘박경수 투혼’ 그립다",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uRWpHRTc4cHNJTWtOSDk4TDFaQy03X21JczItMUNrN1M5Z1gxMlRTRHhWYXJMLWRtSFNMX19lN1BMSXpReXpBbFR5Mk1JZ3ZBajBzNmxEcHdpc3dtU0HSAWNBVV95cUxPSVJTZHpVN1UtSWV1dDdUelFJbW1kRnFpZ2xPS1JDU3NJdzNIekdGUHVVN1RPamZPR1hySVJCelNkODFsNDRrV1JMRnlCdkxLMW4zblB5d2Q5NlQyaTAwcXFaMGs?oc=5",
+              "source": "스포츠경향"
+            }
+          ],
+          "description": "삼성 라이온즈가 KT 위즈를 꺾고 12년 만에 한국시리즈 우승을 차지했다. MVP는 구자욱이 수상했다. 정규시즌과 달리 한국시리즈에서 힘을 발휘하지 못한 KT에 대한 분석이 이어지고 있으며, 올 시즌 활약한 박경수의 부재를 아쉬워하는 목소리도 나온다.",
+          "headline": "삼성, KT 꺾고 12년 만에 한국시리즈 우승"
+        },
+        {
+          "rank": 4,
+          "word": "PGA투어",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘골프신동’ 브라운, 연장 끝에 PGA투어 첫 우승",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yQmRNWE5LT1BYM0I4aXJyb25kVkJBU09LX3l5NkJKdGg0NDUxQUMxWlJLcGdNN0ZfMjIwcnlMb2JFQ19WTjI5NlZBeEtoZm9S?oc=5",
+              "source": "문화일보"
+            },
+            {
+              "title": "2007년생 브라운, 대학랭킹 1위 누르고 PGA 투어 WTT 챔피언십 정상",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BZEpXdEM4a0tPYlk1WW9PY2RCRTg3MTVzY2p3ZXN4NWpmTnV4ODFfY0lUUnp3YjYzVDhBN2R0WHRyR01udEhzaVFOLWJUb0xRWGxOaERZRlAxQm1nR29uR1VoZFM3ajg5RzFRazkwdHZDcjQ4X0JmSmtqTkdHUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "19세 브라운, PGA WWT 챔피언십 정상…역대 4번째 최연소 우승",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SQkJvYTFMUVZlclFUbjBjemhJZG80RmZadUpGbGJMUFg3Qm9LOUtJZExub1A0YkxoM1A5TFpEbkw1aFRpVTRhLV81RFFfa2ZVUU9kT1duWENSQ3puTnVGadIBeEFVX3lxTFBRd3NXdzllMHFwQWcySjVtVzZFelZ2Y2F2VE5fbXVLWElaV3VCazE4enFwcTFiSDJzQUp6UmdLTzZsd0s5S2hULWYzVDBpd1RrUXJCakpJN24tTTQyWVJoWXBQaFNMcFY0b080aVJaYlRzS0lGZExMRQ?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "2007년생 닐 브라운이 연장전 끝에 PGA 투어 WWT 챔피언십에서 정상에 오르며 역대 4번째 최연소 우승 기록을 세웠다. 대학 랭킹 1위를 꺾고 거둔 우승으로, '골프 신동'으로 불리는 19세 브라운의 등장이 골프계의 큰 화제가 되고 있다.",
+          "headline": "19세 브라운, PGA투어 첫 우승·최연소 4위"
+        },
+        {
+          "rank": 5,
+          "word": "강원FC",
+          "count": 1,
+          "articles": [
+            {
+              "title": "강원, 전북에 3-2 극장승…박상혁 추가시간 결승골·4위 도약",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85X3ZxcmpGYVBPMHNNU0NILWVnT1hFekJxOFRhX2REelp2R0VDYjVWRzI0RFdFRl9HVTg3ZlV6c2d6bzlVNXAwLVBKenJha2JjcU9n?oc=5",
+              "source": "네이트"
+            },
+            {
+              "title": "심판 무능 방관하는 막장 AFC...'무능 희생양' 강원도 놀란 기각 사유",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JaU5oNWFRZi10U19qZWN5ZUduZUhFc3VfaVY4N1ZEYWVvMDhBRERBNGVHeTR0dWY1bF9RMXphQjBDOU9Db0F0ZUZ6Vm15SktGTnVFbWRjYW9rSm9tMUNESlZ5V2lJVUZFXzRLN1o3LWIyRG03aWRPTGpYbHRPZw?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "'야고 17호골' 울산, K리그1 챔피언 서울 2-1 제압…2위 수성(종합2보)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VYkN1R19rMFE5ZHBZVV9Qa0J2OG9ya1RlRmJaYWtqRTc3Z2ZySkc1ZF81ZXdRNFlHdWlMLU9TYXVjbDh6eEdUeUN4cnF6Q1BEeHRBSGlFLU5SeHfSAWBBVV95cUxQRVc4c0MyXzlxbE8yR3BjM2dvYy1lSENzT2MzV0JHQUphMVpkQ0lMQVBQVGpXdlVXTUdTOHBJZW9mX2EzV0NOZXlFaGlFUmljV1BocHdZUlB5Z0RXb0ZyZVE?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "강원FC가 전북을 상대로 추가시간 박상혁의 결승골을 앞세워 3-2 극장승을 거두며 K리그1 4위로 올라섰다. 한편 AFC 심판 판정 논란과 관련해 강원의 이의 신청이 기각됐는데, 그 사유가 납득하기 어렵다는 비판도 제기되고 있다. 같은 날 울산은 야고의 17호골로 서울을 2-1로 꺾고 2위를 지켰다.",
+          "headline": "강원FC, 추가시간 극장승으로 4위 도약"
+        }
+      ]
+    }
+  }
+}
