@@ -924,8 +924,8 @@ def _get_ner():
     return _ner_pipe
 
 
-# 개체명 앞뒤에서 떼어낼 문자: 따옴표(직선·곡선), 가운뎃점, 쉼표·마침표·하이픈·말줄임표.
-_NER_EDGE_CHARS = "'\"‘’“”·,.-…"
+# 개체명 앞뒤에서 떼어낼 문자: 따옴표(직선·곡선), 가운뎃점, 쉼표·마침표·하이픈·말줄임표·콜론.
+_NER_EDGE_CHARS = "'\"‘’“”·,.-…:"
 _NER_PUNCT = re.compile(r"^[\s" + re.escape(_NER_EDGE_CHARS) + r"]+|[\s" + re.escape(_NER_EDGE_CHARS) + r"]+$")
 
 
@@ -995,7 +995,13 @@ def _event_anchor(word, titles, keep=("PS", "OG", "LC", "AF", "EV")):
     return None
 
 
+# 키워드는 /keyword/[term] 정적 페이지 경로가 된다. Windows 파일명 금지 문자가 섞이면
+# 로컬 빌드가 깨지고, 이런 단어는 대개 '[MHN:픽]' 같은 언론사 라벨 파편이라 버린다.
+_UNSAFE_WORD = re.compile(r'[<>:"/\\|?*]')
+
+
 def filter_keywords(candidates, category, titles=None, ner_tags=None):
+    candidates = [(w, c) for w, c in candidates if not _UNSAFE_WORD.search(w)]
     if titles:
         # 일반명사 후보 뒤에 숨은 '핵심 고유명사'를 결정론적으로 찾아
         # (배우→박지훈, 논란→선관위), 그 고유명사를 후보 풀에 넣어 선택
