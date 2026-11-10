@@ -88,7 +88,7 @@ export default async function Home() {
         <p className="text-center text-zinc-500 dark:text-zinc-400 text-xs pb-1">
           매일 아침·저녁 자동 업데이트 · Google News RSS 기반
         </p>
-        <p className="text-center text-zinc-400 dark:text-zinc-500 text-[11px] pb-4">
+        <p className="text-center text-zinc-500 dark:text-zinc-400 text-[11px] pb-4">
           기사 저작권은 각 언론사에 있습니다 ·{" "}
           <Link href="/copyright" className="underline underline-offset-2 hover:text-orange-700 dark:hover:text-orange-400">
             저작권 안내
