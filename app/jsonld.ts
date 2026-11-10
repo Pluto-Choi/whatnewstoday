@@ -34,14 +34,6 @@ export function buildJsonLd(data: KeywordsData) {
           "오늘 가장 핫한 이슈, 연예, 경제 뉴스 키워드를 한눈에. 매일 아침·저녁 자동 업데이트.",
         inLanguage: "ko-KR",
         publisher: { "@id": ORG_ID },
-        potentialAction: {
-          "@type": "SearchAction",
-          target: {
-            "@type": "EntryPoint",
-            urlTemplate: `${SITE}/keyword/{search_term_string}`,
-          },
-          "query-input": "required name=search_term_string",
-        },
       },
       ...itemLists,
     ],

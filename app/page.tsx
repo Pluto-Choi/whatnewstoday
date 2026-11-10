@@ -4,7 +4,6 @@ import KeywordDisplay from "./components/KeywordDisplay";
 import BriefingCard from "./components/BriefingCard";
 import SiteHeader from "./components/SiteHeader";
 import UpdatedAt from "./components/UpdatedAt";
-import KeywordSearch from "./components/KeywordSearch";
 import LeftSidebar from "./components/LeftSidebar";
 import RightSidebar from "./components/RightSidebar";
 import AdFitBanner from "./components/AdFitBanner";
@@ -49,12 +48,6 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Home() {
   const data = await loadCurrentData();
 
-  const searchKeywords = Array.from(
-    new Set(
-      Object.values(data.categories).flatMap((c) => c.keywords.map((k) => k.word))
-    )
-  );
-
   return (
     <div className="min-h-screen bg-zinc-50 dark:bg-zinc-950 text-zinc-900 dark:text-white">
       <script
@@ -86,12 +79,6 @@ export default async function Home() {
         )}
 
         <KeywordDisplay data={data} />
-
-        {/* 검색은 "원하는 걸 아는" 2차 행동. 글랜스(랭킹 보드)를 위로 올리고
-            검색창은 보드 아래로 내린다. 모바일에서는 숨기고 데스크탑(lg+)에서만 노출한다. */}
-        <div id="search" className="hidden lg:block scroll-mt-20 mt-8">
-          <KeywordSearch keywords={searchKeywords} />
-        </div>
 
         {/* 업데이트 시각을 하단에 표시(데스크탑·모바일 공통). */}
         <p className="mt-8 mb-1 text-center text-xs text-zinc-500 dark:text-zinc-400">
