@@ -1,509 +1,509 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-13 05:16",
+  "updated_at": "2026-11-13 17:27",
   "briefing": {
-    "text": "미국 특사가 푸틴과 직접 회동한 뒤 젤렌스키를 만나기 위해 더블린으로 향하면서 우크라이나 종전 외교가 급물살을 타고 있다.\n\n국내 정치에서는 민주당 최민희 의원이 '이재명 대통령이 윤석열 탄핵에 반대했다'고 발언해 파장이 커졌고, 청와대가 강한 유감을 표명하면서 민주당은 즉각 감찰 조사에 착수했다.\n\n경제·보안 분야에서는 AI 기업 앤트로픽의 챗봇 '클로드' 국내 기업 계정 100여 개가 유출됐고, 가상자산거래소 플라이빗도 해킹으로 고객 정보가 새나갔다. 엔비디아 CEO 젠슨 황은 불륜 스캔들로 대표이사직에서 사임했다고 로이터통신이 보도했다.\n\n연예·스포츠에서는 강동원과 김고은이 함께하는 사극 '혼: 삼각의 시간' 제작이 발표됐고, 쥬얼리 출신 이지현은 싱글맘으로서 딸이 혼자 병원에서 4바늘을 꿰매는 사건을 계기로 미용실 퇴사를 결심했다고 밝혀 공감을 샀다. 삼성라이온즈의 12년 만의 우승 열기가 이어지는 가운데, 불화설이 불거졌던 손흥민과 96라인은 공동입장문을 내고 갈등을 공식 부인했다.",
-    "period": "아침",
-    "generated_at": "2026-11-13 05:16"
+    "text": "경기 시흥에서 일가족 3명이 숨진 채 발견되고, 큰아들이 범행을 저질렀을 가능성에 무게가 실리며 오늘 가장 큰 충격을 안겼다.\n\n법학적성시험(LEET) 최초 만점자가 AI 안경 착용 의혹을 받자 수능 국어 문제를 생중계로 직접 풀겠다고 선언했다. AI 안경의 시험 부정행위 악용 우려와 맞물려 시험 공정성 논란이 뜨겁게 달아올랐다.\n\n경제 분야에서는 엔비디아 CEO 젠슨 황이 불륜 스캔들로 사임했다는 소식이 전해지며 반도체·AI 투자 시장에 파장이 예상된다. 국토부 장관은 매물 증가와 거래 감소를 근거로 '집값 하락기 시그널'을 공식 언급했으나, 서민 가격대 집값은 오히려 올랐다는 지적이 나오며 현장 체감과의 괴리가 도마에 올랐다.\n\n스포츠에서는 베트남 감독 박항서가 인종차별 조롱에 항의했다가 오히려 2경기 출장정지 징계를 받아 공분을 샀고, 한국시리즈 MVP 삼성 구자욱은 MLB 진출을 모색 중이라는 소식이 전해지며 챔피언 팀의 전력 유지에 고민이 깊어지고 있다.",
+    "period": "저녁",
+    "generated_at": "2026-11-13 17:27"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "미국 특사들이 우크라이나 종전협상을 재개하고 이란 핵협상도 가속화하는 등 트럼프가 외교에 속도를 내고 있으며, 국내에선 최민희의 '이재명 탄핵 반대' 발언이 논란을 빚었다.",
+      "summary": "성북구 10대 살해·시흥 일가족 사망 등 강력사건 잇따르고, 뉴욕 건물 붕괴로 8명 사망.",
       "keywords": [
         {
           "rank": 1,
-          "word": "미국",
-          "count": 3,
-          "articles": [
-            {
-              "title": "사진을 찍고 기다릴 필요가 없다…미국이 만든 즉석카메라 ‘폴라로이드’",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hNDZmM29rMHJ5eVNVU1cxYW4xM2RNTHJMVXpoRGNMaUo0UDluZEF6MWlWVGxCcHphb3ZiUi01YTFhOC1jc1RMNmRKRFpsYndRMFpReE1NeUlpcHJnNnJvRkpVTFRzdk54amVEb9IBb0FVX3lxTFBERFZxUG15M0pvLWdmRWFudTBLQWxPV3dTMkhNUFhzUWEtZzZWcWdEQ3A5REg2SjEwNElWMVJaWkpZdHN6YTRCTGxnUlZ1dzJoRTlCTW0zUklacVZhUTMxX3dNTTl3anVLTHRSQzdYTQ?oc=5",
-              "source": "VOA 한국어 홈페이지"
-            },
-            {
-              "title": "미국 특사들, 아부다비 회담 이어 푸틴과 회동...젤렌스키 만나러 더블린행",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nVDhUbGpTMmt2a1BGOTFtWExzNGdmZm5HT0YyTkR2TFpwY3FBQlRwZDM2ckI5eFM2T0F1UWlkempOcW5ob0QyVUx3LWE2WUV4UEkwcEFXREZvRjktQU9TdUVuT21TbWJNVXhfVm1teU1md9IBdEFVX3lxTE1HVndENk83OFBBbFpoQ19taGNyZnpUeldGZXIwLUg2WnNxTnhvNzVwYzN2V2xRWXk1MG9XXzBRc3VHUVlmUEFVQUlRWTZNR0hoQmVVaF9RdVRPeVFWX0R6Zy0wenl3S05JSXRjOFNuYjhoV09m?oc=5",
-              "source": "VOA 한국어 홈페이지"
-            },
-            {
-              "title": "‘미국 민주당 압승’ 경남 산업 ‘촉각’…“수요는 견고”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Y25ZVU9tUWI5TENUYzdkODFhVzNkYUwwNU1xME1UODNGMk1nQmsxMUZiczA2eXA1eTMxa182ZkEtbFdfTUY3LUd4eUhpUF8zMDdZTXk1emlPLVk?oc=5",
-              "source": "KBS 뉴스"
-            }
-          ],
-          "description": "미국 특사들이 아부다비 회담에 이어 푸틴과 직접 회동한 뒤 젤렌스키를 만나기 위해 더블린으로 향하면서 우크라이나 종전 외교가 급물살을 타고 있다. 한편 미국 민주당의 선거 압승 소식이 경남 지역 산업계에도 파장을 미치며 국내 경제 영향에도 관심이 쏠린다. 어제 4위에서 오늘 1위로 급상승하며 주목받고 있다.",
-          "headline": "미국 특사, 푸틴 회동 후 젤렌스키 면담 추진"
-        },
-        {
-          "rank": 2,
-          "word": "삼성",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RODNwaGR3bDNqd3VzbjRKci1GdUdOVEplT0pvM0ZYM21MQkhTODYtdjdab00zRnZoYzZUdTlxR2RNenNfOUswSzUxeE1PUnhFbTNTNk1qdXM3cWZ0QnhmWVFpVGs?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "기다렸던 '삼성 우승' 가전 할인, 내일 온다",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mcGRweVNiSFZheEpZLTdQNDJIbm5nV0pyNGVTVU43OTU1ME50RVZUdFpjOFUxS3QtWnh4ZDAxNHdfaWdkNUo5UUl6ZV9UaGphajF30gFYQVVfeXFMUHJfT0NXejRjRzBsZ0d6dXVxT19uUkdJRURIb3N0WXFrQjctVFp3WjgtYlZfZUtuam5QRlNCSGo1VWtESXFxWlZEYktfNmdxYzAxY3ZJTkJ1eg?oc=5",
-              "source": "SBS Biz"
-            },
-            {
-              "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nZmRDam9DWUxWNHhwNk1jUDMySXRHRTlQdERQRC1jempfdFJSVmFMU2YtMF95WE9FTVVGQjB6Ulk2QjNEMF9mSFg4c21Xdw?oc=5",
-              "source": "전자신문"
-            }
-          ],
-          "description": "삼성라이온즈의 12년 만의 우승을 기념해 삼성스토어가 13일부터 가전 할인 행사를 진행한다. 에버랜드도 우승 기념 팬 초청 행사를 열어 2000명의 팬과 'V9 데이트'를 준비하는 등 그룹 차원의 축제 분위기가 이어지고 있다.",
-          "headline": "삼성라이온즈 우승에 가전 할인·팬 행사 잇따라"
-        },
-        {
-          "rank": 3,
-          "word": "탄핵",
+          "word": "의심",
           "count": 2,
           "articles": [
             {
-              "title": "최민희 \"李대통령이 尹 탄핵 반대\"... 김민석, 崔 감찰조사 지시",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3RuRDlQY1VqNnZKcjZPOEtEN0JzWHd1WHlmRkdYaGgtUjA2emZZRkxxQXZDWjFIa1BBSTBXaG9VOGpHNlBhMl9Ra29sc3l0NVZhWnh5YzhvbUNkdUVhX2pHd2V3Nl9DXzhLMUpVRHB1Ykx4UUZmZ1FYVk9iQXdHOXdZZW9SeE1H?oc=5",
-              "source": "조선일보"
+              "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvWmRfdFY1VGlLeTVpWEJpQm1EMFAzMTNXYk1xWmVISjY1Y1ZOZk8zSFJJUHhrc3pXelVmUGtKX1JGX1pOelFwZGZab0tQdjQ5cmpTeEVMd0F1VGxYV2dsNDNDZFJkdlFXaF9TVXFucVYzUQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "“李도 尹탄핵 반대” 최민희 발언에…靑 “강한 유감” 與 “감찰”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4dTNhVHdpMGZ3ODhCRU91a0YtTnBiMjNDMXlWREc5czR3bzJiUnpDa3cwcmJKNUVZVTJfTWtaeGV0VlllQWk5Umo5ZUlvS1h2T3NIWjVB?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "이번엔 \"이 대통령, 윤 탄핵 반대\"...민주, 최민희 감찰 착수",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vRUpIQk5KcjZLNHJtYlpaZURtYkF3VEdCcW1kanRnRkhOWEJuOUFXVHlkUG9kVEttQmVwMEtETFRULUlkWW40UEpUY1pTT2t3UU00aEowdERrYUhVc2JJN3lSR2lqN2EtTWdCVmxjZw?oc=5",
-              "source": "YTN"
-            }
-          ],
-          "description": "민주당 최민희 의원이 '이재명 대통령이 윤석열 탄핵에 반대했다'고 발언하면서 당내 파장이 커지고 있다. 청와대는 강한 유감을 표명했고, 민주당은 최민희 의원에 대한 감찰 조사를 즉각 지시하며 사태 수습에 나섰다. 오늘 처음 등장한 키워드다.",
-          "headline": "최민희 '이재명도 尹 탄핵 반대' 발언에 민주당 감찰 착수"
-        },
-        {
-          "rank": 4,
-          "word": "이란",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"밴스, 이란 강경파 안보수장과 대면협상 검토…종전협상 전면에\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pUkdWNkhoQWVsTk5tXzdSYVBJNzF2VTg1TzFINGVRZklhRVhPWkhDVDlGQlYzRGNlR1VQTzdTNkpVVi1hRmhjSzZTdXo0aURNTFZPSmFZaVloTUHSAWBBVV95cUxQM3IzMEFVcjVISWRRUVgyenpnMDNJcHhhdXJHQzFSREIyMkI1MTFOQkVNQlpfTU5kdmE3SzU0UDhJVTN6S18zc1FLWWh6Rkh2UWEwMC1wTTZhSk9qd0xva2w?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "트럼프 “이란전쟁 곧 끝나…93% 아닌 완전한 승리 원해”",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DSUxJSkNZVFJ5clhKMEt2ZVR2Y3pTdXBNdjktcU9WZnJ1ZkdoYTZ1c3VxSGJDRy1LLUpCNS1vMjE2Yk8wTW10M05xeGhVcy1oWmNiZzNIN2o1WUQ0T2l5TUJXVzJrMmg4RjZ1WHlUejVTM1XSAWZBVV95cUxNWlYwYXNlVnZCNXNDVlZQVVlCZHE3QWhHS3AwbVZsOFczRVJPelNORzJhVGoxZlc5b3ZKU20tQkNzeU0zcU1pQUlLUzFlUVNHakFqdnJBS2pxZkd6MnVQVlNRdU1YYUE?oc=5",
+              "title": "‘AI안경’ 의심된다고? 리트 만점자 “수능 국어 생중계로 풀겠다”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGU0p5X2NiLVp6VDF2WWRHY0NNOTBWbmpnQzVaUC1Pc0hVRk9TbWMzVC1HTWNfWE9OZENadlpROVNjYm5XQmdTbF9LT1BmY3prSmZ3aW1uNTZaMk5pMDZFYW8zNUFnTnQ2NWU1TEhyR2t5QnAtUUHSAWZBVV95cUxNQjVNY01YblZiUEs1X2d3TDUzNDludTZTWmdEd2dTdmVTNUVUdmQ3TTItaXRGVlZBQTU2djB0NURxTzlUVFBPOW1mcXlHTGFDWkprMzltTXpZQk5qbm5QZ3NXWnozeUE?oc=5",
               "source": "동아일보"
             },
             {
-              "title": "트럼프 “이란과 합의 필요없다”…‘협상 주도’ 밴스에 “다른 업무 봐라”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuLU9rMnNpWXE1SXpMZ2RPMnpNVlhUYXJ0RU02aGRIRnRNWXdPM1U0T0haZkdPeXdHRS0wUk8wN0V3WUhtbWp5TmYwYUtPSjZvc2lyX2J1RlBFSjA?oc=5",
-              "source": "KBS 뉴스"
+              "title": "“AI 안경 쓴 거 아냐?”…의심받은 리트 최초 만점자, '수능 생중계' 선언",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01eDZGMmJwWjBMRXhlaS13Z21KWDlMblVFcVhZWUU0b0FKZ1UwMFhQbjlrWkg3VlNNMmtjaVljWkFTUUhuTXBWUUdaTkE5QlNyMG9OSHFMc1lPQ2J2R3h4VkNUQUt6VHZiZVHSAW5BVV95cUxPaFlRT2NPcFZhakFaa0V0VUYwbllfaFM2THpGamk4LTRQVWUydUhOSjdUaWh2enF0QXlPTmdOQUVYZlk5VldFQXFlSklUSFhQd3l5REJ0MmR5YVI2QVl6OXdudm9VRHR3M1FIdU9PQQ?oc=5",
+              "source": "주간조선"
             }
           ],
-          "description": "트럼프 대통령이 '이란과 합의가 필요 없다'며 협상을 주도하던 밴스 부통령에게 다른 업무를 보라고 지시해 대이란 외교 노선에 혼선이 빚어지고 있다. 앞서 밴스가 이란 강경파 안보수장과의 대면 협상을 검토 중이라는 보도가 나온 가운데, 트럼프는 '93%가 아닌 완전한 승리'를 원한다며 강경 입장을 재확인했다.",
-          "headline": "트럼프, 이란 협상 놓고 '밴스 배제' 엇박자"
+          "description": "법학적성시험(LEET) 최초 만점자가 AI 안경을 착용했다는 의심을 받자, 수능 국어 문제를 생중계로 직접 풀어 실력을 증명하겠다고 선언해 화제다. AI 안경은 렌즈에 정보를 띄워 시험 부정행위에 악용될 수 있다는 우려가 커지고 있는 기기로, 최근 각종 시험 현장에서 의심 사례가 잇따르고 있다. 만점자의 맞불 선언이 AI 기술과 시험 공정성 논란을 동시에 불러일으키며 오늘 처음 주목받고 있다.",
+          "headline": "리트 만점자, AI 안경 의심에 수능 생중계 풀이 선언"
         },
         {
-          "rank": 5,
-          "word": "협상",
+          "rank": 2,
+          "word": "경찰",
           "count": 2,
           "articles": [
             {
-              "title": "‘선거 참패’ 트럼프, 이란과 핵 협상 줄다리기 끝내나",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZjhzZ1l0eWd4cEVoV0hIWEJNU3hxajZmekkycmFYSm9DazlOUTZpWUQ0LThzNnY2UkJEWWVXODAyaTVXY1l3WVJwVnRFbXBHSmg1UXlQcHh5Z9IBX0FVX3lxTE1QSlJ2TUdaZVRtVnVRVFk2Si1BYlFqaDF0R25pR1lDd1BTSmlkOEk2Y2Z4UzI2R250UW9tUUs1NW5zSElYY2tiR3ZmQ2tzU01lcWVLZVNzYjFiU2wzQzFN?oc=5",
-              "source": "경향신문"
+              "title": "시흥 일가족 3명 숨진 채 발견⋯경찰, 큰아들 범행 가능성 수사",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HY0VhQTZUUzZ0TXBpSGlIczZ5NkFYLTVqMmlGakN2aFF1TXptdEJxbnl6b3pKZlhuX3pwcDVCZnRGV1RDSHN2VGxfazlwNE5JdGZyQlJadmM?oc=5",
+              "source": "국민일보"
             },
             {
-              "title": "우크라 종전협상 9개월 만 재개…선거 참패 뒤 ‘외교 성과’ 속도 내는 트럼프",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43Q21nQVpfVXc3WENNVFZtTVhRcGZueVlKTzc5RGlCM0JtMnNPUVpsVFJVMEpPZG1ycWc4VGptRDh6QWV4NzdtbVlHX1ZfSVpsQmZpN1BJc1d1TTF3MllaQXFn?oc=5",
-              "source": "미주중앙일보"
+              "title": "시흥 아파트서 어머니와 두 아들 숨진 채 발견…경찰 수사",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzSnhhRGxFYkN5LWFlWGdaeGp1SXg5WkNfMzB0STMzVGJQYVZwMGNWSS16cUw5TVFNU2ZoemJfSWd4c0hEeGZPcmhUdVFtb3ZqMDY3X1J0TDhKYmPSAWBBVV95cUxPYlh3dUo5cXZFUGhrYVVUb2lJMzZ0ckhOQ1lERlZaMGxKQTNYNzNzVC0xQ3IwLUtmNzdpY2tWdDYxOTRaVDBhTHB2M3htMEEtRFNaNVkyaTFNMHYzUkRjY2k?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "\"트럼프 아들이 투자한 로봇기업, 이스라엘군과 공급 협상\"",
-              "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMUw5ZTRHZ2h3UTBlSm9YeVRMSEo5cVdHclFtX3BiWnVuNUF4REhGM3BXUmYwZzlPbDJ2TGhrVnlPMndsQ0VNX29hS3B5WTQtc3BTcXZJQjhueTVWSTZDTy1kYkhNSHBkRlRVR1dydmJ0S3M5NjRRZ1ZBdVBSTjFWSjVsT1RxODBNS2V1ZnJTTGZnUkNhOFY2QVJDWi1raFFtVjRRdXJaSm50NHp2S3ZxeExvcUJaYmhnNEozS1FfaF9UZDBPaWowS0M3eGdPZ0t5ejdMbm95ZEczbHFKZW1ROVMxWlA3d0daY1lZczlWd1M2M3NQeG41WmE4TnJKOW56VEtic3RqZ3NUaHB1Ry1iTkpWckY2RHkzSV9na2J0YURKN0U?oc=5",
-              "source": "데일리안"
+              "title": "시흥서 일가족 3명 사망…경찰, 큰아들 범행 가능성 수사",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Yk1saW1ZWTVuTUVnLUlHbFY4RlZ4LXIxNGVOZ3hkSUdUUUFzNGZRM2RCb21zTnBKbVFwM0M2eEl1Yi1IVEwwejlBQTl1ODU2SWZoaVVZN3IxMVJacEQycWVfMDVTZFE?oc=5",
+              "source": "연합뉴스TV"
             }
           ],
-          "description": "우크라이나 종전 협상이 9개월 만에 재개되며 트럼프 대통령이 선거 참패 이후 외교 성과 만들기에 속도를 내고 있다. 이란 핵 협상 역시 줄다리기가 계속되는 가운데, 트럼프 아들이 투자한 로봇 기업이 이스라엘군과 공급 협상을 벌이고 있다는 보도도 나오는 등 미국발 다각적 협상 외교가 동시에 주목받고 있다.",
-          "headline": "우크라 종전협상 9개월 만에 재개"
+          "description": "경기 시흥의 한 아파트에서 어머니와 두 아들 등 일가족 3명이 숨진 채 발견됐다. 경찰은 큰아들이 나머지 가족을 살해했을 가능성에 무게를 두고 수사를 진행 중이다. 사건 경위와 범행 동기 등 구체적인 정황은 아직 수사 중이며, 오늘 처음 보도되며 큰 관심을 끌고 있다.",
+          "headline": "시흥 일가족 3명 사망, 경찰 큰아들 범행 수사"
+        },
+        {
+          "rank": 3,
+          "word": "여성",
+          "count": 2,
+          "articles": [
+            {
+              "title": "경찰 '세브란스 정신과 칼부림' 50대 여성 구속 송치‥임세원법 적용",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VLU1RbWtIRmV6MmhMQ2xtenczdTVGaDdSYjNaaUdWWWNIMTBXaFhnNVpQeXNVcGRER25uUFl0Njh5MEx5d3EtZjZiRFRWY3hNVE82aThoMDVKRWlvVmJfOUpzUDRFbXJKVUppRE5vRVJsZ1J3MTVv0gF3QVVfeXFMT05naFJBU1dOMDRfY0FYcFFEQzhpRHR5anVhNi1TZl9HOXRNYnp5eExsWXNzUzJ2LUpVYnpRd2c4RGlVMHU1MjIyZWZBRVlycklkQTd1SVZ0d3U2RDRKNGtObDBKbTZnNDhMb2dBanBULUVWVUJIc0U?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "성매매 낙인찍힐 뻔한 10대 여성…경찰 외면한 블랙박스, 검사가 진실 밝혔다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qZENESG9ld2RyNFVNSGotQndzbUU2amdSWW1vZTdaRGtzM21yZG1TMjMtZ0dpMXB1a1FZY3JDR3hvSkFNUm1BQy1Ddm91Nlg4V2ZTTzI0NjExelk?oc=5",
+              "source": "www.dt.co.kr"
+            },
+            {
+              "title": "“남편이 폭언하고 흉기 들어”…허위 신고한 50대 여성 송치",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQS2twcHpScmROcV9GQmd1NV9DY0JVc2cyeTdEcnYyVnZMaXgxamJ2Zzl4SFNhNXFvelJBOHdIYmQzQ2hCUklGTkpHb2VCX2FUcTJna0lsX2Y2LVk?oc=5",
+              "source": "경기일보"
+            }
+          ],
+          "description": "세브란스병원 정신과에서 흉기를 휘두른 50대 여성이 구속 송치되며 임세원법이 적용됐다. 임세원법은 의료인에 대한 폭행을 가중 처벌하는 법으로, 정신건강의학과 의사 임세원 씨가 환자에게 피살된 사건을 계기로 제정됐다. 한편 성매매 피의자로 몰릴 뻔한 10대 여성의 누명을 검사가 블랙박스로 밝혀낸 사건, 허위 신고로 50대 여성이 송치된 사건도 함께 보도되며 오늘 여성 관련 사건들이 동시에 주목받고 있다.",
+          "headline": "세브란스 칼부림 여성 구속 송치, 임세원법 적용"
+        },
+        {
+          "rank": 4,
+          "word": "살해",
+          "count": 2,
+          "articles": [
+            {
+              "title": "성북구 ‘15세 소녀 살인’ 50대 남성 영장 심사…참석 거부",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41VHpiUnFnUmJVS1UxaE1XbV9kT1dVR3Buems5R3dOWHQ3SnJfR2lPNnQyN1lYeV9iSHB6dmZRVkx0a211Z25RYkpjWmo1MW5BYUN4aXlwd1hva28?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "성북구 10대 여성 살해 50대 남성 구속영장 발부",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCdXlPeWJucExkcE81amE2U0RHT1B1b1lsV3RDX3p3MWdkVEc1aUlEdWFSMXVvV2c3QzUzQjhLU1IxdmpqRkQ0b3VKak1KWnFVcU9CVWNmYlBYRGpVeE9pRFJ5SDhJcl82N01URm04N0MwT3NPUmdn0gF3QVVfeXFMT1RKVFhGTG4yMVRkOWJZWUk2aUg2Qm1hZFhhYlcxUHZTdWVzaGNPQnUwYzJxT19KNnJGbWRBU3ZCV2x2Q0p1WEswbHJMTGxVTUZfSnhpTkNsRWlvcjFrTktubWI3RC15Mm5rb3NBaURQUTNIYnE5bDA?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "“증거 인멸 우려”...‘성북 10대 살해’ 50대 남성 구속",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNEUzSlE0aTFIWXZNN3o0eUNPejhZWVlveG5KSzNqWGR2TUQ2c0FFdUc2dXBsLUwxcjlhRlJlMldmdFJUUXNpbGhISUVQQWt1cnZWbXZ3ajFjZHhPQll3QkVKX3Z6UC03cGxPRm5DTlBkdDhaYUp4T1BzYWRXZUdGbENaSFQxTGR1SGZtMFBwc1k?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "서울 성북구에서 15세 소녀를 살해한 혐의를 받는 50대 남성에 대해 법원이 구속영장을 발부했다. 해당 남성은 영장 심사 출석을 거부하기도 했으며, 법원은 증거 인멸 우려를 구속 이유로 밝혔다. 미성년자를 대상으로 한 강력 범죄인 만큼 사건의 경위와 동기에 대한 사회적 관심이 집중되고 있다.",
+          "headline": "성북구 10대 여성 살해 50대 남성 구속"
+        },
+        {
+          "rank": 5,
+          "word": "붕괴",
+          "count": 2,
+          "articles": [
+            {
+              "title": "옆 부지 땅 파던 중 3층 건물 ‘와르르’…뉴욕서 8명 사망",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1c0TVBLTHJtcXptLTRibS1WbmJ1SnNrYmJJaVhENWxfa20tUWQzWlRoYU13RlU5UlRuc1RKRkN5Ml9hUG9qTXo0eXlfcW1Ob3MxbUlUekx4cEtJT1dTVmV2ejRVNDNQd3lscWFBVndLbjBBX2UtMGdJekNONUxTUTRlQm5qOW1h?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "뉴욕 건물 붕괴 사고로 8명 숨져...지금까지 알려진 사실은?",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMcEtJdjBac3JOOFNBbXFpSmN1TWdKNjdWNEJOQi1Wbk5qd0U1Tl9FRnBYZm5yUnBwVFJBSGNNRUxQRHFfT08xcDVhcFNPTldxclUxMFRVYVZWdVpFWWfSAWNBVV95cUxQVXdBaFlvOUZpcjZUWUd4ZVE0a1NQLTJxaFh6WW5IZHJZSS1ueWJJMzE3MWxXQU9BNFQtSm1wWTB4RHdtQ2RRdDZaanJuNjcyd0ViQW9WdlRBY0VPY2F3SGJYLXM?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CcDduS2RlU1QxcmVaNDZ3cDhOWGZtTktkV3dzVUJ5VEV4VDF5RzRXRDBuc1dIa3Rlak4tdkJkTVpYRWJ1MkVaZE03OElBZ1gycnVJQTY5Q0VtSTd4SnBDRUFyNG1iQTg?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "미국 뉴욕 브루클린에서 인접 부지 굴착 공사 중 3층 건물이 무너져 8명이 사망했다. 옆 부지의 땅을 파는 과정에서 지반이 약해져 붕괴된 것으로 전해지며, 도심 공사 현장의 안전 관리 부실 문제가 도마에 오르고 있다. 사망자 수는 사고 이후 계속 늘어나고 있어 추가 피해 여부에도 관심이 쏠린다.",
+          "headline": "뉴욕 브루클린 건물 붕괴, 사망자 8명으로 늘어"
         }
       ]
     },
     "경제": {
-      "summary": "젠슨 황 엔비디아 CEO 불륜 사임 · 금융보안원 해킹 감사 착수·앤트로픽·홈캠 등 보안 유출 잇따라",
+      "summary": "미 연준 추가 금리인상 필요성 제기 · 스페이스X·테슬라 합병 임박 · 조선업 청년 이탈 심화",
       "keywords": [
         {
           "rank": 1,
-          "word": "해킹",
-          "count": 4,
+          "word": "젠슨 황",
+          "count": 2,
           "articles": [
             {
-              "title": "금융위, ’해킹 공격’ 금융보안원 다음 주 감사 착수",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENk9IbEVDQ0I5WFNhSkJxVzFIaHN1YUczVVRGNExtUkRfbG5YNnk4Y2QyTmRMYW5GN0FFaEZjNVRieGFRWGRrU0l5dWhkeGRaQjhpWmQ0S0drRHNFQUpaQVc0dVlxcUE?oc=5",
-              "source": "연합뉴스TV"
+              "title": "무너진 젠슨 황, CEO 사임 전 “난 쓰레기 같은 인간…어떻게 돼도 상관없다”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWmpobzVWeThPbUdFSDdnSHhkM1pVTjV0aXA1NVRKdktnM2lOMTdITzU4WDhVYzdKQXJnZGxUMXJHNXhYRGxfTl82bmhJQVBCMGx5YUNGM0tPZ9IBX0FVX3lxTE0wRXU1QnQ5VGtwYW9PTWdsYmtFN0ZfaFpmNnZrSjh5N2RObTF6UG15dk9MU21CVC1nMjJwaWREQzNmSFQwSVBsYVVlQ3hfXzRicVppZ0F0MDd6Z2oydnNj?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "사생활 새나가는 홈캠…10대 중 3대 해킹 무방비",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrVUw2dUx4TzhqZTQ5ckYzcEEzU3NZeDNUS3J1VDRzXzZmdUs3TU1wdFVEYXJlRm02eVlNZEM4UVNJUnF6c2JZZFE0bUtVeTFKWDFsajE3VzNMVjg?oc=5",
+              "title": "러트닉 미국 상무, 의회서 ‘젠슨황 스캔들’ 관련 증언하기로",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PWlJFSGE4dlFwX1RvQ2ltRXppUlRPblpiVWw2QlVGR2ZkZElqN3Nmal9Oa0hwbUtHdG1SMFlOQXFQcEdTVGtqdDNYZ3hnS0pzSlhBZzBsLUFfcmM?oc=5",
               "source": "KBS 뉴스"
             },
             {
-              "title": "\"해킹 의심 땐 입출금 선제 차단\"...가상자산거래소 보안 강화",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lcU12bzY0X2szY2JTWmxQblBkSWtqX1dnTW1hNHIzM1FVNXRhRU1QSFQwNzR0NW82QlI2V0ZWQW52a2ZNVVdrX2t6SGE2X3E5Ykx2Zmd1bjgtX2gzVU1DYjlJV3RUbEFlbi1wNWFxaw?oc=5",
-              "source": "YTN"
+              "title": "‘불륜 스캔들’ 엔비디아 젠슨황 사퇴…국내 영향은? [뉴스in뉴스]",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxeFhfck1SbUdZZm9SdzFTU29fV2pQb2NXblBNaHFDamZpNjNCaE5DTUhnRzRrNTF3aHN1MnV0Rjl0aUVtdjhvNVdZV3hxMDdJTmt3cGVUMzc3eGprdjhUTm9QYjVHZw?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "가상자산거래소 플라이빗이 해킹을 당해 고객 40명의 정보가 유출된 가운데, 홈캠 10대 중 3대가 해킹에 무방비 상태라는 경고도 나왔다. 금융당국은 해킹 공격을 받은 금융보안원에 대해 다음 주 감사에 착수하기로 했으며, 가상자산거래소들은 해킹 의심 시 입출금을 선제 차단하는 방향으로 보안을 강화하고 있다. 개인과 기업 모두를 겨냥한 해킹 위협이 동시다발적으로 불거지며 보안 대책 마련이 시급한 상황이다.",
-          "headline": "홈캠·가상자산 거래소 해킹 잇따라"
-        },
-        {
-          "rank": 2,
-          "word": "유출",
-          "count": 4,
-          "articles": [
-            {
-              "title": "앤트로픽도 뚫렸다?···‘클로드’ 국내 기업 계정 100여개 유출 신고",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByaC13a3pzRW1ocWtYc2RJaUhCQlBPeFRqTjZ0eGlNVFdFYk5tZTc0MVRTTjlIRDlFdnRjYWo0bjZfa0xGOXZOZUVMaFRXRUpuZ1pENGQzbXY4Z9IBX0FVX3lxTE56YWNZcEotQUNHQUtydHFsUUlaaFVYSjlIdkpuWnk0V3lFbEd0eS03czdpbmR0SmJOYjJHY2p0a0czS2RHbXlXY0lHQUg4MzdubUhKUzhTR1BOV2JSNWNv?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "“10조원어치 중국 유출” 엔비디아 칩은 어떻게 미국 규제 우회했나",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV2F2NzdZenMxanpZd0xadkduTlhSVlhyUkJMZFJRc3hzbVBTSmNnd1JKbWVEV1lLZENKaXFUbTctQUxndThGS0pmZlJfM2RzelVqRFUxQzI2Mzg4MU9oQ19jdGp6NHZ6ZVRieVdCYy0xU0paR2Y0ZTRYYTlZZWVTdXpR?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "코인마켓 거래소 '플라이빗'도 해킹…\"고객 40명 정보 유출\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMW5Hdi01OFVSSHg3OUdySjVmYlBZUEdBVWxWbHJFSmowaVZHN1ZsX0dGdFkwQnhqWnVlUV9kcTczeU4yWGJ2M1F3XzdmSFA0bS1kcC1xcllOZXPSAWBBVV95cUxQMUp4MGdmWWNkWGdZaWJnajBub1BWaXJTeWNRODcwZGxkeGctLTN4VU9iVWNRVjA4c3VDMTBJR19KOWtKeGRQVDFLZzRsNFZsYjdiOFdoSVJRTXBfNHMtWHU?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "AI 기업 앤트로픽의 챗봇 '클로드' 국내 기업 계정 100여 개가 유출됐다는 신고가 접수됐다. 가상자산거래소 플라이빗도 해킹으로 고객 정보가 유출되는 피해를 입었다. 한편 엔비디아 칩 10조 원어치가 미국의 대중 수출 규제를 우회해 중국으로 유출된 경위도 도마에 올랐다. 금융·IT·반도체 전반에 걸쳐 정보·기술 유출 사고가 연이어 터지며 보안 취약성에 대한 우려가 커지고 있다.",
-          "headline": "앤트로픽 '클로드' 국내 계정 100여 개 유출"
-        },
-        {
-          "rank": 3,
-          "word": "젠슨 황",
-          "count": 3,
-          "articles": [
-            {
-              "title": "‘AI 인프라 황제’ 젠슨 황, 불륜으로 엔비디아 CEO 사임",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNak1Jd1QwNzlCWG1Tc1FJMGJodzBEamxCa2J3UzhySkZQWDJUbVk3cDVjbFRmajluZWYwYjMtV2MzZUw4QzVxR2FNYllpQUpmM2hrSHBaMWY2S3I0b2FNSm5QeWRfekxwZDdZcmhwN3dCOS1IWXhVWWwtQ2tXcTR1MnQ1TQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "'젠슨 황' 악재에도 반도체 수급 견조…\"5500선 돌파 시도 이어질 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5acHpMS1MwRDFjQk1KZGhZa3dUc3JXaW5fZmVmbXo1a2s0aFhyOVpYWS1taEtZeG96OE9IVUdnVF9XTE9Fem9TZFRlU2U1aDU5SzNKTUQ5T2Y4b3RubXh4UdIBeEFVX3lxTE5reTBHWWNteXFLSHhzTWl2SG12WElLOW96bXlZVTJyeTZJUUY0bHZ2N2xsLVlKR1dUMnVqdFBVb0x2WWtNZldmQXNmUDBSaGZYemZhNExXTHNiY0MtNFRCZDB3SG9wZzhvWGc3U3RUREM4Q19BeExLVQ?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "로이터통신 \"젠슨황, 엔비디아 CEO 사퇴\"",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xSjdnTzlXYjZhSEJqNTY4cGN5NzBjYjB2alZ4YlBDdjNxbHdVelRncHpzTlNId2puazdLRTNmZzNXY01FVXB3UE1ZWXI5REtLZWdVV29JNm9RVkkxMDJ3OFBxNVA3UVU?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "엔비디아 CEO 젠슨 황이 불륜 스캔들로 대표이사직에서 사임했다고 로이터통신이 보도했다. 불륜 상대로 지목된 앨리스 황은 현재 베이징에 체류 중이며 중국 보안당국이 소재를 파악하고 있는 것으로 알려져 파장이 더 커지고 있다. 시장에서는 이번 악재에도 반도체 수급이 견조하다는 분석과 함께 코스피 5500선 돌파 시도가 이어질 것이라는 전망도 나온다. 오늘 처음 화제 키워드로 등장한 만큼 관련 상황이 빠르게 전개되고 있어 추가 주목이 필요하다.",
+          "description": "엔비디아 CEO 젠슨 황이 불륜 스캔들로 인해 사임한 것으로 전해졌다. 사임 전 '난 쓰레기 같은 인간'이라는 발언이 알려지며 충격을 주고 있다. 미국 상무장관 러트닉이 의회에서 이 스캔들과 관련해 증언할 예정이어서 파장이 정치권으로도 번지는 양상이다. 국내 반도체·AI 투자 시장에도 영향을 미칠지 주목된다.",
           "headline": "젠슨 황, 불륜 스캔들로 엔비디아 CEO 사임"
         },
         {
-          "rank": 4,
-          "word": "보안",
-          "count": 3,
+          "rank": 2,
+          "word": "금리",
+          "count": 4,
           "articles": [
             {
-              "title": "“오작동도, 해킹도 막는다”… SK하이닉스, 안전 · 보안 국제 인증으로 피지컬 AI 메모리 신뢰성 강화",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWEg0MlFpUXBoUW1pSklUNXBaSXdyandhM004eS1aZk5lbm85ZkZyM1ZIODZhZ1BHTkVRcnRHT0M3c2lIRTEyeTFnYW5yOEJseEF5dGU2OG9KRmtNd0RPTnJmaU4yclE2cVh0NA?oc=5",
-              "source": "SK hynix"
+              "title": "클리블랜드 연은 총재 \"금리, 작은 폭으로 꾸준히 인상해야\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU1RGVXRTNDllcThqWlJScEg2UGFZVFR2SkRfT2JwSnhSa0dHSGVpVXpPZkJhYjFKQnVCVlpFYVgtSllwS0x4OExkWVZ5cTFaWGt4c2lQZVc0eXZmTVdVMy1Ic3FXUGVTZ0lWLWFJLUc?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "프랑스 보안업체 “북한 연계 채용 사기, 기업 50여 곳 사칭”",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGttTzJ4UmVrMVBIRzVkMGJnSHI0cGdJdlBObVZRUkx3eURPS2RzWHh4ckUxSTVkdDk0V0FzNjU4NXhROE5tdklJcy04NVBobUNEemlXUGszd0lNdXdEVXlKaHVTX2VHaFAzanl3LVp4akJ6ZFo5b1pKdUdPR3NEejNFRVpvZDBD0gGLAUFVX3lxTE81S0w0LWJObF9Ld3Fza3hSdWlUUmZiR1hmaHgtOEtmcjZoM1Rqa3h2QVozLXE5WjdPUDRrc3NCNGZoa1lQR2MzaXF5cHh1SllzazhFQjJUQ1JJRjNRVkR2ekN1b0JNZzQtUkp2ckZIQnVhQlg4dWwtNU9xcndtR2hzZVJMTF9zV0FFa0E?oc=5",
-              "source": "VOA 한국어 홈페이지"
+              "title": "뉴욕 연은 총재 \"인플레 2% 복귀 위해 추가 금리인상 필요\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wYzI5SkQ4cW5mZEliMlJRZDB6clAyWUFJcDRPOGM2TFpidTk3djUtaXRlSEZ1Q2ZILU4zdlZOOG5IRlo3X3lwTENMZ0h1RGZ2MG1JdVktdS13RUJVR1JDZDZvN09BMmM?oc=5",
+              "source": "뉴스1"
             },
             {
-              "title": "젠슨 황 불륜 상대 앨리스 황, 베이징 체류…중 보안당국 소재 파악",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Y1FqalRFeW91Rm5qZHJVbERIRTJONWItMjZ4Mi1UMFpQTXNWMGJhY2FVZEx6U2pCaDV6b2JqbmtHczVURlNCa3NNeHp2NDl5N2ZkQWEwMDhsd9IBX0FVX3lxTFBPSHg3b1l1VktTYUQyVDItMUJWMGZmRDM1bGJadHpfZ25wR0syb2tCM0loa1NFaThGbWFCbW5FNmxucWZ1QmNycVBzcFNPQk1qRWtaUkpJekJNR3QyOFhV?oc=5",
-              "source": "경향신문"
+              "title": "美 고물가에 빅스텝 거론…한은, 11월 금리 추가 인상 초읽기",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ld09RWjMxc05VQVRyYzhVSWZPUW1kdkUtcjRDVDZJX0tTQzRWaF9mRjhzRDVxOWRFbm05ZEU3dFJoeklvaTljRXUtVk9iVWZ3QUI2U0JqRHQ3Q1Y3?oc=5",
+              "source": "뉴스핌"
             }
           ],
-          "description": "SK하이닉스가 피지컬 AI 메모리 신뢰성 강화를 위해 안전·보안 국제 인증을 취득했다고 밝혔다. 한편 프랑스 보안업체는 북한과 연계된 채용 사기 조직이 기업 50여 곳을 사칭했다고 경고했다. 젠슨 황 불륜 스캔들과 맞물려 그 상대가 베이징에 체류 중이라는 사실이 알려지면서 보안 우려가 더욱 부각되고 있다. 기업 보안 인증부터 국가 안보 차원의 사이버 위협까지, 오늘 보안 이슈가 여러 방면에서 동시에 주목받고 있다.",
-          "headline": "해킹·정보 유출 잇따라, 보안 강화 촉구"
+          "description": "클리블랜드·뉴욕 연방준비은행 총재가 잇달아 추가 금리 인상 필요성을 강조했다. 뉴욕 연은 총재는 인플레이션 2% 복귀를 위해 더 올려야 한다고 밝혔고, 미국의 고물가 지속으로 빅스텝(0.5%p 인상) 가능성도 거론되고 있다. 국내에서도 한국은행의 11월 추가 금리 인상이 초읽기에 들어갔다는 분석이 나오며 시장의 긴장감이 높아지고 있다.",
+          "headline": "美 연은 총재들, 추가 금리 인상 잇달아 주장"
+        },
+        {
+          "rank": 3,
+          "word": "집값",
+          "count": 2,
+          "articles": [
+            {
+              "title": "서민 집값은 더 올랐는데…국토부 장관 \"하락기 시그널\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZkt0cXZiQ0NLbkNVU3N4WFRzZXQ3d0NpQ19VWmdUaTNlMU50QmQtZkExYnJEZkQtSU5PVzRIa1FsZFk4RkhIRmRPZVkwNHJTTFBTczJVbEZYdw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"살 손님 뚝 끊겨\" 서울·경기 매물 쌓이는데…집값 하락 시작? '글쎄' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PUFI0dWwzazBZYVk4aEZSQS1lUHRXejJiblVVaVYxR3NFMGVRTjhzS0VYMEVyV2xnczRzM2hiTkZTcnA4M09JZDRGY2xBemVIcnU1ZEowMGkzaHVVRW1DY0pOSUEwbzkycmfSAW9BVV95cUxQdXRPZjZmYXp2UzhaZG9aN3dHSzMyajJGbG9QSEZNMGZoTy1YY3NSNEpSdUdyVGp6YXM1WmJ6cmRLQmNBZzJ4Wm43Vi0wRTZoQU5ESW8zeEhkaVBDZ0FBalNPUEk5MGRHaHVoMFNSdXc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "국토장관 “매물 쌓이고 거래 줄어… 집값 하락기 시그널”",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOS1VtdnlITmxmV1B4LVJSLXV3VkdqMElwRUZsaTdsZ0c0TVRjTURHYm5ibGhpa2VuTE0xZnFyWmJJZzZUMDVMRHpZLTBzVF9jdDlXcnczSzN5NzBGcUJfTFRPSkY5WWU5czdrYm9oZEZOem03ZWfSAWZBVV95cUxNbEtWSjN3QjF2dGVzeUlNTFNsd2NhakxLeXFCc2FpcVlSZlA5ODJRdmFtVS12NWtub1VPTlpxM1BnWHhRV3M2LU8yYlhmMjZ2bFh2SllWR2lvZ290WFg3b3l3am04YlE?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "국토부 장관이 매물이 쌓이고 거래가 줄어드는 현상을 근거로 '집값 하락기 시그널'이라고 공식 언급해 주목된다. 그러나 현장에서는 서울·경기 매물이 늘어나는 가운데서도 실제 하락 여부에 대해 의문 부호가 붙는 분위기다. 특히 서민층이 주로 거주하는 가격대의 집값은 오히려 더 올랐다는 지적이 나오며, 정부 진단과 체감 현실의 괴리가 도마 위에 올랐다.",
+          "headline": "국토부 장관 '집값 하락기 시그널' 발언"
+        },
+        {
+          "rank": 4,
+          "word": "합병",
+          "count": 2,
+          "articles": [
+            {
+              "title": "스페이스X·테슬라 사상 최대 합병 임박...\"이르면 12월 발표\"",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0waFJ6cVlocGk4S2FRYnVId054c3pUU0JHLUlVSWxXczNLNkIwT3QzTUM0b21hWm9XUUhZYzJjcC0xdUdWcTlyekdLMzVoZ09mRTdJcmZQb040Z3JjVEZRNWZMd0M4QjBZcUtuRE1COVdxRTk5N1JTcHhLaU5yNHc?oc=5",
+              "source": "YTN 사이언스"
+            },
+            {
+              "title": "李 대통령 “욕 먹더라도 파이 키워야”…적대적 인수·합병 활성화 강조",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ZjRpazhtV3htWHlCd3E0Q2drbzBxaEhHbHcwRHM1aW84VjRvNjRqLUZERGJXUE1LLUFNN1VKLWpkUzU5dlI2Z3l3aDhZU2JzcGc?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "진에어·에어부산·에어서울 합병 인가…공정위도 기업결합 승인",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0MUF4NXRZYW85Sm8wMHNqYW92WVZ6WlhjTUlLSjN0NE1vUFBfQnllMEtLWW9BR2FFNXdkWDZ2QV9waXZpWFoyb29uTExJZWU2MXJGbTl2NDlmOWvSAWBBVV95cUxQRWFOdDFpQmNRYWpCTkJUdWNTQURFYVUwek5ncXRjOFVXaTZvZzdhV1MyQTJ0LWNybTVsLWVERlY2X0lFT1BwS2pBYkIyUVpDMHRmcFFQVDV2Vlk2NF96NHU?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "스페이스X와 테슬라의 사상 최대 규모 합병이 이르면 12월 발표될 것이라는 보도가 나오며 글로벌 시장의 이목이 집중되고 있다. 국내에서는 이재명 대통령이 적대적 인수·합병 활성화를 강조하며 기업 생태계 변화를 예고했다. 항공업계에서도 진에어·에어부산·에어서울 3사 합병이 공정위 승인을 받아 저비용항공사 재편이 본격화됐다. 국내외를 막론하고 대형 합병 이슈가 경제계 화두로 떠오른 하루다.",
+          "headline": "스페이스X·테슬라 합병 임박…국내서도 M&A 활성화 추진"
         },
         {
           "rank": 5,
-          "word": "가치",
-          "count": 3,
+          "word": "청년",
+          "count": 2,
           "articles": [
             {
-              "title": "“자산 가치보다 주가 낮으면 할증 과세”… 혼란과 왜곡 부를 뿐",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UQVB0Ql9nOEVodjBoUloycWlvVDFHYldtTktKdUZIZ1pQcVlXMTVzTWFGNDRTWmNpVmM0bnpXcEo0ckpzY0FCbmYtM29kSnpzLXhGUmFsbGJLUVhrV0VkQjZ1TE01VDl6azJObWt1WV9jRFNwNVHSAWZBVV95cUxPSlgxLTlXd1l6VUo0QzlUMHJfSlNFUGpNSnN6NUJ1SnVzdEhPY0dzX2U4QlBoSnVqY214TFJ1RExsWXZNS3BzUGtucURFOUR4cWhaWUJ0TFdEMVZwRDBxT1lpVlRqNVE?oc=5",
-              "source": "동아일보"
+              "title": "조선업 청년고용 확대하려면…임금체계·근무환경 개선",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94d25kR3dzUm9oMVZ1NzZta2JMNV9kelladUNkZXVzdWM1aEZ1VWM3d1o1VWlROG1nbGVfQzFJZTdRQnZ4Y29ZOXExVVhYZ0RwM3VDUHctaXBmdExx?oc=5",
+              "source": "뉴스핌"
             },
             {
-              "title": "[2026년 서울 중장년 가치동행일자리 우수사례] 예순 넘어 이룬 두 가지 꿈, 미술 배우고 선생님 되다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQcF84TGI5RmtuekJYZVI1aGR6MEgyMDYyVkJXZk05MFZ5SFlUdUJRZHM3VDdLNTUwOTNTRjRUUFRvOGxPd1U4cW03MlVCaTVHamtZNnBReHhSUQ?oc=5",
-              "source": "이투데이"
+              "title": "'조선업 호황'에도 떠나는 청년들…\"위험한 일인데 보상 부족\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aUHJPekF6NjJnaFotUUdYQS1QTWZoZ3BEeDBFNFRCaV9FZGJoYUZ0MUhEbXc1aUxHdUlNYmN0TTc3VmJzQlFoU3RTeTYxY3NkdEZLS1k3VzlIeGRjNElVbNIBeEFVX3lxTE44REJBNUktVmZFelRHWEdFWWx3R1lWODdHS0JtSXI1NXBPWGV4MlRUVUk0dWtlTW93aUpLQlVYS3prOGhLZVZVZFNBekhoSGY4QWRtZXZZczZvLUJBNUpJZE1kcUhvWUd0VkFsZUxfcXNvXzFOeHF3cQ?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "월드다가치, 2027 서울 세계청년대회 후원 협약",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPczY2RE51NVBySWRfTHZDbTlwdmxxRlF0S01nbWRfcUxEaG9rU0VTQVV2VmVNMTZSbjRCbXZndWFJckRjSmw4YW8yUzF6RERLZGNYblNDTXF3NlNSRW1VS3JyRkluNEdlbU9Kc2V4czRZc0p0V3dhci1QendiSXN0cVdta1NPSi1DeVctUWdB?oc=5",
-              "source": "국제신문"
+              "title": "조선업 호황에도 울산 청년이 떠나는 이유는?",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90ME0yWG9JWEhnZ0xlb2ZfUTFxVC1qaHFJY1pfbERPX1BZdnVleFB1Yy1SOERnUUc4dk41YXgyckJsR2RZV0pPZ1pkX2ZEdkZXOVlRaGFVQXUwYXd5cDh4ODhjbjNnNVMxaHlOd3Y0cXUtZHo4elNz?oc=5",
+              "source": "OhmyNews"
             }
           ],
-          "description": "자산 가치보다 주가가 낮은 기업에 할증 과세를 부과하는 방안이 거론되면서 시장에 혼란과 왜곡을 초래할 수 있다는 비판이 나왔다. 기업 가치 제고를 명목으로 한 조세 개편이 오히려 투자심리를 위축시킬 수 있다는 우려가 제기되는 상황이다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "자산 가치 대비 저평가 주식, 할증 과세 추진 논란"
+          "description": "조선업이 호황을 맞았음에도 청년 인력이 현장을 떠나는 현상이 잇달아 조명받고 있다. 위험한 작업 환경에 비해 보상이 부족하다는 것이 청년들이 꼽는 주된 이유다. 울산 등 조선업 주요 지역에서도 청년 유출 문제가 심각한 것으로 전해지며, 임금 체계와 근무 환경 개선 없이는 청년 고용 확대가 어렵다는 지적이 나온다.",
+          "headline": "조선업 호황에도 청년들 떠나는 이유 주목"
         }
       ]
     },
     "연예": {
-      "summary": "강동원·김고은 주연 사극 '혼: 삼각의 시간' 제작 발표 · 싱글맘 이지현, 자녀 돌봄 위해 미용실 퇴사 · 나솔 34기 영호, 6명 전원 선택받고도 고민 지속",
+      "summary": "송혜교·공유 신작이 청불 22부작으로 예고된 가운데, '재혼황후' 주지훈·신민아 활약·장윤정 부부 온도차·박하선 라디오 6년 하차 화제.",
       "keywords": [
         {
           "rank": 1,
-          "word": "강동원",
+          "word": "주지훈",
           "count": 2,
           "articles": [
             {
-              "title": "강동원·김고은의 로맨스 액션 사극…'혼: 삼각의 시간' 제작",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wTW1KekZNbi1uMkc1Wmh0SjdXME5HS1JLOFhjSTlJaGdFYmFUQy0zdUxGc2h3SnFQVFd2aDBMWnhRSGxQejJSbWtVdXotX09Qb2tuSzNHbUJRUTjSAWBBVV95cUxQRlFJa2dQUy1tcjRiaHFiZVN6eml1dEtlVTZrQVQzZnJrSDZXNXRBYlc1b1NBWnhoR21lZ3FRVk5MRUxxTXNQek1kOFl5c3NmQktDdkZmSlJSTDFxaXdMT2Y?oc=5",
-              "source": "연합뉴스"
+              "title": "주지훈, ‘재혼황후’ 파격 의상에 당황…“이렇게까지 시스루여도 되나”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZk93RHRNcENTX3dCZTgzOGtLOXBuajdYdGlYUmhGcTJzVDE0VHpXT05KNEs1THI4M2xpYUExM2ExWUgxSmlxbm04ajFIb1J0ajV5WHJlZ0JoeVozVHhMT1NoRnVPNGlsQ0steG1n?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "“키 조금 크고 강동원 살짝 닮고”···13년 전 노래가 해체된 걸그룹도 되살렸다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lbmJQajdQYkJqNzBDZDh2VElRd3VEY29uSEZ2RDNGYnFyc045REVFV3c1eVJwbEN6RjBoTzJWX2ExeUhyOE42TVZYVjBVVjh1UHNXQm1FR3ZhZ9IBX0FVX3lxTE41QjJPZzQzSTE5RUZOejNzWXRqNXk3QmdsRTNlM3VJejR2OXJvMnhveDhia0g3NkRVTzZvaGVkNWFBUmRpaWlRS3M5QmhLaURHYWZzWjQ1RDZ3UUsyUGtV?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "‘혼: 삼각의 시간’으로 만나는 강동원-김고은",
-              "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRjFyMGFDd29LNE5BVFhfM2ZhUHU5Z1dWeFdBUjVfZmlqR3hqVllhbTQ1Sk5CMGcwdmhVZGVZMllfMWJsUjNKRFhwQ0N5bklZbHo3am1iLU1kMDZKUTU2QlR6eFlWRS1MRUUzUVhqQWNBVzRNeFN5T0V1bXJkNml0SUZhQi1QMEN2dXJQQjBwS01aTXJxS1o5MkN5cGhlUnoxZU8xWklTSm5WYm5zQTFPZUpLSlBDMTZwWTlsaEc4d1MwaF9uT25IR3hPSnlSazdXYTRnSUduQlVfSjVnSXd0YlE5OEdmb0RsaGoyczlEZkNoTGpNV01KVWpuU01QcUN2UVZUS2ROV0lOWnlhdWMza2V3RTdCUHlkSXI2ejdIUQ?oc=5",
-              "source": "Vogue korea"
-            }
-          ],
-          "description": "강동원과 김고은이 함께하는 로맨스 액션 사극 '혼: 삼각의 시간'이 제작된다고 밝혀지며 화제를 모으고 있다. 두 배우는 이전에도 호흡을 맞춘 바 있어 팬들의 기대가 크다. 한편 '키 조금 크고 강동원 살짝 닮고'라는 가사로 알려진 13년 전 노래가 해체된 걸그룹까지 재조명시키는 등 강동원의 이름은 다양한 화제의 중심에 놓였다. 오늘 처음 등장한 키워드다.",
-          "headline": "강동원·김고은, 로맨스 액션 사극 '혼' 제작"
-        },
-        {
-          "rank": 2,
-          "word": "싱글맘",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'싱글맘' 이지현, 미용실 그만뒀다…\"딸이 혼자 병원가 4바늘 꿰매\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLdkh4ckFXRmdBT0NsWDh1T3pLNWh6NmpSSEdZMWJpTFkwZ3p5S3lsbEsyNlpLTjM1Z0pvbmV0clR4QlFpZnNwcGhBTVp0d0RGVG14QTd3cUZvZERhZGhVU3hfYVM3R0VhSnlQQVRVcGlTblHSAXhBVV95cUxOZGt0aE9wRzI4LV9mQlk4ZG5KZ2R2MlJ2T0d0Tmo0SnlKRU1nQVhURG5fc0tYckZ5bm9MdGo1d1RTMzZnWUlhRld1Y2FGS2dTQTdybFVvZXd2UnVYRG1wdTdHSWIxSjFUOC0wd2treUIxa0NSTW5lT3E?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "’싱글맘’ 이지현, 집 근처로 이직…“아이들에겐 엄마가 필요해“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMcnVNM210Q1RNNndvV1d0ZkU3dlVMenNQNlF1c3MxUGhKd1FzZmJpZVQ2Qmd5Xzc1TnQtdC1aTEpUSTlvZ1hUZUg3S3NqTlNwdE1vR0hFdTdGd0ktQzRtRHZsbVlxclk?oc=5",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "'싱글맘' 이지현, 미용실 퇴사하며 눈물 \"딸 다쳤는데 혼자 4바늘 꿰매\"",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaDhTcDVGeUc4QVpWeVZ5M3paZ1ZuWXhlakRaaWhmMTJjZllQNmhFak90a2tRWnZKV015ZE96QkVscnVESUpvMjZCM1FTX1hpcW5yOWxqYU1jOUE2VDZ4bkdPUE4xc3JDekZFR0xDTHpIU0Y3RXVlY3Ewd0hSaWJLTzZpZlQ?oc=5",
-              "source": "스포츠조선"
-            }
-          ],
-          "description": "그룹 쥬얼리 출신 이지현이 싱글맘의 현실을 담은 방송에서 미용실을 그만뒀다고 밝혀 주목받고 있다. 딸이 혼자 병원에 가 4바늘을 꿰매는 상황을 겪으며 퇴사를 결심했고, 아이들 곁에 더 가까이 있기 위해 집 근처로 이직하기로 했다. 눈물로 퇴사 이유를 설명하는 장면이 많은 시청자들의 공감을 샀다. 오늘 처음 등장한 키워드다.",
-          "headline": "쥬얼리 이지현, 싱글맘 현실 토로하며 미용실 퇴사"
-        },
-        {
-          "rank": 3,
-          "word": "이지현",
-          "count": 1,
-          "articles": [
-            {
-              "title": "이지현, 미용실 퇴사 결정…\"하늘 무너질 것 같은 날 많았다\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JVjUyb1NPNU1hWEwtenBNdlNxSGgwdUJNZXBJRkJva2ZJN3dNN2FGQXlHeUxPVUVvX2NKWi15UWYwb2tKc3BHdlYtV3RlY1ZldlFjUXRMM2luUWFaVHc?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "쥬얼리 이지현, 미용실 그만둔다...\"자녀 위해 5분 대기조\" 싱글맘 현실 '울컥'",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvLVVfN0FaN3J2NWlPWkhURjlSa08tRjdrZGVQOTBNNk1MaFQ1dkIwWVhIWFV4b2w3QVhoM1BtRVFxZDhsdkRneHZpbHNodVNpandPSngxdTU0ZFNBVTlqYjRB?oc=5",
-              "source": "이코노미스트"
-            },
-            {
-              "title": "\"하늘 무너질 것 같은 날 많았다\"…이지현, 미용실 떠나는 이유",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94YW1NUHJHenphZ3FTNG93azdFY2F0Uk1yclF5V1RJVWNDcXZaU25TaGxsbXZGUDRwckdGNGM4a1RTM1Vla3NvbVp5UXdhTWtsekVLMGFYTVN0QQ?oc=5",
-              "source": "파이낸셜뉴스"
-            }
-          ],
-          "description": "쥬얼리 출신 이지현이 '하늘이 무너질 것 같은 날이 많았다'며 미용실 퇴사를 결정했다고 밝혔다. 싱글맘으로서 아이들에게 언제든 달려갈 수 있는 '5분 대기조'가 되기 위해 직장을 바꾸기로 한 것으로, 딸이 혼자 병원에서 4바늘을 꿰매는 사건이 결정적 계기가 됐다. 육아와 생계를 혼자 감당하는 싱글맘의 현실을 진솔하게 드러내 많은 공감을 얻었다. 오늘 처음 등장한 키워드다.",
-          "headline": "쥬얼리 이지현, 자녀 위해 미용실 떠났다"
-        },
-        {
-          "rank": 4,
-          "word": "솔사계",
-          "count": 1,
-          "articles": [
-            {
-              "title": "붓끝에 피어난 삶의 사계… 이인숙 작가 ‘매난국죽 사군자전’",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MZHp2ajFoLVZiQTQ4NFUxcnZCclQtWTNsQ0JfOThQQjctVzkyUlBDR3JuMnNxQ2l1dEdCY04wZXdXM3hsSVNld040Y0k3VW9pUUtJNDUwLU5odENPeDI2SW85V2hybmY1SE5XeE1BVFBYNE3SAXdBVV95cUxPSUx0QmFyWUJ1cTdrUjNlZ1otUkh4LWlHUTBaTlBTU3F1QTBDRG5pd2FTZUVjdHk0OWRwMGFkdURqb3hHc1V0bUc3SGZScWo4Zm8tbWVMM2RBZy03TnE3SzYzSXBqb21JMWFzcC1Ocl85Y1MtQ08yQQ?oc=5",
-              "source": "문화매거진"
-            },
-            {
-              "title": "게임업계 추석 대목 맞불, 제우스·솔·아키에이지·로아 업데이트 격돌",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16aVhDaHQ0Z0wwRW1WRDBWTFE4VnE5MVl2UzhnakctSldtX3JEYmNZMHJ1aXZlRklycFhlU2EtbnJ5TXhzYUJSMW1Zanl5NkpBMkpYQVZuUW41Qk1jU29zQ3ptbXpYMG03TmlR0gFvQVVfeXFMTXJPU1ZvZFcybGxQSEs3eEFVTFNHOTdueHlsam9JZEV4WEdtRndvUnZkdVpEdTB4SUd3aTBwR3lIUDhERGV2bC1VMXJxQWZsdkg4cmoyb2VIeGFBOGZGSE01d2g1UE10OGlLOGtJQXpZ?oc=5",
-              "source": "글로벌E"
-            },
-            {
-              "title": "사랑을 찾으러 다시 돌아온 그...?!ㅣ나는솔로 사랑은 계속된다ㅣSBSPLUSㅣ목요일 밤 10시 30분 방송!",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sYllmVnVpdjdGWllMMXFOc2t1QXpsNTlXT2pFZ2lPbXAzMjNzaXRmQjJ2RF9vUVUtUl9RcHplb1A3aUNXc0puUDcwZENKVFY5WU5rdGxLWG5mTmd6TElyRTRNVXBCMzVoTnVqVUFYOHFPd1Q3?oc=5",
-              "source": "programs.sbs.co.kr"
-            }
-          ],
-          "description": "'나는솔로 사랑은 계속된다'가 SBS PLUS에서 방영 중인 가운데, 34기 출연자들의 연애 감정선이 시청자들의 관심을 끌고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "'나는솔로', 34기 사랑 이야기 계속"
-        },
-        {
-          "rank": 5,
-          "word": "영호",
-          "count": 1,
-          "articles": [
-            {
-              "title": "\"여심 싹쓸이했다\"…34기 영호, 6명 전원 선택에도 정작 마음은 '안갯속'",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcHNhaWxaYWh1cjFJX0RMSjRPb1lwZnBsUnBuLUlSXy1DMTFTeWhvZHpsRjRKQS1CM2NIZkwzbFZJN3N3QXhBRWdHNEx1cElCek5KS25MWUw4UTBHVHJJZi13dUJiU1BVemlBTFhsSElnRjduUVh1Ym82d21xVHZ1ODg5ZXpHRTVVMkEzb2ZBUkM5cUxT?oc=5",
+              "title": "신민아, 주지훈∙이종석 결투 제압했다 \"둘 중 누구라도 죽는다면..\" ('재혼 황후')",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaWNNeVZBMW56d2hQMFhSR01zQ1ZJZHAwWVo2LUNhUkhMLWNnQjk1eVBSUldWaTlkZV9kengzZG9obnR6dnVqQW9UaGNVbXZROUdLVjNmem50cmVnVWFkaEpMMEo3eUlfZk1RSVl4M1hVLWlKR3JGNnRxb0dPeU9Rd1d0VGYyMGVHM1pDdk5HYw?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "‘나솔’ 34기 영호, 선택은 받았지만 확신은 없었다… 네 사람 사이 깊어진 고민",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VR1ZuaVc1UDVRc1dOazFTYWpxWmllSHY3T2RFSEx5YnloTGRWN2o0bEgtcUZKS3FTTzlobmRUSy1RYW1EdjVWR0h3dncyakdrUkpZN0lsQ3FZZWZMd0RmR25hNFFVLVBvSVE?oc=5",
-              "source": "천지일보"
-            },
-            {
-              "title": "“당신의 눈동자에 건배!” 영호, 죽이 척척 (나솔사계)",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YM0Q2S0dGWXowb1ZFWi1zcnJBeGNqdDlYQzdqREZ5ODA2RlYwdjJaVmpzeWVwLU5sTV9QeXI0TW9NbmIxRm9oeXJlZjJWVHkwLTVWQzQ2QlJ2bHY2VWfSAWNBVV95cUxNcVBDRGFWS1NSMjB2S0pCWWliZTRicTRkVFhxbEFHVUIydWNHVTJaLXZnMWo0VEFSajhJNzR0Y3lrUEJqZlBkTWwwNzBDei1rblphODdDNVFjd3NSRWtxNWdyRGc?oc=5",
-              "source": "스포츠경향"
+              "title": "'재혼 황후' 구릿빛 주지훈vs우윳빛 이종석 [한수진의 VS] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uSTNoc3FQWjRJc0VEMjdnZE42aklGcHA0V2lCRnNSSEl5WmVZTlVVZEJsQVY0OWRYc3hUcDBVUXlYV3RKTGFKRkQzbk1Ld2JmV3VLWXZOaXNtanFrQjZldV9jRHl5Qm9zS0FFNzFqV1ZuVWPSAXhBVV95cUxPNDU0Rkc5X2FpM0xIS1lYbnV4OXVvOHF2SVNIbWxlQTFVTmNodEl1dkFjYkxlWGoydk1DYm9RVllxTlpOZVJEZUwza1l6bDRNemZYdEpkVUxXVEotNmQ4ZXRjcmxXN0tjeXhwVHVFQi1EdGdDSnBjQ3I?oc=5",
+              "source": "머니투데이"
             }
           ],
-          "description": "'나는솔로' 34기 영호가 여성 출연자 6명 전원에게 선택을 받는 이례적인 상황을 맞았지만, 정작 본인은 확신을 갖지 못하고 깊은 고민에 빠졌다. 여러 사람 사이에서 감정이 엇갈리는 복잡한 상황이 그려지며 시청자들의 이목이 집중됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "'나솔' 34기 영호, 6명 전원 선택에도 고민 깊어"
+          "description": "주지훈이 드라마 '재혼황후' 속 파격적인 시스루 의상으로 화제를 모으고 있다. 본인도 '이렇게까지 시스루여도 되나'며 당황스러움을 내비쳤다고 전해졌다. 극 중 주지훈과 이종석의 결투 장면에서 신민아가 '둘 중 누구라도 죽는다면'이라며 두 남자를 제압하는 장면도 주목받고 있다. 구릿빛 주지훈과 우윳빛 이종석의 대비되는 비주얼도 시청자들의 관심을 끌며 오늘 처음 트렌드 키워드로 등장했다.",
+          "headline": "주지훈, '재혼황후' 파격 시스루 의상 화제"
+        },
+        {
+          "rank": 2,
+          "word": "송혜교",
+          "count": 2,
+          "articles": [
+            {
+              "title": "송혜교X공유 '천천히 강렬하게' 청불 등급이었어? 무려 22부작 3파트 공개 예고",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVNuSmZvYVRMWmxCZ2lFQlM3ZGFVTlhMdFRwVXBuTVoxZFB5QXlvZ0t4N3l6VURpVmdCOFZKNC1zQjJZbkphYmpRMU9wVHNzb1VRU3JfZmF6c2U3cGRVTTZicE1MbnF6YlZoVDhRaThaSEFSWUdoT1phQjBhdVpKWmRKQkbSAZgBQVVfeXFMUG9NYjZhWnNpd3RERWlSenI2SzBwOHVtc2FXa0VyeC0zbUliZkliMGxuWGZuMjdKcHE2b0tKUEtSR2twV3lJTUkzSzVabDZJaEtwUEkxN0RaclRkYWxrajJ1dWNhN2QzMVFNc1pzcUNaZWExZXdEQlhTNFhuUVRYQXNJOXJkbzBOOVVXbndLMWtacDgwUHdDbFU?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "송혜교, 모자 푹 눌러써도 이 미모…방콕 식당서 포착된 소탈한 일상 [핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTlYyMlJUU2owSnVhYWVLWlV2UmdIRmY3WDJwRFhtbFRyOUFKc19kRGlYQjZRZEdJM0tRWEpDNFNvbXRlUnlKcWxkZ3ZsNVMxTTAtTzZtT0l2MGZ6VWdSMGVkNDhubFRaam1EZ0xUa3lrY2xqVlRrdTJIQ0YyMkFhQWlzSXE3OEFlaFpPTTZHWQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "송혜교, 흰 드레스 입으니 더 우아하네…청순 미모 [DA★]",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oc2VoLUtyQ05GRlBNeTJtNDREeC1DWkNtd1FSTmk5T25KLVh2TUdvNTJ4bEhhMzFQUXg0U1dWTkpTREsycVJ4NW5nTEVyaWpZLTBJclhNR0tvN1gxUGFWclVRd3JZcFNXelp1M9IBYkFVX3lxTE5acU9xTHJMRHU3MDFoWmpVc0tJU0d5VDU2RlhLdC1SNmdSanpQSVgwd1Vha1Y1R0FVaDZyVHl1aW42R21KOEx2YVdmWlVuYmtscXRZS1RRUm9zTlhOMmlMVHhR?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "송혜교와 공유가 함께하는 새 작품 '천천히 강렬하게'가 청소년 관람불가 등급으로, 22부작 3파트 공개가 예고돼 화제다. 성인 등급의 대작으로 기대감이 높아지는 가운데, 송혜교가 방콕 현지 식당에서 모자를 푹 눌러쓴 소탈한 모습으로 포착되며 일상 사진도 함께 주목받고 있다. 흰 드레스 착용 사진 등 근황 이미지들도 잇달아 공개되며 오늘 처음 트렌드 키워드로 떠올랐다.",
+          "headline": "송혜교·공유 신작, 청불 22부작 공개 예고"
+        },
+        {
+          "rank": 3,
+          "word": "장윤정",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘컵라면·예능복귀’ 장윤정 vs ‘1억 시계·보릿고개 토로’ 도경완…부부의 엇갈린 온도 차 [핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSndRb0tkSl9CNUhEMk4tS2ZFTlZvWGFadkRCM2Y1TGVvNHN1YzJjSDdHalRqZTZ6NVlRbW02NUxzcWpvZ0RCVVhhbzRQSXM1QjI2b2tYT2lFcUhMV21yNVk1bzJZOWpwXzFtSmtud1hxTTE5YzlwdmlVVUxsbmR2bV8tOU1zWERQUy1McHVFbw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "곡 작업 보여주려고 연 유튜브인데…장윤정 “조회수 1위가 아빠”",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HcjBPU2xnWG8yMm5RVTl1SDhQZHp1TXlXYTZDdUdZdDdPbkRKbG44c3Znd2ZJUG4xUWkzMjdLM1VaYktfWUtXQUJodzhJeFllSHgtWWJGaWZQYmQ1TzZKMW9CWFR4Uy1EVmZ6SkFvQjI0LWdHZFNCSFRIWFpGUdIBZkFVX3lxTE9qWC00R1hSQVIwU0k5X1NaZmttRFNOUll5b3BzX2xLaldyQ2lQMm44anhuZDVvNkF6eUNfU0xIWHZPdUNCeE5JeUhoYUF0ZXZobVNUS25SM190c3Z3OWlqRUtINWhXUQ?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "\"벌써 이렇게 컸어?\" 장윤정, 120억家서 딸 하영 생일 파티..남매 폭풍성장 '깜짝'",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlFrQ0JQNl96dDk2S0VTTTk5Uk1BekFEVUtwYkRRXzBXZWhMUWN6UlY4NDVqRzRDZlZpcmdGQzIxaHhWeGF0WW4tTU5weE5LWndUdGtzeDF2eDN6cE1nT3FFY2NScjMwUmM1dlJFajQxYnByaF9yY0E5M1A2M3hQdE1qMFo?oc=5",
+              "source": "스포츠조선"
+            }
+          ],
+          "description": "장윤정과 남편 도경완의 대조적인 일상이 화제다. 장윤정은 컵라면을 먹으며 예능에 복귀한 반면, 도경완은 1억 원대 시계를 착용하고 보릿고개를 토로하는 등 부부의 온도 차가 주목받고 있다. 한편 장윤정이 운영하는 유튜브 채널에서는 조회수 1위가 본인의 음악 작업이 아닌 아버지 관련 콘텐츠라며 웃음을 자아냈고, 120억 원대 자택에서 열린 딸 하영의 생일 파티에서 남매의 폭풍 성장한 모습도 공개됐다.",
+          "headline": "장윤정·도경완 부부, 엇갈린 생활상 눈길"
+        },
+        {
+          "rank": 4,
+          "word": "박하선",
+          "count": 1,
+          "articles": [
+            {
+              "title": "박하선, ‘♥류수영’과 연애는 2년인데…6년 라디오 하차에 “섭섭하기만 해”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lRklEbXdBT3F6NVoyUkJhQ3R5NE9RUWkzZmc2SVlXcl9qVVp1dW1OS29XWG8yNnNISWdMVzhIdUlWZjUwSDhIZjZfNjhOX29rTTRSM2c5UTdjZVNfaEZMZTk4RkRqLW1DcUxPZHNB?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "박하선 \"남친도 6년 사귄 적 없어…라디오 하차 섭섭해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zTFd5cTY2c0pwSXhSSENhZ1ZIVlE1WGhYUGpWRmpYdE9WX2doLVl0TTgxNHliQjhFNzFEZ2pkXy1MSVotdmdKOFM3dG9rRWVhRkhuQ1A3emlSZ0JpSmRLMtIBeEFVX3lxTE16bktfUmxERUV2UEVzcW45a1huX2gyemNGSG9yWGwwa3cydUU3RGZRSmZtR1hrTkZUUTdIZlU3N2hId3R1Q3NpcE14MHRSeVZsd1hRX1ppb2RZQXVWTnVpT1ZaV2ZtT3NKeWlxLXhISnBHT09tWkFxYg?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "박하선, 6년만 라디오 하차해 심란한데..9살 딸 기습 선물받고 '감동' [핫피플]",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDZkM1pJX3RBUUJPTVlmWTJiMHQ0di1FUm02a0k2ZHJTZndnMEVKT2lOSUpZSGpQc3gtZjhjaHNZUUxiNVlLcmgzRTYwZXYyZXhQejV5MVRaZ25kOVNGX3dSUGY2U0pWNERGb3FHSDU5WkdBYUVHSFl0QVdmcEQySnNTdEtsdXVwcVE2Vk51Vzl2S2PSAacBQVVfeXFMT25rZFRmdDlDRDVWOTNLeEE5RzNqODlhQ2l3UW9DS01ZNVgxbk55RU9scnFDcEhLWmZsVGk5RkRaNTZmY194SjhGUVo0eTB1ZFVVUDNzdlZyMWlZZE1DUE16Z0FxUS1fQjc5V1dVVktTNG51VWVMRnlNcFc3VlhzNUsyMW1WQmZEYjgycUNENGZ6TUpPTWctbk9FSmRaTE5JZlN4Z09XSU0?oc=5",
+              "source": "Chosunbiz"
+            }
+          ],
+          "description": "배우 박하선이 6년간 진행해온 라디오 프로그램에서 하차하며 섭섭한 마음을 솔직하게 밝혀 화제다. 그는 '남자친구도 6년을 사귄 적 없다'는 말로 라디오에 대한 각별한 애착을 드러냈다. 심란한 마음을 달랜 건 아홉 살 딸이었는데, 딸의 기습 선물에 감동받은 사연도 함께 전해졌다. 현재 남편은 배우 류수영으로, 연애 기간은 2년이었던 것으로 알려졌다.",
+          "headline": "박하선, 6년 진행 라디오 하차 섭섭함 토로"
+        },
+        {
+          "rank": 5,
+          "word": "이숙",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘이숙캠’ 기준부부 아내, 고집 못 꺾고 “이혼해!” 오열… 이호선 긴급 재상담",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OaElWWDZ4OFdZWVl5S3pvQUE4VXVRR3R4UDQ0SmpqYXY3bWttdGtlNlctem9wakNieTdtWlJoSTI1WTBBeDZ4UmFxVWRZLXJRWURVT2o4TExWaVBCZUHSAWNBVV95cUxQbzNSVFYzMngxelMtQllwdkx2a2FtQkhjdnU4ZXJ4NjNqdE85bnhObGFUZkNxd3c1NUI0Qmo5cFBDdWF1NGVhZU5TQ1UzNWxmU2JLWFliR0lTeGlpVXZwdUNDa00?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "‘모자이크 없는 출산 다큐’에 이동건 “이건 힘들다” …‘이숙캠’ 올해 최고 시청률",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RakJxaXRDRWxveFBmZWVzQ215LW1rVlh5SEJmbDlzVjQ4bkFwNnNjTG5ha19uRkNZUUxIMlA2Qmx3RXpzMnFSVHRlMUVHUElCYWRIZXhiWjVHUGs?oc=5",
+              "source": "일간스포츠"
+            },
+            {
+              "title": "\"모자이크 없이 출산 장면 공개\"..'이숙캠' 국제부부 남편, 아내 행사 취소한 이유 [★밤TV]",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQlpoNXFvMjZGcWVMbFhjNWVGSms3WXV6bXJXWFMxX1FiTWZHeUhCSUhPeUFRRDg1YUp0NjZuZ2JrTFc1QjVJMTZDU1RWeFhpZ0ZOQ1RiN1MxbEZnQWlHSl9jUjEyLXV1OGRCa2NjSjN3X0NCQjZmNGJJdjMyMWwwNQ?oc=5",
+              "source": "스타뉴스"
+            }
+          ],
+          "description": "'이숙캠'이 모자이크 없는 출산 다큐 장면을 공개해 올해 최고 시청률을 기록하며 큰 화제를 모았다. 출연자 이동건도 '이건 힘들다'며 충격을 감추지 못했고, 해당 장면은 국제부부 남편이 아내 행사를 취소한 이유와도 맞닿아 있어 주목받고 있다. 한편 '이숙캠'에 등장하는 기준 부부의 아내가 갈등 끝에 '이혼해!'라며 오열하는 장면도 방영돼 이호선의 긴급 재상담으로 이어지는 등 다양한 이슈가 겹치며 오늘 처음 트렌드 키워드로 떠올랐다.",
+          "headline": "'이숙캠' 출산 장면 무편집 공개로 올해 최고 시청률"
         }
       ]
     },
     "스포츠": {
-      "summary": "삼성 우승 기념 가전 할인 시작·U-17 월드컵 출전 김현준호 카타르 입성·손흥민·96라인 갈등 봉합·박항서 인종차별 항의로 출장정지 징계",
+      "summary": "박항서 감독이 인종차별 항의로 2경기 출장정지 징계 · 삼성 구자욱의 MLB 진출설 · 소노, 가스공사 꺾고 2연승",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼성",
+          "word": "징계",
           "count": 3,
           "articles": [
-            {
-              "title": "\"12년 만의 우승에 가전 할인\"…삼성스토어, 13일부터 할인",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RODNwaGR3bDNqd3VzbjRKci1GdUdOVEplT0pvM0ZYM21MQkhTODYtdjdab00zRnZoYzZUdTlxR2RNenNfOUswSzUxeE1PUnhFbTNTNk1qdXM3cWZ0QnhmWVFpVGs?oc=5",
-              "source": "뉴스1"
-            },
-            {
-              "title": "기다렸던 '삼성 우승' 가전 할인, 내일 온다",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mcGRweVNiSFZheEpZLTdQNDJIbm5nV0pyNGVTVU43OTU1ME50RVZUdFpjOFUxS3QtWnh4ZDAxNHdfaWdkNUo5UUl6ZV9UaGphajF30gFYQVVfeXFMUHJfT0NXejRjRzBsZ0d6dXVxT19uUkdJRURIb3N0WXFrQjctVFp3WjgtYlZfZUtuam5QRlNCSGo1VWtESXFxWlZEYktfNmdxYzAxY3ZJTkJ1eg?oc=5",
-              "source": "SBS Biz"
-            },
-            {
-              "title": "에버랜드, 삼성라이온즈 우승 기념 팬 초청 행사…2000명과 'V9 데이트'",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nZmRDam9DWUxWNHhwNk1jUDMySXRHRTlQdERQRC1jempfdFJSVmFMU2YtMF95WE9FTVVGQjB6Ulk2QjNEMF9mSFg4c21Xdw?oc=5",
-              "source": "전자신문"
-            }
-          ],
-          "description": "삼성라이온즈의 12년 만의 우승을 기념해 삼성스토어가 13일부터 가전 할인 행사를 시작한다. 에버랜드도 우승 기념 팬 초청 행사를 열어 2000명과 'V9 데이트'를 진행하는 등 그룹 전반에서 우승 축제 분위기가 이어지고 있다. 오랜 기다림 끝에 찾아온 우승인 만큼 소비자와 팬 모두의 관심이 집중되는 모양새다. 삼성은 최근 2주간 꾸준히 상위권을 유지하고 있다.",
-          "headline": "삼성라이온즈 우승, 가전 할인 행사 개시"
-        },
-        {
-          "rank": 2,
-          "word": "월드컵",
-          "count": 3,
-          "articles": [
-            {
-              "title": "U-17 월드컵 앞둔 김현준호…성적과 성장의 두 마리 토끼 사냥(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pakkyVlNjLVc2SGpfbXYxTEZtVDl5T3N3NVc3Ti1xRFpzeTVaa2JJa3k2Wk5HVVVZMUswVlU3YmZiY1BSQ2twMzR5Wm1PRVpMeHpNNFdWa3hqV2_SAWBBVV95cUxOWnZQSVhIM2toaG1YQllBRW1QdzhjbmtvTHU5NWRRUmNQSnhvN01kY1ItelhKemxaQnhmbjBHWmNZczlNOVZQVzNTeHM1akZURU9WXzlrUmZRZV9Cd1R2Nlo?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "김현준호, U-17 월드컵 결전지 카타르 입성",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95aG83Zm9nbzdVMnI5LTB1MmRDLXE5c0lkVmlCMDBJUTJFeWxETXV2OXVyeDZQT3BPMjQ0ek8za2ZuLV8teHNtblByTTlkc0F4VXlrZFhSZVo0Q3hkZS03cXNEcVZlb3dkSVE?oc=5",
-              "source": "천지일보"
-            },
-            {
-              "title": "김현준호 U-17 월드컵 출격…19일 우간다와 1차전 : 스포츠",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aaUw0RzlROVozM1gyMlo2aDFUbDNacjhqT2ZHLUFlRU1RbmRGUHFtTVhOQmJMc1FHVGU0NFh5cno5eVdTTGYxV0FWbw?oc=5",
-              "source": "재경일보"
-            }
-          ],
-          "description": "U-17 대표팀 김현준호가 결전지 카타르에 입성하며 U-17 월드컵 본선 무대를 앞두고 있다. 첫 경기는 19일 우간다와의 1차전으로, 성적과 선수 성장이라는 두 가지 목표를 동시에 노린다는 각오다. 오늘 처음 등장한 키워드다.",
-          "headline": "김현준호, U-17 월드컵 출격…19일 1차전"
-        },
-        {
-          "rank": 3,
-          "word": "라인",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘불화설’ 손흥민과 96라인... “같은 마음 확인” 입장문 냈다",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckIzTnZZTTlmVDFHUDNSN00tLWJVVXFnVjczZVRaYUpya196N0pUSkk3bWZGaW1zRUYzY1BnWjdQN2N3TWNoZWlNOEpteW84eHdteGJWYThOSlJrU2d5N3hPX0lmWk4yMjFjaXlORHg2WVlITjRpbHpEWENlZkhCLUN5SQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "손흥민·96라인 갈등 일단락…“함께 나아갈 동료” 공동입장문",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Na2Njd1N3YTZuV0NELVBia05IS2F0NWZ6eHNDWkdZNDhqZ2NVSjlEbnZ3QVpiMHgzbDBwUEZfdi1aTVBVdFI5bDFLYXFNMnJXZkx1dW5n?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "\"갈등 아니다\"‥'손흥민-96라인' 입장문 발표",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBodVJZNF8wdERXbDlzQjJSMjNpa2VVellwUkV3NmRFUVE5M3RFOGZiZjFILWQ5SXgzV0pKbHNfTml5VWVzeGhiQUhOQUI3aGNXVW9fa0NjbU9KZDdDakNtbEQxX21sd19ZQ1RkeXhIZVNEOWVtR3Q00gF3QVVfeXFMUFI2ekFIbVFoLWtzRXI5TEZqSVJXd3UxY1NQa3N6TXFIdUxHY20yX0swTDQxclh4TlJDRzdKSldOU05PM3ZyeVljMHVPRWRvQm1qT0RlQmN3SFFyNkx2blNvSndBSnpTWWJHaXlobXZzeU9qR1V1UWs?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "불화설이 불거졌던 손흥민과 96라인이 공동입장문을 내고 갈등을 공식 부인했다. 입장문에서 양측은 '같은 마음을 확인했으며 함께 나아갈 동료'임을 강조해 논란을 일단락 짓는 모습이다. 대표팀 내부 분열 우려가 컸던 만큼 이번 입장 발표가 주목을 받고 있다.",
-          "headline": "손흥민·96라인, 갈등 일단락 공동입장문"
-        },
-        {
-          "rank": 4,
-          "word": "김민",
-          "count": 2,
-          "articles": [
-            {
-              "title": "김민, ‘나혼산’ 야생 생활 비결은 돌아가신 아버지…“어깨너머로 배워”",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XR1hELTRoWjJNVm9nbHdMa01lZmlnTm1feGRaY2xrU2RzM1NDZ3Y2a2pZT2V6VndfaHB6UzJyRl9rTW5jSm9oU295a2h5ZS1qajdFNGZqWTNKeXZuSnfSAWNBVV95cUxOcWdWdEZ3ZmhsdGs3S25zalVUcHRpLVZhLW5aNHJWN25aRU80OC0tLU52N3BHX1NYQ2hoSHFQS2RDblAyX2JZNzFFVDBQbzVkZWtUdWJWNExIYXRuY1Bsb051WUE?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "김민, ‘카지노’ 촬영 당시 최민식에 욕 제스처 애드리브 “일주일 고민했는데, 선배님 반응에 깜짝” (라스)",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TbW9ReVpLR3gteDRvZHdCNXVoRlJFblYtY2k5OGppUUxjcVNkOEk4S2lweXpvaWdoZ3JIS19FdzZBb2xKNDUzV0RvdkJDU0xwVHdVZHk5dXFwZzNPVnfSAWNBVV95cUxPTmVJbDB5VnNwNFRROHBDYWVwemZRLXpVSEVaUXp2V2dlVi0wV1IyVXZFcDNweG1aSGJIRldiVE1QcjBCT2MycHliTHN2c0RYZzdFbFNFUXZ6ZXYwZlZ5VVBaYU0?oc=5",
-              "source": "스포츠경향"
-            },
-            {
-              "title": "“노숙자인 줄” 김민, ‘나혼산’ 조작설 ‘웃픈’ 해명",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RaF9aRy02VkVwUDVlSTlacTl1RjlGRE5fYjNLY3Nhd2ZpZDQ2SXFZNVluWi1RdUhtZy1zUXgwb05Qa1ZFdWx4dS05c2pXRWI1ZERnNFo5NW4xYXlVS3fSAWNBVV95cUxQWDh5V0pwNWhPRHpsT2MzbmR6dDB0cE5CMlNRWG1zMGFDa1N4UFd1UHg2aXVvcUZ0eDVZbVl2b2l4X2hLUnFCVUFOV1JsZ1ZidmttYjFiWG5lOHphZXZLTGMyRVk?oc=5",
-              "source": "스포츠경향"
-            }
-          ],
-          "description": "배우 김민이 '나 혼자 산다'와 '라디오스타' 등 예능 프로그램에 잇따라 출연하며 화제를 모으고 있다. '나혼산'에서는 돌아가신 아버지에게 어깨너머로 배운 야생 생활을 공개했고, '라디오스타'에서는 드라마 '카지노' 촬영 당시 최민식에게 애드리브로 욕 제스처를 했던 비하인드를 털어놓아 웃음을 자아냈다. 오늘 처음 등장한 키워드다.",
-          "headline": "배우 김민, 예능 출연으로 화제"
-        },
-        {
-          "rank": 5,
-          "word": "관중",
-          "count": 2,
-          "articles": [
-            {
-              "title": "인종차별한 관중과 충돌했다고…박항서 감독에 2경기 정지+벌금",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1dy1DS05NTnRVUzNqeU12UlY1REE1MDRaNHFpU2lNa0luNDdueFZNbTdZbUtBSGtOR0s3d1FLMGd5RklJSUdVMDNWWWFZWV9kLXJweXJtVWpTSUHSAWBBVV95cUxPZkhQMWNpaVFjdGZQbFpOMXh2Y2xLWFMzZk10cUV3OUlVU3plNWkyZktjWXBWUHBoWjE3WlRjcHhlU3hnNnUzc1dXbEhCb3gxUUlyXzVvQjlsZG5FQ2JfMzk?oc=5",
-              "source": "연합뉴스"
-            },
             {
               "title": "“김치맨” 인종차별에 폭발한 박항서, 돌아온 건 출장정지 징계",
               "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zWlh0dWRDeW9iQzFiQmpMYnVMSHJlUC14WmY0emhNUi10dEdObU5YTXVqaFZaSlNLOF9xODZ3WnlUbEpKQ05uTHcwN1c2N1JPYVFINUtB?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "인종차별 발언한 관중과 충돌…박항서 감독 징계",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrNzNjVEp5V1Q5Y0VTVFhMaHZRUTBRLS1aV2pIaVJxR2plQkpyNGgzeV9tYmlSWElYOWplMTBKRjZRUFVsbFN1LXVJTnppbThneEtXdzJBbmtCQXBkTVhtY19ZM0FBT0E?oc=5",
-              "source": "연합뉴스TV"
+              "title": "“김치맨” 조롱에 항의한 박항서, 결국 징계 처분…2경기 출전정지",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sTmR3TkVsTTRadmVtQkltSFMxWTV6T29Uc1hkNHc4YXNQanZ5dmZGa1BUTmk2cjlqbXRyRmNxb3JtdnRnMVNLYk92cTMzaTJ3c0paTlZYV1FmTmJUNkHSAWNBVV95cUxQX3pWVVVZZ2hzLVNJTGZqb3phelNWYlo3bjJmU2JTRGNMeFUyYnRqeTN3TFBSVS11c05QcXY5SjJYOTVROU1KTVFqc244QjlMQVNyNFMxcUdkY0xvcWpTX0V4djA?oc=5",
+              "source": "채널A"
+            },
+            {
+              "title": "“김치맨” “원숭이” 조롱에 주먹 불끈…인종차별 맞선 박항서에 징계를? 충격 결말 [월드픽]",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yY3pBTFhWNmhXU0pwWmdCT01fcW4zcndRUDZRYThpSm05Y0FPLWtCNllKMlp3SVFyNE1qR0Y4am1HRmxvVkloMWt2WW5HLV9ZZTJ1eC1Vb3hTRElTNjBvekd5N193Q0dFTkNqbnktcnlSZmtOcmlrUzhRX0Q?oc=5",
+              "source": "TWIG"
             }
           ],
-          "description": "'김치맨'이라는 인종차별 발언을 한 관중과 충돌한 박항서 감독이 오히려 2경기 출장정지와 벌금 징계를 받아 논란이 일고 있다. 인종차별 피해자인 감독이 징계를 받은 처사에 비판 여론이 거세다. 오늘 처음 등장한 키워드다.",
-          "headline": "박항서, 인종차별 관중 충돌로 2경기 출장정지"
+          "description": "베트남 감독 박항서가 '김치맨', '원숭이' 등 인종차별 조롱에 항의했다가 오히려 2경기 출장정지 징계를 받아 충격을 주고 있다. 인종차별에 맞선 행동이 제재로 돌아온 아이러니한 결과에 국내외 스포츠팬들의 공분이 쏟아지고 있다. 오늘 처음 화제에 오른 키워드다.",
+          "headline": "박항서, 인종차별 항의했다 출장정지 징계"
+        },
+        {
+          "rank": 2,
+          "word": "구자욱",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'KS MVP' 삼성 구자욱, MLB 진출 노리나…美 기자 \"현지 에이전트 선임\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IM2dDWXk4OVp2a1g1SmtIUkJHYjBaSUpMSFhkWjN0Tkxkd3ZIZlRudDhKQm5yWVd4V3UzYjJvRGRTTkplSUplQ0tvaml6OVVnenhueFJPU3FoZVY1ZDJQc9IBeEFVX3lxTFBTQ25CeGVOemdHT0JqU3F1MUd6WmRodTlwdGM4ZVBfb0paS1RUdW1tSzl4VkZnc3pxVDlpZGE0dF9Mbm5zRjZNVk9TQUlTNWk0bGhsalRQd1hEN2tRdnhSdzNJWHQtbVlmNEdRS3dWWERPLTJLRV9ucA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "삼성 선수들과 놀이기구 탄다⋯강민호ㆍ구자욱 '에버랜드 공약' 17일 실현",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RRVYyLU14Y3ZUVjZQRV9qa3VQZDRjT1dxUVhNS2RnQ2V3UDVodmdreTUxTWlPWlVrclU4eHhDSjk2UFk0X0pnNzBkTXRDRkdZcnlfMA?oc=5",
+              "source": "이투데이"
+            },
+            {
+              "title": "우승 프리미엄, 초대형 FA '구자욱·원태인' 해외 진출 모색…고민 깊어지는 챔피언 삼성",
+              "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSVC1Ram1pV2FidkZBdmRnQVdGc2t3Z0Z2aTd5UDJXd0lUMEpXQUVrS0JRX19DVUR2MkJkS2Jmd1VWUTNQTmh1dlVkbmw?oc=5",
+              "source": "대구MBC"
+            }
+          ],
+          "description": "한국시리즈 MVP 삼성 구자욱이 미국 현지 에이전트를 선임하며 MLB 진출을 모색 중이라고 미국 기자가 전했다. 원태인과 함께 해외 진출 가능성이 거론되며 챔피언 삼성의 전력 유지에 고민이 깊어지는 상황이다. 한편 강민호·구자욱의 '에버랜드 공약'은 17일 실제로 이행됐다.",
+          "headline": "구자욱, KS MVP 뒤 MLB 진출 모색"
+        },
+        {
+          "rank": 3,
+          "word": "챔피언",
+          "count": 2,
+          "articles": [
+            {
+              "title": "구자욱-원태인, '우리가 한국시리즈 챔피언'",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGVIb3hjQVJlZmpkRHVoUkVyX25xMkJwLUIyT2Jfdkhka01ONmdqNjVOUU5UZzlKSFBQSS1WTVI4MExTWXZSUXdubjZtMG5LbTAweFdaTWVqNkF0WU9pdjRWVThkRnBSYmY1UkJiY3RySTRKc05scDNBZFlsS0hwQTl1U2N3eVBl0gGcAUFVX3lxTE1pb24zN2xLM0RHUzVvTm1JOHZjT1I1LVRILUxCR0NpSWVFNzVMbXljbmpxZ3FHWVZreHJIZFI5Y3EyeGxvdmpWSElGRVRJQXVwWUlYVzFEVmVnZkZlNFdoQl9GdnZfOGg1ZnI0NmJ1dFhqaHpjeXg2YkFDWHBoSFl6QTNIdDRNMHE1ZVhQcy1ITGd5RnhiTEw4UjNiQQ?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "구자욱 원태인,'우리가 챔피언 되는거야' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNjdXcFNDNXp2bTczaVRWWEl0VFFna1NBLVBWVkJPVGJMZElaYVVYOFE0ZjhWam5iUDNuMGJHRHlvYWtjZk8tNGdDM3pXQ0ZLYWwydWdQbDF2VGJRT2paR3pNYXFuVGFSTXfSAW9BVV95cUxOV09oY1EwNlFyVGNlR3NzQ2YxdzRDRlpHZkloMWxTbkNsWFhCeE9oTmQ2M09xemtIYU5pYmQtZld0ZmotMFFEd3hPU1M3R3Z4VjFUeU50NmpyTVc3SmNOMlVhVTIyLWJTOWYyT1NwSFU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "구자욱 원태인, 우리가 한국시리즈 챔피언이다!",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kTWVGTDg4UWVhZmM3YnozSmtERkFVWUpOa0NBY3RrczZxcTc0WTlob1RpQlZ3UEpYcWcyNi1SekhKOHBIUlZraVlISHo2XzFqMFRYM1pkY0NJeUVLVXlIaFdBUTloaUh6OWtBNlM5MFFHTTUxbjZpNFdyQzV0UQ?oc=5",
+              "source": "스포츠조선"
+            }
+          ],
+          "description": "삼성 라이온즈 구자욱과 원태인이 한국시리즈 우승을 차지하며 챔피언 자리에 올랐다. 두 선수는 우승 직후 함께 기쁨을 나누며 화제를 모았고, 오늘 '챔피언' 키워드가 처음 트렌드에 등장했다.",
+          "headline": "구자욱·원태인, 한국시리즈 챔피언 등극"
+        },
+        {
+          "rank": 4,
+          "word": "데이터",
+          "count": 2,
+          "articles": [
+            {
+              "title": "우리카드 ‘박철우 매직’과 IBK기업은행 ‘마나베 데이터’…V리그 초반 돌풍 쌍끌이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FOG4wTXpNUTNrUmx3MU1Ha3YxeUZlckpuWEtQM0FaZ2EzaW9GUG9fTC1xbjRFMk5ZOElIR09WOURDdXRGeC0wcnQyYzF5cFRDXzlsWmpYQnBsaXdQMzA1SVFjWExnalRoTnc?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "박철우 중앙공소청장 \"공소청 전환과 檢보완수사권 폐지 착잡\"",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xVUY4X3RjbC1GU1pkZ3E3d0VtSmlHM2dGdUhGeVQ0UTVuZklBSmw5bHVmVGNXNGh0NFg5bDhEbUxpZmYxSnBOYks3OVM2Ylo5bENabUtEQ0NnczVvVEVrNkxRZkh1S2x0WFQxQmhJQlhGOVpaa3dRYnJ5UdIBgAFBVV95cUxQMDdOWFhVZzJGTzNobFJQLU5Zd1JqTlFmUU1CWG1pWnNJQlc3OG1fSzhNejFCSjFCWUQ0WUktWkhvR01OTUFSdmlLRnVfbE53VHFrc3FrMEtoN1VkUW1FdmpyaDBhdkJ4b0lnWnNwZnVEVEZ2a1BseXBXOWhGS083OA?oc=5",
+              "source": "뉴데일리"
+            },
+            {
+              "title": "KT “금융권 AI 고객센터 제공 250% 증가”…AX 성과 낸다",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56U2ZzMlJFQTREWWhYb2x3ZE9PNHRxTUdiNklDZS1JVG1PbVZJVlJUYkZmWFVVcnFzWGx1QmhKV0Rpc3pZeVltQjBUdWwxYl9aU2FZR3h4VVFaYTU0N0FBM3g5QnZkUDdocmdWbU9n?oc=5",
+              "source": "아시아투데이"
+            }
+          ],
+          "description": "V리그 초반 우리카드와 IBK기업은행이 각각 박철우 감독의 지도력과 마나베 감독의 데이터 야구로 돌풍을 일으키며 주목받고 있다. 두 팀의 대조적인 운영 방식이 리그 흥행을 이끄는 요인으로 분석된다. 오늘 처음 트렌드에 오른 키워드다.",
+          "headline": "V리그, '박철우 매직'·'마나베 데이터'로 돌풍"
+        },
+        {
+          "rank": 5,
+          "word": "공사",
+          "count": 2,
+          "articles": [
+            {
+              "title": "소노, 가스공사 잡고 2연승…이정현 31점 맹활약",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUzFxRlh3ejBFcy15U1Etd2VJMTNFeXRPVFJNbmxlblE5X210b21XWmJqSUdBb19MZUxWOVVyN1dJdks2TzJ2dGgxUDZPdTZ6WXlzN3BpeGlodm91NkJoejZvRGRZVjg?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "고양 소노, 이정현 31점 한국가스공사에 1점차 역전드라마",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5Q2JBdV9hQkl2NkpZTm5XZTl6Si1obXltN2lPSnhfcmt1Z01ZVkhiTnllUm9BS25RbnBlS3pBdHpSaHJzM0FKT3pxN19CV1hwSXphUU81b0x5ajY3ZmRaZXZISEVhUlhtX2fSAW5BVV95cUxPVk9WMzQ3S3lKbU5iT3YtTzhhNGRMdWFQVUpYbUV2d3NFdWJQZHQ0TlA3em5DZk8xTVhrUGJnY2JkOG5EUWZrNXhodHpjMklNdk1SX1c4YnMzX3FsWWM5dUVrRWMxcWhjLVlHZGVMQQ?oc=5",
+              "source": "중부매일"
+            },
+            {
+              "title": "이정현 31점 폭발…소노, 한국가스공사에 88-87 역전승·2연승",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nUW9vRXJ5ZzkyM0NsSUtyQ2hfcE80bmFCaWx5TE1nQmJDWm5QaXVtQTdvWGV1aXJTSllaampWR2dTUTdtc0RmQ1MtRzhqQlczWmZFSw?oc=5",
+              "source": "이투데이"
+            }
+          ],
+          "description": "고양 소노가 이정현의 31점 활약을 앞세워 한국가스공사를 88-87로 꺾고 극적인 역전드라마를 완성했다. 1점 차의 아슬아슬한 접전 끝에 2연승을 달성하며 KBL 초반 순위 경쟁에서 존재감을 드러냈다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "소노, 한국가스공사에 1점차 역전승·2연승"
         }
       ]
     }
