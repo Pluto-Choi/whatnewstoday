@@ -1,38 +1,38 @@
 {
-  "date": "2026-11-15",
-  "updated_at": "2026-11-15 17:27",
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16 05:16",
   "briefing": {
-    "text": "수능 나흘 앞두고 AI 커닝 우려가 폭발하면서 청와대가 직접 대책 회의를 소집했다.\n\n유튜버 감스트가 AI 안경을 착용하고 수능 문제를 푼 실험에서 5문제를 틀리며 AI 부정행위의 가능성과 한계를 동시에 드러냈다. 청와대는 수능을 넘어 회계사 시험 등 국가시험 전반으로 확산되는 AI 커닝 우려에 맞서 방지 방안 논의에 들어갔다.\n\n러시아가 오는 19일 미·중·러 정상회담 개최를 공식 확인하면서 국제 외교가의 시선이 집중되고 있다. APEC을 계기로 한·중 정상회담도 조율 중인 것으로 알려져 이 대통령의 다자외교 슈퍼위크가 본격화하는 모양새다.\n\n경제·보안 분야에서는 트럼프 전 대통령이 AI칩 수출규제 완화 직전 엔비디아 주식을 대량 매입했다는 이해충돌 의혹이 제기됐고, 북한 해킹 조직 라자루스가 국내 서버 30곳을 표적으로 삼은 가운데 한국 대학 31곳의 데이터를 탈취했다는 주장까지 나와 사이버 위협이 동시다발적으로 불거지고 있다.\n\n스포츠에서는 오늘 저녁 APBC 야구 한일 결승전이 열리며, 대만전 결승 홈런을 터뜨린 김도영의 활약이 12연패 탈출의 열쇠가 될지 주목된다. 축구에서는 일본이 브라질을 꺾은 반면 한국은 사우디에 패해 대조적인 결과를 남겼다.",
-    "period": "저녁",
-    "generated_at": "2026-11-15 17:27"
+    "text": "젠슨 황 CEO를 둘러싼 스캔들 속에서도 국내 투자자들이 엔비디아 주식을 4800억 원어치 쓸어 담으며, 엔비디아가 오늘 최대 화제 키워드로 급부상했다.\n\n수능을 나흘 앞두고는 카메라·AI·스마트워치를 결합한 첨단 부정행위 수법이 부상하면서 감독 현장에 비상이 걸렸고, 트럼프-시진핑 회담에서는 젠슨 황 스파이 의혹이 거론되지 않을 것이라는 전망이 나오는 등 대외 변수도 분주하게 움직였다.\n\n경제 분야에서는 한국 누적 수출액이 이번 주 사상 첫 1조 달러 돌파를 앞두고 있으며, 삼성전자는 AI 안경을 12월 10일 65만 원에 출시한다고 공식 발표했다.\n\n스포츠에서는 야구 대표팀이 APBC 결승에서 일본에 1-5로 완패해 준우승에 그쳤고, 삼성 라이온즈는 12년 만의 한국시리즈 우승 직후 MVP 구자욱과 원태인이 나란히 MLB 도전 의사를 밝히며 전력 유지라는 과제를 떠안았다.\n\n연예 분야에서는 배우 안효섭이 한국 배우 최초로 미국 키즈 초이스 어워즈 성우상을 수상하며 K-콘텐츠의 글로벌 영향력을 다시 한번 확인시켰다.",
+    "period": "아침",
+    "generated_at": "2026-11-16 05:16"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "AI 안경 활용 수능 부정행위 우려로 청와대가 대책 마련에 나섰으며, 19일 미중러 정상회담 개최가 확인됐다.",
+      "summary": "수능 AI 부정행위 감독 비상이 걸린 가운데, 미·중·러 정상회담 우려와 젠슨 황 스캔들이 주목받았다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "수능",
-          "count": 2,
+          "word": "일본",
+          "count": 3,
           "articles": [
             {
-              "title": "‘수학 6~7등급’ 감스트, AI 안경 쓰고 수능 5개 틀렸다",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FeGUtbGJNbUNNendpTk1HTXNGaVlDTnZ2N2w0UEtQX3ZfSDBNanlSd29fMXdraHRjOXgwaDUweTA4UTJFX0hrWHlvZDZBQlR2QXhyTXNhd3VIbTZLZXc?oc=5",
-              "source": "주간경향"
+              "title": "한국, 부끄러운 ‘준우승’…APBC 결승전 일본에 1-5 패",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXVJUV9kbjFzSnRCRUQyT2w2dHZwTVcySEU3cGwyQUVjWWs3UmZMUC1ET2I1S2xJYzJucXdQRmg3YVplcHYxQkFITG9SdFdfSWRPOUx2QXFOSjBsSVlyWm9HdThab3hyOGVfaFRKQ2UtUjlIR2lVbW1sdmtFNE9jbUFR?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "‘수학 7등급’ 감스트, AI안경 쓰고 수능 풀었더니…충격적 결과",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vRG9qbV9HMkozR1BTN0w2OGd1MUFLWWh6OGlPVlNTV3J2dVdDTkdwQ2FRaW1hQlNRc3B0NTFmcjItU1BfX25ESm5NOUYzcGVhNUZQWlpB?oc=5",
-              "source": "중앙일보"
+              "title": "온천의 나라 일본… 온천수 부족하자 화산 증기 활용한다",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTlFKQ19TUko5dDNIVTQ2ekFiZXpoY0g3Y1BkY0RpR215TXFkc0FLaG5KdUxwN3pHSFA0eGpUWWJhS3VSNk5XbWNHMzB3Q0NSZlFCM0pVcDlpV1FhZDc0VWFtSnlLRDVETDQyTkkxQjZSM3A2Z0ZMM1owRlF1NWF6X2l1SjZJLTV3?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "'수학 7등급' 감스트, AI 안경 쓰고 수능 5문제 틀렸다",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY05nTXNhV3A0WE5zZ3hYaGg2YzE2aTNZaGdub2ZXMjVab3VKb1hNTHJXbzJ6RjFtVDBoMjNFenA3SmFrQ1IyWHI5U3ZNZS1XSkxxcTNQTUdNMlY0cEROMGVmS2FqZGJ4cUVmZUhrUHNmUGtwZEVFeDRPeUN6NWkyVA?oc=5",
-              "source": "이데일리"
+              "title": "워런 버핏이 일본 5대 종합상사 주식은 절대 팔지 않겠다고 하는 까닭은?",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOW9QUThUTGNlQjFUZ0dVLWJHWnVrR3ZhRDZRLUVjaDQ5Mm9ZZnFWdzZ5V0RZLUdSQ3ZVY21qVXRqbk4xYlpPVjZFREUzN2g5Y2ZBTi1vdWNpZnhhdnhBT1BRU2RyS2xYX1pZajZYOEdPM2V0Nlk0NVo1ckJGc2dlMDNmR0dYZw?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "유튜버 감스트가 AI 안경을 착용하고 수능 문제를 푼 결과 5문제를 틀렸다는 실험 결과가 화제다. 평소 수학 6~7등급인 감스트가 AI의 도움을 받고도 만점을 받지 못했다는 점에서 AI 커닝의 실효성과 한계를 동시에 보여줬다는 반응이 나온다. 수능을 나흘 앞두고 AI 부정행위 우려가 커지는 시점에 맞물려 더욱 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "감스트, AI 안경으로 수능 5문제 틀려"
+          "description": "한국 야구 대표팀이 APBC(아시아·태평양 야구선수권대회) 결승전에서 일본에 1-5로 패해 준우승에 그쳤다. 우승을 목전에 두고 완패를 당한 결과에 아쉬움이 쏟아지고 있다. 한편 일본이 온천수 부족 문제를 해결하기 위해 화산 증기를 활용하는 방안을 도입하고 있다는 소식도 눈길을 끈다. 오늘 처음 등장한 키워드다.",
+          "headline": "한국, APBC 결승서 일본에 1-5 패"
         },
         {
           "rank": 2,
@@ -40,353 +40,151 @@
           "count": 2,
           "articles": [
             {
-              "title": "“회계사 시험도”…수능 앞 AI 커닝 비상, 청와대 직접 대책 만든다",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45ZHZxZTgtcnZTVnhwa01ENkE3T29YS2VuRzNnemF1NmJVR1R2NmxKQ0RVWjloeG9TcUJwUGd6SVlNNEZkWk5wN3FDZ3NJY2RoNmFCY1dQODZ4d1ZUdHZaZjd3Q1d3MEFXWWNV?oc=5",
-              "source": "한겨레"
+              "title": "‘카메라+AI+스마트워치=만점’…나흘 앞둔 수능 비상 걸렸다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nZERGd21yU01rbFJQeGdIT1V4TkRfRXEyS2I4amk2U3U2aGpvRGIzRDFDRUxrTFdNLUp0ZGE2cE81aG9ZV0J2dG1hYnE0eHZBbXJ6Ukln?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "다음 주 수능 앞두고 비상… AI 부정행위 대책 마련 나선 청와대",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMkN1VC1kUUYxY2ZsNGE0S21IUTBZaEl4SjA0MEVNclVpd0xtZXAwWjliTzd1RnlCOXd3U2hBa1lxRE9odWhYYTZwLXV5Z1lSbE53clhxNHNkQXg1bXBIam9nYVJHdWhhbEE?oc=5",
-              "source": "천지일보"
+              "title": "안경뿐 아니라 귓속까지 봐야 하나…수능 'AI 부정행위' 감독 비상(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KSVE2WjRwNHl3WmE5RV93Vm5kTjJHY29vd2NCQlRjNzVDYktSb0pnMVc4REJVN3BmeHFnN0s5TFpKMTBlWEx4U1N0a1MyRlA3MW1lemluRmppdWfSAWBBVV95cUxPcDlHNlJmVTVCc2o0eWRnWEhESTVEQXM4VS1STVJzNlZDY2xzMDFrb0xhRGpFbVdGMGYzQnNWVFlvOVVrU3pyTHo2ZlJiTzNxQmo0SFpNTkRwZzBnQXpFak8?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "수능 나흘 앞 'AI부정행위' 비상‥ 청와대 AI 부정행위 대책회의",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mTHBSY1FXUHhOYll5anlfUDhOYVRwSUktVDc3NVRWYjBZaFR3dU5IYWM1cEtUUUN6V3ZMem9UR3FiYm03YVRfUUw4VTlVRXBYNUJtUHNDM2ZTX3BIT3JmZTdYNGNWUlcx?oc=5",
-              "source": "일간경기"
+              "title": "안경에 귓속까지 봐야 하나…‘55만 응시’ 수능 ‘AI 커닝’ 비상",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SF9vZlp1Si1qY1BLcGtEX3M5bWVCSkhUVjJrQnc3U0FOdFg5R1lndUlpTGJEd2NpMXpHclJvMEdPSVVYTVZFNG9UdG02Z3FDV0NST0hOenBEeFVzenh3M1p1WXlPbWlKQ2R2NjVOcVZhdVBSV1HSAWZBVV95cUxQR3dZVkd6SzBvNWU4NC0xaS1uYjJqbjM1aGxWemxaZE5Mb2RtdUNrMWxabkljNWxDVDI2Q0hpakNNN2ZkTENEX3NBcHZZLWVMMmdfSnhXT0phYVpvZV8ySnVrUEJQY0E?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "수능을 나흘 앞두고 AI를 이용한 부정행위 우려가 커지면서 청와대가 직접 대책 마련에 나섰다. 청와대는 AI 부정행위 대책회의를 열고 구체적인 방지 방안을 논의 중인 것으로 전해졌다. AI 커닝 우려는 수능에 그치지 않고 회계사 시험 등 각종 국가시험으로도 확산되는 양상이다. 오늘 처음 등장한 키워드다.",
-          "headline": "수능 앞 AI 커닝 비상, 청와대 대책 나서"
+          "description": "수능을 나흘 앞두고 AI를 활용한 부정행위 가능성에 비상이 걸렸다. 카메라·AI·스마트워치 등을 결합한 첨단 커닝 수법이 부상하면서, 55만 응시생을 감독하는 현장에서 안경은 물론 귓속까지 확인해야 하는 상황이 됐다. 시험 감독 방식에 대한 논의가 급박하게 이어지고 있다.",
+          "headline": "수능 나흘 앞두고 AI 부정행위 비상"
         },
         {
           "rank": 3,
+          "word": "시진핑",
+          "count": 2,
+          "articles": [
+            {
+              "title": "“트럼프, 시진핑 회담서 젠슨 황 ‘스파이 연루 의혹’ 거론 안 할 듯”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDgxd1hwUEhBRnhwdDFuRE85Yk1uYlN0a0w5OVl4eGVXR1MzVEVSUmExRER3NGlQT1FrbmtMRHhjOFFSY21tNUY2TFY3MkdjTTFCZnhnVTFKUE0yQTVGT1hfSHM5S24yeGttdDdkcThqd0ZhODNBdHFtOGVqd1NXTzlR?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "트럼프 ‘성과’, 푸틴 ‘위상’, 시진핑 ‘부담’…3국의 난감한 동상이몽",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYVWs2NmNONUFybXFVVVA5UmZGOUdBN3JDdjE2cEdfQUp6VlplYUgtYjNvY0UzcnAzS0NjRUdjNlBKNG9iZ0J0M1F4ZV9LZ0tsMnlYajZQSnNBZjQ?oc=5",
+              "source": "에너지경제신문"
+            },
+            {
+              "title": "“트럼프, 시진핑에 ‘젠슨 황 사태’ 거론 안할듯”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Db2REeUpJdGNaZEQ3UTEyZ29ydUI0VlpJVDdNcVJBSXZPS1h0ZW9fb0J0UWxMb2NXVkZ5aXZZU3huc192UmdDNUNGWlYwMEpXY1k3MWRzUC1XWHRpUThseW5vcEo5TjdTdVpGclJWZjBYbTDSAWZBVV95cUxONzdqbklScHhpcDkyUzR5OHY1cmRVU2pCZElLVTREeW1OTGVTWmR4UkR0QTVBVTZKdDdrZHd5SHAzMXVIVmRIVW1MbFRTa1hCUnBiZmZCb0l4cWNWUkVLem1jZkkxMXc?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "트럼프 대통령이 시진핑 주석과의 회담에서 젠슨 황 엔비디아 CEO의 중국 스파이 연루 의혹을 거론하지 않을 것이라는 전망이 나왔다. 미·중·러 3국 정상 간 회동을 둘러싸고 트럼프는 외교적 성과를, 푸틴은 위상 제고를, 시진핑은 부담을 안은 채 각자 다른 셈법으로 움직이고 있다는 분석도 제기됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프-시진핑 회담, 젠슨 황 의혹 거론 안 할 듯"
+        },
+        {
+          "rank": 4,
           "word": "회담",
           "count": 2,
           "articles": [
             {
-              "title": "러시아도 \"19일 미중러 정상회담 개최\" 확인",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hN2laVlVQYzZWYklXZVlPM2Q3RHdYQXk0VEItZWtmUHRLNE1Hd2FweVYwT01SUEhUSFZXVVZ3UUZYWW9wVG0yalh0ZlpFNWVlamNpX0lDNkpENGdxellZblZ2OGVfb0hKbjE2emtXdElYNVg10gF0QVVfeXFMTVhWdUFJZ1lkWXZLdTlnU2JFc3RyYzczUlhhZlNwMVc1RmhtZ1lWN05jSFJDSGtSWWRmX0sxRWRCby00cmJIVHVaRVZzbkM3Z2ZaZS1tWU5oa3hYQXY1bTZrWXpHeHVrR29ydXFtWi11SlpaRG0?oc=5",
-              "source": "MBC 뉴스"
+              "title": "시진핑은 핵 군축 소극적…미·중·러 정상회담 ‘외화내빈’ 우려",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblpYb3lFRjRCZzF6R19QWEV0WndUcU9rclVEMTk2MTUwRENkNnpkYlVlV18tVk5fY1p3eEFTMkV0S0lvYnVaSVd6UWw0YWQtVTZZVV9DQTd2ZDBxSjZJQ05oQ3J6blNQeG9GWWZvNEZ4QkJZNXJUcFRUZGEzN25sMWR3?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "李대통령 '다자외교 슈퍼위크'…미중러 회담 등 메가이벤트 촉각",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjRVZxcTdUV0VtZ195OGdJZFg1NEJiLS1MSmQzcF9vVnFWRVhZbU1wdkotTlB3dTBFQlhwWE1BbnFmZnBlREtSajNjNS1iMk85aTA2M091QzJETlnSAWBBVV95cUxQQ0Rjc2ZwU0IzQkwzUUREblhWZFVpU3piNURFb2xoczBrRUZtd21QeTlTdmhrai1sRk1sMkFDT210bUtSWnlwNTVJV0NVRG9fdU4zZFQzb082ZHJVd3YxVDg?oc=5",
-              "source": "연합뉴스"
+              "title": "韓, 中에 \"미중러 정상회담, 제2의 얄타회담 돼선 안 돼\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3VpV2V2dERFUmJ6VDZzS3YxODljbXpPVkFWNklmMnhrOEhuS0ZiMFNVOUpuV1RkS2pMemlOcG9fTU96RHZWNVpWakJzUDdTdEpncmZhdnJqQzFtWFpPZ2xIeGcyS2kxcTRnV1F5Yy1NdUlGV3ctcUQzbllQQjJvQjNYR2RURDBlbGhpWUNsd19fUnJxXzhfZFZDb193UQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "靑 \"선전 APEC 계기 한중 정상회담, 中과 세부사항 조율 중\"",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ta1gwTFZwSTd3UWtNM0l3c3IxX2xNaUhwZGhBXzJIZzlRN0hVSV9wZ3ZXQ0xxTElsMVJQbkZFOGNuSEIzNzd4Q1pRekh5amlxT3hNbTZIbTV3UzBs?oc=5",
-              "source": "뉴스핌"
+              "title": "李, 아세안·APEC ‘외교 수퍼위크’…트럼프·시진핑과 회담 가능성",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBVHpCWEx0ZUkteExxMnlQYXNZaTVhV0tpekg4d2N4UUliMGNJcGt0emVyN1h5eE1HM29TcFFNYm4zWmxTdFVSS2dXMzM1WlY2TE9BcTdB?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "러시아가 오는 19일 미·중·러 정상회담 개최를 공식 확인하면서 외교가의 이목이 집중되고 있다. 선전 APEC을 계기로 한·중 정상회담도 세부 조율 중인 것으로 알려졌으며, 이 대통령의 '다자외교 슈퍼위크'가 본격화하는 모양새다. 미·중·러 3국 수장이 한자리에 모이는 것은 이례적인 일로, 국제 정세에 미칠 파장에 촉각이 쏠린다. 오늘 처음 등장한 키워드다.",
-          "headline": "미·중·러 정상회담, 19일 개최 확인"
-        },
-        {
-          "rank": 4,
-          "word": "갈등",
-          "count": 2,
-          "articles": [
-            {
-              "title": "윤상현 \"갈라진 보수로는 이길 수 없어‥당내갈등 방치 안 돼\"",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tUmRmUTg2S3czN1Zld3NQaHZRYTkyYlhnVVpjWVVHd3A3VWRnYUY1Zm94SW5UTl9KVmc4LWwzRzUzS3ZmeDRLd2lBWWJaVmVLRFBFeFRFOEEyM2NYNFhnczlzbjV2Wk1uVEctWHRIR2gzWDVtc1JZStIBeEFVX3lxTE5OdHBpNW9fZXRNVkIxUERwS1V2WVZJbWdmZ29iZEZXNlFXZElEVm5HNmsxdDRuUnpCbFhiQ3oxclRUQzZUR25rVEJ6eGMxU0RSenBGZ1g0RlRiSTJDS2s0dU5aczlEWjQtSm90elJ5WXI4czlfak8wWQ?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "윤상현 \"당내 갈등 더는 방치 안 돼…장동혁, 보수 대통합 앞장서야\"",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdU1wZW84b3Nob3R4VGtMM0lrVTFnemlkX0tYYVlhUWhuYWVpRlVOQ3FkVUozNTdIUmg0cGtZZGp1cUk4bE9JN21KTU9XQWljTENrWGtNTk5QbGltRlRqUmhlLVNwRTIwcVJHdE1CbkY2RWpxM0tEeGNUZjlFLTN4cg?oc=5",
-              "source": "이데일리"
-            },
-            {
-              "title": "윤상현 “용혜인 지명, 청년에 치명적 모독…갈등 해소 명분 무너져”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VaUV6UXAxRTltVDNMVVlzNC1VMWVLZmVxaTlWeE5uTnhiaFlIbzdCYlRtWG03eEJfZUJMTWdUTHk0VWRmdy1DS2VMMVNCc01ZSmgwNTBn?oc=5",
-              "source": "헤럴드경제"
-            }
-          ],
-          "description": "국민의힘 윤상현 의원이 당내 갈등을 더는 방치해선 안 된다며 보수 대통합을 촉구하고 나섰다. 윤 의원은 갈라진 보수로는 선거에서 이길 수 없다고 경고하면서 장동혁 의원이 대통합에 앞장서야 한다고 주문했다. 아울러 용혜인 의원 지명을 청년에 대한 치명적 모독이라고 비판하며 갈등 해소 명분도 무너졌다고 주장했다. 오늘 처음 등장한 키워드다.",
-          "headline": "윤상현 \"당내 갈등 더는 방치 안 돼\""
+          "description": "미·중·러 정상회담을 앞두고 한국 정부가 중국 측에 '제2의 얄타회담이 돼선 안 된다'는 우려를 직접 전달했다. 시진핑의 핵 군축 소극적 태도로 회담이 겉만 화려한 '외화내빈'에 그칠 수 있다는 지적도 나온다. 이재명 대통령은 아세안·APEC '외교 수퍼위크'에서 트럼프·시진핑과의 회담 가능성도 열어두고 있다.",
+          "headline": "미·중·러 정상회담, 제2 얄타 우려 고조"
         },
         {
           "rank": 5,
-          "word": "워치",
+          "word": "젠슨 황",
           "count": 2,
           "articles": [
             {
-              "title": "갤럭시워치7·울트라 사용자 희소식, 배터리 문제 해결한 원UI 9 워치 베타6 배포",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vdExwam80TUEwTDZLWm9wek9qLWtINkM3UTZDc1hmZldqbW5uMGcwNmp2VkRXYTZ1SVkxWDZWeU1IeVZLcG9qUjdINGZaZWRtbTVQLTVDeUl5NzBIcTZZODNoQ2Y?oc=5",
-              "source": "베타뉴스"
+              "title": "“트럼프, 시진핑과 회담서 ’젠슨황 불륜’ 거론 안할듯“",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ea2V3UUlpdG9aUVA3cnF6LXJSeDVlR296bnRIS1dTYTlTblFoSnJaU2lPbWI5MHRLbFNmNHBmazZTLVRwSDFMV1Y1eHI4dUtPYkhuMjZoSE1KQllpOUU1TVFOb2dTOXc?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "갤럭시 워치8, 원 UI 9 워치 안정 버전 배포…베타 쓰면 160MB, 아니면 2GB",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMbnNQdlA0bDVWY213ZEVyY2IxRkpORWItVmhrSlZwQXFNTjdWcGlCRUw5RGxRcThBeXpqTWdjYkhwckxjbDNYUEFjZ29YdTk4OGZHMmRR?oc=5",
-              "source": "위키트리"
+              "title": "\"'젠슨황 스캔들'로 궁지 몰린 러트닉, 트럼프 亞순방 동행\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdjNYZ3Foekt3U0lXV0J2blpmTUFnTEJYNU91al9kSTlzdkFMTWFxZFlXMVN2NmNQQnJFVkVRa051UWF3b29kc2xwS09BcXA2VF9ZSEN3R3k3Y2vSAWBBVV95cUxQVldjTklMaW5faGxNbE16d2N5eVhTdHdnVUpOcmlicVlqYk9EeXNIRUxaQ0RpZ1k0Z2ZxYURHenFkVmd1cHVLekV0b2dNWTZETGVPem1SaWZYODRCWC02MTE?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "삼성, 갤럭시 워치도 ‘5년 업데이트’… 건강 데이터 생태계 장기전 나선다",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IZWlMbE13X21lWHktNTdRNnY4bzlpV2ozZXdXX0dZRGREQVE4WHUzWkZzV0xxOXFnSHVzZ09xd3FRVzJGbUJ0Y1JFMmpoZWJ1a0dZX0hKTHB4V0JjUlktYUdiZTNrTkJobDJIRDU4bGPSAXRBVV95cUxOaFJZV2RJNTdNMlVic21uNzRma0JJNUZOVWVoRGx6dGhXNXZWemNzVUhBbmtKWklscWRQUVhqbGpxa0VMRWFobkR3X3pOVlFqUHptREM4Qml1WjExeW9rSjBEblpheDJmd3djMGxuOXFDbTJiUA?oc=5",
-              "source": "IT조선"
+              "title": "젠슨 황: 트럼프 'FBI, 젠슨 황과 중국 스파이 의혹 여성의 불륜 수사 중'",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsaUF3ckgwODRaQklETmRETVVHZkhmbUlUMzNHQTlrc0lLSklxbG9Va2dfc3A0MGRhV3lsdXhJUzRtMHE1TlhfS1pYWnZCYmdKOU5SNnVmckRDZTQ0UUHSAWNBVV95cUxPeVZMQU1VZi0td21YSE5TZ2d6Zlc5VWF4MFN5R3IwUW1VNkxfQ1dLc2J2M2ltVEQyNVJCZUxkU2E2X0lQZ1c3Z0c5WjRZczRJQXhsbTgxRkJqTUR0eHppS0I4aFU?oc=5",
+              "source": "BBC"
             }
           ],
-          "description": "삼성이 갤럭시 워치에 대해 5년 장기 업데이트 지원 방침을 밝히며 건강 데이터 생태계 구축에 본격 나섰다. 갤럭시 워치8에는 원 UI 9 워치 안정 버전이 배포됐고, 갤럭시 워치7·울트라 사용자를 위한 배터리 문제 해결 베타 업데이트도 함께 풀렸다. 소프트웨어 장기 지원을 통해 웨어러블 시장에서의 경쟁력을 높이려는 전략으로 풀이된다. 오늘 처음 등장한 키워드다.",
-          "headline": "삼성 갤럭시 워치, 5년 업데이트 선언"
+          "description": "FBI가 엔비디아 창업자 젠슨 황과 중국 스파이 의혹 여성 사이의 불륜을 수사 중이라는 보도가 나오면서 파장이 커지고 있다. 이 스캔들로 궁지에 몰린 하워드 러트닉 상무장관은 트럼프 대통령의 아시아 순방에 동행한 것으로 알려졌다. 트럼프가 시진핑과의 회담에서 이 사안을 직접 거론하지는 않을 것이라는 전망도 함께 제기됐다.",
+          "headline": "젠슨 황, FBI 불륜·스파이 의혹 수사 중"
         }
       ]
     },
     "경제": {
-      "summary": "트럼프가 엔비디아 수출규제 완화 전 주식을 대량 매입했다는 의혹이 제기됐으며, 국내 대학 31곳 해킹 피해도 발생했다.",
+      "summary": "젠슨 황 스캔들 속 엔비디아 매수 열풍 · 반도체 호황으로 ICT 수출 사상 최고 · 삼성 AI 안경 출시",
       "keywords": [
         {
           "rank": 1,
+          "word": "엔비디아",
+          "count": 4,
+          "articles": [
+            {
+              "title": "젠슨 황 스캔들에도 엔비디아 4800억원 ‘폭풍 매수’한 서학개미...베팅 성공할까",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHdLbGQwNThkSlJnTUhqcHo4RUFzYlNsN25leENySHR3Q0d1SWZXWm5zZTJPRVNob3V2dDRLYTlXUTlGc3NSQUY5enF6SHhoY3drcWdXX3RDVDg4cG1LLWR5X0R2QldEZHNEazZhQkJDSkxFYjlXRUQyd0VQYm81Mw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "美재무 \"엔비디아 차기 CEO 외부 영입해야…대대적 쇄신 필요\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGWnZ3RjMyUThtT0Jsbk1PVENpck1ONVc2S3F2RkpwejFpRjBjcTJFZ1lfb2NtNlRJWDBqaDY5RUFET2pIVHNMc1ZnMlBCb3R3N3FuOUI3YmdjZHdQTmhkVDc3QjF3UnNqSzNSMXB5a28?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "젠슨 황 없는 엔비디아 실적·앤트로픽 IPO…코스피 6000 재탈환? - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTzJpSVFzamJtWGhLQzhnZ2c2U1gycy1yU0RBRUNXNFo0Vl9STXZpUUZBTzFSb3NOLXZpODFQa2c1c0VRQXh1WjRQcmo3cE5yU0tNN1cxbXZqbUVSR25qc05kVVNqTTdt0gFuQVVfeXFMT1RFY0lVMEwwa0dsQzh3aTVhaThabUMwYWdUSUttTjk0VjU2SW0xa2pGN3dtTkZVa0o3LXBPUWJDUkl4WjVJMTFOTjdzQTY3OVFiV3c5dUpneVNKTTZuSG5FM0F2NXJoRlJHdWUxNUE?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "젠슨 황 CEO를 둘러싼 스캔들이 불거진 가운데 서학개미(국내 해외주식 투자자)들이 엔비디아 주식을 4800억 원 규모로 대거 매수하며 시장의 주목을 받고 있다. 미국 재무부는 엔비디아 차기 CEO를 외부에서 영입해야 한다며 대대적인 쇄신을 촉구했고, 젠슨 황 없이도 엔비디아가 실적을 유지할 수 있을지에 대한 논쟁도 뜨겁다. 어제 4위에서 오늘 1위로 급등하며 단숨에 최대 화제 키워드로 올라섰다.",
+          "headline": "젠슨 황 스캔들 속 엔비디아, 서학개미 4800억 폭풍 매수"
+        },
+        {
+          "rank": 2,
           "word": "수출",
           "count": 4,
           "articles": [
             {
-              "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42ODNiUURLTWJfSUM1Mmt1Y28tM0ZtZ0tBY3hfd0k2a1NERkJMS2dlS09OX2twWW9ZTC1sYUdiUjJoTGc1YWttVS1nMm9LU0lqT3cxejRVSVFyWWdoeVlWc2dDWEx0TV9YOHRV0gFwQVVfeXFMTjBOeHF2VWJjOVJjRGRpemZac0lQcFktZnZ3Yzg4bjNxVW1DWnJIUG5EZXhPREdNX3IzNDhVa1VsOEppYnRZZUpJSEM4RlZBcnhOSlNPWWdNOTNGR2RhNDFYYk14ay1jRDJhUVd0NXFkVQ?oc=5",
+              "title": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90aF9iR3lvVjBiQjRPa2tMMEREV3FpNjJZZGJJOEFuN2ItR3ZaNHVhQXhjTWRiNGtIYzVwajV1UXg0VTRDUWhZYXdMSlI2alhrcjI4Yk0xTzJ2ODdtVzhpMWIwbnJrMWIyck1J0gFwQVVfeXFMT0ZqbEIyOGxTdjI5SHN3ck9zU1A4aWJUaENqSmZNTklDMlNOVDZWWU1ONlI5dGhCNUZqUElpT19pLXp2Tl9VeUtmQlFOQ2p6VTdISWNIV1Ztd1dLcnpZSVV3RlViNkcyS3pPdWx4NkNoTQ?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "트럼프, AI칩 中 수출규제 풀기 직전 엔비디아 ‘풀매수’",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HZDhfM015VjBGS2t2Q3ZfLXRNMFNWbWNYVmVnT1JRamZ1QkVxMkFSQ3BVa0FnbTRPUm8yNzNveDFyblFvaDFWcjlfTVZWb21DSnhNVWRGa0I3Nnd4MlZxbkU2cmFVSURPOHhwRl9NUGxsYU3SAWZBVV95cUxOODJJaVRFd1hfSVdNRFhGYjdPMUxtS2t6QUVzWURXWVM0YWZwSnA0MXZ3bUxnQXUyNDRfbms1VU1naFNxVF9oMm5fN214MURncEFFUkdwYm1nbGo4N3NKNERsWHVaNVE?oc=5",
-              "source": "동아일보"
+              "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YOUc4djVZTXhaWnRUdnVaNzhzOWljYWdkN2ptRl8zdTBrV3VYZnhfbEhZZGZ1ZFdtNGI5YTlUZk5zR3JZWEJNVnBIT01janVmamc?oc=5",
+              "source": "매일경제 마켓"
             },
             {
-              "title": "\"트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeUhFV0JzUVZNNkIxNFFDQVkwQnktZEE5OTJudWVfeHlGb0tCaUVRbjFiODhyVm5Ma1dYWl9McDFrSFJIOUNGczBqVV8zeDZ4cFl3Znd0eHRsNDjSAWBBVV95cUxNMHhWOHJpVXdSRmhyNmhsRkwtX0EzcGlrNDlEQm8wVm9JaFhDYWVsX1RfY1lRRC1ZU0VPeVRXZzZ0NFVZYTlqYkhURDVsVUhfdEMwdzR1SWM0ZXlJYm0xbUU?oc=5",
-              "source": "연합뉴스"
+              "title": "NYT \"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ05tYW1lYWQybW9EdzJOX1MyOXAwZjVhOWU1S252MFQyMmNrTWRNNUpTT2lWN1psTW9DTExjaUZoMnoxS2pjbFRXeE5WX0lzeENQQ081U1JuWlRScWhTeWdTYzlGV0Q0QVRyUS01dG9vZVRIUTFVTDdIMVVLOF9GdFgwc0xTRUE0SEUwUnJZbw?oc=5",
+              "source": "news.sbs.co.kr"
             }
           ],
-          "description": "트럼프 전 대통령이 AI 반도체 수출통제를 풀기 직전 엔비디아 주식을 대량 매입한 것으로 알려져 논란이 일고 있다. 규제 완화로 직접 이익을 볼 수 있는 종목을 사전에 매수했다는 점에서 이해충돌 의혹이 제기된다. 한편 한국 수출의 역사를 조명하는 기사도 화제로, 오징어를 수출하던 나라에서 반도체 중심국으로 성장해 수출 1조 달러를 달성한 과정이 재조명되고 있다.",
-          "headline": "트럼프, 엔비디아 주식 매입 후 AI칩 수출규제 완화"
-        },
-        {
-          "rank": 2,
-          "word": "젠슨",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"젠슨 황 돌아와라\" 머스크 등 11만명 청원",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmxtNXY5bUhHN09kZGtpOUUtcjJYM1pvejdBaTIyTWRxYmoxT3N6RW1MVmwtaXNjNVhPY2tTSjh3UkxTMld3MTlieEhCUzJzbmU3SlZ3NVJuUUw4VXhjNVdyTXI5Z2lSOS1laUl0Tmg1aHYzM3RrWG52MUU4WG1ScFl4NA?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "젠슨 황, 한달 전 거짓해명…“앨리스 황과 일반적 비즈니스 관계”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS19IS2wwRVkyNElXejl5TmdNc0w2eVNfS29CbGdjYWRrQUt0N1RsZVRZTW92OGRPZU5jUTNQajhMZF9pTG1FTWdXbGIyc2xTNDU2RWs1QjNQWGk3b09lM0h6N2lZellpc1ZYeWZzQlZoNXFEbXpCUjBJZXJXWUxZcGdR?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "젠슨 황 사임이 불 붙인 차등의결권 논쟁…‘이사회 견제’와 ‘경영권 보호’ 사이",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40UlFnc2VndXlLaWlnSmx0Z0h3NVVOSEtrQU5xcmxsWGxlUkx5OG5UOUxsNkRRUm55VDlIX0EzVkhkamg2WE9PZHRMenRvWWxIaDdFX04tSHlhd9IBX0FVX3lxTE9QVTlJVjlmT1BDMk1NeDVPLWt6NnFlczc2YUdfbG9UN2lfR3FGLXpwcXBaNm9uYlQ4R1VqdHRHX2ZwTzB0YVFoM3ctVTZPcTFkNkpaakRvZmRpa2N3QWM4?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "젠슨 황 엔비디아 CEO의 사임 논란이 커지면서 일론 머스크 등 11만 명이 복귀를 요구하는 청원에 서명했다. 젠슨 황은 한 달 전 앨리스 황과의 관계를 '일반적 비즈니스 관계'라고 해명했으나 거짓으로 드러났다는 보도가 나왔다. 이번 사임 사태는 차등의결권 제도를 둘러싼 논쟁에도 불을 붙여, 이사회의 경영진 견제 기능과 창업자 경영권 보호 사이의 갈등이 부각되고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "젠슨 황 복귀 요구 청원 11만 명 돌파"
+          "description": "이번 주 한국의 누적 수출액이 사상 처음으로 1조 달러를 돌파할 것으로 예고됐다. 수출 규모 세계 5위, 무역흑자 세계 2위라는 성과가 맞물리며 역대 최대 기록이 가시권에 들어온 상황이다. 한편 미국 측에서는 반도체 수출 규제 완화 움직임도 감지되는 등, 수출을 둘러싼 대외 변수도 동시에 주목받고 있다.",
+          "headline": "한국 수출 1조 달러 시대 이번 주 개막"
         },
         {
           "rank": 3,
-          "word": "해킹",
-          "count": 3,
-          "articles": [
-            {
-              "title": "인제대·경일대 해킹한 해커, 해킹 포럼에 “한국 대학 31곳 데이터 탈취·공개” 주장…수능 앞두고 대학 보안 비상",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hNmNyX3BWZm44UkhtOGtXWThYZFhRaDZGWTJzSllLWHBEYnJ6VHBXaEdGa1k4MWVhTFBtQURvVk9Od2QwT3g2WnJsTVVFTmtCSV9fSlNaTHlPNmg3SEFzd0N6LXR3dHl5N19QYw?oc=5",
-              "source": "데일리시큐"
-            },
-            {
-              "title": "협업 도구 ‘두레이’ 해킹... API 서비스 차단",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wMHBwRXVlQ2Zjd3pSQWQyYnQ5T0MwZklJc3NaOWhIUUM0MVVQT055LUgtUGpQQ1R4WFV6NlFtLWUtNXpXT2FFLTc5RWJaVlhaRXpWSFI1cTBaeXR0Vm53ckNlaDB2N0o2d3Q4?oc=5",
-              "source": "보안뉴스"
-            },
-            {
-              "title": "“한국 IP 대역 유망” 北 해킹조직 라자루스, 국내 서버 30곳 노렸다",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94bTZsdmJuZE9sMGZ4bkhkWmhnbW1oZ1JvRGQ2b05CLVdORTZwU1UwSlY2a1RsaFdqR0pVdzU4VVVXeXhoV2c1M2RsS1BLRkdiSVluNkNIdXBiOWdUU05aNzc1QWFST3J6X2Q5MElQQdIBZkFVX3lxTE1yRHNLNzNZN0VuTVFHc1JVRFNKNzhRYTljOGZ3UWVWRzdSSGRxVUFRdmxLYS1Ta1RaQ25KRzFiYzNqOUNVOWg4d0QxYjBwVG9iS252MUttT0lGdzI0ejhWU1ppR3Fndw?oc=5",
-              "source": "동아일보"
-            }
-          ],
-          "description": "인제대·경일대를 해킹한 해커가 한국 대학 31곳의 데이터를 탈취·공개했다고 주장해 수능을 앞둔 대학가에 보안 비상이 걸렸다. 협업 도구 '두레이'도 해킹 피해를 입어 API 서비스가 차단됐다. 북한 해킹 조직 라자루스는 '한국 IP 대역이 유망하다'며 국내 서버 30곳을 표적으로 삼은 것으로 알려져, 공공·기업·교육 기관을 망라한 사이버 위협이 동시다발적으로 불거지고 있다.",
-          "headline": "한국 대학 31곳 데이터 탈취·北 라자루스 서버 30곳 공격"
-        },
-        {
-          "rank": 4,
-          "word": "엔비디아",
-          "count": 3,
-          "articles": [
-            {
-              "title": "“트럼프, AI 반도체 수출통제 풀기 전 엔비디아 주식 대량 매입”",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uOWd2QWhpdzFHdHlhdW4tU2NYbGhBbkplZW9BQ2pqRjlYMjZVdzZUaFZGb0k0RWZERzkzSDRIaDZKT2h5YVMwTmVxai1rNkZEWGlzZVZEbDbSAVRBVV95cUxORUdGcy13SlhYOFVCMjVOVTBIeHJzVzlNeFVYdDZMalljWVdOYjlzQlRDRFNtQjdlWGFDYjl2Y3oxMVN1RUVvMXVYV2kyeEJMQjhvd3A?oc=5",
-              "source": "세계일보"
-            },
-            {
-              "title": "\"트럼프, 엔비디아 수출 규제 완화하며 엔비디아 주식 매입\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NMUdiTDFkOHFuVnA4bDVzX3BsUkIyM29rZTRadl9DTy11a00taWFUTm1xODRqWlFJV1JhTkJmWEJtV0s3X3JLeFRIakMtQmp0dEVkTUQ3ZGtuWElfS0E0ZFItUkQwd21INXV1Zzd4N2Q?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "엔비디아 투자자, 젠슨황 복귀 요구 서한…온라인 청원도 11만명 참여",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tRFprcGcyeFMxWjRyaHBSZGFzTGQycE1PcG1TcTF6dUZVQ2Y4VnBqMlZHTXpuS0JnLUV0YjVmb1RVb244eFhud2xfVUk3Y0RTX1FZWGw2eklURjBrREtmd3g1enEwZG8?oc=5",
-              "source": "연합뉴스TV"
-            }
-          ],
-          "description": "트럼프 전 대통령이 엔비디아 AI 반도체 수출규제를 완화하기 직전 엔비디아 주식을 대량 매입했다는 보도가 나와 이해충돌 논란이 거세다. 규제 완화 발표로 엔비디아 주가가 직접적 수혜를 받는 상황에서 사전 매수 사실이 드러난 것이어서 파장이 크다. 한편 젠슨 황 CEO의 사임 사태와 관련해 투자자들이 복귀를 요구하는 서한을 보내고 11만 명이 온라인 청원에 참여하는 등 경영 불확실성에 대한 우려도 동시에 커지고 있다.",
-          "headline": "트럼프, 엔비디아 규제 완화 전 주식 대량 매입 의혹"
-        },
-        {
-          "rank": 5,
-          "word": "코스피",
-          "count": 2,
-          "articles": [
-            {
-              "title": "코스피, 한 주간 상승...\"엔비디아 실적 발표 관건\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51UnFPbDVqaXVyVUYzeE9xUlJOOGJ0RzFiQTAwNG9EM0I4bWdPODVKcDhSQWZiNl9yaUFmNGRGNkxabEU2UzNtX3M3X29xT3FqdGVPb29UU29zMUtrcUE?oc=5",
-              "source": "YTN"
-            },
-            {
-              "title": "1400조 벌고도 폭락…개미들 울린 코스피의 '씁쓸한 이면' [분석+]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaEdENGUtTmhKR2tOTlZYbXRXelVSenRHS21oVE81QXpNQ2gwT09ocmhPTkFhSVdMUk5qRFJ3WHVSay0tY2wzSGo5X0Rya3FwZURMcmpIRXRkZw?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "코스피는 5,500에서 밀리고 코스닥은 한 주 8.6% 반등…지금 바닥을 말해도 될까요?",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnlNMTVMWU1VQnhyT2NjMUtfWE5WVTlXNVhmWEQzdjFadHlFUHdJeklwOWI2LXJkaDZtWUN2aDVkZ3dvTG1hZkNzM2ttblY2QnZ1Rm8wSGhmWXF2TENPRGVzZXR5aWEzRGJUUHhRb2NiRFFVeU1XRERJMFJhTVhpeUJBZFNXY3FXLU9tVHlvZUNDMlEy?oc=5",
-              "source": "네이버 프리미엄콘텐츠"
-            }
-          ],
-          "description": "코스피가 한 주간 상승세를 보인 가운데 코스닥은 8.6% 반등하며 바닥 논쟁이 다시 불붙었다. 그러나 기업들이 대규모 이익을 거뒀음에도 지수가 오르지 못하는 '수익·주가 괴리' 현상에 개인 투자자들의 불만이 이어지고 있다. 시장에서는 엔비디아 실적 발표를 다음 방향을 가를 핵심 변수로 주목하고 있으며, 코스피 5,500선 돌파 여부에도 관심이 쏠린다.",
-          "headline": "코스피, 한 주간 상승…엔비디아 실적이 변수"
-        }
-      ]
-    },
-    "연예": {
-      "summary": "300억 대작 '문무' 첫방 4.7% 기록 · 박슬기 셋째 임신 발표 · 김수현 광고주에 11.6억 반환 판결",
-      "keywords": [
-        {
-          "rank": 1,
-          "word": "문무",
-          "count": 1,
-          "articles": [
-            {
-              "title": "300억 대작 ‘문무’, 첫방 시청률 4.7%… ‘고려거란전쟁’ 못 넘었다",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHJaeFEyejQ5Ykg1Sm1QeDd1Ql9HOS05OGNpandaTGVONlVmeVpYWDEzNEVHb2hoM1JLQmF0d0luZi16bTU0bmdXMDJvWjh5NXUyNXoxeU8tM19FU2JHRTNMVjVjUUZhTW5NOW9SN1RIdGtJdE9CV21aQ2owcFVaeg?oc=5",
-              "source": "이데일리"
-            },
-            {
-              "title": "‘문무’ 이현욱, 코피 투혼 “소시오패스 역할 자주 했다” (전현무계획4)",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSldycnVmZFFHcG92U1N4WmZDbDZiOE03TFlKQmwzRDBCa2c5Z2w3d2dGakNERnFtaGhtUGwyLWJDaEZYVnlfQUJncVd4QUJkNzVEUHVPRUtzX3BDTUc3eg?oc=5",
-              "source": "iMBC 연예"
-            },
-            {
-              "title": "삼국 갈등 속 격변의 서막…KBS 대하드라마 '문무' 4.7% 출발",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rbkl3ZnhiMUtxS1dsQ09Td1g0eUtNR1I0REt4b2QzZXpXTVNkc3paNXBTZG9LeFVXVEM5bHVwelNlVl91Y3FYVWZRaXU1UnQ3bWtBcVk2QnhYdDItOHh1MtIBYEFVX3lxTE1rbkl3ZnhiMUtxS1dsQ09Td1g0eUtNR1I0REt4b2QzZXpXTVNkc3paNXBTZG9LeFVXVEM5bHVwelNlVl91Y3FYVWZRaXU1UnQ3bWtBcVk2QnhYdDItOHh1Mg?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "KBS 300억 대작 대하드라마 '문무'가 첫 방송에서 시청률 4.7%를 기록하며 출발했다. 삼국 갈등과 격변을 그린 작품으로 기대를 모았지만, 같은 채널의 전작 '고려거란전쟁'의 첫방 시청률은 넘지 못했다는 평가가 나왔다. 출연 배우 이현욱은 예능 프로그램 '전현무계획4'에서 코피 투혼 비하인드와 소시오패스 역할 소화 경험을 털어놓아 화제를 더했다. 오늘 처음 등장한 키워드다.",
-          "headline": "KBS 대하드라마 '문무', 첫방 4.7% 출발"
-        },
-        {
-          "rank": 2,
-          "word": "박슬기",
-          "count": 1,
-          "articles": [
-            {
-              "title": "방송인 박슬기, 셋째 임신 깜짝 발표…초음파 사진 공개",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSQzNzcVo5ZGJCazlsVXBIU29QNC1yS0NTRExQZ3lUN2RHT21BdjlEdHdFVmxZZ2F0Tk9LSXpraHd1OU9xTWgyNTZ5OG5Yc2NOSVE?oc=5",
-              "source": "노컷뉴스"
-            },
-            {
-              "title": "박슬기, 셋째 임신 발표 “우리 가족의 마지막 조각”",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hcDkxNDNCcTlvTW1PMXkxWHNka2Mzbll4Rm5YRm95YnhDMGVCRDhtZFpBWEJfY3NNX29FbVdWSGx2ckUwM1RIMnVFVVVWcnNQX3BFTQ?oc=5",
-              "source": "JTBC"
-            },
-            {
-              "title": "박슬기, 셋째 임신 발표 \"우리 가족의 마지막 조각\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMTYxUDJOMjl0R0hNd3BNUkpKWkdFODlJSGRMUGVpZ0tZVXhScnd1MVpub1lhazhFNzZvc3k1cXloS2tJV0RpQlJfTi1YMmlxRmRDNTVlQzVhN3FGTVpZZjA5bXlGMDdka2c1dVQ3c1N3YXfSAXNBVV95cUxQQTE2MVAyTjI5dEdITXdwTVJKSlpHRTg5SUhkTFBlaWdLWVV4UnJ3dTFabm9ZYWs4RTc2b3N5NXF5aEtrSVdEaUJSX04tWDJpcUZkQzU1ZUM1YTdxRk1aWWYwOW15RjA3ZGtnNXVUN3NTd2F3?oc=5",
-              "source": "한국일보"
-            }
-          ],
-          "description": "방송인 박슬기가 셋째 임신 소식을 깜짝 발표하며 화제를 모으고 있다. 초음파 사진을 직접 공개하고 \"우리 가족의 마지막 조각\"이라는 소감을 전해 팬들의 축하가 이어지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "방송인 박슬기, 셋째 임신 깜짝 발표"
-        },
-        {
-          "rank": 3,
-          "word": "김수현",
-          "count": 2,
-          "articles": [
-            {
-              "title": "“이미지 실추로 손해, 모델료 반환해야”···법원, 배우 김수현 측 11억여원 반환 판결",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UXJzaVNicUxtS3REekhRUlhNamxRaENKVlpDaV9WTks1WUZZcVZaaGtCbHl1bUNFNU9HMlVyZTNZNEpOU3k5Tk9IVDJ5MDBQSlBtcWFqOEQ4d9IBX0FVX3lxTE5fUjRHdFN2eFcyOU5WSVh1UzhvSU4weG9YV1hSSWFfLUY0QkJDd1Z1YlJ4ZUtnNndvbloxNTVfSjc4MGZVY0tDNVVpTExtZG4tNUxFTkZoU3czSmMzclNB?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "김수현, 광고주에 11.6억 반환 판결…계약 위반 책임은 불인정",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wejBRbmVoX0ZjdjV0cTRVWm5RZWZReEF0R1hDN05falRlanZGYnFmeUh6VGRfckVRdXptLXg3MlBUd0FfYmtvTTFVWGZGWnJkWnZwR2N3?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "법원 \"김수현, 위약금 책임 없지만 광고 못 쓴 부분 배상해야\"... 모델료 11억 반환 판결",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQODdoS3paSkRyU2drNzdkSGl2ZlRBbVpHV2ljM2lDd2tEVWJGOTJFbjZaSXVtemxOclZiNFZIM1YwLWVfZmhQYXR6V01wMG1vQVMwNV9WUEU3enZvTkhRNWdKemtPSTNwTDRmUWYtSVptQjVMd1VvU0pTVzVXYzEtVUxYMHdydw?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "법원이 배우 김수현에게 광고주에 11억 6천만 원가량의 모델료를 반환하라고 판결했다. 이미지 실추로 광고를 사용하지 못한 부분에 대한 배상 책임을 인정한 것으로, 다만 계약 위반에 따른 위약금 책임은 별도로 인정되지 않았다. 최근 사생활 논란으로 활동이 위축된 김수현에게 법적 부담까지 더해지며 이목이 집중되고 있다.",
-          "headline": "김수현, 광고주에 11.6억 반환 판결"
-        },
-        {
-          "rank": 4,
-          "word": "방탄소년단",
-          "count": 2,
-          "articles": [
-            {
-              "title": "BTS Community Post - 고생했다 얘들아.. - Jin",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uM1N3MWJ0LTJXcFd5VHlMVGhEeHp6aVBIeUlMWTZsUzN2dEd0MXA0aGhtQWJkUGV6dEYxMThGYTQzcTNXRDdXc19RX09sU0dHLTlR?oc=5",
-              "source": "Weverse"
-            },
-            {
-              "title": "1위 방탄소년단 지민, 2위 에이티즈 산, 3위 갓세븐 진영",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsX3FudUl4NWtrLXBtd2plMk9TdWI4UTB6Ql9lYXlFMXBta1Z1X28zc2lySVpHbGRucHpjLXhJTnNwbWd0VHgxX19NMjZfMzdha3ZuNml5amNSdVZES3RhZW1KZFpuMmswWDhqNlQ4bnRqWmIx?oc=5",
-              "source": "스타뉴스"
-            },
-            {
-              "title": "BTS, 美 '2026 키즈 초이스 어워즈' 3관왕",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LV0FPSmV4VHNyY2owc0Y5TGlwTjRSUDJwN0RxVEo2R1VNSl9XalhzdlVWazZjMHd2ZXkxSFBnM0c5MmFnb0YzRjVXMW5QZnY1RzVvYjFFQWZaYjDSAWBBVV95cUxONG4tVzVVRGFIc0hTRDBLSHlWNDZXSE0wTUV0Q3A3VDBuM21IQmwtd2xBZVJQUU5ZeXdmSWVlaGFwdndDY1pFX2xWamFQTTFwbEhHR1VJWS1qMVBfdnNEWFk?oc=5",
-              "source": "연합뉴스"
-            }
-          ],
-          "description": "방탄소년단(BTS)이 미국 '2026 키즈 초이스 어워즈'에서 3관왕을 차지하며 글로벌 존재감을 다시 한번 입증했다. 멤버 진은 공식 커뮤니티에 \"고생했다 얘들아\"라는 메시지를 남겨 팬들의 뭉클함을 자아냈다. 개인 활동 중인 지민은 국내 아이돌 차트에서 1위를 기록하는 등 멤버들의 솔로 행보도 활발하게 이어지고 있다.",
-          "headline": "BTS, '키즈 초이스 어워즈' 3관왕"
-        },
-        {
-          "rank": 5,
-          "word": "닥터X",
-          "count": 2,
-          "articles": [
-            {
-              "title": "전국환 숨겨진 비밀은?…'닥터X' 김우석, 김지원에 \"이번만 실패해 달라\" 눈물 애원",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DdGl4ZkRubW56akhydnBnY2U2TklZMFZFTjQydTRaelVLa3NYb2xIclQ3d3dqdFpoazVXQWJMSGJNcTFnWFg0Uk1obnNhT1pjV3N4QlRvNE5tSWs1Y1ZTUnB3N19fWWgxakE?oc=5",
-              "source": "SBS 뉴스"
-            },
-            {
-              "title": "전국환, 아동 성폭력 과거…김우석 피해자였다 ’충격’ (닥터X)",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvT2RkblBHV004bFY3N2xFZWk5bGpFSU9VYWNlUXhsZlVMdzhHRGhPREdHcy1JRmFpWVYzZVZMdXJ2dG1mXzdNMTM5SThkOG1Hb0JVd3dtTlp3T1RqWmpkOWhWcTBRQTNMLVZ1amx3?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "김우석, ‘닥터X’로 새롭게 쓴 인생캐…연기+매력+화제성 다 잡았다",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XcWZQTTZjT2VjWExPbFN3UlJ3NGJPNzJ5a0xfYkVUdEU3Z1JHd2pnR0xHbEhHNjN2V1Q3dmZ0N0xRN3dqUWRqUXBJLVRNRzloa0w5WWZETERJRlFhWFF1VlFB?oc=5",
-              "source": "미주중앙일보"
-            }
-          ],
-          "description": "드라마 '닥터X'에서 전국환이 아동 성폭력 가해자였다는 충격적인 과거가 드러나며 극의 긴장감이 고조되고 있다. 김우석이 연기하는 인물은 그 피해자였던 것으로 밝혀졌으며, 김지원에게 \"이번만 실패해 달라\"고 눈물로 애원하는 장면이 화제를 모았다. 김우석은 이번 작품을 통해 연기력과 화제성을 동시에 끌어올렸다는 평가를 받고 있다.",
-          "headline": "닥터X, 전국환 아동 성폭력 충격 반전"
-        }
-      ]
-    },
-    "스포츠": {
-      "summary": "야구 APBC 한일 결승전이 오늘 열리며 김도영의 활약이 주목되는 가운데, 여자농구 신한은행이 공동 1위에 올랐다.",
-      "keywords": [
-        {
-          "rank": 1,
           "word": "삼성",
           "count": 4,
           "articles": [
@@ -396,45 +194,295 @@
               "source": "조선일보"
             },
             {
-              "title": "\"삼성전자 69만원\"…목표주가 더 높인 반도체 애널리스트의 근거는?",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1udENLUDAyVDJBQ25UcDVIMmFEMC0wejRlV0EwZy1ET1dERHhHMVZXRmplZlJoQmJEMmlIQjVfNWlSeFpycWJGa0hxdzhNV3FhUktTcmplVDZQQQ?oc=5",
-              "source": "한국경제"
+              "title": "삼성 AI 안경 베일 벗었다…12월 10일 국내 출시·65만원부터",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PcEF6ckROY0c5cHF4QjBpSDF1WWNWMFhxTUN5VFVIbjFPbjlnaVZJTURtd0hhQm91RW1JWC1wOVNBVE1hR2czVVJqdTdla2VRbURCdEFzN1gteUXSAWBBVV95cUxObW9aWXVCNFFhZXRiV1VTQ0dPZjVQUGI0Z1h6VWdKNUhESGJnUDBDcWNfOWdkNXVuQU9MR3Brd2lQUTc3ZEpFZkRzODFKWGFlNjl2cUZ1WWVjRjFtb3NBcTM?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "삼성, 플랙트 이어 모딘까지 눈독…공조사업 M&A로 새 돌파구",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HeGhEX3ptbnZ5ZDNVN2c1QUFxTEVXa185SXpmMU80NlZteXFQR0lXaHJBTWJ2UTBBdW01X3BpS0s5WUk1dTdMODV1VnRsLW1zUmttWlhjeVZ0M09Xa3djMDhmMm9VQ2hONEhDdkc0a0c1LWs?oc=5",
-              "source": "마켓인"
+              "title": "삼성, 반도체 성공 AI 데이터센터로 확장 추진…FT “계열사 통합·수익성 검증 과제”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVV9fVFhoU1ZfMkhXSUd0NWM4LVZSWGlvVWZ5RlREM2FKb1lmeW4tbE1KXzl3TEM1eFVjdlRpMWlxTmQyb3MtQzd4ejBISWhZZVpDTGkzZEQ0RW53bFZreWZsT19sV2E5ek1KMVdn?oc=5",
+              "source": "아시아투데이"
             }
           ],
-          "description": "일부 반도체 애널리스트가 삼성전자 목표주가를 69만원으로 높이며 반등 기대감을 키우고 있다. 국내 빚투 자금의 30%가 삼성전자·SK하이닉스에 집중된 가운데, 개인 투자자들의 관심도 여전히 높다. 한편 삼성은 공조사업 확장을 위해 플랙트에 이어 모딘 인수에도 눈독을 들이며 M&A를 통한 새 돌파구 모색에 나서고 있다. 최근 2주간 꾸준히 상위권을 유지하고 있다.",
-          "headline": "삼성전자, 목표주가 69만원 상향"
+          "description": "삼성전자가 AI 안경 출시 일정을 공식 발표했다. 12월 10일 국내 출시, 시작 가격은 65만 원으로 베일을 벗었다. 반도체에서 쌓은 AI 역량을 데이터센터 사업으로 확장하는 전략도 추진 중이지만, 계열사 통합과 수익성 검증이 과제로 꼽힌다. 한편 국내 빚투(빚을 내 주식 투자) 자금의 30%가 삼성전자와 SK하이닉스에 집중되는 등 개인 투자자들의 관심도 여전히 높다.",
+          "headline": "삼성 AI 안경 12월 10일 출시, 65만원부터"
         },
         {
-          "rank": 2,
-          "word": "한일",
+          "rank": 4,
+          "word": "젠슨 황",
           "count": 3,
           "articles": [
             {
-              "title": "‘야구 한일 결승전’ 오늘 저녁 7시…김도영 방망이, 12연패 끊을까",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjg2TFFFRjhnckt1QnNrSTVIMzZzaUZoM1Y3R1pjRk5WVjFUUzNaN3FuWnJ3NjBpNXNGdUJuNmJRYVlNSWhEclNwcENXT0lWblV6TUUzckpDNEZSOTRpTEZvN29UVmNWNmtyR2xqMzI5cnU2SlNhRk9ZcnQxdnRUVHBR?oc=5",
+              "title": "\"겸손은 연기, 반대하면 폭언\"… 젠슨 황 전기 작가의 폭로",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXJ2SFZfMWo4UFNxS3dVMlN1VTdGcFU4a3VaeXdVeHBQVW5LYXNDcjhQejFEdzVJc0xGckxRVTRkWm5tUkM3RjRBZTZkMnhqRksyeXFfdlF3OFNTYnhlNmFac1I5eFhWV08ybFo5M09vSHFsM2V4ZnFmNVFRcFhxMmtaSQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "“보스 돌려줘” 12만명 젠슨 황 복귀 청원…“타락한 실리콘밸리”",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzNHUHUyOTl2c29DemVQa0pJNmt1amV1bTdIT1NLaWt4UGJrLXNmMmVwUHN1NFBXODNKUWoxMDVCR3lFSUxuZjR6WUR5QncxNGFJYXFoMFpCZjNkcndQNmFCVk1FTF9IZEhTZFFzS3VKS3JJLVltMGFFNjY1MHlHcXNB?oc=5",
               "source": "한겨레"
             },
             {
-              "title": "동점 뒤 갈린 한일축구…일본은 브라질 넘고, 한국은 사우디에 덜미",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCSmd1bk9yNlEwa29fUklKaGJBbUp3VVdZNHQ1cUNDZGlBU2U3c0JqTXh3cUlGNGQ1TmVXOHppcHdYd0RTa2dPcDU2WGJ4ckVnQUxxd2thczRaYTAzd3fSAWNBVV95cUxQUmdlZGI1ZUQ3Z0ZEd01HRk53RWVNcnBFN0N4MW5hckFiNnFWdmNoR0paYUlIa3VlZ3g1OXRxNlFscVR0M0RIR2RTQU5yVnNqOENfOU1BTnJWZHJXT3U2V1pGYTg?oc=5",
+              "title": "“젠슨 황 없는 엔비디아 몰락? 애플·아마존이 이미 증명했다”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PUjA3cmtveDJ6dS0wRHBSY292YTVpVUhPc0FCZlkzb1ZVRFZzellSQTlOdkpIZTRfbUZUdFduQW5CYVZWekpxWE1nTGMyNF9nTWtaNHlR?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "젠슨 황 엔비디아 CEO의 전기 작가가 '겸손은 연기였고, 반대 의견에는 폭언을 일삼았다'고 폭로해 파장이 커지고 있다. 반면 12만 명이 넘는 지지자들이 그의 복귀를 촉구하는 청원에 서명하며 엇갈린 반응을 보이고 있다. '젠슨 황 없이도 애플·아마존이 이미 증명했다'는 반론도 나오는 등, CEO 리더십을 둘러싼 논쟁이 엔비디아 주가 향방과 맞물려 뜨겁게 달아오르고 있다.",
+          "headline": "젠슨 황 전기 작가 '폭언·연기' 폭로"
+        },
+        {
+          "rank": 5,
+          "word": "반도체",
+          "count": 3,
+          "articles": [
+            {
+              "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdjFIZmkyWHlWU1pudGpndE1wRjVoV19wSmxGUGdJWGRPNi11Qnl2MWpWcExhbmxKS1doWmV5eEhILXJnOWI4MWp5TE9oZVFDTHRTSy1B?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "10월 ICT 수출 703억 달러… 반도체 효과로 성장률 사상 최고",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS184Q0MzblNNRG5yUjRqM19XTWlJd0RiazFVQkVBU1B3NE0xZHdUYk8xX01WSFEwSEVYTnU4em5ZNmFhOVRwYURjb1h2RDgxYWlkamYwVTRSb1VVeDM4N0FyZUVWQWw4SVZValpaelZqbl9uVTU0LXRUUTBzNGthd1VR0gGWAUFVX3lxTE1YVlpVX3l2TXdBWFdfbUl0V2ZFZmRReDdhcUpyZ1o5a0hqZ21uMURoOVd2NG85bVdUMk9MLUFDYmFIYWRWaUtNaGtwOEhSMXVveS0wZ2lDekZPRFM2TmRFVTZjM0lsVklWNEhEd2pMRENNX29neHcyLVR0NFlnTFZIcjE2RjFyemVMbjdfdlZOMlB5bWJ1dw?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVUtzU2J5T3dNSGRlRnF4QW9LU2o5Y3ZMamRyWHZYT0p4N3JrSHFWemtyRGFvb1ZjamFpZlRhd1M3UEVDTlRTVXJndFhVYVUtOXJLSS1OWFBHX3Q5c0dVR0twb2NjVk5HbUJR0gFwQVVfeXFMT1FNUWhzcHd0NFFMeUxEMlVhQ2FWclUtTm1TZWVtNV84RmJoeFpmcGVNZ3Rkd1NXU2lDTDBFLVN2cUpuNkJlbnFJM0hlVlktdUU5ZnZ4ZGRXZXV2ZGtXRUJZUXNBS1JwTE1JOEVhdE55SQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "AI 반도체 수요 급증에 힘입어 10월 ICT 수출 증가율이 사상 처음으로 200%를 돌파했다. 10월 ICT 수출액은 703억 달러로, 반도체 효과가 성장률 신기록을 견인했다. 이러한 흐름은 한국이 가발 수출로 버티던 최빈국 시절에서 반도체 강국으로 탈바꿈한 80년 여정의 결실로, 수출 1조 달러 돌파의 핵심 동력으로 꼽힌다.",
+          "headline": "반도체 호황, ICT 수출 증가율 사상 첫 200% 돌파"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "안효섭이 한국 배우 최초로 미국 키즈 초이스 어워즈를 수상했으며, 임영웅 공연 영화가 예매율 1위를 기록했다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "안효섭",
+          "count": 2,
+          "articles": [
+            {
+              "title": "안효섭, 톰 행크스 제쳤다…韓 배우 최초 ‘美 키즈 초이스 어워즈’ 수상",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EZXJhZjAteG5oajRsU09Kd1hHMU1ZNWZsN2hLOFZucFVYSUxBOUVpeS0wSFpMYVl4bmNZWlROTzVXNUJnQjNhdE1SZy12THluODJvSnl6NmIzVDB0RWgwUGRLUXBUV2UxdzJNSklycXhWLTFJV3dPampZeXNaUdIBZkFVX3lxTFBOdzl3c1hwdEE5NVM5X1NtRUV0VWJmR3Rjc09uS1JjSjBGV1FuS29lWnNnZ20zRGVLcy1wS3BRazE0aDV4Q09hMG5DRzRKYXBiNHRkR1MzYzBWLTNGM09JUUNzVVpBZw?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "안효섭, 톰 행크스 제쳤다…한국 최초 美 키즈 초이스 어워즈 수상 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10azExZDc3TjJ4blh4WG1SRWVLNml0M3d5dXdoc2xDN01Pd3NwdEJsQjFqamdRTUt6Uy1WTUVILW5kZmoxZEtiaE9icENqV0UxQXZRNGNPY2dveENpZWtlUHF2TjIzZWhPdXZ30gFwQVVfeXFMUGdZcFBpVERMSFpfRGdrWWpoblg4SkhTcm1NeTB1YUZicTY2T3VubVgtdFZfblc5UExJVlRBbUZCRE9xMkFkOXNlR1J5aTl4TW1TS0RSN3RMUTFPenpWaXVwbl9kc0hEUXVoRjlSN25MVw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "안효섭, ‘케이팝 데몬 헌터스’ 진우로 美 ‘2026 키즈 초이스 어워즈’ 애니메이션 성우상 수상",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lcTBOUWdIUFJXLTRzM1ZFS3lDcDYxUk1wNXhuLUNGUS1nbFhtelhGa044VlkxbmpyUjZDMnZLYS1nRENaT0sxbEFpNGx0UDQ3Y3ljbEt6cmdHVlEtUGfSAWNBVV95cUxPUjBIdzl2VUlhNVhKZVlVS0QxNENmRlhoWkdUamtsN3JJZzVmaVVWeFFTT3o5ZkF2VGhtNnBmVWdYVG5US2hYY2ZBYzQ5RVB4WXhxOTNrUFZwOEF5NFFWdmpSNXM?oc=5",
+              "source": "스포츠경향"
+            }
+          ],
+          "description": "배우 안효섭이 한국 배우 최초로 미국 '2026 키즈 초이스 어워즈' 애니메이션 성우상을 수상했다. 넷플릭스 애니메이션 '케이팝 데몬 헌터스'에서 진우 역을 맡아 톰 행크스 등 쟁쟁한 후보들을 제치고 트로피를 거머쥐었다. 한국 배우가 이 시상식에서 수상한 것은 이번이 처음으로, K-콘텐츠의 글로벌 영향력을 다시 한번 입증한 쾌거로 주목받고 있다.",
+          "headline": "안효섭, 韓 배우 최초 美 키즈 초이스 어워즈 수상"
+        },
+        {
+          "rank": 2,
+          "word": "사랑이 온다",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘사랑이 온다’ 하석진, 진경 악행 알았다… “한 번만 살려주세요” 눈물의 호소",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PWDZzUEstcTFNWG1hLUw5Z2hsbGRfWjM1Ul80S1hVT1VxWFh4QjhsdjRwRF93cFRHb3p1SHhTd1NQNU1qTGQzTURaMk8xWnVPcG5TMFg5bTN3UE1DZmfSAWNBVV95cUxQVmtYNkloREVnbldfeGpLNmgyaFExblVJMzhTQWJYbGFVYURmOE41UzhMYmE2ckMwNm1uWWsybWNlY214bktRR25WN1B5bEdJZ2kwaW1QdWF2S0pUVm1LaVBzNkU?oc=5",
               "source": "스포츠경향"
             },
             {
-              "title": "중기중앙회, 19일 도쿄서 백두포럼 개최…16년 성과·한일 협력 사례 공유",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUpRbG83bGl0MW91QjhkSmktY1FPTmx4WG13RzBNTmR4QXhmcTVQUWU0Y2hGdG8zeFhNT3ZaUWVLbDVSdTRJa3JBTEFtYUZhZWEwRFJBMndLVjhzRldJS3lwVFhOdkw0UFVOaTQwdnN0QmhEcl9lOXRhcGpHVXVaRTNUanpGSk96SmRrZVdCVHTSAaQBQVVfeXFMTnVBVzZqTDdfa2F5Nm1RVDJqTEZTc2huSEc2Mi1fVjVGYnozWE5mV1d6WEpZY081TVRqaEpSY1BwWWo3MFczb1VnRHF6d1ZSWTdBN1pXRGRzdkJyc2E1RWs1TXplRWNPcXhxX0RWMy1mazV5UUZLWDdkeGhyRlNWOUZ6bEtpc3lzWkxlNEpibWstd1dGZ2s3M1JzOUNOSDM3SmpDSEk?oc=5",
-              "source": "Chosunbiz"
+              "title": "'사랑이 온다' 하석진, 안희연 폭행하는 고윤에 분노",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqbUFQTkVFLWVZcmpEeG0yeWZ1bHJjb2VTRUZYdnp0MnNKWUt3cm9HOUJmMXp6OGlPM1Y3VWFhLU5iUXNpb0E0V0w4TkpCc3BIdEkyUWdXODZfczEtS3poNg?oc=5",
+              "source": "iMBC 연예"
+            },
+            {
+              "title": "사랑이 온다",
+              "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbVp6ajNqNnQ0cllJdFd5ZHlkcGVNY2NibldoRUFrSGZFcXVjaEJRNFZLeElPME9ZZ0stZGJHaTZBX2hNQ2J4UUhyNU5VVGl1MlJtT05ybHVFd1NBMktfbnJGRDRXdzl0cHF4Wmo3ZmpyNWNYSFJpNzVudEdjcmZEZE1QQUlLQ1pmbGFyY3VxZU8wTUMzRkdKdkdqaUE4YTdNNnA3WE8yQk1PUTRjelk2NVhscnBXbm93RF9sWEJ4c3o5TXRwdnZNRW1UWW4yMHhKREtkaFBJSWdXaHhvbzZ2a3N1cUpHa2ZpWFVLOGtuMUZPM2JsXzlHaC1talRkRkt1bWxHZlVFZ2wyVi1nejVzZjRIVEM3bjA4LXcxTl9Cb1J5T09VRUtrbl9R?oc=5",
+              "source": "대한민국 대표 공영미디어 KBS"
             }
           ],
-          "description": "오늘 저녁 7시 APBC 야구 한일 결승전이 열리며, 김도영의 활약으로 대만을 꺾고 올라온 한국이 일본과 맞붙는다. 축구에서는 동점 이후 희비가 엇갈려 일본은 브라질을 넘어선 반면 한국은 사우디에 패하며 대조적인 결과를 낳았다. 오늘 처음 등장한 키워드로, 복수 종목에서 한일전이 겹치며 단숨에 화제를 모았다.",
-          "headline": "야구·축구 한일전 동시 개막"
+          "description": "KBS 드라마 '사랑이 온다'에서 하석진이 진경의 악행을 알게 되는 장면이 방영되며 화제를 모으고 있다. 극 중 하석진은 안희연을 폭행하는 고윤에게 분노하는 한편, '한 번만 살려주세요'라는 눈물의 호소 장면도 시청자들의 이목을 끌었다. 감정선이 얽힌 전개가 이어지며 드라마에 대한 관심이 높아지고 있다.",
+          "headline": "'사랑이 온다' 하석진, 진경 악행 알고 분노"
         },
         {
           "rank": 3,
+          "word": "하석진",
+          "count": 2,
+          "articles": [
+            {
+              "title": "하석진도 놀란 '라멘 3500그릇' 웅성…알고 보니 9년 차 화이트 해커",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OVFpfbXZ1alc4QmxtWlRFR3NTV2l2QWg4RE5vWEhzc1BUcU1NUkQ4NkJRenFzQ2E1VFdfbWVpWTZ2UkloczN5dDRuQ1U5TWcxZnM4b3FKVzFyenhNSFRuYlhhZEVmcVM2UWlDcw?oc=5",
+              "source": "메디컬투데이"
+            },
+            {
+              "title": "‘전참시’ 웅성X하석진, 핑크빛 라멘 토크",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ESGNqdGY0dGJhVmdRZmxNRElDMzhNQ3h4ckE2VGRZNXRxam43UFhiUFYtdHNVYUUtcVhzZ2MwRTBUZG5HX1JTRDBVTlI3OWprMmJSXzZfUlc3UXltMUM2SVlHZG0?oc=5",
+              "source": "BNT뉴스"
+            },
+            {
+              "title": "‘17억→56억’ 하석진, 청담 한강뷰 펜트하우스 거머쥔 ‘공대생의 계산된 베팅’",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfUC1HLVdhLU9IS2U3Qm1kS0FNTy0wVEViNzJFcWRnUkZfNGFGeXZRTHNyRG9KU25yWkw3ZklxMW5EcFQ2TXVxelN2Z3NnYUJMa1Y3TmI5b2LSAVRBVV95cUxPeDEwX2xzQTRKbndLLUFJVlk5U044ZUdWSVdrOTd1dXJPTDhzUEpDTExJRVBiLUlJS1JlRm4ycnVpNXVzQVZWeG9XTEdQOUs1LUJuSG4?oc=5",
+              "source": "세계일보"
+            }
+          ],
+          "description": "배우 하석진이 17억에서 56억으로 오른 청담 한강뷰 펜트하우스를 매입한 사실이 알려지며 화제가 되고 있다. MBC '전지적 참견 시점'에서는 유튜버 웅성과 함께 핑크빛 라멘 토크를 나누는 모습도 공개됐는데, 웅성이 9년 차 화이트 해커 출신으로 라멘 3500그릇을 팔았다는 사실이 하석진까지 놀라게 했다. 드라마 '사랑이 온다' 출연과 맞물려 하석진에 대한 관심이 집중되고 있다.",
+          "headline": "하석진, 청담 펜트하우스 매입 화제"
+        },
+        {
+          "rank": 4,
+          "word": "임영웅",
+          "count": 2,
+          "articles": [
+            {
+              "title": "임영웅 공연 실황 영화, 예매율 1위",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iNG9nZ2hkajlFUENQWGNwZXN4WFppSkU2bmgwWkl1RkRkOG9RbUtGUHYtb2ZmdmxTb2ZZM01Mb0t3UC1YVE5OUmZLQmlRekV6Tms5czgxWGUzOFNaa1hoVmhud0Izd2pESUdwRXhtUE9rY0pURFdyNDNB0gF6QVVfeXFMUGNxQzdQZTBQOFpFaUVpOFRBeUVnT3ROUE1HQ2pNZU9RU3VoZTMtemQ4a1RYdFRYdVVGRjBQZ2h3ZWJvRnV0emtTdkloN1NuY3gtbkhTc2FORF9jOVF3OEFobnFmbTlsd0lmOTVLMmttUEgxVklXZ2FYWFE?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "임영웅과 영웅시대, 역사를 만들다…45% 점유율·7일 연속 예매 1위 [11월 16일 영화 예매순위]",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XVHZld1V2TW90VnFYVXpacUtzc2xQRmk0dHBBdEhGRU1ybG1lZ1dmZUEtN0tHYlBTdVhnUkl3SEpLR1Zoa3VzdEVCc2tzZ1RXaURlS09TOFZ4R3FjWE5LOWVtZUZsMi0wREhlUw?oc=5",
+              "source": "ER 이코노믹리뷰"
+            },
+            {
+              "title": "반토막난 극장가 보릿고개…임영웅 구원투수 되나",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Idm5VQW9scTd5SlZ6NVF5Ml9RQTVKNEFKX3Z1Yk5WMjRZY29FUXl6X1A5SzlRRXFwelVQcUtOSVl3M0NsUVBRd3pKYkItdktP?oc=5",
+              "source": "문화일보"
+            }
+          ],
+          "description": "임영웅의 공연 실황 영화가 극장 예매율 1위를 기록하며 7일 연속 1위 행진을 이어가고 있다. 점유율 45%라는 압도적인 수치로 극장가 보릿고개 속 구원투수 역할을 하고 있다는 평가가 나온다. 임영웅과 팬덤 영웅시대가 함께 만들어낸 기록으로, 가수 콘서트 실황 영화의 새로운 흥행 기준을 세웠다는 평가다.",
+          "headline": "임영웅 공연 영화, 예매율 1위·점유율 45%"
+        },
+        {
+          "rank": 5,
+          "word": "케데헌",
+          "count": 2,
+          "articles": [
+            {
+              "title": "전 세계 떼창으로 ‘혼문’ 봉인한다···‘케데헌’ 50개 도시 돌며 월드 투어 콘서트",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdUFxVGlIRFVVQlVNLWs0ZG1HOHdoU1FtZUZQNWlBOXdBV3B6WU1jdjFCY0RMR2lVRm91OE1zT2hTd1JTbUJXa2ZvZ21CeXJCWTFELU9ZNnpaZ9IBX0FVX3lxTE5fajY2MlN5MDBBTk1rTWdMRWNNODJQQ0hYTmJ0dkJjM0pMMUZHMWUtZG1YeFI2ckxyRG5BblpuV1pQSHNCaHo0VWVwU0ZSRDY5R0FNVklrRFVjWDljSFVr?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "‘케데헌’ 월드투어 나선다…내년 6월부터 50개 도시서 공연",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenA4WVJPVkdVSWxIVlpfTlBfeHI2aVFDWmJRaG9jVFg5RHR0ek42SjdCMmVCMndUYk94ZC1VNFM1ZjZoakt1NmdLSFdrNlQxY1lTRDJkRFhDSk1uX2NBOW91LUlROXVSQkd5em92X0FONGFVWEhHWnp5NHRwS1hBWHBvd1NIeTdpUGdUZUVOWGl5Q1hFa24teHdNLWo0WVRCTFNRRFBwMGlESXRWMzlnZTNzQmRqcy02eG5jVTQ3Q05ra25GeGltS3ZB0gFmQVVfeXFMT004WHFfQ1JtRjBXY0l2YXlrMmhhZ1R1bTk2X3RvWE9ZTUtrTDNyWlVKS3NXa0wtQWNxUUpGcWRSQlRST19oNURta1NWUGd3QUZ2Wjlmd3NPUjRldzBqT2JiUU9fbV9B?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "넷플릭스, 케데헌 월드투어 내년 6월 개막…50개 도시서 공연",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5UnJwaWtCZU5ReU91TVpZeEdmNjgzLUV2QnEzamRWVDJrcml5WXNiRlgxWno3dXhuWmVkNWhhTzhjbzlzZnQwQXNhVlhxcjJVb3NmeGJ6X1RKUTYta2J3N2pNd19ma1E?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "넷플릭스 애니메이션 '케이팝 데몬 헌터스'(케데헌)의 월드투어 콘서트가 내년 6월 개막해 전 세계 50개 도시를 순회한다고 발표됐다. '혼문' 등 작품 속 노래들로 전 세계 팬들의 떼창을 이끌어낸 케데헌은 애니메이션을 넘어 공연 콘텐츠로도 영역을 확장하게 됐다. 넷플릭스가 직접 월드투어를 발표하며 K-애니메이션 IP의 글로벌 확장을 본격화한 것으로 주목된다.",
+          "headline": "'케데헌', 내년 6월부터 50개 도시 월드투어"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "한국시리즈 우승 삼성의 구자욱·원태인 FA 행방 주목 · 김도영 활약에도 APBC 일본전 패배 · U-23 야구대표팀 세계선수권 6위",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "제패",
+          "count": 2,
+          "articles": [
+            {
+              "title": "KS 제패 삼성 라이온즈, ‘투타 핵심’ 구자욱·원태인 FA 잡기 총력전 펼칠까?… MLB 도전·샐러리캡 ‘이중고’",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BNjhLMDNfVUpyWWU2RjB6M1FBdmZQaUt2Yl9rMVd3Tk9Gb2tqZzJpTGRxa2J5LXp4dk5RMW1qVnJWU3dDa0tlZ0xPbVNtbVZtM1dHd1hYRmcyek80NGRDVEp2aV9mc3NSeGZj?oc=5",
+              "source": "영남일보"
+            },
+            {
+              "title": "우승 약속 지킨 구자욱·원태인 \"사장님, 좋은 계약서 기대해요\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rckJUaEREdlYyd3ZFNW9XN216VkhSY3BwSGtrSlB3TzVEYWR4QkVXQWMxUmp5RDRTWmEybFZlMjBhNkluZlBUcW9YcHFPMUtnSGRIWk9wY0FNWUHSAWBBVV95cUxPU3R2QTNteVZ0UHNTVDZBV295ZlZuTl9VTzBqMUpRR0ZPQWkyR1ltVUIwUm1zY3h5QkpudkF3UlozWHhmU3BNYjlHQnduUUw0eTB5aW8wZ21VNklndGR4Ykw?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "“늦어서 죄송합니다” 12년만의 삼성 KS 제패, ‘부상 12주 진단’ 위기마저 이겨낸 MVP 구자욱 스토리 [SD 대구 리포트]",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pV1JITGF6bWtKTU1QRnE1d3NTYnFSY0I2QmNBRi1rNmVqaVBmN2RLd3htRlRxVVY3VnFXSlQ0b1kzZ1lZNl9uYV9NVkVpU2pYaFZnMkdRTldIUzRmTExiWEd1bEc1dmRfWWZOZ09Sd3dpUQ?oc=5",
+              "source": "스포츠동아"
+            }
+          ],
+          "description": "삼성 라이온즈가 12년 만에 한국시리즈를 제패하며 우승을 차지했다. MVP는 시즌 중 부상 12주 진단을 받는 위기를 딛고 복귀한 구자욱이 선정됐다. 우승 직후 구자욱과 원태인은 나란히 첫 FA 자격을 얻었으며, 두 선수 모두 MLB 도전 의사를 밝혀 삼성의 핵심 전력 유지가 최대 과제로 떠올랐다. 오늘 처음 등장한 키워드다.",
+          "headline": "삼성 라이온즈, 12년 만에 KS 제패"
+        },
+        {
+          "rank": 2,
+          "word": "삼성",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼성 구자욱, MLB 도전 추진…“좌타자 전문 에이전트 선임”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hb0xLOXVueXhQMTJZdnZMMFZJTlVNelJIUDQ2OTVsUnR3eU9OWEIwcFA1RWpLZE5uY2dEUHRyVGQ2eWxEMFJXblc0Q05qSTZ6dnVBT0kwOXZ4RTRJOE05ZXZrR3N0UQ?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "삼성 라이온즈 투타의 핵 원태인·구자욱, 해외 진출 희망 이룰 수 있을까",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RQ2pGX2ZiV0VhWDZsY0FMRDFQREcyV1JUYVRsN1NLbDh1YWNhcTF6UWhkRUwxbmYtd1RKaUh6WDdGMmZneDFMMnlxRENjNlRQN2tMSWRtU1dJMW5ZOFRxMlV3?oc=5",
+              "source": "매일신문"
+            },
+            {
+              "title": "삼성 KS 우승 이끈 구자욱-원태인, 나란히 첫 FA 자격...총 28명",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0RpZEdhWllrOHBTV0ZLdjdIWW95Wl9LYmM3VmtCTHdraGZtN0pmZnhka3pNZWtNVXF4TmRSdWZHZnBCRUxNT2tDWnRMX2tUUzhsWGxnRU41OE1HNVlSdThvbThJMVlfQ1VabHZ6dk1jTVljNlpSWnNubW9DLWdOQw?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "한국시리즈 우승을 이끈 삼성 라이온즈의 구자욱이 MLB 도전을 위해 좌타자 전문 에이전트를 선임한 것으로 알려졌다. 원태인 역시 해외 진출 희망을 밝히면서 삼성은 두 핵심 선수를 동시에 잃을 수 있는 상황에 놓였다. 올 시즌 총 28명이 FA 자격을 얻은 가운데, 삼성은 샐러리캡 제약까지 겹쳐 전력 보강에 이중고를 안게 됐다. 최근 2주간 꾸준히 상위권을 유지한 키워드다.",
+          "headline": "삼성 구자욱, MLB 도전 본격 추진"
+        },
+        {
+          "rank": 3,
+          "word": "삼성생명",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'강유림·미야사카 41점 합작' 삼성생명, BNK 꺾고 3연승…단독 선두",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JdmdmUFprcUZQdVVmQl9XdU5wSlNvZlpxcmg0LVlIY2Z6Z2R1Y3RIUW4xMFIybnpBak9UVThKOHdkOTk0Sy1JeVUxcHJlbnI2anA5MnQydzZHSzRGTldqRA?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "WKBL 삼성생명·신한은행, 나란히 승리…우리은행과 공동 선두",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DWnZaSF9GNEV3Y0RVN3E0NlllQnBPd0hDZkhyT3VnRjJ3bUVuRmw0QjExT1RINGU0bC1HZzdIQW5oSk9WUmlaS0xVYlRQaFNWdFVFZGxqcXFaNGdXcmsxU2w2TzI3Rjg?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "여자농구 삼성생명, BNK 꺾고 3연승으로 단독 선두…강유림 21점",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1d19vdlYzVjVtNlJBSGtfOXRBT0Z4cUhBejM0aDYxa1JRZThPTmMyeUphQzRKdEtCSGR4a3hzeVF6bmdhcERadjBRbC1CVGZLcnNiTTFxalVSanJ2Zm84Y9IBYEFVX3lxTFB1d19vdlYzVjVtNlJBSGtfOXRBT0Z4cUhBejM0aDYxa1JRZThPTmMyeUphQzRKdEtCSGR4a3hzeVF6bmdhcERadjBRbC1CVGZLcnNiTTFxalVSanJ2Zm84Yw?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "WKBL 삼성생명이 BNK를 꺾고 3연승을 달리며 단독 선두에 올랐다. 강유림이 21점을 터뜨리며 팀을 이끌었고, 미야사카와 합산 41점을 합작해 압도적인 활약을 펼쳤다. 같은 날 신한은행도 승리를 거두며 선두권 경쟁이 치열하게 전개되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "삼성생명, 3연승으로 단독 선두 등극"
+        },
+        {
+          "rank": 4,
+          "word": "야구대표팀",
+          "count": 2,
+          "articles": [
+            {
+              "title": "U-23 야구대표팀, 세계선수권 마지막 경기서 푸에르토리코에 석패…최종 6위",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFQW1lMDQ0Q2FXX1BneDBRc0o2dTlsM21vc212X1k4MWRGc2V6dU03STIzeUdnNFgtMERfMGQ0ck15Y2Y0SUFNb1JHd0hNR050SUppalNsTlY1WW9WZW5KNnp1V1ZfdEk?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "U23 야구대표팀, 세계선수권 푸에르토리코에 석패…6위로 마무리",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uUWR5VVpHanppb3pWUERvbnozOTRfQlFOdFV4QzJLdTNoNFd0TWgwQlJyYldFLTMxMnVvV2k2UU8wU0NFcGVQUm8tOGMxOFAwenFTNS1IR2RIZm_SAWBBVV95cUxNTDNpR2NjUmRkWkI0OW9zaW80LXA3NE1FWjNkVy1jMU9iWDBXTXdTbm5mZ1RNOC1LcmctRm4wZlpuRjZBRURIcXlNVzV4ZHo2QjRYLUc5RjZFQ2ZmWHRUY1Q?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "야구 WBSC U-23 월드컵: 한국 대표팀 일정 및 경기 결과 모아보기",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE0wYWVDZXZwMnhTSVpnMDdGYUtGT0F4alpVWFNjM3hTckttTHg1dDhzUk5wMnhEOGNadkl1elVIa2g5dEt4RWdoc19aU1BtZF9pY1dMSkcydFAtUzRYcHhvemJkWWczRjM4N2dSRENiUU9nb3hHZmdkT0pNeWVOT053RXJuNHVXQXJhaS1ldE1hQQ?oc=5",
+              "source": "Olympic Channel"
+            }
+          ],
+          "description": "U-23 야구대표팀이 WBSC 세계선수권 마지막 경기에서 푸에르토리코에 석패하며 최종 6위로 대회를 마무리했다. 메달권 진입에는 실패했지만 젊은 선수들로 꾸려진 대표팀이 세계 무대를 경험하는 의미 있는 여정이었다는 평가다. 오늘 처음 등장한 키워드다.",
+          "headline": "U-23 대표팀, 세계선수권 6위로 마감"
+        },
+        {
+          "rank": 5,
           "word": "김도영",
           "count": 2,
           "articles": [
@@ -444,66 +492,18 @@
               "source": "한겨레"
             },
             {
-              "title": "스트레칭하는 김도영",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BdXNtQnBIZFBxaU0xVkktNTJhenNZTWFzWlZnb052c1pWME9kdUJrZUVoaWRySUlzZ1kwWTg1dTZEa3Q2eTBPdHM3cnpZT2FsZmQ0?oc=5",
-              "source": "OSEN"
+              "title": "‘삼진-뜬공-땅볼’ 김도영, 日 38승 에이스와 맞대결 완패…9회 2루타 쳤지만 한일전 13연패 못 끊었다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZUjlqUnZlUE55ZWwxNWFISjB5RkdrRzdIZkFwekRqazhrX0V4eUxyZ1N3SHZVSVFLSTVOUFMyQ3BhUWtvckVEY2RtYUZTV3c1RDJZOWs0blNzTk40eWJPbVlUcmdRVFFlR3fSAW9BVV95cUxPby1hTDRDSGU1X3E1cUx5WG8tZG81TGtacWdDUFF4SFFPT0dDRC1VOFhveDhscW94NXNEM3ZIREZYQjJ5SWphc3lYZ0xObGVhRUNWWmhmdmsxNjlsd2FLWm5SaThqWUZwc1FnbzhwaEE?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "‘극적 결승포’ 김도영 다짐 “오늘 메인 경기…결과 내겠다”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BRnpGU2FFS29zZ3JpeG0tMWpPX05vTnFqaTMyWVZKNW1NMWY2UUd0R1Z2bGEtSE9MbTg1RnRWeEpQRElERHlaV1d2VzBYSzAycmhsYm5B?oc=5",
-              "source": "중앙일보"
+              "title": "\"김도영 수준 높아\" 日도 인정한 KIA 슈퍼스타, 마침내 2026시즌 마무리…\"살면서 이런 시즌 또 있을까\" [도쿄 인터뷰]",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2enpwX1gxX043elRIZDVSNGNJaXdhbndSN085MjFRTW4zR0dfMWFLbGF6OHE2amhCUTJlZmc3dVNtWmdTOHAzMVdfNVdiZmpHc01VTg?oc=5",
+              "source": "www.xportsnews.com"
             }
           ],
-          "description": "김도영이 APBC 대만전에서 극적인 결승 홈런을 터뜨리며 한국의 일본과의 결승 진출을 이끌었다. 그는 경기 후 '오늘이 메인 경기, 반드시 결과를 내겠다'고 각오를 밝히며 결승전에 대한 강한 의지를 드러냈다. 야구 한일 결승전이 오늘 저녁 열리는 만큼 김도영의 방망이가 12연패 탈출의 열쇠가 될지 주목된다.",
-          "headline": "김도영, APBC 첫 홈런으로 결승 진출 견인"
-        },
-        {
-          "rank": 4,
-          "word": "합작",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'신지현·홍유순 35점 합작' 신한은행, 하나은행 꺾고 공동 1위 등극",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QeUtUTWVIQlNld1QzN3Y1Q05fcnBTVU1YaXdhZWkyYWNTVTdZVUxrTzg1VVZES1hidDNoS1o2TVlKTENfa3Rhb01hYVZSRWpCQTNxOTZLYlhBUkhl?oc=5",
-              "source": "뉴스핌"
-            },
-            {
-              "title": "‘신지현·신이슬 42점 합작’…신한은행, ‘BNK 4강 희망’에 제동 걸었다",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03a0lyTFdmTWRsTldqZmxPUVVPejFPaXMyWVdxa25VOGR1cEI4enIybExMbG9NQVB5b0RtOGZuU3h1V213MklvVlFDcG40NTF0ZzR4YmE0eXJzTVJQc1FRY043NDkzN3pz0gFsQVVfeXFMTUU0U0JzOHZHdVdfYXdqQUFkcTRtb2lCVzRkeC1GX1dtd1pBQXZWSTdqZnVoZi1kRzdHZW9UMUVwaFl1ZlpuaWYzcTZCV0Ita05QMnltYUhqQTFCZjlTS1FuM3B3OHlPWVd0dzQ5?oc=5",
-              "source": "EPN엔피나우"
-            },
-            {
-              "title": "여자농구 꼴찌 신한은행, 선두 KB에 77대55 대승",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkt2THQ2NmdxQ0l5NU91Ylo1LXpfa1I1eEhZblY4ZG5wQXVfcTVpR0FlNGdSQVpkMmRuS3dvTVZjT0hCWF9FZTRIdXQ0ZGE2UlVvTU0ySnA5a0VodzBHLThuazRPWFZCazBGTVhxaldabnJSdENkdTFRZ0Z4WEdseUJ0NkRMZw?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "신한은행이 신지현·홍유순의 35점 합작 활약으로 하나은행을 꺾고 여자농구 공동 1위에 올랐다. 앞서 신지현·신이슬의 42점 합작으로 BNK의 4강 희망에도 제동을 건 바 있어, 신한은행의 연속 활약이 두드러진다. 시즌 초 꼴찌였던 신한은행이 선두 KB마저 77대55로 대파하며 순위표를 뒤흔들고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "신지현·홍유순 35점 합작, 신한은행 공동 1위"
-        },
-        {
-          "rank": 5,
-          "word": "세터",
-          "count": 2,
-          "articles": [
-            {
-              "title": "IBK 개막 4연승의 ‘숨은 공신’ 세터 김하경 “세터가 우리팀 약점이라는 말? 알고 있어요. 원팀으로 극복해낼게요” [남정훈의 오버 더 네트]",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vQy1ZM2xqcExjSVVEQ1hMWXpyblF2S3RxYWEtZXdwODRlTGRIbGRZUUVwR2FGUnFibkZwUUlabi1obkNCYVg2T01RcmRfWmV5czluS25hbUPSAVRBVV95cUxNTTZ3R0JjQ1NlcUMzMVlFUzd1S185eTNCX1pQU3NfYzlRMzZkaVExSmhORDI2Qm95Z3oxRTdGMWx6WlpxQnJkYU5qYzlDYzdTcXRCN2U?oc=5",
-              "source": "세계일보"
-            },
-            {
-              "title": "세터 김하경 향해 메시지 전하는 IBK기업은행 마나베 마사요시 감독",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2hsNlZUa2RsZEZwNFBkVVM3aVkyWXowRWFHV2Y4UGJPb29xSFFqbTRlV2hpZkM4YWlscjc3VkJYR0VhWW5FbXhoX0doc01GY0JKbGFiRkV3TGZobVUtYUVaVlRFVVBCY19DVm9JNXFXZ2hBdGRkUktzbUZqNHh6T0l4TkdTVWxp?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "세터 김하경 향해 메시지 전하는 IBK기업은행 마나베 마사요시 감독",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9naHF5a2xLdVZqeDZxVDh6S1MxQ3l6U21keFpFTm0wMkFWX2dXdTRnemtrNG5ob1pCajI5b0pZUHpSdkVqTS1WV1Viek9aX3VkMTBkVg?oc=5",
-              "source": "OSEN"
-            }
-          ],
-          "description": "IBK기업은행이 개막 4연승을 달리는 가운데, 세터 김하경이 그 숨은 공신으로 주목받고 있다. '세터가 팀 약점'이라는 외부 평가를 직접 인정하면서도 '원팀으로 극복하겠다'고 밝혀 주목을 끌었다. 마나베 마사요시 감독도 김하경에게 직접 메시지를 전하며 신뢰를 드러내, 세터 자리를 둘러싼 팀 내외의 관심이 집중되고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "IBK 세터 김하경, 개막 4연승 숨은 공신"
+          "description": "KIA의 김도영이 APBC 대만전에서 첫 홈런을 터뜨리며 한국의 결승 진출을 이끌었다. 그러나 결승 일본전에서는 일본의 38승 에이스에 막혀 고전했고, 9회 2루타를 쳤지만 한일전 13연패를 끊지는 못했다. 대회 내내 일본 현지에서도 '수준 높다'는 평가를 받은 김도영은 도쿄 인터뷰에서 '살면서 이런 시즌이 또 있을까'라고 소감을 밝히며 2026시즌을 마무리했다.",
+          "headline": "김도영, APBC 첫 홈런…일본전 한일전 13연패"
         }
       ]
     }
