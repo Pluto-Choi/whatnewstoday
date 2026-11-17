@@ -1,48 +1,96 @@
 {
   "date": "2026-11-17",
-  "updated_at": "2026-11-17 13:05",
+  "updated_at": "2026-11-17 17:27",
   "briefing": {
-    "text": "트럼프·시진핑·푸틴 3자 회담이 19일 열릴 것으로 전해지며 김정은 면담설까지 겹쳐, 한반도를 둘러싼 외교 판이 동시에 요동치고 있다.\n\n김정은은 백두산 관광지구를 시찰하며 딸 주애와 함께 등장했고, 트럼프는 중국에서 김정은과 만날 것이라고 밝혔다. 크렘린궁도 김정은이 APEC에 참석할 경우 푸틴과 별도 회담이 가능하다고 언급했으며, 프랑스의 우크라이나 극비 파병 보도까지 겹쳐 국제 정세가 한꺼번에 복잡하게 얽히는 양상이다.\n\n국내 경제에서는 10월 자동차 수출이 65.5억 달러로 역대 최대를 기록한 반면, 코스피는 대형 이벤트를 앞둔 투자 심리 위축으로 3.59% 급락해 5100선에 마감했다. DRAM 담합 소송 각하 신청이 기각되면서 삼성·SK하이닉스·마이크론이 미국 법원의 판단을 계속 받게 됐다.\n\n연예계에서는 블랙핑크 제니가 그래미 어워즈 본상인 '올해의 레코드' 등 2개 부문 후보에 오르며 K팝의 주요 본상 도전이 현실화됐고, 배우 고경표는 음주운전을 직접 인정하는 발언을 해 파문이 일었다.\n\n스포츠에서는 JTBC가 2032년까지의 올림픽 중계권을 전격 반납해 국내 중계 체계에 변화가 불가피해졌고, UEFA 챔피언스리그 공인구 공급사도 26년 만에 아디다스에서 나이키로 교체된다.",
-    "period": "아침",
-    "generated_at": "2026-11-17 13:05"
+    "text": "대법원이 한덕수 전 국무총리의 내란 혐의 선고일을 구속 만료 하루 전인 19일로 확정하면서, 선고 결과에 따라 석방 여부가 즉각 판가름 날 수 있어 정치·법조계의 시선이 집중되고 있다.\n\n조국 혁신당 전 대표는 일본 하네다공항에서 독도 방문 이력을 이유로 입국을 거부당했고, 혁신당은 일본 측에 공식 해명과 사과를 요구했다. 세무사 시험 수석 합격자가 AI 부정행위 혐의로 경찰에 출석한 가운데, 당국은 최종합격자 성적을 최근 3~5년치 소급 재점검하겠다고 밝혀 자격시험 공정성 논란이 번지고 있다.\n\n코스피가 2.59% 하락하며 약 9개월 만에 5000선이 붕괴됐고, AI 콜센터 업체 메타엠 해킹으로 병원 등 150개 고객사가 공급망 위협에 노출되는 등 사이버 공격도 전방위로 확산되고 있다.\n\n연예계에서는 블랙핑크 제니가 그래미 어워즈 '올해의 레코드' 등 본상 2개 부문 후보에 오르며 K팝의 위상을 높였고, BTS는 MMA 2026에서 대상 2개를 포함해 6관왕을 차지했다. 스포츠 분야에서는 2036 하계올림픽 유치를 둘러싼 서울시와 전북도의 갈등이 수면 위로 떠올랐고, 쇼트트랙 전이경 선수가 2년간의 암 투병 사실을 고백해 안타까움을 전했다.",
+    "period": "저녁",
+    "generated_at": "2026-11-17 17:27"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "수능일 특별교통대책 가동 · 트럼프·시진핑·푸틴 3자 회담 추진 · 코스피 6000선 회복 주목",
+      "summary": "조국 혁신당 전 대표 일본 입국 거부·대법원 한덕수 내란 선고 임박·민주당 최민희 징계 요구 등 정치 현안 잇따라.",
       "keywords": [
         {
           "rank": 1,
-          "word": "안전",
+          "word": "세무사",
           "count": 2,
           "articles": [
             {
-              "title": "도봉구 “수험생 수송·안전 이상 무” 수능일 특별교통대책 총력",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BeVoxQ2pIQ25OQkxFRVJVU25BZlRKWXliS05ialBBNHUxV1FQSjBWWk9YMGpkNlZKQUFuU3pYeWNhRjF1VUJDeTR0bVMxQTJ2WHEyNTRmS05DTmV2WF9wdFRUby0yTmN5UDdPSmQ4eXY?oc=5",
-              "source": "산경일보"
+              "title": "'AI 부정행위' 세무사 수석 합격자 경찰 출석",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54eXdVZHUwaTJLa1ZwQmRFSndZZ3pFckQta1pHTU9EMVJNM2M5aW85ZVVTZ3FFcGxBSDA1cEhOc05nRzB6d0FMRHNaWUpRRzZMNmxLeXNxcmExU1lzZ1Brb2t6OWpsN0VYTThsRk5zUndHZHlKZEpR0gF3QVVfeXFMT0dpdS1GQ3ZhVjhoTHd2bkNGYVJNRU1vU0U4VDQwNUNYUklpc2FhZk5SNG1zQkd5NzJhaDJYRUVKOHRvZk5qTXJEX1VpMXZxalNBdWZUaF9PYlZwTjVMYlBIOUdsOW5wVzRLWFFsTGpCdjFVWFJZTjA?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "\"수험생 수송·안전 이상 무\" 도봉구, 수능일 특별교통대책 총력",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MaGlWTkNxYmdjX2R5RndBRFMyeFh0ZGozbGNGYnF1bmhXYnR5NkRwcE9jY1hKbUJGeVNxUjRxSUY0eFFuOVhURENLeU9DTlRXaG8yQXIxbERjcDZnbUtERGZrT1Y2OUI3eTE0a2dQQXg3dw?oc=5",
-              "source": "웹이코노미"
+              "title": "50년 현장 경력으로…\"세무사의 길, 오래가는 경쟁력은\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DV3F2cnlvSEtUZkVXQmdUR2xFNndFT0xCWUFmTXl1Z0tqN3RRMnpyX21IYUVWUmpEdHpaME55aDJncTlLMm1MajRNaTNIR0pWQ2s2aHVtOThQS0xWQUVhRGs2eFo?oc=5",
+              "source": "한국세정신문"
             },
             {
-              "title": "도봉구 CCTV 통합관제센터, 구민 안전 빈틈없이 지킨다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNzBLTG9zT1daNzRmdGtxXzZMbWpsTnVXbmdXYlpyaExzODdaVFo0dzZETEJDOVBvWUl1bTFjMGw5eUV4YU9jY05haWV1TEhOd0dlUkF3NGJEUQ?oc=5",
-              "source": "시사프리신문"
+              "title": "세무사 최종합격자 성적, 최근 3∼5년치 재점검한다",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JbmFQZm82WTgxeElsbGNxQUozRmI2RTZJdndLQUF5NWZBWTFlQVZDSjJ0RWhOM1NIbWxtZC1qeDRlaWZHX1hUS1ZxRDU5ZHBmUHVYbTU2VjEzam0tNEwzOXVSMjM2ajR2aDNBRVdKRHVsdw?oc=5",
+              "source": "한겨레"
             }
           ],
-          "description": "수능일을 맞아 도봉구가 수험생 수송과 안전을 위한 특별교통대책을 총력 운영하고 있다. 구는 수험생 이동 지원은 물론, CCTV 통합관제센터를 통해 구민 안전 사각지대를 최소화하는 데 집중하고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "수능일 맞아 도봉구 특별 안전대책 가동"
+          "description": "세무사 시험 수석 합격자가 AI를 이용한 부정행위 혐의로 경찰에 출석하면서 오늘 주목을 받고 있다. 이와 함께 당국은 최종합격자 성적을 최근 3~5년치 소급 재점검하겠다고 밝혀, 시험 공정성 논란이 번지고 있다. AI 기술 발달로 각종 자격시험에서 부정행위 위험이 커진 가운데, 전문직 시험 관리 체계 전반에 대한 재검토 목소리도 나온다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "AI 부정행위 세무사 수석, 경찰 출석"
         },
         {
           "rank": 2,
+          "word": "조국",
+          "count": 1,
+          "articles": [
+            {
+              "title": "조국 혁신당 전 대표, 일본 입국 거부 당해... 독도 방문 이력 때문?",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUlNdmlyaFRwcjFYc3lQQlYwRkdoRkYxeV8wem53ZmZuM1RlMjNyMEhTQjM5TXQyWmVOZ21xSkR0VDVmelduRUNVOWM3WFRlSUwzbVZETVFKTWhrNEFHN3dGU0dtWVhzNWhtdThoSnRHOWQ4QkllT0ZMellYOUkzYXpIZnRNS25uN3hEOVhLVUJuWUpkakdOMlg0QTZUZw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "조국, 일본 하네다공항서 입국 거부…조국혁신당 \"공식 해명 요구\"",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BZjNoQkVwTzRTZUlJVmxuMkJ0bDhTSlI5eWFCbFRudTF4ZEN6blBJQVRKS1BlZHlaVlo4UUdOVjJDUEEza0lNcWhpY1haRW9IanBTRWZHZE52WVB3Y0NyejJfUmIzbGkta0dmc1JoMA?oc=5",
+              "source": "시사포커스"
+            },
+            {
+              "title": "조국, 일본 입국 거부…혁신당 \"공식 사과해야\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDSmZicVJwS0JGSDV0TWh3b0ZJOENDc1N1UFNOUld3aURVRktBMGpYcDExREYtTVRRZjd0Q1N1UnN5YTd3QlBJMEkxOU52cjNqekNBWG9rM2RCYkRCVTgtRklFMFM?oc=5",
+              "source": "매일일보"
+            }
+          ],
+          "description": "조국 혁신당 전 대표가 일본 하네다공항에서 입국을 거부당하는 일이 발생했다. 독도 방문 이력이 거부 사유로 거론되고 있으며, 조국혁신당은 일본 측에 공식 해명과 사과를 요구했다. 한일 관계에 민감한 시점에 벌어진 사건인 만큼 정치적 파장이 주목된다.",
+          "headline": "조국, 일본 하네다공항서 입국 거부"
+        },
+        {
+          "rank": 3,
+          "word": "한덕수",
+          "count": 1,
+          "articles": [
+            {
+              "title": "대법, 한덕수 구속만료 하루 전 선고",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSVo3SUxhZDQwSkg1YTl6dUYyVXJjR1R0bGJLOW5rczJrXzUxWENRTXh1YW9ONFJIdGtSMlhySW5kd1prNThHVzBQUXlkaFRDcFlOLTBoTklRZ9IBX0FVX3lxTE5kb3dycV9KeXlIRVk2cWIwSHVxNXh0RXVrOEJKa0JLNGtFNjh0Q05wd01oUnh1bm9weGFWanJ5cFZ1aEM0MWVQWG9yOVYyVXMweFNwRlB5ZDhfZG5mWnow?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "대법, 19일 한덕수 내란중요임무 선고…구속 만료 하루 전",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nTy0tQTJzNFRwZ0x6WVd0angweF9Ta1ptLXVFOFo5Ym5USTB5X21UT0M3VmpqaGlBUlJtWEhUelBMdW1fZEQ3dE15Z0tGNDJ0WlN0c3FMb1JHMEJGMTdaMmdOemtoRmc?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "대법원, 한덕수 내란중요임무 19일 선고‥구속 만료 하루 전",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByWG5PT29DOHJvb0FRNjlmUnI2T0l2eGVQcDdmZDhVUXhTY2JJTmhBalFBeGw2RTV6M3hNVEtsa3U5b3pIWGNKN3F6bjdzV2x0eklDUWJ0RDFVVy1jTlJLOExXYjR5TTJ6Uk04QlRIWHo1bmZqUTRz0gF3QVVfeXFMUGZQaTlGbjNUTW41THVrQmFIdDQwcGhnYVVoVE5sdEJ4MTZoUXk1WHJtRVpLTFllM0lfZjhPNEViX2prZWc3bUJKMHlucTFfRXNHbjhkcUw1QW1Wb25aXzZBVDJvUVI2am05R2tjNVpxanplV2NiUms?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "대법원이 한덕수 전 국무총리의 내란중요임무 종사 혐의에 대한 선고일을 19일로 확정했다. 선고일은 그의 구속 만료 하루 전으로, 선고 결과에 따라 석방 여부가 즉각 결정될 수 있어 큰 관심이 쏠린다. 헌정 사상 초유의 현직 국무총리급 인사에 대한 내란 혐의 대법 선고라는 점에서 정치·법조계가 모두 촉각을 세우고 있다.",
+          "headline": "대법, 한덕수 내란 선고 19일로 확정"
+        },
+        {
+          "rank": 4,
           "word": "김정은",
           "count": 2,
           "articles": [
             {
-              "title": "김정은, 백두산 인근 관광지구 시찰…스키 실력 뽐낸 주애(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zN1lZZVI3ZEc3aXYyT21pNlBhdmlnTm9mQnBmWmd2VU9IaVJqRHJxQjdSSjl6c1ZxbzhqNWVPS3NwZFh3U1gtWGFCd3NOSVk4XzBHbXFfV2hKTWPSAWBBVV95cUxNelpXcXVLbDhMeTloQVc2WWNsYk14d1FMQU85ZUg1dEZ0Q1E0Y2RvNG5jN2tNaXowbHdJU0dJVlo1djlEdmJxb3dIRWFBb1JpRmNHN3hTczZaUVRvWGswS00?oc=5",
-              "source": "연합뉴스"
+              "title": "김정은, 백두산 인근 삼지연 시찰… 딸 김주애 ‘단독 스키’ 사진 공개",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGJvdDUtUm5WcXJIQTRIRlB0dmxVNFg1dUx0VUJQVFpCLWhQdXljQWJHVEluN2g2VG9hcFZIQk52dVMyWC10R1FlUEFsVVlVYnJaQ3Zzb0wzek9NaElGMlNzLXlzblNiamVybWU3ZVpyUjJEQ3BkSmZvWEY5bGZrR3paWUJ0R09RS3c?oc=5",
+              "source": "조선일보"
             },
             {
               "title": "트럼프 \"중국서 김정은 만날 것‥시진핑에 달려\"",
@@ -50,266 +98,170 @@
               "source": "MBC 뉴스"
             },
             {
-              "title": "크렘린궁 \"김정은, APEC 정상회의 참석시 푸틴과 회담 가능\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qV2NHM21MZlNRUWgxSE1KMnljcVFzTXNKd3VsLW5GT0RwaFhwSTZoQnpwVXRRczZkZVVOTTJNN2pjbVVFTzVnV2ZXX2ZPTGp4ak9VakRxc3BpYVHSAWBBVV95cUxNMjhhaEZjSkZqc1BKNHpHYTlJY0dCMkJnT2p6enVZSTdDN1BQMjh6VHVBTS0zZGp0ZVpKNWdjZHRDNG9GTFJ3SGU3N3VTQXJPeVRLekpSVEFocnVFNV9sRHY?oc=5",
+              "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GckhVUWtLYUJOcW13Yk9FeEdDaVhCcTNaLVMwNEpZOExQbk4tZDd1cmxGRXB4WmVnU2dJR1dQTFRrUE4yeGl0d0F2Q21wOXVOcnNKYzRTV3l0a3fSAWBBVV95cUxPcEJFcnZaV3pwZ2pUcjhfLTFWYWxNLWcxcHduS01nYnhVbUVHd3UxcTZmdVhnRDBrZlIwUEdyaVh3Y3VJWmJudGRaZlByaEZSWUhYTGRPOTIzUS1hT0pOckk?oc=5",
               "source": "연합뉴스"
             }
           ],
-          "description": "김정은이 백두산 인근 관광지구를 시찰하며 딸 주애와 함께 스키 실력을 과시한 가운데, 트럼프가 중국에서 김정은을 만날 것이라고 밝혀 주목을 끌고 있다. 크렘린궁도 김정은이 APEC 정상회의에 참석할 경우 푸틴과 회담이 가능하다고 언급하면서, 김정은을 둘러싼 외교적 움직임이 한꺼번에 부각되고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "김정은, 백두산 관광지구 시찰·트럼프 면담설"
-        },
-        {
-          "rank": 3,
-          "word": "푸틴",
-          "count": 2,
-          "articles": [
-            {
-              "title": "푸틴, 파병하면 전쟁이라 했는데…“프랑스군, 극비리에 군대 보냈다” [핫이슈]",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KdTBaOThqc1ZTYVlQMUlLb25XY2RsN04weXFtZWZtaktuYXB2M1M5RmxpRjhJTUhmMEdzSjdZd3BsbEFKejJYOWtaTlZMYmhzeTA2cWoxNFhKRGNyS2R3eUl5QmFBZHl2OXZlWUxGZkg?oc=5",
-              "source": "나우뉴스"
-            },
-            {
-              "title": "트럼프·시진핑·푸틴 19일 첫 3자 회담…북핵 문제도 다루나",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyNkQ5ZkVIcUsydE9tNmJqQTdOc1pSM2JVT0xWV3M1ekRya2JFZno2ZEduSnprbUc1bUxBZ0JwMlZtN0RaZmFkYkhLZUlNUFg5QmZIWWh5ZDhFNTJWQ1RIcXgtWFdHbzFLUHfSAW5BVV95cUxPU1JoOWU2MXVncXRzUmpYdWJsd2RFZGgyUVZhUWlKdE4xendNU19wZFFnTFUzaEZaemhuYnFFcUpEcFhLU0VGWUVZcEJQa2dhQnJyUzB5TDcyU05WS2xicmxTX1NpMDRJd2tEakthQQ?oc=5",
-              "source": "주간조선"
-            },
-            {
-              "title": "크렘린궁 “김정은 APEC 참석하면 푸틴과 회담”···푸틴 “북한과 우호 관계 소중”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04VTByZmRqY1VRcWFoVjdaYXRQZU5zVzNiQTM1QndQbU5mZUNUbl9JYWtTbXd2STk3aDhOUWs4bXdQell1a2s3aHJjb3B0dTU5Qm15dE9wbEFqUdIBX0FVX3lxTFBaeEVoWm0tUmRjUEFxeTdNdVNOeV9TbEJTcjVVel9nOFlxdnR1T2xXZWdRbzNpMmI1WVJZYzhkdGh1SGVTTlh3Wm03azBCa2tXSmd0LVZCNU9TYVpEUmI0?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "프랑스가 극비리에 우크라이나에 군대를 보냈다는 보도가 나오면서 푸틴이 '파병은 전쟁'이라 경고했던 발언이 다시 주목받고 있다. 한편 트럼프·시진핑·푸틴의 첫 3자 회담이 19일 열릴 것으로 전해지며 북핵 문제까지 의제에 오를 가능성이 거론된다. 크렘린궁은 김정은이 APEC에 참석하면 푸틴과 별도 회담도 가능하다고 밝혔다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "푸틴, 프랑스 극비 파병설·트럼프와 3자 회담"
-        },
-        {
-          "rank": 4,
-          "word": "임시",
-          "count": 2,
-          "articles": [
-            {
-              "title": "빌 애크먼, 젠슨 황 복귀 시나리오 제시…\"임시주총 제안\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdUhKR1VhREduZE1TbnpLeWxfYmV1VVduQW40RDE5b25LOGN2U2RlX1VDbXdSaWR6ai10ZVo5ZVNfbHdvMlpJZl9UdjVCVURMa1JFNmUtRmp5VGRqVmw2bGdtblZTTFpESURlWWxXWVTSAXRBVV95cUxOTzlYZWNISFZIb2xTZEZBUmo5bF8wNEVUeTh3cThidGNuUG83a0pLVHFGWmk3X0l4TERwR3lUMFlQNGJoZ3k0elVsXzBBbzJWNVJrTVlCV0twc21qZHdaOG1nYnp6eW5IU3ZzWllmekc3cktrMw?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "애크먼, 젠슨 황 엔비디아 CEO 복귀 제안…임시 주총 소집 제시",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QZnRTWVdXdExzVzJ4OFV2dDA4NVpZS0JuOHduZENqS0JoYjVqeC1mNG9QOXBDYVk3b0FYbHdGNjd3cEQ2NHpIZDBmNVVlekQ0?oc=5",
-              "source": "블루밍비트"
-            },
-            {
-              "title": "월가 거물 애크먼 “젠슨 황 복귀 위해 주총 소집·이사회 교체 가능”",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNjNiaDBNWWlXSEJhellLRnMzS280MXJha3d4OURtUkhiWmc3YVdfa2JHZ3dwS0wwa2dIZmVkUUFUemRfRUluZ0xZMjB0QQ?oc=5",
-              "source": "매일경제"
-            }
-          ],
-          "description": "월가 거물 빌 애크먼이 젠슨 황의 엔비디아 CEO 복귀를 위해 임시 주주총회 소집과 이사회 교체 가능성을 공개적으로 제시했다. 현 엔비디아 경영진을 압박하는 주주 행동주의 시나리오가 구체화되면서 시장의 이목이 집중되고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "애크먼, 젠슨 황 복귀 위해 임시 주총 소집 제안"
+          "description": "김정은 북한 국무위원장이 백두산 인근 삼지연을 시찰하면서 딸 김주애의 단독 스키 사진을 공개해 주목받고 있다. 한편 트럼프 미국 대통령은 중국에서 김정은과 만날 것이라며 시진핑 주석의 역할이 중요하다고 언급했고, 푸틴 러시아 대통령은 김정은의 최측근 조용원과 회동하며 양국의 군사적 유대를 과시했다. 북·미·러·중 외교 구도가 동시에 움직이는 시점이라 국제사회의 시선이 집중된다.",
+          "headline": "김정은 삼지연 시찰, 김주애 스키 사진 공개"
         },
         {
           "rank": 5,
-          "word": "코스피",
-          "count": 2,
+          "word": "최민희",
+          "count": 1,
           "articles": [
             {
-              "title": "젠슨 황 없는 엔비디아 실적·앤트로픽 IPO…코스피 6000 재탈환? - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTzJpSVFzamJtWGhLQzhnZ2c2U1gycy1yU0RBRUNXNFo0Vl9STXZpUUZBTzFSb3NOLXZpODFQa2c1c0VRQXh1WjRQcmo3cE5yU0tNN1cxbXZqbUVSR25qc05kVVNqTTdt0gFuQVVfeXFMT1RFY0lVMEwwa0dsQzh3aTVhaThabUMwYWdUSUttTjk0VjU2SW0xa2pGN3dtTkZVa0o3LXBPUWJDUkl4WjVJMTFOTjdzQTY3OVFiV3c5dUpneVNKTTZuSG5FM0F2NXJoRlJHdWUxNUE?oc=5",
-              "source": "머니투데이"
+              "title": "민주 초선 55명 “최민희 엄중 징계”…최고위원직 사퇴 검토 촉구",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xb3dXMUE5V2U2bTM5ajV2ZnI4OGd5WlpqMnBUdjVBUDVwTGgwMzdWN0NXMXVLSGdUZXdZNXJxWDVIeVVzSUZUU3RGSTlkNzBkUlZveEdZOC02TF80OWxOQ1QwemNDelEwTXRFTGdaSkN2aHVU?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "엔비디아 실적에 쏠린 눈…코스피 6000선 회복할까[주간증시전망]",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObVhpQ3dWNExmUWpEaEdwUkpfdlFKZFQ4dkJjWGFXR3JybkhvLWIyaF90dmZOaGRDOFFkOW42dmtDU0YxaElpaDF5TklVNmdpbm9ua1NPOUhuMjJOMUhVMWtfTzBIb2pCeTc0RXplOS1EWnMyeDByR1A2bnVCamtfbA?oc=5",
-              "source": "이데일리"
+              "title": "인터뷰 전문: 성치훈 “정청래, 최민희 옹호하면 같이 죽어…김민석 만날 때 됐다” [정치시그널]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11ZGhWZkJObV9wNGdzYjBRVjBPbTl0Rld3NExfd0RlTExVUzFEN2tDZTN5MGJveUprdURoMHpka2JSOGxJOUVqR3BYNk1ZY0h6VVlDMW9ObjUzNnhUUGfSAWNBVV95cUxOWk1SOUpVeGpJcjhXUHlIcWROZEpEWUdlV2djeTcyS0ZTUVJORWFQNFpMakc3YlVQWk56UVJRYlBRUWVrZHpYY3ZHbmFlRXRyOFRQTWdub18wZXZpYlFKUjhEQ00?oc=5",
+              "source": "채널A"
             },
             {
-              "title": "엔비디아·AI 규제 투매 여파...코스피, 사흘 째 하락",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncDNVdWs3NmRDaUs2Y2tBbktwWXhvNjJFUm1hdnVsUDdSejlUUklraFVmS2dLVXlINGF5aVVUNnNCRTNqNUN4U2pmZ3JiTE5BcnRHcWNSeUV4MnVEUVpGdmxNYjhVNFBqUEZrWll5RQ?oc=5",
-              "source": "YTN"
+              "title": "민주당 초선 55명 “최민희, 최고위원직 사퇴 포함 스스로 거취 판단해야”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51Tm5UTWV5YVRhM2p1Wm1pRHU0b2luM1hfRE9IRTVNR0tYR0FDTnNsd2R2RWZ5WGw4b3VQUHhuOUtibGVQZjRvZV9NOHdONDVOMmoyWWFtelR3QdIBX0FVX3lxTE1EaXd4N1YxWVhmQllyZzF3V1BrQkVIYUtLcU9VSmxWTHJNVmxWRWlJaHhIeXdpQmlrOXl3NFhlR09KdWViOTlEZmtEOEtNSXVBQUxSOFlpWTdpN3BIa3o4?oc=5",
+              "source": "경향신문"
             }
           ],
-          "description": "엔비디아 실적 불확실성과 AI 규제 투매 여파로 코스피가 사흘 연속 하락세를 이어가고 있다. 증시는 엔비디아 실적 발표와 앤트로픽 IPO 등을 주요 변수로 주목하며 6000선 회복 가능성을 가늠하는 분위기다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "코스피, 엔비디아·AI 규제 여파로 사흘째 하락"
+          "description": "더불어민주당 초선 의원 55명이 최민희 최고위원에 대해 엄중 징계와 함께 최고위원직 사퇴를 포함한 거취 판단을 촉구하고 나섰다. 당 내부에서 초선 그룹이 집단적으로 현직 최고위원의 사퇴를 요구하는 것은 이례적인 일로, 당 지도부 내 갈등이 표면화됐다는 평가가 나온다. 정청래 의원 등이 최민희 편을 들 경우 함께 타격을 입을 수 있다는 경고도 당내에서 나오고 있어, 민주당의 계파 갈등이 격화될 조짐이다.",
+          "headline": "민주 초선 55명, 최민희 징계·사퇴 촉구"
         }
       ]
     },
     "경제": {
-      "summary": "코스피가 3.59% 급락한 가운데, 삼성전자·반도체주가 흔들리고 BYD 수출 공세로 K-자동차도 불똥 우려.",
+      "summary": "AI 콜센터 해킹으로 고객 정보 유출·코스피 나흘 연속 하락해 5,000선 붕괴",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼성",
-          "count": 6,
-          "articles": [
-            {
-              "title": "삼성전자 노조, 조합원 대상 테슬라 등 억대 경품 이벤트",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd05rSFdZeVVKMGFGMkxwYTVxMnJGS2FDbEx4RlN3U2tNOEVUNzRXeGNEdnlQaXpxNUVWOXdXd0FWbFZ1anlEZ0s0V1JnRS1iQ3oxSTRCdjJiMFh3c01KeGRuWE5XQ05KY1o1T0ZwWkp2T0R0TkQyMEswSWhzamlFc3BB?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "올해 주가 149% 뛴 AMD…삼성전자도 공급망에 올라탔다",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3QlNGSEU4LWRhNmtBUThrSkJ5S0JvSXM4ODBYYjBKc2dqUHVFam5YWGFUYlBDTF9obDZfdHNCNlRrY0Z4R3JZaE9rWW9HY3pUMkQ2Z2ItNVF1Zw?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "美 법원, 삼성·SK하이닉스·마이크론 DRAM 담합소송 각하 기각",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcFVuRDFpbFRtd3lTMnpZOUJsSEhzTTNrQTJENC1OQkFxUFBOM0tvbkNjd1JFSy00ekRvUEgzWDI3UVlCb3Z2Q3dqR0ZDdXdhQVJQNTh0eU1BbnRoakRHLVFCMHd2MVI3aDkzcEtfMmU?oc=5",
-              "source": "연합인포맥스"
-            }
-          ],
-          "description": "삼성전자 노조가 조합원을 대상으로 테슬라 등 억대 경품을 내건 이벤트를 진행해 눈길을 끈다. 한편 올해 주가가 149% 급등한 AMD의 공급망에 삼성전자가 이름을 올렸다는 소식도 전해졌다. 미국 법원에서는 삼성·SK하이닉스·마이크론을 상대로 제기된 DRAM 담합 소송 각하 신청을 기각해, 소송이 계속 진행될 전망이다.",
-          "headline": "삼성전자 노조, 테슬라 등 억대 경품 이벤트"
-        },
-        {
-          "rank": 2,
-          "word": "수출",
+          "word": "해킹",
           "count": 5,
           "articles": [
             {
-              "title": "車 수출보다 많이 번 ‘K뷰식주’… “한국인처럼” 일상 즐긴 외국인",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kQkV4c0dPSUxpbWlsbVZaY2tqbU1SOUs0ZFJuWUJDdXU5d1FHbTFDSm9OczRiMUU3Q2dPeDY0YmtOUUpoa0p2UkxXeEExcGdZZ0hra2Q1aGt2X2VHV2ZIOWgycjZCcGhyaW5Td0lhQlFVbjZuZHfSAWZBVV95cUxORUNvWUNGQWpTU0k1a3ByTDlLX0ZKRkJ5dzRkVlF0dXJfWU00Z3c3a3VEUEhZcWJzUnlHY2RpNWttZmo1YWNtY2YtSDFVVjQ3cGhtT3BTcXN3V2NRb2J2XzhKdkl4X1E?oc=5",
-              "source": "동아일보"
+              "title": "‘AI 콜센터’ 메타엠 해킹... 병원 등 150개 고객사 공급망 위협 잠재",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBidW1YWXFzM3VWTmNuY1ZaYkhUbWY1VFVRZWpENzhVVFJOUW5vYjhnU1YtdWZreUVRbWQ3OUxEejJiY29FQngyMXRUSWZEZUdjYzdxenZsVWp4ZkVkQVFydzJZSENvRldWQmpJ?oc=5",
+              "source": "보안뉴스"
             },
             {
-              "title": "BYD \"中판매 30% 급감\"… '떨이 수출'에 韓자동차 불똥 우려",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yaVRQWlRxLTVwRXdJcWFsUk4tRzBkcW5jX2ZneFJxUVVfdUVkYzhPRlZKaDN0THN1VHl5OWdQV3VGSWlSdXZkbTc5ZDJDWk5QT25QbTVB?oc=5",
-              "source": "매일경제"
+              "title": "“한국 사이트 계속 해킹할 것” ‘No KR No FUN’ 팀원 “한국의 방어 능력은 예전 그대로”",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzRGdQR3pHRzZMSlk3UlJXNkt2VVJySDhxNGpCVGsxOFNYS1J1OHkxQ1lHMXN6MmhsRHB1SVdfb0x0S3g0Y0EwVk53NnhESmtnaTRSdFcyUVN3bjRrZUg1WkJQMFJrTTJDSkpSeg?oc=5",
+              "source": "데일리시큐"
             },
             {
-              "title": "10월 車 수출 65.5억불 역대 최대…수출·내수·생산 일제히 증가",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEOEtPNWVGSndYMFpIc1hrOEtBRk9iZjc1RzAwUzNWdTVoNDNWbkpheXdnUi13clVOUWFEOFRvU1BZdzE3RDNOZHFmQXRoZw?oc=5",
-              "source": "전자신문"
+              "title": "'AI 무장' 중국 연계 해킹조직, 한국 외교 조직까지 노렸다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55WTMwV2UtUTBKOXd4VkxkZ1ZWVDVzZm02cWYwX0p3UDBMT3o2SldBRFNjNllFTXZNMHVBTXBSeTZySmhXTHB5SC1YQzRNcW8zMkY2S3J0U1RLQTTSAWBBVV95cUxNeDh4OGt3N3Bfb3ZaZkZIc1poaDFKbHY4VWVCb09BOVp4bmxIajRvc3gwb29EZ2xjWmtyQUE0VkhDUEEzMUJUNHNaNU1Ka1lxSmF5T3VUT2hDMkcwWHlwYnQ?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "10월 자동차 수출이 65.5억 달러로 역대 최대를 기록하며 수출·내수·생산이 일제히 증가했다. 뷰티·식품·주류 등 'K뷰식주' 수출이 자동차를 넘어설 만큼 한국 소비재의 해외 인기가 높아지고 있다는 분석도 나왔다. 반면 BYD가 중국 내 판매 급감으로 '떨이 수출'에 나설 경우 한국 자동차 업계에 불똥이 튈 수 있다는 우려도 제기됐다. 수출 키워드는 어제 5위에서 오늘 2위로 급상승했다.",
-          "headline": "10월 車 수출 65.5억 달러, 역대 최대"
+          "description": "AI 콜센터 업체 메타엠이 해킹을 당해 병원 등 150개 고객사가 공급망 위협에 노출됐다. 'No KR No FUN' 팀은 '한국 사이트를 계속 해킹할 것'이라고 공언하며 한국의 방어 능력이 예전 그대로라고 비판했다. 여기에 AI로 무장한 중국 연계 해킹 조직이 한국 외교 조직까지 표적으로 삼은 사실도 드러나, 국가 기반시설부터 민간 기업까지 전방위 사이버 공격이 이어지고 있다.",
+          "headline": "한국 겨냥 해킹, 연쇄 피해 확산"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "word": "코스피",
           "count": 4,
           "articles": [
             {
-              "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5",
-              "source": "한국경제"
+              "title": "’5천피’마저 붕괴…코스피, 2.59% 하락 마감",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MmZMUVpndEMwQjV1R2g0cEVjbDlWbUFmZ0lPSkR1U1ZDTGJBbTM5Uk1qRFVYRy1WcVN5Um80OXpRM2lnZ3I3cWN3NW44RUFiM2FQdUUwMkNiNks3Vy1UVi11Y2pUSGc?oc=5",
+              "source": "연합뉴스TV"
             },
             {
-              "title": "코스피, ‘대형 이벤트’ 앞두고 투자 심리 위축에 3.59% 내린 5100.5 마감",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbmE0UmNtajJaMmVoYUdELVFkN1J4UmYteUxZVnlZUnBsOEpXUmNiTTVZR2RyS29SYTU2NE5ud3FwUFNaYnVZMGI0MHBFZTBoSWgyM05lc0RoRjQ0S0hOdFNtWlpMTGExY1dIcjllNHQxSFp4TS1pWC1ER19WYlNsZw?oc=5",
+              "title": "코스피, 나흘 연속 하락…장중 5,000선 다시 무너져",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vbHByTXJGaXVGaGc2ZlBBM1IxVWx5RjFxMHV3MjRzU1phOHpiZWh4a19TbjNVcFdXRWhKTUFDZEk5LUFOT2xrOVJVY0xKWEtMV1ZqazZRLVotY3NoLWZCVm1wNFA3TFk?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "코스피, 9달여 만에 '5천' 아래로‥4,900선서 마감",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0azJydkM3MzNtVndrazZaX2FLQ185QWJNcmhNOTlLN21pYThvRlUxS2VnSnppU1pMcS1INEdybFVPMWotbmpZT0JjUmxJT1laWGpDcGdEVnNLLWJiTTQyTlRCZFNyd3E1VlpXUEJKVjg1RHhK0gF0QVVfeXFMTnJSRi02eV90Nko5bnlzR2hQRFVJbHJ1aFNlRGt0QkQ5d25haVhfSGNzZW1vdHRGbHh1OEdBeEozT1pSbHVWZC1oejdXMHoyV2hoSVM3U1J5QjU4RXQ2XzFZSXItTlVkamxXNVk3WF9jWXBESk4?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "코스피가 2.59% 하락 마감하며 약 9개월 만에 5000선이 무너지고 4900선에서 거래를 마쳤다. 나흘 연속 하락세가 이어지며 장중에도 5000선을 회복하지 못했다. '5000피'를 심리적 지지선으로 삼아왔던 투자자들에게 충격을 주고 있으며, 추가 하락 우려도 커지는 상황이다.",
+          "headline": "코스피, 5000선 붕괴·나흘 연속 하락"
+        },
+        {
+          "rank": 3,
+          "word": "성장",
+          "count": 4,
+          "articles": [
+            {
+              "title": "KIEP, 내년 세계 성장률 '3.1%→3.2%'…시험받는 AI 성장동력 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUQ29mU01Ud0JhNS1mNWV3bDFuemtQTEl5RmpjLU4zeU1yb1VUem4yd1BqM3JDZ0s2bXFqYzBOdkRURGNqbmVUbDN3dDRQaHpPMng0SHNJRFNPbWJtVUc0MEZDTlN6YkZDUllJ0gFwQVVfeXFMTlZ4VGt6Q2Utb0liSHpFUHpxLTgxWEE0d216bUljZ1JWeFlHN0NrMGdacTRRMldCLXV4ZzVhM2N3ZGlaMmEtSUZKdTdNSDZ4NHlvLWxBQ3dBbkRHV1F6b3hvWDV1Q1RLSmpWbUVyNldmNA?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "AI로 더 빠른 성장, 일자리도 늘까…美 연준이 따져 본 세 가지 미래",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNU9GdUktM0pNb1I2dEVkY3pRTzQyZ3VlcnFMcjFHTTRPODVnN1JvRFBpSGNSYVJ5OHFIa2M5dGpMNGYyRGY0R2JUdGY5cXJxTTdxOExZY05LTzZUbEZEaURhT1VQOFpObUswY05CVnhUcXZ4YmUwTkJFMnNheDB3dWdwbk92aTFM?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "뉴욕증시 AI 우려에 급락…코스피 반도체주 다시 시험대 By EBN",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mamVFb3Z2eDRrQUI1QUIxSTNBTksxbENNNDM1SVJBaTNzaDRDVlpmREpVdWoxd0gxZDQ2RnFndnV5TVpvRnBYX3RzOXJaaFgzUlh4RWVvZGwyMU1yX0dMRTg0Q0M2VUNuSkd6UGZ1WVg?oc=5",
-              "source": "Investing.com 한국어"
+              "title": "아이큐어, 3분기 만에 작년 연매출 넘어…화장품 ODM 성장 덕",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c05tdDZrRF8yRm1adEY5b0U1c3BKNm9EZzBNT1g5bTBLVTdnbnh3dHA4MFpweUV6WXRBZGxXTVpWYjI2emRFVjlPNXlpX2ctX2UyOTdLTnh6cEdsdGtSTDNDNzVJMGczSmdpbnZ3?oc=5",
+              "source": "팜이데일리"
             }
           ],
-          "description": "코스피가 대형 이벤트를 앞둔 투자 심리 위축으로 3.59% 내린 5100.5에 마감했다. 뉴욕증시도 AI 우려에 급락하면서 한국 반도체주가 다시 시험대에 올랐다. 증권가가 연초 '코스피 8300' 등 낙관적 전망을 내놓았던 것과 달리 지수가 크게 못 미치자 개인 투자자들의 불만도 커지고 있다.",
-          "headline": "코스피 3.59% 급락, 5100선 마감"
+          "description": "대외경제정책연구원(KIEP)이 내년 세계 경제성장률 전망치를 3.1%에서 3.2%로 소폭 올렸으나, AI 성장동력이 실제로 작동할지는 여전히 시험대에 올라 있다는 평가다. 미국 연준도 AI가 경제 성장과 일자리에 미칠 영향을 세 가지 시나리오로 분석하며 불확실성을 인정했다. 한편 아이큐어는 화장품 ODM 사업 성장에 힘입어 3분기 만에 작년 연간 매출을 넘어서는 성과를 냈다.",
+          "headline": "AI 성장동력 시험대, 세계 성장률 소폭 상향"
         },
         {
           "rank": 4,
           "word": "반도체",
-          "count": 4,
-          "articles": [
-            {
-              "title": "이제는 소부장 경쟁…K-반도체 동반성장 이끌 ‘트리니티 팹’",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IdHVOUUlpVVBzMmpleG1Uc0Viaks4dnpTcmQwa2ZweF9rLUhyQURwc1JzNnZzNkh5bWVFR3FFV2w5bkVXNUtVbmxCMDVkSm1zOTJWSDVodDRJRGs?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "젠슨 황 떠나자 반도체 '흔들'…한국 증시 영향은",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QeHJ0dGFlRy13Rm5Pc2tSWkxJTDN2YzNrNW9UalhKLVFpZWdKQ0lkZWRzVVhueFVmSFVsZE9HTDZEUnhYbmxzYlYzT2ZDeFNJX0VyUnBqamZsZw?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "\"러트닉, 가족 회사와 연관된 반도체 수출규제 완화 추진\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mZ2RBRlJsZXJ6TVE4ZG1FQTVPOTN4ajFSTlBNUk51eTdpaW1OYkt3b2FMazhaMXREM24yNVRzY1VJaHdPa2JVbkt0SWZVMGUzdHhVTzMySFJRUU5hMWFBSmpzYlVCMWNPMkdzNDVfLWxKLUYx0gF0QVVfeXFMTWdCZEl2dGtydl9wLTJkeWtSOFBmWVN6VjJlX3ZTdjBldDBVV0RlLWQ1d0NDeWVyNFBnYXBSVHhLTWYtSU5fM0N6N2tOYkxOc2xuQWxDT1hGZm9MaElEWnJYQW9JN1gwbHpQMTNrMW96c3FNMnM?oc=5",
-              "source": "MBC 뉴스"
-            }
-          ],
-          "description": "젠슨 황 엔비디아 CEO가 자리를 비운 사이 반도체 업종이 흔들리며 한국 증시에도 영향을 미치고 있다. 미국에서는 러트닉 상무장관 후보가 가족 회사와 연관된 반도체 수출규제 완화를 추진한다는 보도가 나와 규제 향방에 관심이 쏠린다. 국내에서는 소재·부품·장비 경쟁력을 키우는 'K-반도체 트리니티 팹' 동반성장 전략이 주목받고 있다.",
-          "headline": "젠슨 황 떠나자 반도체주 흔들"
-        },
-        {
-          "rank": 5,
-          "word": "분석",
           "count": 3,
           "articles": [
             {
-              "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MRU16cGgwVFp1TFB0aGM5TkdrblRYRmhSTFFoOXpQcHJlaGtvRjJ6MG4yR0E2QzRjR2c4c0lvUFdnX203WTZQbjZfQQ?oc=5",
-              "source": "GeekNews"
+              "title": "삼성 AI 안경이 삼성 반도체를 훔쳐본다",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTR5bE91MHNZVFBpdEhHdGlqRzlxSlJtd1NQaUF6eEliR010MUE4Um5KTkp0XzFqNlQtTTFvLUtsRlA0NGFJOTRYMGVZS21CUFBHMVR2c0lrM0p6elA5cXZ1TW9tSFZ3cG81OXoydElSNk5CTVAtRFhRNU1pUDJEeVJ4VFMxQW1YbE9JTk15NA?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "비아이매트릭스, NH농협상호금융에 AI 분석 솔루션 '트리니티' 공급 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rQUxiaHdON3JZUnltcWNCTTN6VFFud045N1NXNTVVam8zb0VRaFVoTkF1U3BBcnRocGhKb2dkenUxV1IyWWFfUW0za0RNSkEwUTlKOGhndDYxOVdORlRVckpRRFRwTWVi0gFuQVVfeXFMTlJhczlLVDg0TXltYm8telZJSGh1Tk0tLVctTElkZFdiWjU1RDZfX0JUOVVHOW5wUjBzNVRrYUxYbDNkVjhZY2ZkbGxTR0I1UUNzOEtzYXdDRDljU29xT0J1aFc5a3hfNHFtcHFsS1E?oc=5",
-              "source": "머니투데이"
+              "title": "중국 반도체 투톱 ‘솽창’의 10년…‘D램·낸드’ 삼전닉스 맹추격",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wZFlLVXFjWFdEQ2pRQUlDYm9CSWRBMFR2RGU1OWh3UlVaeTVNOUVlbFZiM3JnbnMtMXV6NTJsSkFNU1ZEd2xxUUxSYXM4bjFhVTQ5NTRVSDZqTjFXWWNUMXp4ZXlIM0tyTjNDXw?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "'현장-분석-방역'…경기도 모델 전국 확산",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmOXNyWmV5Nk9VaUhYNUM2d1hxaVNydE1OOF9UZHFWdVFiVC1UZXBWaGgxam96MEJRTVpqd2NLbzFtNTZKZTZrOUVmQzN1YjFnWkoxcW9MTVRMc2hwa3hlUk5lVmlFWlBiVWdwbWp0bkI?oc=5",
-              "source": "인천일보"
+              "title": "반도체 장비부터 K-소비재까지…경기도 ‘대만 수출’ 96.4% 껑충",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hSXIyWEMtOUhyV293ZVA1V2JXNHJSbHNPUHZGdEYzaWxxdExqZjBBcEl4UFpUdHVTcExhaWdiMm1xY0VmTFhvbVpnenM3ZFo3ekVxRFduZzNTYlE?oc=5",
+              "source": "경기일보"
             }
           ],
-          "description": "오늘 처음 화제 키워드로 등장한 '분석'은 AI 기반 데이터 분석 솔루션의 도입 확산 흐름 속에서 주목받고 있다. 비아이매트릭스가 NH농협상호금융에 AI 분석 솔루션 '트리니티'를 공급한다는 소식이 전해졌고, AI 에이전트용 데이터 분석·시각화 프레임워크 'AVA'도 소개됐다. 경기도의 현장·분석·방역 모델이 전국으로 확산되는 사례처럼, 데이터 분석 기술이 산업·공공 전반으로 빠르게 번지는 흐름이 반영된 것으로 보인다.",
-          "headline": "AI 분석 솔루션, 각 분야 도입 확산"
+          "description": "중국 반도체 양대 기업 '솽창'이 10년에 걸쳐 D램과 낸드 분야에서 삼성전자·SK하이닉스를 빠르게 추격하고 있다는 분석이 나왔다. 삼성전자는 AI 안경에 자사 반도체를 탑재하는 등 새로운 활용처를 모색 중이며, 경기도는 반도체 장비 등을 앞세운 대만 수출이 96.4% 급증했다고 밝혔다. 기술 패권 경쟁 속에서 국내 반도체 업계의 시장 수성 전략이 주목받고 있다.",
+          "headline": "중국, 삼성·SK 맹추격…반도체 경쟁 격화"
+        },
+        {
+          "rank": 5,
+          "word": "고객",
+          "count": 3,
+          "articles": [
+            {
+              "title": "274조 이커머스 시장 성장 둔화…\"할인 경쟁 넘어 고객 쟁탈전\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EdmZidHJYREJUaGk2X3JzYl9ER0NBU2J0b1dqZkZFaFNhOHJYc1NYaTFtUGl2MGppVEtpNGdqVEVfeHFRbUxzeW1KMlFwZGhOYXNGSHZFUmg3dw?oc=5",
+              "source": "파이낸셜뉴스"
+            },
+            {
+              "title": "메가커피 고객센터 위탁업체 해킹…상담 고객 30명 연락처 유출",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02VHFjWUltV05lZlo3YnZhRlduYTRhd0dMT2wwc3RVdVpDZ3NOOUN0OTJ1YWVmdWlramQ3WkYteUhObHdnN3BzSDlidkZPc2lWWWtnU2NwSm90S2vSAWBBVV95cUxPeHlGbFc2LXpnbkVQMFNnbm1BMzBSSnFLcm5Cek1oOFVDdThIU1V5V09jZ3YxVTRrZ3RXYnpPTTE2TmYzZHpBS0FabnJoSEdaWTdUN0Rqb3VLNmJWMjNCWmU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "삼성전자·SK하이닉스, 中 매출 4배 급증…고객·지역 다변화 결실",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zQzJRa1lYcUV5MmtSZ1VVQ1ZVOXBkZHB4WGxHTkRnUWpEa05QZE5xUHZIdHUyNUI0UUJsOHdzdkVsY3hqY01NVGlVUlNaYnJQMlNiRGFyMzVpVy0xU1BqMnRkcm1fcnYt?oc=5",
+              "source": "녹색경제신문"
+            }
+          ],
+          "description": "메가커피 고객센터 위탁업체가 해킹을 당해 상담 고객 30명의 연락처가 유출되는 사고가 발생했다. 274조 원 규모의 이커머스 시장은 성장세가 둔화되면서 단순 할인 경쟁을 넘어 고객 확보 경쟁이 본격화되고 있다는 진단도 나왔다. 삼성전자·SK하이닉스는 중국 매출이 4배 급증하며 고객과 지역 다변화 전략이 결실을 맺고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "메가커피 고객 정보 유출·이커머스 고객 쟁탈전"
         }
       ]
     },
     "연예": {
-      "summary": "고경표 음주운전 자백·정웅인 소속사 대표 사망에 눈물·제니 그래미 2개 부문 후보·로버트 패틴슨 7대 제임스 본드 낙점",
+      "summary": "로버트 패틴슨이 7대 제임스 본드로 확정됐으며 · BTS 6관왕·아이브 5관왕으로 MMA 2026 막 내려 · 제니, 그래미 2개 부문 후보 및 GTA6 앨범 참여",
       "keywords": [
         {
           "rank": 1,
-          "word": "고경표",
-          "count": 1,
-          "articles": [
-            {
-              "title": "고경표 “하지 말라던 음주운전 내가 했다…주머니에 넣은 건 차 키”",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTZlUzSDFGNWRBMTFCR19oZnJjLTRLbE85UHdicWJheWkwQjdLLXUyR3A1UTIzbjJUMjNqaXktZlRBV3M4VzVVUUM5SV9wX1B1emNzeENYdUlpeC1jby1nQmFFTHNqMmZDV09HQU00d2NaUQ?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "김승우, 절도 혐의 피소에도 '건강왕' NO편집…멘트·단독샷 빠진 고경표와 딴판",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzJGUUZtbGRZblNldkVXTTRLTzFmQjdub3E2a3BaMno4MEpLLXBjeU52RVVxODdyRU5NTDBwWk1YeGJpeFY3cXBPdHdqXzRGLVJBRm55OTZ6dXFFUHhXRVJfVDdjT3hYYkRwMzFkZ0pVT1A5RGh5ekNtQ1Y0eWs1TWM2ZklKaWg1bmRVWm4zNVZDemVu?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "고경표처럼 청소차 '쾅'...호란, 세 번째 음주운전 사고 '재조명' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HbzVNU05EenB5UTJyclFHWHhzTmxRZGtBcmM5UDQ3WmM4c1dHVXJ1YnRZb1BEM2hTTDY0M0Y4RURkNlZ1RW11eU5ZV3JzZnRONU4yWlN0ODQ0aFFoSXk5Rm80bWxSZ09VN2FOSVRYbFBQM2_SAXhBVV95cUxPVlR1dENwUnVxSElNc0ZqYjZfajNSbXVEc1hpZDlOSHd4M2FXM1lEZ0c4OWJ0dlg2MHRvbzRlbDAxYlJueXlMQmF6TlA2d3VKbnB3WG1yZ0VibWRjQ2dPanNrQkR2NnpUZHBpTmhWd2xhUFRXaWpDVEc?oc=5",
-              "source": "머니투데이"
-            }
-          ],
-          "description": "고경표가 음주운전을 직접 인정하며 '하지 말라던 음주운전을 내가 했다'고 고백해 화제다. 출연 중인 프로그램에서 음주 관련 발언을 하며 사실상 자인한 것으로, 차 키를 주머니에 넣었다는 발언이 주목받았다. 같은 프로그램에 출연 중인 오상욱이 술 약속 자리에서 '차를 놓고 왔다'고 밝혀 대조되기도 했으며, 과거 호란의 음주운전 사고도 함께 재조명되고 있다.",
-          "headline": "고경표, 음주운전 사실 직접 인정"
-        },
-        {
-          "rank": 2,
-          "word": "정웅인",
-          "count": 1,
-          "articles": [
-            {
-              "title": "“어떻게 일 할지”…정웅인, 소속사 대표 사망 언급하며 눈물",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxdTZaODI3Ny1uRUxCVDR3dnFBUkhHMnVtUUtuYXc0LUc4LXZnSm9lQ0F3SjQ0bzdRUmcyajY3ZGM5S05KQWowMHotUVBDOUQxOUx4Uk1tWk9lV205RjJSdmV3?oc=5",
-              "source": "미주중앙일보"
-            },
-            {
-              "title": "“어떻게 일 할지”…정웅인, 소속사 대표 사망 언급하며 눈물",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLZGdrbDdscFAzMGdHUVM2YXZYdTUwMjFvOWpDOUtoak9sejFzRXNDaW9uTzFYVllORW95NjRtSlpjUWZ3cXRjTWllYm15Mmg2T2Z4Q1Z3?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "정웅인, 전 매니저 사기 피해→소속사 대표 사망…\"또 위기\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WRlVFZ2F6XzNkc2QxR1l1a3VraFhpUFRmdDU0ZUFBUG8tcVV5MERBVGp3WVlrMXpfVW82RVROelR3bGIxU0lXcDJYbllQLXBaQjEtWkhKbzNhQ19TRGJ4M0dwRHBCc2lHcnhCVDhzMEdVX03SAXhBVV95cUxQYVZHaG5DUjNfOXJOVG5ibU5TWHVFRXlxaHVPemxLSGptS3AwWXBiQV9IU0p5c1pMNVdFMy1zMFdnSEFPYTJRN3dVbzVFTlI5M29sNVlTYXBaV0xSdERHMmx6SE5Lelp0VlliaWJ1bk1ldnRXRmw3ZTI?oc=5",
-              "source": "머니투데이"
-            }
-          ],
-          "description": "배우 정웅인이 소속사 대표의 사망 소식을 언급하며 눈물을 보여 많은 이들의 안타까움을 사고 있다. 앞서 전 매니저에게 사기 피해를 입은 데 이어 소속사 대표마저 갑작스럽게 세상을 떠나, 향후 활동 방향을 걱정하는 목소리가 나오고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "정웅인, 소속사 대표 사망에 눈물"
-        },
-        {
-          "rank": 3,
           "word": "제니",
           "count": 2,
           "articles": [
@@ -319,9 +271,9 @@
               "source": "경향신문"
             },
             {
-              "title": "제니도 반한 노천탕…1박 160만원이라는 ‘이곳’[셀럽스테이]",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3hhQ0VDcDFYekhyN3ZFRDl4dFBDSlA0dU44ak4zR0VJUm9YSGJva0JWblAybk9ZNmJFUVFza01iZWxldktKbkNVamVwVzJ4akYwVllCX2kzbjZsR0xSQTVtYzR3dG5veWpNa0lBQ1p2bmpwZjVidlpsSF9kZWxOMg?oc=5",
-              "source": "이데일리"
+              "title": "'그래미 2개 부문 후보' 제니, 'GTA6' 공식 앨범 참여…韓 가수 유일",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53R3g4VGZuQzJWTDFhRDBmRlE5S1ZlNFhqM3Z6NEpTV0ZpZGRtTmxlX1dhYjBldmcwOTU4bWxjLU9OZjhKWkZEUlpDMlRwZHRhTWQzZlEtMzduUmtXaF9uWNIBeEFVX3lxTE52RDUwUFZqTDd6VktNLW5WSTVrX2hvQzkwTlF5M2xGNWcwY193aEg4eTFTZFlBM2U2VWx2amUwT3BJZ1pVTjhiOFNtTEFMRDgwb243V2hmMG1vb0N1c0VQZnlVLWtHLXVVc0pjZHdMTVVzTVFCMUhCeg?oc=5",
+              "source": "뉴시스"
             },
             {
               "title": "제니는 본상, 아이브·키키는 신설 부문…논란 속 그래미 두드리는 K팝",
@@ -329,61 +281,109 @@
               "source": "서울신문"
             }
           ],
-          "description": "블랙핑크 제니가 '드라큘라'로 그래미 어워즈 본상인 '올해의 레코드'를 포함해 2개 부문 후보에 이름을 올렸다. 아이브와 키키 등 다른 K팝 아티스트들이 신설 부문에 후보로 지명된 것과 달리, 제니는 주요 본상 부문에 진입해 의미가 크다는 평가가 나온다. K팝의 그래미 본상 도전이 현실화되면서 국내외 팬들의 관심이 집중되고 있다.",
+          "description": "블랙핑크 제니가 '드라큘라'로 그래미 어워즈 본상인 '올해의 레코드'를 포함해 2개 부문 후보에 이름을 올렸다. 여기에 GTA6 공식 앨범에 한국 가수 중 유일하게 참여한 사실도 함께 알려지며 화제를 모으고 있다. 아이브와 키키 등 다른 K팝 아티스트들이 신설 부문 후보에 오른 것과 달리, 제니는 그래미 핵심 본상 경쟁에 뛰어들어 그 의미가 더욱 주목받고 있다.",
           "headline": "제니, 그래미 본상 2개 부문 후보 올라"
         },
         {
-          "rank": 4,
-          "word": "로버트 패틴슨",
+          "rank": 2,
+          "word": "MMA",
+          "count": 2,
+          "articles": [
+            {
+              "title": "BTS 대상 2개 포함 '6관왕'·아이브 눈물의 '5관왕'…MMA 2026 피날레 [종합]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44SDRaclRha0F4TVJUN19hd1pJRTE1cm5URGpWNWVaY0VGdWhVZjVlRlg5b3BYR2wzbWdvelFkTGktNG5waDd4cGZxdUpQbVdZbFdfTHVZMVo1dw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "방탄소년단, ‘MMA 2026’ 대상 포함 6관왕…코르티스·아이브·에스파도 大賞",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nd0YxdHFFRWJjcU9yNTBINk03STJ1anFXNDVrVUdPN2lhbTZ0ZFd2RHRweTdNdU1OLWVCVjZLZklZdmtMY0hGYUN2U2ZfcUhlYmlNbWZmUjJtbV81b0ZxcWhnZlRiYmdrUXFqNklYcXZMVlQxOUHSAWZBVV95cUxPd01NdE5namNySmY0elFtZ3BPQW1jYWtNcVk4ZVdfc0tEdDVNOFFIaHhMUzFyZWJrWC1vclNGT2NnUk9xUU0xdnN2Wm9iTlJVdk5abTl4a2E0VVNkYjZYMUkzYXhLSmc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "BTS, 'MMA 2026'서 대상 2개 포함 6관왕…에스파·아이브·코르티스도 '대상'[종합]",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTMUlkX011Qk1MNVhOaEQ2c1gyVjcwWlQ2d3ZxaGNmVHMzUjVmX0ViRlBrWlA4VVpSaE83UVNmX2Z6dUFUelpuUWk2b1ZuOWRTX2c1Sm1Obl95cVZaMm44bWJXdWtKLXo1MzVNb3dnUVU?oc=5",
+              "source": "SPOTV NEWS"
+            }
+          ],
+          "description": "오늘 열린 'MMA 2026'에서 방탄소년단(BTS)이 대상 2개를 포함해 6관왕을 차지하며 시상식을 압도했다. 아이브는 눈물 속에 5관왕을 달성했고, 에스파와 코르티스도 각각 대상을 수상하며 풍성한 수상 결과를 남겼다. MMA 2026은 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "BTS, MMA 2026서 대상 2개 포함 6관왕"
+        },
+        {
+          "rank": 3,
+          "word": "다니엘 크레이그",
           "count": 1,
           "articles": [
             {
-              "title": "로버트 패틴슨, 차기 제임스 본드 낙점…역대 7번째 '007'",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uN0VnWWpCenB3dVBjLXFjVC12eVBhSDIyd3E4REtfalh4LWFET2Y1RlpiekFSeUsxTlJzQ2JleGFGR1BpWjRrTDItbEJwd0V5ZTNaaU1rN0lKUzVwM0xaX9IBeEFVX3lxTFAyRHdqbV9sWExyX19xdEwxTGc1Sy0wSFk1RVNzZE9wMnZ0all3U1JPSWpPVmR2UGxYdWZkY2F1T2xFcThnRXpSV2JmZHgzeDY4MWhDSkgwQnNKYzFwU19CcDA2TG5mOTVzU3I4RTlJUEY0dGlHWEstWA?oc=5",
-              "source": "뉴시스"
+              "title": "‘전설’이 된 다니엘 크레이그 넘을까···7대 제임스 본드에 로버트 패틴슨",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vNlNwN0tQcUgycUVqWnBvTm1aOFIteWE3QUxNSnJ0Y05USTc1c01XeFVieGJodGhqaVlYVUZMTFR4RElRYTlyM0JjSVQ1V0dxME1mR252MU03Z9IBX0FVX3lxTE5IRDBrQXFONEx2dmVkUjd0bkEyZExkOTVRdXlxQVpBTW5rQVRKZkJfbjVVMm45ak4ydkt3YzZQZmdkeXNIM3J6X2JnLUNHNTBXeFRQMGVoblNDd0xDeE5B?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "로버트 패틴슨, 다니엘 크레이그 이어 7대 제임스 본드로 선정",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SVWdPbGZqdS1scHZaQmpkTS1zaXJQNEFFOXV3S0t6a1pqWmFMMmIyUjZkRGN2eU5LaHNodjFBQzl5cktPb1hPVzNwMWt1TGY2NTdpTDR1aUU1WlNkVnlBOFBUOF83R2xRR0I3OGp30gFzQVVfeXFMTVFpcENBcmVmYjFhc0NmX3NtSzlkY2VSN1RkUjEza0Fzb0NFMFppQWVJRjJUZk1CMVdtQW81czdkQ3FDRXNwZm45SE1wdWM1LURoOUs5ZlpoR3IteHF6WGZJQ2Fla1JTU2thTUpPZnRrQ3VXTQ?oc=5",
+              "source": "한국일보"
+            },
+            {
+              "title": "새로운 ‘제임스 본드’는 로버트 패틴슨",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDdVVRNGJkeUFVSGtCdENweTMxbW9XMTFPeENGejlIR1IzZVloaW9FREcxdjJFSC10enhtbjVKSUtYOUlVcDV4NWJRYmdLSTJfY19vMHdOSGY1LXVwM1E1YWRYV2s2RlRMSEZKWURpUml4VC1XUEZB?oc=5",
+              "source": "아이즈매거진 | eyesmag"
+            }
+          ],
+          "description": "로버트 패틴슨이 다니엘 크레이그의 뒤를 이어 7대 제임스 본드로 공식 선정되면서, '전설'로 불리는 크레이그의 후계자가 누가 될지 쏠렸던 관심이 마침내 결론을 맺었다. 다니엘 크레이그는 2006년부터 2021년까지 6대 제임스 본드를 연기하며 시리즈의 새 기준을 세운 배우로 평가받아왔다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "다니엘 크레이그 뒤이어 패틴슨이 본드로"
+        },
+        {
+          "rank": 4,
+          "word": "제임스 본드",
+          "count": 1,
+          "articles": [
+            {
+              "title": "로버트 패틴슨, 차기 '제임스 본드' 확정…'007' 시리즈 새 얼굴로",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVmt5YmZwdUtHTnM4aTV2ZEU0Sld5Yml2Ni1kTDlPSFJxR0lVY1VIS3VmZm0zX1ZWTnBJeXFyOExZeHhEMmZxYUJ6ajV4UQ?oc=5",
+              "source": "전자신문"
+            },
+            {
+              "title": "로버트 패틴슨, 제임스 본드 된다…새 ‘007시리즈’ 캐스팅",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UDItcU5aLVJwblBhb3E4OXZBVDYwXy1hWUJ2ZnB2NC1jRTE3Wjh6ZVllNnpVTU0xWmVkdzBjQTJ3VU9fWS1JZW4xNGZUMnp6Q2FKYkd3?oc=5",
+              "source": "중앙일보"
             },
             {
               "title": "로버트 패틴슨, 7대 제임스 본드 된다…'007시리즈' 주인공 낙점",
               "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11eHFBTjR2cThJM2JxZjIyVFNURjhhZFlIbTZyUTdTQkIyMzVwZEhjQlU3R3hkVnhtTXlPdnMwOFJGY1RpUGJtMHAwZFdaZUw3N0xBT0Z1TlpOYlnSAWBBVV95cUxPdUxGLUdpU05YazMyNk5Tazd2QWQyV2tIWkFXTURBaEhJQkZVNHd1d1hud05GQUVNSTlSaGVrWE55WFVJVXQycUlibUZkWVdlTXB2Z2hJdG9Ma01OekxVdUQ?oc=5",
               "source": "연합뉴스"
+            }
+          ],
+          "description": "로버트 패틴슨이 차기 '007 시리즈'의 7대 제임스 본드로 공식 낙점됐다. '트와일라잇' 시리즈로 세계적 스타덤에 오른 패틴슨이 첩보 액션의 대명사 본드 역을 맡게 되면서 팬들의 반응이 뜨겁게 쏟아지고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "로버트 패틴슨, 7대 제임스 본드 확정"
+        },
+        {
+          "rank": 5,
+          "word": "로버트 패틴슨",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘트와일라잇’ 로버트 패틴슨, 제7대 제임스 본드 낙점",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vMjR2dHZCaEV1Qmozb0ZWMTJkU3FqZGx0Q2RrTzIwaGpYSDVYb01mN2NhbjlpRzNVZzVDU0ljLVcyWHVyU3RWWUFKUGlGczk3NVlEeXVIdW5yTzlVcWpVcENuR0IyTV9vOHR2WWVCSnRIeE3SAWZBVV95cUxOVUUwR0FfSnZuQkpONFpaSU1vdG91UEptTDgyaHN1Mkl3YzZIT3Z1eER2TFRUblp5VW1hSXJ5NDhJb2k2amw1SUljTVRFaFdaeFdMTXFjMWkwUll3LThVWlBRTFZDYkE?oc=5",
+              "source": "동아일보"
             },
             {
               "title": "로버트 패틴슨, 차기 제임스 본드 공식 확정 | Hypebeast.KR",
               "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWZmcFNSSkhRdndFc09QZEpiQU83SGlsUzVrMTZlaktLbEhCNkQ4WkpHa0QzOURMbkNuZTNGNGhPY29hcFMtNXluLWZtMkV3aUgxVVBaNHpJVzl3eWtIS0ZtZHR2NFVUYnlNS3hWU2tWVGRPMXU5dVJOczk3b3lrVGhqOER1VjBkcnJoNXJR?oc=5",
               "source": "Hypebeast.KR"
-            }
-          ],
-          "description": "할리우드 배우 로버트 패틴슨이 차기 제임스 본드로 공식 낙점됐다. 역대 7번째 007 시리즈 주인공으로 확정된 것으로, 여러 매체가 일제히 이를 보도하며 화제를 모으고 있다. '트와일라잇' 시리즈와 '더 배트맨' 등으로 글로벌 인지도를 쌓아온 그가 이코닉한 스파이 캐릭터를 어떻게 소화할지 기대와 관심이 쏠린다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "로버트 패틴슨, 7대 제임스 본드 공식 확정"
-        },
-        {
-          "rank": 5,
-          "word": "오상욱",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'日 모델 열애설' 오상욱, 이상형 고백에 또 불붙었다…\"키 크고 무쌍\"",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcEYzWWV1REFaMGxWVTdUSHBtNzllX0ZqdGVsQzZXaGFGb285bnFMZmx5QUczamQtNkl2QzdnYUFQUjB5THdNZ2pzNHUzVFJCS203NmZmTGxpTDNxWHU5aElodHNoYk9TMjNCSEQtWVRtMzlHdTZ5al9KM19kaGpqV2pMTHQ?oc=5",
-              "source": "스포츠조선"
             },
             {
-              "title": "오상욱, '음주운전' 고경표와 달랐다..신동엽과 '술 약속'에 \"차 놓고 와\" 모범 답안[Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQTFSQlF3QzhDS2NldUtsYldmb3lUdEZxbEttZzNPZThkcXBwNGdzRDQ0OWloRk9ONWtyRXlWSnFJS1Itb1BnS0J0VlFVS1puV2RYWXFWeDYxdUIyc09oOUtPc0lqV3BrdllCUlY1bDdtTGMwUy04M1ZoRS0wR3dORkdNVXROTEhDQ3BFSnJ2aw?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "고경표 보란 듯…신동엽 “택시 탔냐”→오상욱 “차 놓고 왔다” 뼈 때리는 오프닝",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rX2V0Z1A1RzZoSG1GQkJ4QjE0bHNzNUJ6RXl2TlpyVW9aWk54WW9Cem1FRW9Nc0Vjb0pvSUhrRUpFeGU5VGprNm4xOFhGdkhuamxzVzctaW0?oc=5",
-              "source": "스포츠서울"
+              "title": "로버트 패틴슨, ‘007시리즈’ 7대 제임스 본드 낙점",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GLTJKU0tIU2tmaHRXN2c0R2lCaFRWSWR5RXg5MWh6RWs3Nll1bTJjTWVoNDFMTEJsdFMzMzdYbUFHazhmVXlRZFRrYUhuRk1ZU1dvaVJSd3AwQnZnSmfSAWNBVV95cUxPQWdveTBZdzZEZUtqZGdubk05QThPZWVaQUx0b0RnUzFiZm5ERThUNWc2SDNMejRGd2tEMmdieWhaN2E5RU9Tak5wSTkyd0VZRUpsRUN4X0dDeXA5TXhpajVVMGs?oc=5",
+              "source": "채널A"
             }
           ],
-          "description": "파리올림픽 펜싱 금메달리스트 오상욱이 술 약속 자리에서 '차를 놓고 왔다'고 밝혀 음주운전으로 물의를 빚은 고경표와 극명한 대조를 이루며 주목받고 있다. 신동엽의 '택시 탔냐'는 질문에 모범적인 답변을 내놓아 긍정적인 반응을 얻었다. 한편 일본 모델과의 열애설도 함께 거론되며 이상형 발언이 재조명되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "오상욱, 음주운전 고경표와 대조적 행동 화제"
+          "description": "'트와일라잇'의 에드워드로 이름을 알린 로버트 패틴슨이 7대 제임스 본드로 공식 확정됐다. 다니엘 크레이그가 하차한 이후 차기 본드 캐스팅에 쏠렸던 전 세계의 관심이 패틴슨으로 귀결되며 오늘 연예 분야 최대 화제로 떠올랐다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "로버트 패틴슨, 007 새 주인공 공식 확정"
         }
       ]
     },
     "스포츠": {
-      "summary": "JTBC 올림픽 중계권 해지 · 챔피언스리그 공인구 26년 만에 나이키로 교체 · 김혜성 다저스 방출 위기",
+      "summary": "2036 하계올림픽 공동유치 협의가 불발되며 전북이 단독 유치로 선회했다.",
       "keywords": [
         {
           "rank": 1,
@@ -391,119 +391,109 @@
           "count": 3,
           "articles": [
             {
-              "title": "JTBC, IOC 올림픽 중계권 계약 해지...\"재무 불확실성 제거\"",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmM1hOVXFkYjdULV9hREdrZ1o0RFBHSVBFUXJWYjE1OTdCWU8zemc0RUxYY1hLRUdGa29fVm5sWUY3YVI2Zjc3Y3lPUUZJa1pzbWVPZTU3c1lzRngxZ0pxSEhzV2J0bVVPMlZJak1ib3dTdVc0NDVhZS1ZSllMbldhclVOT2RDb2ZUMThBd2tSOG1n?oc=5",
-              "source": "조선일보"
+              "title": "'괘씸죄'로 서울시 탈락? … 체육계 속내 드러난 올림픽 유치전",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zejFrV2lDX3YzN0NobnVVN25SczIzMVpQNlhZU0FfV3RCRThhRDhHNzZ2YW9kSGxLaVBoZ1YyZHdZOU9Objd4aW1pVnFQMmFEeGJVSEpvWTB2aU5qckhnYU5pNlRaeWYxaFB0X0QySloyV3hzLVBHY1VERdIBgAFBVV95cUxPSkdzUWlLcURUWFRFaXZSZ3dUZTYxLUthWDFHSWJQaUtqRHBRQi1rekRNc0ZNd05aN0ZJMEN6R0lmdExPZ05YVXVvdWx1NVFSaEIwck5LVlVCVTE5YkpPYlNkdkR1ZnF1MkVmcFJNYm5mRHZLbThsOTJ1U2ZEVDhYcA?oc=5",
+              "source": "뉴데일리"
             },
             {
-              "title": "JTBC, 올림픽 중계권 계약 해지…\"재무 불확실성 제거\"",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQelFkcXNkRF9JN2stdVdCVU1vMl9BSnRWWjJfTFlDdFlpd2ZaTlBwYWF6OHJBMjlJVThKdmxsUjFBNlc4eThERExHRXA4d0V6WFA5YW1uMnZQMzlKZ05iN2llMWkwUUlONzlSWXNpUUhYcGtTV3lXWGdnNmFiUXRfSHlmQkNmMEItY2JpZ1hqNEFpdWQtM3hnbG53LWxKUGlkbEx1UVZlNnozaFdyakdZVTFPY01WSE9XUjBZUm9iZU5URGE0TmpXOHZieVNpdDY3bTdRYmlfMzZqUVhmYnFhZF9HRXh2NGEwZ3d4NEpHaWJPRmZ0M3pUZg?oc=5",
-              "source": "데일리안"
+              "title": "첨단분야 교육 올림픽 '2026 제3회 코-쇼(CO-SHOW)' 전남광주에서 개최",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtR2pxc0hURnRUblltZGF6NHZLY0R6QWFqS3JHMlEwcjJsemJSeUdndWZPeUxEUnJnUEJlWE54dzNOOE5wd1FlOTNzcHhkMDBqQVgyeHF5aDZvcTI5TENyS01R?oc=5",
+              "source": "서울Pn"
             },
             {
-              "title": "JTBC, 2032년까지의 올림픽 중계 사업 포기…IOC에 중계권 반납",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XNW9odzU4ODNZc19CREdzcHg1UEZ4OG9fTzVvbTN2SmE2bS1FekdiSEx3OHFKczA1NVRDYVJUbGpsdEktdU5RSUllenRHSDRNRmZWZzB2azZUcUtxRU1yQ0FlQ3NZTFZZNy1MetIBcEFVX3lxTE5pcVNYMUFnSVpqUHkyaEQ4Z052dWVZNDBlNmhkNWoxc29LWXFJRXhzMy1YTjBpZ1dTUVdXVDktemg3cWw1aEs1OWdUNXBEWmJaT0pWMzZYRUx1a0o4SU9YVlZ4dmliTEp0cmFJZWVfd1c?oc=5",
-              "source": "내외뉴스통신"
+              "title": "'올림픽 4관왕' 쇼트트랙 전이경, 2년간 암 투병 고백…\"인생 최대 고비 넘겼다\"",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tM1BlZDlYTk1pc1lQYnE2MkdaWFhiZ0Rnek5oZkN1QnhxWkRrX1M2aHhBVi1FQ0NodkNleDdaeHNIMjRNbEwzYjJhTkl0Ty1lWGk2enNfZl9aX2dT?oc=5",
+              "source": "뉴스핌"
             }
           ],
-          "description": "JTBC가 IOC와 맺었던 올림픽 중계권 계약을 해지하고 2032년까지의 중계 사업을 포기했다. JTBC 측은 계약 해지 이유로 '재무 불확실성 제거'를 공식 입장으로 밝혔다. 국내 주요 방송사의 올림픽 중계권 반납은 이례적인 일로, 향후 국내 올림픽 중계 체계에 변화가 불가피할 전망이다. 오늘 스포츠 분야 1위로 급부상했다(어제 4위).",
-          "headline": "JTBC, 올림픽 중계권 반납"
+          "description": "'2036 하계올림픽' 공동유치를 두고 서울시와 전북도의 협의가 불발되면서, 전북이 단독 유치로 선회하는 등 유치전이 본격화되고 있다. 체육계 내부의 '괘씸죄' 논란까지 불거지며 갈등의 속내가 드러나는 양상이다. 한편 '올림픽 4관왕' 쇼트트랙 전이경 선수가 2년간 암 투병 사실을 고백해 주목을 받고 있다. 올림픽 키워드는 어제 4위에서 오늘 1위로 급상승했다.",
+          "headline": "올림픽 유치전, 서울·전북 갈등 수면 위로"
         },
         {
           "rank": 2,
-          "word": "투어",
-          "count": 3,
-          "articles": [
-            {
-              "title": "황유민, LPGA투어 신인상 무산… 日 3연속 수상",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtSTgtWjd4TXhLNFo5X0xQVGl6M2owcnNCeEZUSEUzMDQxMzZYWmxKemxzelIybnVpTDZYeDNVSGNuVG1HZWhPdGZnY1BaQmZVOXlwaTdnckpiMTZVVkRkQ3l0aTM?oc=5",
-              "source": "매일일보"
-            },
-            {
-              "title": "유해란·김효주·최혜진·윤이나·황유민 등 한국선수 13명, 최종전 우승상금 400만달러 도전 [LPGA]",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzMUZ6VEZ0WlNaZDNZbWNVaGg5ekZhMWxRRWdMRXJnQ0xrVFU4NlVVcDNUd19Uam1NcDk5Tm55WU1SUlNJdU9WRXpZdHVGS01pQy1ZREZXa2Y2MzNIWWE1MlNoOEs2U0g0dnNvRnNxOFJMdEdSeVRSRtIBfEFVX3lxTE52Q0tUUjJMYVlpOEoyTFE2cndyUXhPX0xES01jeXR3WnVPckN0LWI5Mk0xSFBYS3ZWTjBIRjJDTXZOWU04M1VtLXJLRUxOMXVXNDRMaGh3dnQxLXNWYXZTcWh0OUJZYncyaGRtYk91NC0ycjdCQ0gwTVYzR3c?oc=5",
-              "source": "한국아이닷컴"
-            },
-            {
-              "title": "황유민, LPGA 투어 신인상 불발… 일본 하라 수상 확정",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13bUxyVkJmcnFpbmlyZjRWYjd2Y1FBS3hWSldEZHpyd2RZZVZJVmNzdG0zaVEyVW9KZGowVnRjOTVBb1AtbEs2LS1LVHlGQUdJbm5iS1lGSU53cXIwMm5zemsydFI2WXY4NEE?oc=5",
-              "source": "천지일보"
-            }
-          ],
-          "description": "황유민이 LPGA 투어 신인상 수상에 실패하며 일본의 하라 선수가 수상을 확정지었다. 일본은 이로써 신인상을 3년 연속 차지하게 됐다. 한편 유해란·김효주·최혜진·윤이나·황유민 등 한국 선수 13명은 최대 400만 달러의 우승 상금이 걸린 최종전에도 출전해 시즌 마지막 도전을 이어가고 있다.",
-          "headline": "황유민, LPGA 신인상 불발…일본에 돌아가"
-        },
-        {
-          "rank": 3,
-          "word": "공인구",
+          "word": "삼성",
           "count": 2,
           "articles": [
             {
-              "title": "UEFA 챔피언스리그 공인구, 26년 만에 아디다스서 나이키로",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mOWRsTTFZbjYtWDBrVmdVazNvS0NIRlFnWkV2aEREajdqeU14bGZZWnluMFhfUy1PMjliZi1HWHRRQVlrbHExRE1PdlFfdFpaeTJaYjBmSTNRVXPSAWBBVV95cUxQdmpBZUJjbDdWdXlUckRnSTk3SFRITXB5ZWNPVDJOeG9lakpWNE93czVmRjBwNTFWX3RFRFRxQ1U4Q2Z1SW5OUmpiREN3SHRYRHRDUmZwS2ppWVJ6V1BpN3o?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "'별무늬 축구공' 사라지나…챔피언스리그 공인구 26년 만에 나이키로 교체",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTUm5wWEEwVmJpTHM1MHd3R01zaDlKOW0zMi1mX2FwMzRxTEFGZFQxVzhQZ1dQWUI0OTNuZE9zNUt1OU43TTRfZl9jX2ZISGN2MWpwWko0VDRoV3FuSkxPQg?oc=5",
-              "source": "KBC광주방송"
-            },
-            {
-              "title": "UEFA 챔피언스리그 공인구, 26년 만에 아디다스에서 나이키로 바뀐다",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zbTVQLXQ3WW1zR0tpZTNEcXZiRlBvblVkaEU1MGoyZTFodjFpR2NNMmtqMkI5dnBtdWJCSzg2TkFmcnNCdURQRVgzTGNjRVln?oc=5",
-              "source": "문화일보"
-            }
-          ],
-          "description": "UEFA 챔피언스리그 공인구 공급사가 26년 만에 아디다스에서 나이키로 교체된다. 아디다스는 1990년대부터 챔피언스리그 공인구를 공급해왔으며, 별무늬 디자인으로 상징적인 이미지를 굳혀왔다. 수십 년간 이어진 파트너십이 끊기는 것으로, 축구 용품 시장의 판도 변화를 알리는 신호로 받아들여진다. 오늘 처음 등장한 키워드다.",
-          "headline": "챔피언스리그 공인구, 26년 만에 나이키로"
-        },
-        {
-          "rank": 4,
-          "word": "언론",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"안세영 없는 대회도 우승 못해?\" 충격에 빠진 중국 언론…이제 야마구치한테도 안 된다며 한숨 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mWU5jT05kTUNhNXd4UDE5a0VoOW14TEVhWGJ5NnhNR3JuUGhEOGpNUU4wMHQ3VlBUdUtPR1pYNGk0d29SQ205OTR3NXNLYng2cjMyNGhEWmJwU2JpSWJMWG5VMGNlUTVuZ25kOFQ4WdIBb0FVX3lxTE9mWU5jT05kTUNhNXd4UDE5a0VoOW14TEVhWGJ5NnhNR3JuUGhEOGpNUU4wMHQ3VlBUdUtPR1pYNGk0d29SQ205OTR3NXNLYng2cjMyNGhEWmJwU2JpSWJMWG5VMGNlUTVuZ25kOFQ4WQ?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "\"안세영은 이제 넘을 수 없는 산?\" 중국 언론의 한숨…\"안세영 없는데 야마구치에게도 연이어 무너졌다\"",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUUxHWHppX1RvdjctMm5ZMXBPVDMyelZkY0FDU1ZJdUo0YVZTMVEtSDk2UFR6Z20yb2hzdnVrU0pVaWp5cTJLX3NXY2NrQlE1UmtUaFZadU1sSnJ0dW14WTRPbWFjNVlJWTMta3daZWJkeXY5MlJ5eG1zaXlTSEM1UFd5VUY1aUtwQ2dZ?oc=5",
+              "title": "삼성 AI 안경이 삼성 반도체를 훔쳐본다",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTR5bE91MHNZVFBpdEhHdGlqRzlxSlJtd1NQaUF6eEliR010MUE4Um5KTkp0XzFqNlQtTTFvLUtsRlA0NGFJOTRYMGVZS21CUFBHMVR2c0lrM0p6elA5cXZ1TW9tSFZ3cG81OXoydElSNk5CTVAtRFhRNU1pUDJEeVJ4VFMxQW1YbE9JTk15NA?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "\"안세영 없는데도 우승 못 했다\" 中 언론 씁쓸한 탄식... \"최고의 기회 놓쳤다\", 왕즈이 벌써 야마구치에 '3연패'",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tSWxKVUdFMmk1cnVkSzFDb2xLZUZKOTVPMy1hT1FvQUxtdFNDcEFGUFVmekNYdXJlYzBaV3dCVkJKLXpzaGcxUWpSdUFBQ3BiY2ZOSWxjQkRwSmJpOWh0Qlo4WVdTZmpFWkhDaWItOGt2RlBzakE?oc=5",
-              "source": "스타뉴스"
+              "title": "출하량 급증하는 AI 안경…메타 독주 속 삼성전자 '맹추격'",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ic19TNVkzZXBsN1diaDg3U0pJbGJGM29ZTWtPQjM2bUZVZDZFR2JsZnZlOVM2bkRLUF9RNnpLcGRGNHd3Uldnc1g4Mkt4ckk2bWVkNS01UU1uMUlJRzNBbnhxZHltcUZGVzR3dUJaWTc?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "수능 D-2 비상인데…삼성 AI 안경, 시험장서 ’무용지물’ 되는 이유 By FinancialPost",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yZi1OR2VNaHlWeGI4d2J4RjJZeEM4ZTdLSXRCeWNES2x5RGdWV2pPamRzYmRNZjdma2pZY3VKNFJHTGdJTnY4NXhCa3BDYkFXelE4VzlSc1FhbGx6Qk9WSGNORGlYdDl3R3g2UXZIbU4?oc=5",
+              "source": "Investing.com 한국어"
             }
           ],
-          "description": "안세영이 없는 대회에서도 중국 배드민턴이 야마구치에게 연이어 무너지자 중국 언론이 씁쓸한 반응을 쏟아냈다. 왕즈이가 야마구치에게 3연패를 당하는 등 중국 여자 단식이 부진을 거듭하면서 '안세영 없는 최고의 기회를 놓쳤다'는 한탄이 이어졌다. 안세영의 존재감이 국제 무대에서 얼마나 큰지를 역설적으로 보여주는 반응이다. 오늘 처음 등장한 키워드다.",
-          "headline": "안세영 부재에도 패배…中 언론 탄식"
+          "description": "AI 안경 출하량이 급증하는 가운데 삼성전자가 메타의 독주를 바짝 추격하고 있다는 분석이 나왔다. 삼성 AI 안경이 자사 반도체 정보를 활용한다는 점도 화제를 모으고 있으며, 수능 시험장 반입 문제도 거론되며 다양한 관심을 끌고 있다. 삼성 키워드는 최근 2주간 꾸준히 상위권을 유지하고 있다.",
+          "headline": "삼성, AI 안경으로 메타 맹추격"
         },
         {
-          "rank": 5,
-          "word": "위기",
+          "rank": 3,
+          "word": "모레노",
           "count": 2,
           "articles": [
             {
-              "title": "김혜성은 걸림돌?…유망주 넘치는 다저스, WS 1년 만에 방출 위기",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55bTRTNmxtS1dWdE90YXVDal9Za0ZWN1lzckFyXzJrNlQ3R2l0bmdSdjc2dVlNOE9zT1ZOWHBLMl9rM015aF9oTjR6eXdJbW9EVzZkYjJ6Q0ZOSGNXNzQ0Sk1KbWh3ckM5UEVVd3NPNjF3dw?oc=5",
-              "source": "스포츠동아"
-            },
-            {
-              "title": "이러면 김혜성도 안심 못한다…'한국계 내야수도 방출 위기' 다저스 제대로 칼 갈았다, 대규모 선수단 정리 움직임",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VdTRaTDdNcnJPcDlCYjBKUUVvR2ZSRUZSYWVWVUVnNVM4NVZ4WUN4NUJ3N2ZoMW9CMTVxY3FrVHdKdGhqMk5tV1hCbTN4elBaRGt0eXU2blFTMUxZU25ieWZQcmpDdw?oc=5",
-              "source": "www.mlbkor.com"
-            },
-            {
-              "title": "김혜성 아니었다면 다저스 축복의 트레이드 없었다…떠난 선수는 야구인생 최대 위기 \"한번도 홈런 10개 넘어선적 없다\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16RERvaEZGZWEycTdLRE5tWUVqcFpfSTZkQldhWHM3MHp0TVV6MjVKU1JXY3VYSU5kUm9KM1U3a0FONExPMW5kSHpQYWY2V2xTWmVMNUtwZzRUMWFXS2xGQTllWkVrWUlPVlZackh2SDg?oc=5",
-              "source": "SPOTV NEWS"
+              "title": "패티스 타격우세로 모레노를 판정격파, 프라이스가 기대주 조우반에 TKO승리!",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50ZzZWRl9CUXluMUZpNnp6NE5CZ0Y0YjhfbkNWU2dhZFVqb210UVd1akJ3UHIzN2xmSHdCM3pSbGJTS3lpZFBadUZKLXNXOG5NOFNtcXhEU19YV3BrTGF5a0F4Y21VakRnT3ZBOA?oc=5",
+              "source": "gukjenews.com"
             }
           ],
-          "description": "LA 다저스가 대규모 선수단 정리에 나서면서 김혜성도 방출 위기에 처했다는 보도가 나왔다. 월드시리즈 우승 1년 만에 내야 유망주들이 넘쳐나는 상황이 됐고, 김혜성의 자리도 안심할 수 없다는 분석이다. 한편 김혜성과의 트레이드로 다저스를 떠난 선수는 홈런 10개를 한 번도 넘기지 못한 채 야구 인생 최대의 위기를 맞고 있다고 전해진다. 오늘 처음 등장한 키워드다.",
-          "headline": "김혜성, 다저스 대규모 정리에 방출 위기"
+          "description": "UFC 격투기 경기에서 패티스가 타격 우세를 앞세워 모레노를 판정으로 격파했다. 같은 대회에서 프라이스가 기대주 조우반을 TKO로 꺾으며 주목받았다. 모레노 키워드는 오늘 처음 등장했다.",
+          "headline": "모레노, 패티스에 판정 격파 당해"
+        },
+        {
+          "rank": 4,
+          "word": "교육",
+          "count": 2,
+          "articles": [
+            {
+              "title": "공무원연금공단, 제주 ‘런케이션’ 프로그램 운영",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NEljLTZKbjRoUnJZbmphRFcyVFA2LTloM3dUUXRrbmRWNWhLSHhhQmN4NEk4ZXVRN0dEcHZKaXo3WmxsUTZrZ3Rha0RkdTBYQ2Y3eHF4d2xxZ1ZId21qSlpjRUJIbW8?oc=5",
+              "source": "제민일보"
+            },
+            {
+              "title": "김포교육지원청, ‘2026 학교맞춤 학습지원 우수 운영교’ 현판 수여 및 실천사례집 배포",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MMDhEOWVuc0FlVjFEdDFzWTRER0V3WWVfUU0yU2ViLS1GVmljRVlpUU1OUU54LTVaaWZCLXVRaXRYLUp5WUZNNU8wZDltZHUzSlZRdUhfcXVIZk0?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "장광수 안양대 총장 \"대학혁신 성과 공유, 미래 교육 방향 모색할 것\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IVUJhLUlqMFZMa18zdkF2ZGhPeU83Vk5PWXQ4ZG84QUJuTk14bUZEcW01UlhPLTItZGhMYUFyZ1NEQUJGSDZ0dXE5MWlDQTZWelpzSmxJeFprZXVsdmtBOFktLW1ESkthR2ZVR0U5dmxZQU5DUk1N0gF8QVVfeXFMTk1iSV80dTUxUmQ4VXE2eVRiTnd1emhidm5LVHNTLUZQWFl1SHV3VjFQV2xTanA1Z3pVby1PZERReXZjQmNPMTBEVWJoY2lLYnNKWlZEWVBFajVqNHZfcWdFWXFDOFN0bFgtUkxFZVdkZWRMMFBRalpRekFodA?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "공무원연금공단의 제주 '런케이션(달리기+교육)' 프로그램 운영, 김포교육지원청의 학습지원 우수 운영교 현판 수여 등 스포츠와 교육을 연계한 행사들이 각지에서 진행되고 있다. 대학 혁신과 미래 교육 방향을 모색하는 움직임도 함께 보도되며 교육 키워드가 오늘 처음 등장했다.",
+          "headline": "스포츠·교육 연계 프로그램 각지서 주목"
+        },
+        {
+          "rank": 5,
+          "word": "전북",
+          "count": 2,
+          "articles": [
+            {
+              "title": "‘2036 하계올림픽’ 공동유치 무산… 전북도 “단독 유치로 선회”",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQW42Tm9UbU9pOXF0dTM2eHA3SzltcHZISHJoVndNMmxacDI0TURRT3B2c1E1b2c2WVY2Yms5V1RENnM2RTY1bGNNMWhvald2VURhaklFeWpxY1JmQXo5RHlwQTBqOGwtWjZnbGtPTkltSk05Ymkwb01ZV3Bpb2l3WDFacHNuWEUwclBIRjlR?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "올림픽 공동유치, 서울과 협의 불발…전북 ‘단독 유치’ 간다",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iWlQtbWdJZnptRzhNU2REY1NDQWVwRG1oZDJ5bHBYRUp4SmVRRm1PbmhSbm92VUNzaVExaUZjbmxfU3RFWUU1VFRGNmVfbEV3RTR3OA?oc=5",
+              "source": "JTBC"
+            },
+            {
+              "title": "전북, 서울과 올림픽 공동유치 ‘불발’…단독 유치전 본격화",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbFFGTF9EMzYySGtxWl9PeTV6RW5GSUQ3MHNmVTNvZjdsLXh6WmN5d2g0NXloQmFJTEhYb1RCWGVXQVB1Y2k5VVlseENqcFQ3amtqYtIBWEFVX3lxTE5USzMxalpFUXRqQ1c3RW5NOFpqZGNjX1c0ODFlVFRMS091UW9KQVFKaV84aFdYZVh4RVEzQjFEMWZnX3BybXA2UW9FdTBIVEpXTDhRR1ZYVGU?oc=5",
+              "source": "전북일보 인터넷신문"
+            }
+          ],
+          "description": "2036 하계올림픽 공동유치를 추진하던 전북도와 서울시의 협의가 최종 불발되면서, 전북이 단독 유치로 방향을 선회했다. 전북도는 서울과의 조율이 무산된 직후 단독 유치전을 공식 선언하고 준비에 돌입했다. 국내 유치 후보 분열로 국제 경쟁력에 미칠 영향이 주목된다. 전북 키워드는 오늘 처음 등장했다.",
+          "headline": "전북, 올림픽 단독 유치 본격화"
         }
       ]
     }
