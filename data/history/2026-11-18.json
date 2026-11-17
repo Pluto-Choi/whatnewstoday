@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18 05:16",
+  "briefing": {
+    "text": "AI를 이용한 세무사 시험 부정행위 의혹자가 경찰에 출석해 13시간 조사를 받으며, 국가 자격시험의 AI 커닝 문제가 처음으로 수면 위에 올랐다.\n\n정치·법조 분야에서는 최장 200일 수사가 가능한 '조작기소 특검법'이 대통령 해외 순방 중 국무회의를 통과해 재가 절차만 남겨두고 있다.\n\n해외에서는 트럼프 대통령이 항공 대란 등 현안에도 거액을 들여 백악관 추가 리모델링을 강행해 비판을 받았고, 암 투병 중인 수지 와일스 비서실장과의 불화설까지 더해져 논란이 커지고 있다.\n\n경제·산업에서는 젠슨 황이 사임 후 처음으로 엔비디아 이사회 복귀 가능성을 언급한 가운데, 앤트로픽이 독자 AI 칩 개발에 나서며 엔비디아의 쿠다 생태계가 위협받을 수 있다는 분석이 나왔다. 바이오 분야에서는 아리바이오와 HLB테라퓨틱스의 임상 결과가 엇갈리며 관련주가 급락하는 등 기대와 실망이 교차했다.\n\n스포츠에서는 한국 축구대표팀이 오세훈의 헤딩골로 카타르를 1-0으로 꺾으며 올해 마지막 A매치를 승리로 마쳤고, 프로야구에서는 양의지가 두산과 2년 최대 55억 원에 FA 재계약을 맺으며 FA 시장의 초반 러시가 시작됐다.",
+    "period": "아침",
+    "generated_at": "2026-11-18 05:16"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "AI 커닝으로 세무사 시험 수석 합격한 수험생 경찰 출석·LEET 만점자 부정 의혹 확산 등 시험 공정성 논란.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "“트럼프, 중간선거 참패에도 거액 들여 백악관 추가 리모델링”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSDZDQklDZ0Y3LXdQNEdOMElaZEFha1o3YXJnemJERTNSWTJoMDZpeUdRU2ZYcVBTM1VwOHpVQ25yN20xVkxvS1FEZVpGcDZDV3RGZXFR?oc=5",
+              "source": "미주한국일보"
+            },
+            {
+              "title": "\"트럼프, 와일스 비서실장이 암 걸려 아프자 괴롭히기 시작\"",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkFxZjlPd2ZDX2RQRkdGWlRFeWJIVDNOQ0tiY3NfdmlocUxOREdxWnppai0tM1IwOFp4Sl81bzM5UzdaZ2thdm5xbzJpbEdtV0p5QktzUkNSNTdEMjdFN0RXWDdaZjBKZXhiM0dPbGZCdTMzUzlaQzhzU2lybElNUFVMM00yVW1wblYteFU1Q0lxXzM1R3Z5SXpOUVRaQQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "美항공사태보다 백악관 보수 집중?…트럼프 \"그건 푼돈\" 발끈",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xNWVIMmt5NjB4eV9rWWRaeXdnTGxFRjVDTVg1M2cwQ0ZNbTd3YzZXMk4xdHRET3owZmhVQlQzQ0xvdlp5ZDZUVGQxeVFGNTdUV0JmWU5WQy1qa1HSAWBBVV95cUxOSWluUlBHeUd2bGltanpOZ1NITFBuazZTMnpCVjZ0YnZOSWVNZnJnMjVmd0s1ZnZKZVdyTW1Xd25EZFBzZjRlMTBmempRMnN4Z2haZnVQZk5KNzE1T0xSd2s?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "트럼프 대통령이 중간선거 참패에도 거액을 들여 백악관 추가 리모델링을 강행한 것으로 알려져 비판을 받고 있다. 미국 내 항공 대란 등 현안보다 백악관 보수에 집중한다는 지적에 트럼프는 '그건 푼돈'이라며 발끈했다. 한편 측근인 수지 와일스 비서실장이 암 투병 중인 상황에서 그를 괴롭히기 시작했다는 보도도 나와 논란이 더해지고 있다.",
+          "headline": "트럼프, 백악관 추가 리모델링 강행"
+        },
+        {
+          "rank": 2,
+          "word": "조작",
+          "count": 3,
+          "articles": [
+            {
+              "title": "‘조작기소 특검법’ 국무회의 통과, 최장 200일 수사",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hMWl5U0E2aGZKWXFDLU44QWNTdzZFRnU4UzlpaE5IeWU4SFRwRzNFNm9Udzk4QnZDRHhZR2F2THRqY2xYTEVXTjF3OUI3SXc0MDRrRXI2T09XU09OWm93M005cndaN0xXYkl2bmVnZXhQaUVVYnfSAWZBVV95cUxNRjdzZWYxek5NOElNdG5uQkhhOHU0V1hJX01DSWt4MUdVSGNRajAtUERObWV0a2FUdWRZZUpPa0xoM0c5N2JRN2R3TG93cHNsbi16cks5eHZPblNGcEl5SXZUMWZQRlE?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "대통령 해외 순방 나간 새 조작기소 특검법 국무회의 통과",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tTGdZMXFPTUp3LVQ2Zk9aZ0Q3T1BZVG1SV1FpZ2xWa1haZWdERm1Pc0FtSFNINEFTMjVCdWl3ZE1sSXd3ejZieHBEY0dVZlItRHZYQ1JqUGRDQy1yRTYxRzFwREFZakZCcXhGRmlR0gFyQVVfeXFMTkUxc0xqdl9hZGhnNXJDZWxJcnhiZ2FyRDdnVW51SzlWZmF2ZnVPOEl5Z3JRdEh1R3gwc1c0NjRReThvVmQ0eEhTVVI0VXFYRk0zTUdOMWdWbFByWkVmVkY0djNvNWxtTlRiMHpmYjR2TTZ3?oc=5",
+              "source": "법률신문"
+            },
+            {
+              "title": "’조작기소 특검법’ 국무회의 의결…대통령 재가 남아",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pQlhyOEpDeGsyOUR0QUVJdXNueVNSTWVEQ2lqT3NMWUYtbG1KaFY0X0FjTFNLQzdGTi1qSDMxMEhTMm5QRjYtNFVSS0NJR3RfcEhoeU1MajQzcXhTenhrbW1vUDFCb3M?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "'조작기소 특검법'이 오늘 국무회의를 통과했다. 이 특검법은 최장 200일간 수사를 진행할 수 있는 내용을 담고 있으며, 대통령의 해외 순방 중 의결됐다. 이제 대통령 재가만 남은 상황으로, 향후 절차에 관심이 쏠린다. 오늘 처음 등장한 키워드다.",
+          "headline": "조작기소 특검법, 국무회의 통과"
+        },
+        {
+          "rank": 3,
+          "word": "커닝",
+          "count": 2,
+          "articles": [
+            {
+              "title": "세무사 시험 ‘커닝 수석’, 경찰 출석…수법·공범 여부 밝힐까",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tcnJnS21BUWFUdmhCc243cHcwX2JhTDhfUmhObEk5Y20yRHczTlRkS3JWa2pqMkNpeXF2VndXcUpaMTVKdmZlTmNXdFJpVkdhaGJkeVVaMnQxd9IBX0FVX3lxTFBfNHQ5U1ZoaDZwOGZJMlF3SUVCUTZ5eF91MHM4SG1wMnRnT3lpYnBaOEZ6X2VXd3VuNU5CcllCbmQwb0hwT0VmS0lrTURPWnV6TDhkcWE5RUlCSjduZmdr?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "’AI 커닝’ 세무사 수석, 경찰 출석…“책임지겠다“ 外",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Hb0NlX2t5ZFBqRXhnRnVlV0xPbVJlQkFzcWphaENlYlRhdjhwYk04ZkZId1hrOVBBWVVONFFLSVhUNFprb1BJNmpCRTMzX2xLZHk4ZG8xZGZjYzZjZHRsVUR4QjFRMlU?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "'AI 커닝' 세무사 수석합격자, 13시간 경찰 조사 후 귀가 [종합]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZHpLb3RBcEhvNWI3S0UyUVNfcFM2a3NtTkRlR240V3Q2Y1hrdWlmSjUwT054OFZqSnhNTmdIcWVlUzRkYlV5N0Q5NmxTclNYS090UFFpNFVJUQ?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "AI를 이용해 세무사 시험에서 커닝한 뒤 수석 합격한 것으로 의심받는 인물이 오늘 경찰에 출석해 13시간 조사를 받고 귀가했다. 해당 인물은 '책임지겠다'는 입장을 밝혔으며, 경찰은 구체적인 커닝 수법과 공범 여부를 조사 중이다. 국가 자격시험에서 AI를 활용한 부정행위가 처음 수면 위로 오른 사건으로 파장이 크다. 오늘 처음 등장한 키워드다.",
+          "headline": "AI 커닝 세무사 수석, 경찰 13시간 조사"
+        },
+        {
+          "rank": 4,
+          "word": "만점자",
+          "count": 2,
+          "articles": [
+            {
+              "title": "생Ⅱ 하나 틀려 서울대 치대 입학... ‘리트 첫 만점자’ 부정 의혹 시끌",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTAyajRyS2xEUW85RXI0ZjZfbGZHTy1MYnZOWWY2UkZ6ck1ndUtleEJobXhObVlublR1V3JnVG51QkZTYll4dzVsNlhGb1hvU0tueWM5bzVHRlVtQVZ0bXZ0NFpldVprc3FGS2NreXVPWGp6a2RGcjVtMDZwYUlBY0JnOW9NLXZaTVhJTHlaaXQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "‘사상 첫 LEET 만점’ 서울대 치대생, 시험지 공개 역풍...부정행위 논란 확산",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tU21HTFg1UDZ4NXB5SGJxaVFFODhGQmFkS2Jydnp2ZC0yMWJwRFZ2VC1BVnljR0pUcUltMzN5a3BuUW4tdWhoSDRPNm5KQ3BvdjBWaFF5ay1rRU0?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "“수능 국어 7등급→서울대 치대”⋯ 리트 만점자 인터뷰 눈길",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lUV9qaHJoMWs2WUdJUWZqZklKcUptTmJpQXIydkoydlZuWEJlN2ZZRFZScWpXMzZlVFM1UUdrZ0pxN29vQmRGWFd1VXpnYWZ3V3VwdExyLWs?oc=5",
+              "source": "국민일보"
+            }
+          ],
+          "description": "법학적성시험(LEET)에서 사상 첫 만점을 받아 서울대 치대에 진학한 학생이 부정행위 의혹으로 논란에 휩싸였다. 수능 국어 7등급을 받았던 학생이 LEET 만점을 받았다는 사실이 알려지면서 의구심이 커졌고, 본인이 시험지를 직접 공개한 것이 오히려 역풍을 맞았다. 생명과학II에서 하나를 틀려 서울대 치대에 입학한 경위와 함께 부정행위 의혹이 확산되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "LEET 사상 첫 만점자, 부정행위 논란"
+        },
+        {
+          "rank": 5,
+          "word": "수능",
+          "count": 2,
+          "articles": [
+            {
+              "title": "李 \"부정 신고땐 건당 1억 포상... 수능 중 수시로 재난문자 검토\"",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0VKS3BoUXVYTl83ZHBZeWc1d0VXdjBzVTJaOFpSV0JTQndRM3FCdnIzNzZHa3ZGeGVSdkNqMFRObkNxX1EyMjhKX0hFSkF6djRJM0NfV3Q5ZWtENVF4UUtXSHllQVJQZWZUeWNyQnFESTZFTzRQQmdkSnZzcHB2QmJMZWVYNS1E?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "“몰카 천국 만드느라 애썼다”…국회가 10년간 키운 ‘수능 재앙’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GdmlDeVM4Zzl1YW9DMGNLdEQzRGFaRmZoWmlRWG5QVGpoS0M4WHp2d2ljRTdhZzZmR2pubTJ0NzliOUdIQnZKOE5FOS1rQlFaOUlBcHNR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "수능날 전국 체감 영하권, 도로 ‘살얼음’ 주의",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vWU5tM1lROVVJMHFPMnV3OW40bGRsTEp0MEVxM3haOHl6YmRRTldQbDV0Sk1YRHpZTWV5djdNaEl2d2tOV1BrUnNXTlNhaE1XRGxTNmJVVG9iMnpXT1NjZElDSTBUVnpEbzdJUFlBT0lnazJNUWfSAWZBVV95cUxOb2wzMG52dFFQZzc5b0JOVWhDRWhsRC1IckZxUTBzS3V2UkJuTWxvZzRQQURhd1FSeVVwZHhqcFQ1Qms2bjVoQ0xwUVBhb3c4LW45S1lmT0VDUkJRemZGRHRSMlVlLXc?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "수능 당일 전국 체감온도가 영하권으로 떨어지고 도로 살얼음이 예상돼 수험생들의 주의가 필요하다. 이재명 대표는 부정 신고 시 건당 1억 원 포상과 수능 중 수시 재난문자 발송 검토를 언급하며 시험 관리 강화를 주문했다. 한편 국회가 10년간 방치한 보안 허점이 이번 수능 부정행위 사태의 배경이라는 비판도 제기됐다.",
+          "headline": "수능 당일 영하권 한파·부정행위 대책 주목"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "젠슨 황 복귀 의사 밝혀 엔비디아 주목 · 국내 대학 28곳 연쇄 해킹 발생",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "엔비디아",
+          "count": 4,
+          "articles": [
+            {
+              "title": "젠슨 황 \"이사회 요청 시 엔비디아 복귀\"…사임 후 첫 공개 발언",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Vb0NYRjV2dUczRkhMQ0t1WEdwZGtpdDhQMl9XLTFnM1RrdmlBU2lhNmJneXJkQ29BcmZuQmFZQnhFb3NyZFR4SFVaR2tZMWJvVVNLMzdPaFVzSnRaTHlQb3BaUWtVMWNLaWVGdGdaSFhUZzBU0gF0QVVfeXFMUDkyZ2d2OWFjeFF0Y1p3eDlmY0tZcWNoU0NnN1BYWVRadkI0S1NGSGo1am1IcUZTWVNYbkhENVlkb0YxUFp5QkV0blhEaXNadWpkbnBBakdQcnU5UHpyWWl4eG1BSkxRb2FHS2g4Tjl1aHQwSVA?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "젠슨 황 없는 엔비디아… AI 칩 시장 틀어쥔 ‘쿠다’까지 흔들린다",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUJENEZCMjM5YVdla1I5T2UyVHcwcWtzOGZGTW5HSEcxRWswNERDNzBCZkNmZndYdVFMMlF1b0l4VnhvaTN0SldBV181OVM4ZkF4MGVIVmc2dTZ5bEhBNFBIU1habFF3VjA3T1RUUkQxYVYtUU5zS3lKaFhBMnBxWHY3Zw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "앤트로픽 '칩 도발', 젠슨황 없는 엔비디아에 위협인 이유 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJMGxPbk9SSnVOemlHQnRxU21XR2R4azFVY3d6emVDX3dxazB4S0dqaU1JWTMxdzg5ck9xeGRJaFhaeXdLNzZvZF9XT3hsb3dvT2xvQ0pPU2lzRThKM3ZURGpLRXBpZjlrdzRUSVpZSmNVRXBjckHSAXtBVV95cUxNUVVzRDFOSEhDZXRHVEtMY2x2YmRPYVlHOU1mOXFhaW0xTjc0U2VIUmtqSTVMZWJiWDVCR3pLZ3NiV004MHdYUWctVUs2emxUaURfMVZhYjJHQzFhQjJXRkRPWEVoeHhpWlp0N1FJTmdpdUFWUGF3T2N0TGc?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "젠슨 황이 엔비디아 이사회 요청 시 복귀할 수 있다고 사임 후 처음으로 공개 발언해 주목을 받고 있다. 그의 부재 속에 앤트로픽이 독자 AI 칩 개발에 나서며 엔비디아의 핵심 경쟁력인 쿠다 생태계까지 위협받을 수 있다는 분석이 나온다. AI 칩 시장의 절대 강자로 군림해 온 엔비디아가 리더십 공백과 경쟁 심화라는 이중 압박에 직면한 모양새다.",
+          "headline": "젠슨 황, 사임 후 첫 공개 발언"
+        },
+        {
+          "rank": 2,
+          "word": "임상",
+          "count": 4,
+          "articles": [
+            {
+              "title": "HLB테라퓨틱스 ‘RGN-259’ 임상 3상만 여섯 번째 실패",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRbEFobHpsd3dnT3FRa3NsZ3FhR2FiXzJQSHpsN3RoOVZBbUNzUlZfNU02emdDZ2FzdVlxUVpKUEJRTGtmV0FnWm5CdFlHdDBfa3NSbDF3ei1zUkdiTENoV1JkWDJyY0lmdl82bUJn?oc=5",
+              "source": "팜이데일리"
+            },
+            {
+              "title": "아리바이오 AD치료제 AR1001, 단독투여군서 1차 지표 '충족'",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85bEljLUVKdk14WDBEYzV5dDA1RXU5ZHB5cHZEb2VzSGhfS3U3SjVESVV4cHl1QzhPSGtMaDlUOHhwNklEXzZWNU04c0NsVG92UklvRkN1VzBxTDd4MnN6SW1yVGNaLV94QnF3?oc=5",
+              "source": "히트뉴스"
+            },
+            {
+              "title": "'먹는 치매약' 임상 결과 실망…아리바이오 관련주 급락[핫종목]",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tTDdDcm9YRlRiS2xtbmdNd0pCdnpjNkJSWWFyT1B3dGZBQUVxN3pXZUpvQnFmTm1OcmtoR1U5bFBjV0FGTGVjWlMyS2ZHVnNKMVdzWDVtbkFFS25vX2N3?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "아리바이오의 먹는 치매 치료제 AR1001이 임상에서 단독 투여군의 1차 지표를 충족했으나 전체 결과에 대한 실망감으로 관련주가 급락했다. 같은 날 HLB테라퓨틱스의 안구 치료제 'RGN-259'는 임상 3상에서 여섯 번째 실패를 기록하며 국내 바이오 임상 성과에 대한 우려를 키웠다. 기대와 실망이 교차하는 임상 결과 발표가 잇따르며 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "치매 신약 임상 잇단 실패·성공 엇갈려"
+        },
+        {
+          "rank": 3,
+          "word": "데이터센터",
+          "count": 3,
+          "articles": [
+            {
+              "title": "엇갈리는 데이터센터 시장…위험 사업은 손절·빅테크 끼면 투자",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05dXFoWGRRTi1BajU2LXVVNThReWxjdHRlMlJQeVBhQmZPRTZ1V3VuaEh6VVk2UWxpVFBfQ3ZLQTMyWTVlaGFOMVZZSjVUeUhFaVE?oc=5",
+              "source": "매일경제 마켓"
+            },
+            {
+              "title": "韓 클라우드 3사, AI 열풍에 활짝…데이터센터 확장 가속",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRFpXUnhiLW5QRTdfOWtoNFNScTIwdmxueG5Wa18xU284SVJNQkc0MG81TUxnZWU2c0pDYjlnVHVGWG1uRUcyUjRteFRXYUZsUER3emV3?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "\"앨리스 황 남편, 中 정부 지원받아 12조 원 데이터센터 사업\"",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tUEVIb0RfZEdLMGtKS09NMm1mLXJjZUZIV2xCRWhQXzFvcFZBcENEZW81QTBTWm8tMU1MVjFGdFVVWmlfODZDcHYtbjA2enBWVUo4dVpFV1N4M2ZIbVV3aHNaV3BKN3IybTZCb05yT2R5QmJv0gF0QVVfeXFMUDRYdWVibVlvTnF1MTA4NFQ1ODdvRDJHSF9IZGpjSHlGbXJYU2pKWHZudDFLc05oel9oRVo3RFg0MkVyOTlEUmduU2VrVGdVcHV0eWZJNjA2UU9mNzY0bmUzS1MwZDl5dUFaeVU0c0p3dnRXdWk?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "국내 클라우드 3사가 AI 열풍을 타고 데이터센터 확장에 속도를 내는 가운데, 시장에서는 빅테크와 연계된 사업에는 투자를 늘리고 위험 사업은 정리하는 선별적 전략이 뚜렷해지고 있다. 한편 엔비디아 창업자 젠슨 황의 배우자 앨리스 황의 남편이 중국 정부 지원을 받아 12조 원 규모의 데이터센터 사업을 추진한다는 보도도 나와 눈길을 끌었다.",
+          "headline": "빅테크 연계 데이터센터 투자 확대"
+        },
+        {
+          "rank": 4,
+          "word": "거래",
+          "count": 3,
+          "articles": [
+            {
+              "title": "익산시, 중소기업 공공시장 첫 거래 돕는다…공공조달 판로 지원",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEc2puMjFFajF2MFNOcmR2QVFTLXU0OUl1YkFUMzZrcGJuT1pfZ2FpV2F5dXBwNl9GVW9BY0VQV1dnZTd1MUdKNWpNbXVBTXhPLXUxSHlPSEF1N2_SAWBBVV95cUxNTjdCSEdMc1Y4RWJDcktPUS1CYjBjSkxWQ05aTldjWktDRUZiLXVCWW5rb25BQmJ4ZE9jM0hSNVk4dVU0SWtSVmNfZ3ZQUEdHdGFBOXJBcUNLN2dFR0ZWNUU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "美 예측 플랫폼 칼시, 뉴욕 증권사 인수…두 달 내 주식 거래 서비스 출시 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Td0d6Y1c2WGVjaVY1dXVGaExMX1BTX08xcHhHZnN6eXJKWlNOWTdxNGd5U29CZWFoZDNaZkg5bkdweDUyQ3RLRzdLRmh5amVGdHRXeVU0OU1hSnVITnFIc2ZOV09ELW500gFuQVVfeXFMUFlubktoVWVCRHZwSjJuQXFuSVBWcWp4dDdLekxZY2Vqdm9jSWNVX29LRnhpNjlzaXlxMzRyRTZTZlZlN0NmVlJLTEk1amk2b0FCV0pTaTdPQkRRX1RNZHVfMERJOF92aE5QaFVvOWc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "달러-원, 뉴욕장서 1,330원 후반대 거래",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54QUtQdElKTW4xVGkxaFV4QURoWlU4Mk9hSU93bFJnM0ZvRW9oNU9OZ0ppcFZTdTcydnoxYWlDVE8wUlNIWWMzckotNWYxT2x6VnJmYm8zM1N1Z3JLU21IYWNjWEkyRzdlQnlOeXB5Z0c?oc=5",
+              "source": "연합인포맥스"
+            }
+          ],
+          "description": "뉴욕 외환시장에서 달러-원 환율이 1,330원 후반대에서 거래되며 환율 동향이 주목받고 있다. 한편 미국 예측 플랫폼 칼시가 뉴욕 증권사를 인수해 두 달 내 주식 거래 서비스 출시를 예고하는 등 새로운 거래 플랫폼 소식도 더해졌다. 익산시가 중소기업의 공공조달 첫 거래를 지원하는 사업도 함께 보도되며 오늘 처음 화제 키워드로 올랐다.",
+          "headline": "달러-원 1,330원 후반대 거래"
+        },
+        {
+          "rank": 5,
+          "word": "해킹",
+          "count": 3,
+          "articles": [
+            {
+              "title": "28개 대학 연쇄해킹 충격... 아르텍스 활용해 ‘rERP’ 집중 타격했다",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nVHA3SERVczliZFp0b0JnN0lsaW9HcmpHaGd5NmxvTkZMT2tOWDZtd2FMZTQxMjMyR1FaSlFOVVFndmt1V3NoWW13bkpUT09GUFI2ZDVzZVVHbDVrNU82WkJvYVdabDJ0ekJV?oc=5",
+              "source": "보안뉴스"
+            },
+            {
+              "title": "“한국 사이트 계속 해킹할 것” ‘No KR No FUN’ 팀원 “한국의 방어 능력은 예전 그대로”",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzRGdQR3pHRzZMSlk3UlJXNkt2VVJySDhxNGpCVGsxOFNYS1J1OHkxQ1lHMXN6MmhsRHB1SVdfb0x0S3g0Y0EwVk53NnhESmtnaTRSdFcyUVN3bjRrZUg1WkJQMFJrTTJDSkpSeg?oc=5",
+              "source": "데일리시큐"
+            },
+            {
+              "title": "연이은 해킹에 대형 금융사 취약점 분석·평가 주기 연 1회에서 2회로 확대",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vXy1uRjZ5b1pLZ1ZXR3pKRF9STkl4enQzMGVQaUxDOWUxZW12cVpSTGVfS3JZSVFiV0tLaTlCZ2x5VXpYWmNtUkQwZHVJaTZoMm5Zb3N5MGFpanVzNnE4MWNiLVU0QVNQbmMxMWRPbFBLMU5E0gF0QVVfeXFMTlRiQmpLbFc0RGRLazRuT0ZSSVk5OERSaEhsMkdwZExiS2c0anlCektwalBmVUxQTTVXSDNZRkFPUUtsTDFaZ0ZvOHRJdWhMV0ZPVGxHNUZrRW55YzVXbWJ4MVlKc3JiWHpGZmZrYWU2R0FNMHY?oc=5",
+              "source": "MBC 뉴스"
+            }
+          ],
+          "description": "국내 28개 대학이 아르텍스를 활용한 rERP 시스템 집중 공격으로 연쇄 해킹 피해를 입어 충격을 주고 있다. 'No KR No FUN'이라는 해킹 팀은 한국 사이트를 계속 공격하겠다고 선언하며 한국의 방어 능력이 예전 그대로라고 비웃었다. 잇단 사이버 공격에 대형 금융사들은 취약점 분석·평가 주기를 연 1회에서 2회로 늘리는 등 보안 강화에 나서고 있다.",
+          "headline": "28개 대학 연쇄 해킹 충격"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "그래미 어워드에 아이브·키키·제니 등 한국 가수들이 후보 지명됐고, 임현주는 MBC 강제 퇴사 논란을 부인했으며, 크래시2가 시즌2로 돌아왔다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "임현주",
+          "count": 1,
+          "articles": [
+            {
+              "title": "임현주, 육아휴직 후 퇴사 논란에 \"내 자리에서 최선 다해\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuenQzNUQ4bjJrd0xJdGpFZGlLbUtxcFF3RDA2cXFzZmN1SWJKWmc3NG1qS1RsYUFpQlNidTl2ajdUR2RrNEw0M2txZ1JidVRKSTQ4ZW54VmRFMExfd0E?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "임현주 \"두 번의 육아휴직 끝나자 MBC 퇴사? 사실 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kWmdvT2s2RjB2WmpDeHlQXzJBUEx2M2FJUFRvVW0zRlFSVUpFbXdqR1N2UWJ2QUpBUV9ZZTI0NTFLdGJGOUxkekgycGoya1dGTDV6QWZ5LW94dw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "임현주 아나, 두 번 육아휴직 후 MBC 퇴사? \"사실 아냐\" 해명",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFVjQlVWWmxfZDlaRW1FajdTMENhSGFMdG42bE1PRDZLMDBCWE5ZZzY0bkp4NlRoc0JxcXhYNEFxbnJ0dEw3MnFXTFQxRlZOaEEtU3FvS1hMYkU0VWdPb3hvVktMY2dpMXp4c25vZUZ5X050ZGZWVzhZX2ppLXpCQw?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "MBC 아나운서 임현주가 두 번의 육아휴직 직후 퇴사했다는 논란에 대해 '사실이 아니다'라고 직접 해명했다. 그는 '내 자리에서 최선을 다하고 있다'며 퇴사설을 정면으로 부인했다. 육아휴직을 마친 여성 직장인의 복직 문제가 맞물리면서 화제를 모으고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "임현주, 육아휴직 후 퇴사설 직접 해명"
+        },
+        {
+          "rank": 2,
+          "word": "정호연",
+          "count": 1,
+          "articles": [
+            {
+              "title": "한국계 본드걸 나올까…퀄리·젠데이야 관측 속 정호연도 거론",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Td0FwY051X2VtRS14Nnl1TXNtMEt0Z0ZNNGZ3OVBzZXBsR040ZGl0YVdXTXhScUxsN3JIRElsMUxPRjloLTRGc05CdFNaMmZPeWZiR1kwU1NGQW_SAWBBVV95cUxQcFJrSGVDOTBRUHBqSkE3Z2lpVUMyMVpkQnBPalpnemlvNVZWU0E1WHh0T3NxMWhjUHBZQ3RNN05odi1jenFtNmhyaTdnMDlSWkl3bUJqQmMzUkZSV0RNcDA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "밤하늘의 별을 품은 루이 비통 드레스로 블루 카펫 수놓은 정호연",
+              "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbzg3dXZiSDZhZ1p6eE5CQ09DbVh0dFV4Z3FNRkRMT2gySWRwZEJPYjFGV3pwQndxcU9yS3JnT3NHYjRjQlhnT0JpTDNGVlhhVTdKRjA0X1lKZktxbVd4ZW9wZVdHTTZDeU4ycWtIZWcyN2s1blNhWmNORUVTVjMyMktTUU5FVFhSWnRLRC1TMWhQQWE2UDRQUFNLa0RyTjdvOXU3b08xZEpTUnJfZGFwMU1VV0xoWGRONUp1YzFSVnA2V1djMm0xYnpYTHd0T1A4NV96Mk9aZVQzVXpMTzhPbk1UNDdLOVJGVktsenRubzhLV1dyamgza0lJRFJqU3UwU01Xbld0aW5jRTNBU3EtWXdsaWR4N0l2V25LN1pzZ2pNbEdDcnl4Z0RGTUFvSWRmdGxWYlVDSklHMFpiWC1aNlQ5bEZTOVJhczFCZGtlOElsdTQ?oc=5",
+              "source": "Vogue korea"
+            },
+            {
+              "title": "정호연, 韓 최초 ‘007 본드걸’ 되나…“오겜 이어 호프서 연기력 입증”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VdUw5SGgzZms0dThOVEZqMnVCOVRrQkt3Tk9RMC1zSHVWMjN2WEF2Y0MtWUI4d05USnRXbWp1SzVzSnVEZU0zU3JCOW9UZF9FYWhjMGhB?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "정호연이 차기 007 시리즈 본드걸 후보로 거론되며 화제다. 퀄리, 젠데이야 등과 함께 관측되는 가운데, '오징어 게임'에 이어 '호프'에서 입증한 연기력이 근거로 꼽힌다. 한국 배우 최초 본드걸 가능성에 관심이 쏠리는 한편, 루이 비통 드레스로 블루 카펫을 장식한 그의 패션도 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "정호연, 한국 최초 007 본드걸 후보 거론"
+        },
+        {
+          "rank": 3,
+          "word": "그래미 어워드",
+          "count": 1,
+          "articles": [
+            {
+              "title": "제69회 그래미 어워드 후보자 전체 명단",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdlJ3ZDhBTkJCcDlXYXUxS0poc0RVb3luaVcxME9vQTJveHVZR0ZOUDZBQm1XVEE4VG1Zb0FqSldxS2doSTNrQkFSdG5GSHJsZW5oTEdjOFA4cTF3WnU4QnI5Y2VHem93dXZuc25wblVnUm53LWJZSVRuYkM5SEU?oc=5",
+              "source": "Hypebeast.KR"
+            },
+            {
+              "title": "아이브·키키, 나란히 그래미 '아시안 팝' 후보 지명…제니 2개 부문 노미",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82c2tqS3gwVEFzbGE1N3EwUHpORjFkN1NsaktHc2otcXdnTFI2ZXpPbVlNRzBLV1NEZVVsQ1BxNDgyNlFVUzgxOXlGTXhTT3hrNlYyeDhuTHZjREFXS2p1elJKYzI1QQ?oc=5",
+              "source": "싱글리스트"
+            },
+            {
+              "title": "제니의 첫 그래미 본상 도전? 2027 그래미 어워드 후보 모아보기 – 마리끌레르 코리아",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qZGc5RGROazZsOW1NcHRfMDVPN0hnS0RNUnJ6bS1tRUF6NjhLUDZhbURvY3Bkek8tZzBZMFNMZmQ5VGJ5Rk5TWUtvUEdhOVZiazFsS0NNSHhnendQZmE0YzdjZFl2amVrYnBFZ1Fn?oc=5",
+              "source": "마리끌레르 코리아"
+            }
+          ],
+          "description": "제69회 그래미 어워드 후보 명단이 공개되며 K팝 아티스트들의 활약이 눈길을 끌고 있다. 아이브와 키키가 나란히 '아시안 팝' 부문 후보에 이름을 올렸고, 제니는 2개 부문 후보에 지명되며 첫 그래미 본상 도전 가능성이 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "제니·아이브·키키, 그래미 후보 지명"
+        },
+        {
+          "rank": 4,
+          "word": "추성훈",
+          "count": 1,
+          "articles": [
+            {
+              "title": "추성훈, 제트스키 사고로 뼈 골절…촬영 계속 왜? (상남자의 여행법)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZamJGYVRCMXh6YjlrNFBjdjlzUld4RDl2U2hwOE9iN1BZZHlJb3B3cVBDZTBXVHVXS2E2b3BWRkdIVlZ1MUhqMjhSZWZXSzkxUGpGcUVXNFY4ZGFNZkxsS1A1TGU5YWpRWEZlc1F3?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "‘상남자의 여행법’ 김종국, 추성훈 은퇴전 앞두고 승리 확신",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFTUNWWHJUeE11NlBrUXNiWnRyY282d3ladGtWV1BUUEtNNExoMV9HcmNDbjFVc0xLaFl0dHZ3bDVUbTdjQVAzVXJnUHJMNW9GcVUyTFZVYnZidkdVQ3RHdjlicDF1UWYxdWc?oc=5",
+              "source": "천지일보"
+            },
+            {
+              "title": "추성훈, MMA 은퇴전 앞두고 '전사' 변신…김종국 \"완전 이기겠다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11QlZzQ2wwRDlPb0xoQnhMd0NFektpR1RSQWZyUVpUR3g3MG5nMy1DQm94emJqSUplRmZNemNhRVRvS0lfLUZNelkyMm9DQ3FDYlBHcE1ZU1lrSF9CMkQ1MA?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "추성훈이 제트스키 사고로 뼈가 골절된 상황에서도 촬영과 MMA 은퇴전 준비를 강행해 화제다. 예능 프로그램 '상남자의 여행법'을 통해 사고 경위가 알려졌으며, 김종국은 은퇴전을 앞둔 추성훈의 승리를 확신하는 모습을 보였다. 부상을 무릅쓴 행보에 팬들의 우려와 응원이 동시에 쏟아지고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "추성훈, 제트스키 사고 골절에도 MMA 은퇴전 강행"
+        },
+        {
+          "rank": 5,
+          "word": "크래시2",
+          "count": 1,
+          "articles": [
+            {
+              "title": "이민기·곽선영, 급발진 사고 뒤 숨겨진 살인 정황 포착 (크래시2)",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HYzc2OU9xbk04Z29TYWM2OHkxNzhpRmQ5S3BKZ241RHlQWWplSlFVdkgxSDdRNTFzdHpMVDhvQl9KZEFDR21sMGI0b28xY2l5VWdWV2tDVWNiVExOZnZMcjhwenNzUkdtSjZEOVlB?oc=5",
+              "source": "스포츠동아"
+            },
+            {
+              "title": "‘크래시2’ 시청률 2.8% 출발, 짜릿한 귀환",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50Ql9tN0lZZ0E4elE1VkIzZ3ZWc3hUTGtIcnFleFpycF85WVI5R2xfVlB4MFZ0b2lvZ2x5VVhmNElqSm15SFk0Tm43UjJLOURsV081TXVNTjkwZm9VbVBJY1VwSndZdm9FaEwyZFY3dkROZHdXVlN6aXVWRdIBf0FVX3lxTE9tWFVxcHlLajJIVDhpRWdCZ3RqQlo0Qk9Od3FEN2ptQ3ZDcXM0MkhGQjlWNUxzTzdRYmdMSXJ1TnBZR09saHdaSVYxbno3VXJqUFRxbmZWcXY0dEVEdndQeF9QaXE3Skt4X2VrSldpTEFhWEtaS2tKanlaUXFWb00?oc=5",
+              "source": "데일리스포츠한국"
+            },
+            {
+              "title": "곽선영, ‘크래시2’ 짧아진 머리만큼 더 강력한 매력으로 컴백",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RclhzYVVOQ3p4Z3pfUjdRQ1JpTmpidzZabE5adHRaSDNMSW1MekFtNlQwbk9IeEh6RW54SnV1WHI3amp6VkY2MEpBN3ZIMmxKOVJBQWhsTy1nU0VxbEHSAWNBVV95cUxOa3B3NVIwTWZFb01mZWpNb0lWWnlTUUpoRnN6blAwOFZmcDJKMEt4YVFOSzY4akhLaGhvdEhFMl9mSmRHUGNPQ09PbG53OGZ0aDlNZlZLbDkxNmFoWjRyb2Joa3c?oc=5",
+              "source": "스포츠경향"
+            }
+          ],
+          "description": "이민기·곽선영 주연의 '크래시2'가 시청률 2.8%로 첫 방송을 시작했다. 급발진 사고 뒤 숨겨진 살인 정황을 포착하는 내용으로 짜릿한 귀환이라는 평가를 받으며, 곽선영은 전작보다 한층 강렬해진 캐릭터로 돌아와 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "'크래시2' 시청률 2.8%로 첫 방송 출발"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "한국 축구, 카타르전 선발 발표·모레노 감독 귀국 예정 · 양의지 두산과 2년 55억 FA 계약.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "카타르전",
+          "count": 3,
+          "articles": [
+            {
+              "title": "손흥민+3 빼고 다 바꿨다...모레노호, 카타르전 선발 라인업 발표",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORDN3RXB3cXZ4dlhZOHIxcVpTSldFckFnSzNSVzJwZ1EzcUF1Y2cyRVpvZG5tR0VmSWRUcDQ2ZVVLdWNXU2cxa0lNV0Y2MHJBdTRFRktZc1VVUjJ2QkVRdEJRZDM0eHJCZlJLTnQtLVNPbTloTzYzZmV5M3FhSnNHaDJ4bw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "은퇴설 딛고 다시 뭉친 '96라인'…카타르전 수비·중원·공격 책임질 '핵심카드'[프리뷰]",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GWHFLTkV0c3BzWmk2WlJkX04wTEIxTFZqUkhGdDhMNHk3UUd5MHpoR1FZUlBfREtpdXBMUHZoZk1TN25qakV6bGdpTllPQ3dON3JVN3p1OHRYalVuQ09vb3kyQUhkckp6Ymo40gFvQVVfeXFMTjRNd29QdEMzM2xyRDdkcnJ2a0puVDRsT0lsVGVCZkQ1aGdIS2NYOFlvSjFzbC1hZ1paUDBzUjViRjFVbDJLRnFjUUZEUE9zRjRkQVR6VkU3UHB4ZHE0bERvV3V5azQ5UlpHb1hQdDJB?oc=5",
+              "source": "한국아이닷컴"
+            },
+            {
+              "title": "‘오세훈 헤딩골’ 모레노호, 올해 마지막 A매치 카타르전 1-0 승리",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwOHJ1S29ZTG13Vm9RWjcyMDJkUHozZHFjUmFXa0lYYTdLa09MaEE0WENVWTVEZ1B4dWZwNHd3dkh3UTRGUjlrZG5hTTB1SjAya1RYWUhB?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "한국 축구대표팀이 카타르와의 A매치에서 오세훈의 헤딩골로 1-0 승리를 거뒀다. 모레노 임시 감독은 손흥민 등 일부를 제외한 대부분의 선발 라인업을 교체하며 이번 경기에 임했고, 은퇴설을 딛고 다시 뭉친 '96라인'이 수비·중원·공격 전반에 걸쳐 핵심 역할을 맡았다. 올해 마지막 A매치를 승리로 마무리했다는 점에서 의미가 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "모레노호, 카타르전 1-0 승리"
+        },
+        {
+          "rank": 2,
+          "word": "올림픽",
+          "count": 2,
+          "articles": [
+            {
+              "title": "올림픽 준비하는 김은중 감독 “체력적·경기력 매번 숙제”",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jRDh1QldqTGdZV2dQaXJEaG9IdmhiMGJxQnlZZndoc2sySmw2LXNoektaWjRreWlld0dnTzdtNmt3Vi05U1VHbURpdklHcXh2bWNnNzR1Vl93emFsZ0lfQ2hB?oc=5",
+              "source": "스포츠월드"
+            },
+            {
+              "title": "팬들 앞 ‘첫선’ 아우들, LA 올림픽 희망 보였다…김은중호, ‘강호’ 멕시코와 우열 가리지 못하며 0-0 무",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zYlREelJ0aTJjRy1oNjd0ME1CNVoxWFZRQ0FoQU1jV1NtbmdsZ0hCYlVIV0Q4WDhMQ19pbnh3MENEWWpPbXVqVWdGZ29RS0FtT2JubFJteVNSam5JMVHSAWNBVV95cUxNclBFQmhXVldWYTFNM2lRMkFJZGtJbWFVazVncldUdy1UM1hVT0NUY296Y1d5VlNYTDlxbzRfUldFR0p2VGxrNUFMLTg2MXhab1NSTHNmdGZVTVRmLUVMRW8tUWs?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "멕시코와 두 번 비긴 김은중호…한국 축구의 올림픽 반격은 가능할까 [천안 현장]",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44dVc1a0p2SG1LaUF3cmNsV2Y2R2tJZWtVc3d4eUpBMHdhakhsX2pBZUtvUHkyWjRLQzFjRUcxOGtXZ3pYb3pXZlpNdUdwWjlJa3lCOVNubFNJVHRzd29oRXRObkVKYWFod1lZ0gFUQVVfeXFMTTAwS0lWRG5xZS1fV3JHS0lBWDBrb3VtLVhVZFktU2ZJM2Npd2pnZHhiTzJLRVNDRDlaMW9UbzgwQnU1UmwtejRRZkFsbVZqUTFxV3JP?oc=5",
+              "source": "세계일보"
+            }
+          ],
+          "description": "2026 LA 올림픽을 준비 중인 김은중 감독의 U-23 대표팀이 멕시코와 두 번째 맞대결에서도 0-0으로 비기며 우열을 가리지 못했다. 팬들 앞에 처음 모습을 드러낸 어린 선수들이 강호 멕시코를 상대로 가능성을 보였다는 평가도 나오지만, 김은중 감독은 체력과 경기력을 여전한 숙제로 꼽았다. 한국 축구의 올림픽 경쟁력 회복 가능성을 두고 관심이 이어지고 있다.",
+          "headline": "김은중호, 멕시코에 0-0 무승부"
+        },
+        {
+          "rank": 3,
+          "word": "양의지",
+          "count": 1,
+          "articles": [
+            {
+              "title": "양의지, 두산과 2년 최대 55억 계약… FA 계약으로만 290억 ‘야구 부자’",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hc2ZlcmtyNDlUQmZBTXNFeHlpeGhhQ0M0UE4xV0tPbHJ2d2dBaDEzODVPMC1URUx2c05Ha0FyOVNJNUg5U0lqQVFiNmcyN2s5TDZVemdSa1VVZkxZd0lfazBldzVaaEdsMDJzNHlWbVJ0SzNF0gFmQVVfeXFMT0hBa0FfTVRSMjN1eFVQVGZ1N0dwVlZON0dFaXZ0T0tDZXlhYzl1R0ZWTjR3NHRpNkFraFpPNF84WVdEbmdDR05KWXBVRWN6WnVVNGo3cVRjcEhCX2NfMTVFZ1JqWEdn?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "'오태곤-양의지' FA 초반 러시, 롯데 170억에 짓눌린 4년 침묵 깰까…\"단장님과 얘기 중, 시장가 본다\" 이동욱 취임선물 받나 [오!쎈 미야자키] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4taURKQU55dERWemRNcVlGWUZ4WUhhY1ItNnUtaW1BRmJWSUtYYm80TlN1Sm02ZWEwdjgybElCOGhWbWdTQjgxTzhienJSYTBiR3JRN1B3UVFLVnVYN0hWOThoUFFrSy1nZFHSAW9BVV95cUxNTDR2VTlSbThuVkh4LW1kR1ZaNm93TWpRMWQ0MVRST21PTUwzZVVFMDZIOXRrV1o1cHFwM2RQckkyV0FuY0JLaE5tck9sLUQtSWN3elk3ZGdkSWdBbF9XM2hnd3JEeUNrTjg2NUxieFk?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "양의지, 2년 55억원에 두산 안방 지킨다… FA 시장 첫날 오태곤도 SSG 잔류",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0RNMXh0blpybmVuN3VKM09tRzFaRkZRenlGWHROM3hFVGZyTFdNOExwUmtPLUJQUVhpYm1BMk5NNHlVTDdmNkRkNktfQ0hXc1N1dmlmUmtZN2dtUzdIZHhWYzRabEhuN0pCTzlHcHFPZzY2d1pNSENnTkY3Z25maW5scw?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "베테랑 포수 양의지가 두산 베어스와 2년 최대 55억 원에 FA 계약을 맺으며 팀에 잔류했다. FA 계약만으로 누적 290억 원을 받게 된 양의지는 '야구 부자' 타이틀도 이어가게 됐다. FA 시장 첫날 SSG에 잔류한 오태곤과 함께 초반 러시가 시작되면서 타 구단 FA 협상에도 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "양의지, 두산과 2년 55억 FA 재계약"
+        },
+        {
+          "rank": 4,
+          "word": "모레노",
+          "count": 3,
+          "articles": [
+            {
+              "title": "모레노 축구대표팀 임시 감독, 카타르전 마치면 스페인으로 귀국",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HbXo5cWlTM2QwVE5RRjFlTHhkM2pma2VmX3lNQ0ktNE5ZcWNicUppdEFGWWNHX0tzMzQ1M2cyVWhXd3ZpLWNPV3lwQ0JIZHpPQ1VXaDJSaGROQWx6ZkxQdU16TWwyeU9OVnc?oc=5",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "\"한국 안 오고 스페인 직행\" 모레노 고별전 되나… 분위기가 이별 예감, 韓 축구 총체적 난국",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DVzNqa0xRQklBNTBPWnp2bEFNbS1KZ3JsQmxwNnBQYWwxYTRHYlh4Y3VBTC1TTlk4bVduM0tSX3Mza1RXYUtqR2JieXJablVpd1hnQVl5OXN4UQ?oc=5",
+              "source": "파이낸셜뉴스"
+            },
+            {
+              "title": "계약기간 끝난 ‘임시 감독’ 모레노 “다시 맡을 가능성 당연히 생각”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZaTZYZy1PcXh5a1FTRW5Oa2RvTVlCemU3SlZzTUNLcllYNW1BTjctbUVTX2czSWFjYklzMlZlcFVvTlhOT0NVZTZCbEVsd0JuV09Va2x3?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "한국 축구대표팀 임시 감독 모레노가 카타르전을 마치고 스페인으로 직행할 예정이어서 사실상 고별전이 될 수 있다는 관측이 나오고 있다. 계약 기간이 이미 종료된 상황에서 모레노 본인은 '다시 맡을 가능성을 당연히 생각한다'고 밝혔지만, 한국 귀국 없이 스페인으로 돌아가는 행보가 이별을 예감케 한다는 분위기다. 차기 정식 감독 선임을 둘러싼 한국 축구의 불확실성이 지속되고 있다.",
+          "headline": "모레노, 카타르전 후 스페인 귀국"
+        },
+        {
+          "rank": 5,
+          "word": "삼성화재배",
+          "count": 1,
+          "articles": [
+            {
+              "title": "변상일 '천적' 신진서 꺾고 삼성화재배 첫 결승 진출",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uYmtvS201bE1oZG83c0lnY2lNMkRINFVuMGw4dndMZnRtdUM1ZVN5M3dyOHpkbXF5cERacWJhamJBSGJnelR1SVpsMk9xa1RtWHYtdFkwWGZQa1XSAWBBVV95cUxNWVpJX0ZMMktCNlJ4R2Q0TFhrRUlfMW1CUmRra3RiN2tsMk9zTl9lUEo4SzdTbnBKZXY3VGtHdklNQ2xiQXZ0bV9kZFN6dm41Y1RPMk44N2JWOTE1RHlRekE?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "한국기원",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03OGdRMjFGLWxNcHE0NWNRdDBjdko3Q3pyY3V2dWIyVDNmU1k0NUI4ZC11YzVIU0FiT2NmbG1iTVBOSVQtWFJIUXpFMEtIS1ZsQktUejdIRVpUWnNmc3VZWVg4eEk3Y21m?oc=5",
+              "source": "한국기원"
+            },
+            {
+              "title": "한국기원",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEWjlyM29wQmNqc2V3OWJubzBfbVZtSTdENDJLQWdXbURLb3V1VVB0eDZsME5xU3hjT1A4dXUtcXdSbUNuR1VPZTVJUHZjdkJ0VzJldHR6MFR3LXUtMzB3X04xN3ZCQnR0?oc=5",
+              "source": "한국기원"
+            }
+          ],
+          "description": "바둑기사 변상일이 자신의 '천적'으로 꼽히던 신진서를 꺾고 삼성화재배 세계바둑마스터스 결승에 처음으로 진출했다. 강력한 우승 후보였던 신진서를 상대로 거둔 승리라 더욱 주목받고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "변상일, 신진서 꺾고 삼성화재배 결승 진출"
+        }
+      ]
+    }
+  }
+}
