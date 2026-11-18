@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19 05:19",
+  "briefing": {
+    "text": "트럼프·시진핑이 선전 APEC에서 회동한 가운데, 사상 최초 미·중·러 3자 정상회담 성사 여부에 국제사회의 시선이 쏠렸다.\n\n내년 수능부터 선택과목이 전면 폐지돼 수험생 전원이 통합사회·통합과학에 응시하게 된다. 과목 선택에 따른 유불리 논란을 해소하려는 조치로, 부정행위 차단을 위한 위급재난문자 발송 방식도 함께 주목받고 있다.\n\n서울 성북구에서 발생한 15세 청소년 살인 사건의 공범인 20대 여성이 증거인멸 우려로 구속됐으며, 엔비디아는 젠슨 황 CEO 없이 사상 최대 실적을 발표했으나 이사회가 그의 복귀를 거부하고 새 CEO를 물색 중이라는 보도가 나와 시장의 긴장감을 높였다.\n\n스포츠에서는 KIA 김도영이 일구대상과 KBO 3루수 수비상을 동시에 수상하며 공수 최고 선수로 공인받았고, 쇼트트랙 최민정은 월드투어 1000m 2연속 금메달을 따낸 뒤 은퇴 번복 가능성을 열어뒀다.",
+    "period": "아침",
+    "generated_at": "2026-11-19 05:19"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "수능 부정행위 차단 시스템 논의·APEC서 미중러 3자회담 주목·성북 10대 살인사건 피의자 구속·GTA6 자정 출시",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "수능",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"끄면 된다?\"...부정 수능 차단 '위급재난문자' 발송 원리는",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Mm01ZHR0c1BJemlnSDFkMDNqamNDbmtZUkN1aFAxYThJUktjVUh5bkNuaFFweWhKYXgzRjEtZXlMVVVrNnlCQUlRVU9mSU45WFdDUklR?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jazZkUXlLNlVVazZ6SFFmLWRQZGNaOWdra0JXSW9uWHU3TjFNS0pkM3lLUnJZSEtzbllFcFI5bTByNC1rQ2pFZk1jNHlOVFdTaktXV2lJZzVIYWhKT2Z2YkdlaVZiUnZOQ1RrVFFhTUdSaTdVeUHSAWZBVV95cUxQWjRjeVA0UVZXS1NzSHE3WXJveHR6SlRESnlMTVd2SFRHTXh3a1VWWWxVVkdwNDlNZmZoaDVVTXplYWtkZXpJR0MxREMwV1U1cEJDRlptSnQ0SVFaMkhWMXdYOVFKMHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "과거제부터 수능까지…국가 시험 변천사 눈길",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMN3lndGdVa2N4ckx2V0U1azZMYmQwTTZpZGlfM0VVTURZbDdzQWpaSlk4RnpwUkpUTFNoWHlsU2RwOTdGUmVzRnhnaHBRMFF3S1B5VDlFd3p4eHp3YlZ2ZtIBeEFVX3lxTFB5a3FoTTNtMWx0ZkJGeHJZZFcxMWE0NXNSV2w5NGFkQ2oyOVJOblpWREpZZ09ETGJzU0ZiMzNKTFl5NnNKeU8xYWhVcEphTlpHWmota2FBWm9qNVRUMXhMUWF1MWRzVVh5MkVEX0hfVmxZSTFXSzB5Xw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "내년 수능부터 선택과목이 폐지되고 수험생 전원이 통합사회·통합과학에 응시하는 방식으로 개편된다. 현행 수능 체제에서 과목 선택에 따른 유불리 논란이 지속돼 온 만큼, 이번 개편은 수험생과 학부모 사이에서 큰 관심을 모으고 있다. 한편 부정행위 차단을 위한 위급재난문자 발송 원리도 함께 화제가 되며, 국가 시험 변천사를 짚는 기사도 눈길을 끌고 있다.",
+          "headline": "내년 수능, 선택과목 전면 폐지"
+        },
+        {
+          "rank": 2,
+          "word": "선전",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프, APEC 참석 목적 중국 선전 도착…시진핑 직접 나와 영접",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwckVZVzdPcW44bnJKLUt2LWxmMG90RVZjaDlrYzVuVjF2REs3SUlzNXV5VWpnNGRYVzdlQ2tneVpBTHF3Wnhpa20zanVDdUhYUnRpQWUweEExaEk?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "中선전 APEC 정상회의 오늘 돌입…사상 첫 미중러 3자회담 주목",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YUzlpaU5NdjlQNHg0cWxxZW5UaFBsa25jdmdmOHZyMkdKdUMyLUJfQWk3RkRNY1NhMkV6ajhTV0NHbXhiZWduclRDZkRZLXJ2RTZDRFdUdkxna2PSAWBBVV95cUxQbnJwWHNNRFBoM25YVUliZnRPY294UlF5N0lzQkZUYk9qYTRBeW5sUF93dmtETm9ibk01eXRPX3JTajZWVldneTYzS2VzaUtlbE02dE1aSUdNNmQzZkY5b2g?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "\"김정은, '중국 항공기' 타고 선전 갈수도…작은 징후 많았다\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VDN3M3VUazl4UjRoMk1ka3JBQTB4Sm9fVE1zQUlIQUgtc01POXN3NjFxUmNSU2RPMXVaMjBYZ2pDTUpzV1RFd1dCMkJlT2JuYVpBQTJFQUZqeWhmUFBaYjRUVy1JTXVr0gFuQVVfeXFMUDdoSnhmOFdraWtNMW1VbTZjU1VVdFB6OFBvY18xcTQ3UHkyWHNsbHBaVGR4V0F0cUd4UkRlV01CaVd4MmNYU0JKRGxrYlk1Qk9LeWl4RC1ZaDdFMDRyMFBYdGpfSXlDYnlXZ1hnd2c?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "트럼프 미국 대통령이 APEC 정상회의 참석을 위해 중국 선전에 도착했으며, 시진핑 주석이 직접 나와 영접했다. 이번 선전 APEC에서는 사상 최초로 미·중·러 3자 정상회담이 성사될지 주목받고 있다. 김정은 북한 국무위원장이 중국 항공기를 이용해 선전을 방문할 가능성도 제기되며 국제사회의 이목이 집중되고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프·시진핑, 선전 APEC서 회동"
+        },
+        {
+          "rank": 3,
+          "word": "사건",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'성북 15세 살인사건' 성매매·절도 교사 혐의 20대 여성 구속‥\"증거인멸 우려\"",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oQ1ZZWF9sV2lZYU1UY1hpcEV1Uno1aml4eEV1TnQzQS1xczJyRkRma0o3c2h6VWxESGhiOVdOZkRaVG9NaGdnckN0SHkyR3M4b3BxTlRpWUhET1ZKTEM2R2ROUUZDRGhINlNJYU1mdllQU1p0R0JB0gF3QVVfeXFMTVQ2YWx6RFV2aVJCOGJhclpNdUNtUXlxUGFpOG9fUEVncmYtU3oxM21mT3lXZ0huV0tVMXVWUzdMQmk5a0NMX21uX1BRRjVKUFQzQXNWWDRHUDk2UmkyYVh4SEFsUF96RER0VGRkT0QtOTFLZ2ZFaFE?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "성북 10대 살인범 \"가족사건 처벌불원 요구하다 화나 범행\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZZkNXUXJMWGhJV3pBZVNMTHhtZHlUdkFLU0hVTVAzRm1GLTlEMVRrcWNqRDBmaXRMU1Z6ZHVlNjQ5eUhuNWFvZEZZUTNaY0QzeUI0LXJGVkp1dFXSAWBBVV95cUxQY1NrQzFxU2JYdkd0dy03STBRbXcweklrWkpOX2hiXzhTV1AydlNCU0FmVS1scjBvR0dFSGlGa3I3Zm01MXRVa0x0SWFDLW5qMVJ6aFhlWUJSTGRXck5NQ3U?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "성북 10대 살인범 \"가족사건 처벌불원 요구하다 화나 범행\"",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scFBCNW9DUkZGS0xaZU1YN05yenlpSjMtV1Z2Q1ZaTDE0ZHNTOTlVdTVISjlTbjYtazU5WUFqZGkzMDhBWjR3XzhvM3V2ZC1GUG1vbUtHeDFwdw?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "서울 성북구에서 발생한 15세 청소년 살인 사건과 관련해 성매매·절도를 교사한 혐의를 받는 20대 여성이 증거인멸 우려로 구속됐다. 살인을 저지른 10대 범행자는 피해자 가족이 별도 사건에서 처벌불원 의사를 요구하자 이에 화가 나 범행에 이르렀다고 진술한 것으로 전해졌다. 미성년자가 연루된 충격적인 사건의 전모가 드러나면서 큰 파장을 일으키고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "성북 15세 살인, 공범 여성 구속"
+        },
+        {
+          "rank": 4,
+          "word": "민주",
+          "count": 2,
+          "articles": [
+            {
+              "title": "美민주, 엡스타인 사진 추가 공개…\"촘스키·우디 앨런·빌 게이츠\"",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0dERHbGU5Tjc2aVRIazhpWGRnQndPdno2MDRObkRWWnpCXy1tc1ltTHA1ZjhNRnVoRmZHYnVwMEJkdGNmMHRhZnJSbWtvM25MUlRPS3JtbnI?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "美민주, 트럼프와 여성들 함께 찍힌 '엡스타인 사진' 공개",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LaGEzUkppNmpFSGhhV0pXa0plMzEyb09NVks2Sjd3MjV2bDZCS1lzN0ZsQkdaeGNnWkpaeTZGOWZ2OUFkYXR4bXNsUzVoTEhQTWNKVVU3NmNtSnPSAWBBVV95cUxOajZ2alVxN1BxWVRhU3NuRVdwaFE5TUxNb29oaFJYWnJRTVdQVk1MVXVWaHl0dWVsbWZLNGs3TnZ4TGloT05tVjdJRnRTeFpjNmZGdS1TdkRfWUZ0bW9LZnI?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "미 민주, 엡스타인 사진 추가 공개...성매매 암시 문자도",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EYndjWTNjbDhvY3F5dVp3Z1JEcWZlM2syLXRkMkFxZ1VSX2pSMng1NjNIdWsxRXc0Uld1M3hONndHS05nemZmd0VBRnVPN2ZMVk5zejE5cEx0YVdkM0piQXF2MU01V21ER0g1YkQ1NNIBc0FVX3lxTFBEQjNEbURmZ1FZamlKNXljZFlCZWhzaTFwN1U2dHBBNmZ3eHRWREpWZ1dzN3RyYUZWZTBSNzNXaWl1VExMb1BrN3VxOS1rbjBaTmZXRjB0SVJveVRPbHZ2Z3dvcWxDaDdER2VYcmFSbmZxOFE?oc=5",
+              "source": "여성신문"
+            }
+          ],
+          "description": "미국 민주당이 성범죄자 제프리 엡스타인과 관련된 사진을 추가 공개하며 파문이 커지고 있다. 공개된 사진에는 촘스키·우디 앨런·빌 게이츠 등 유명 인사들이 등장하며, 트럼프와 여성들이 함께 찍힌 사진과 성매매를 암시하는 문자 메시지도 포함된 것으로 알려졌다. 이번 폭로가 미국 정치권과 사회 전반에 미칠 파장에 관심이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "美민주, 엡스타인 사진 추가 공개"
+        },
+        {
+          "rank": 5,
+          "word": "게임",
+          "count": 2,
+          "articles": [
+            {
+              "title": "13년 기다린 'GTA 6' 자정 출시…사전 판매 1천500만장 육박",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BZTE4ei0zNlVKQjNMMmZzSlVTbERTaFlITG5lYXBwMDlKWWNiUGsyZmVnalJ4MUo0RDhZdjhJWEtraE5wQTR5dlhDRlF2Zy1kRGhzOG80dzJVTlHSAWBBVV95cUxNVVNHS3dhQW03MEhkRExyclBaX29jT01wSzlvSTFJNUxyQ29pT0ZSTUtCdzhDaHFhZkd3SG1ENjJPcEZibzFZNHdFN2tqbVdJSnlUZzdYcDR6Qm1HVEp4UEs?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "“피하지 않았다” 닌텐도 ‘젤다의 전설’, ‘GTA6′와 흥행 맞대결",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHBxcDBoR25yVDRJMENPZEFuRmg5ekxRajk1RUVHOS1CeGw5Mmg0NWkyVElGaVRXQk9vVjQ0TUwxSW5xZU1aZnV5bnl6WFJ5QTlTN29KcFlPQ29jRFJJZ2NhS21uaTB6ZmpvX0Iwb2ZBZWQxRW1pb2Fua0RRakVxSm5UQQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "젤다의 전설, GTA6와 흥행 맞대결",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2JpR1pQREswM2ZuX1JTUW1Hd19ROE14Ym1qS1pCUm5NUzZCSV9IWUktV0VHOWg0ZGlya3BPZXAwRC1LSTFxb3N4SldRT0x4bVBNdUF6QUdQQzdGS3ExMFBLRDlVZmpmazBtSGE0Z3gwU0Y5YTFzZkxsX0p0VHdOcTJCUQ?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "13년 만에 출시되는 'GTA 6'가 자정에 공개되며 사전 판매량이 1500만 장에 육박하는 것으로 나타났다. 닌텐도의 '젤다의 전설' 신작도 같은 시기 출시되며 두 대형 타이틀 간 흥행 맞대결이 펼쳐지고 있다. 닌텐도 측은 GTA 6와의 경쟁을 피하지 않겠다는 입장을 밝혀, 게임 업계 최대 규모의 동시 출시 경쟁으로 주목받고 있다.",
+          "headline": "GTA 6 자정 출시, 사전 판매 1500만 장"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표 · 호남 반도체 공장 위치·용수 수요 쟁점 · 내년 수능 선택과목 폐지",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "엔비디아",
+          "count": 6,
+          "articles": [
+            {
+              "title": "엔비디아, 젠슨 황 없이 사상 최대 실적 발표... “새 CEO 찾는다”",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6aEt5TXdMajRxSjNCN1MzSzRmVkRjR19xQllrYllrOUtuNTBtTXU2SkJTZktzNTA3dnphaUlKWW02NkVzbms2Q1lhRS1qdw?oc=5",
+              "source": "매일경제"
+            },
+            {
+              "title": "엔비디아 GPU 지원받아 DGIST, AI 촉매구조 연구",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1VWp0cDRZRUp4ZmdRUHVZWUhCcWFtYnhQY2NKOFpvdjJURmRhZDdNMVMwZG1UeUVHRWZYcHM1UkxSWldLNlEzZ0dwY2I2Wjk3dmMtRWxnTHZGYWFnLWRuamR5SllkMmNydS1R0gFmQVVfeXFMTVJXNG5zbU4tZ2doam9TV01pV0VDTkdnMXVLcWtZX0JrY0NSTU1UT21Xak56cUI1YW1EUWtoN0V3TTNvNmQ5aUsxZ0Q1c09IVW5vQnBmZFF0NUM3b1JIRzZ4NzlsQmJn?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "“엔비디아 은행이 닫힌다면”…폭락장 경고음 나왔다 [잇슈 머니]",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zaHNOZkd2SHVMa2ZfUUpXR3hrb2VsbWkycDVkZGVZLWQ1OUdkVGp6U0VxSzRiWTh4Q0JOaFctOEJGUV9zZ2FTRWtLZlZyYzRqTXFPR3JGb1J2Rnc?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "엔비디아가 젠슨 황 CEO 없이 사상 최대 실적을 발표하며 화제다. 이사회가 젠슨 황의 복귀를 거부하고 새 CEO를 물색 중이라는 보도도 나왔다. GPU 공급 차질 가능성과 함께 '엔비디아 은행이 닫힌다면'이라는 폭락장 경고 분석도 잇따르며 시장의 시선이 집중되고 있다. 어제 3위에서 오늘 1위로 올라섰다.",
+          "headline": "엔비디아, 젠슨 황 없이 사상 최대 실적"
+        },
+        {
+          "rank": 2,
+          "word": "반도체",
+          "count": 4,
+          "articles": [
+            {
+              "title": "호남 반도체 공장 ‘南전北닉’으로 결정",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkZ4VUJ5YzNPem5Gb0dET3p5TjBxRHhtMXhFZGZuVV9VcDZqWWVNbmwxU1hUMTM0dWJQQnVRUGRZUDFmU1lzTEtuZnVZbVBJWk9tMmJxMmZ5RkJubV8xbzdMSW5FdW56WU4ydHU5c1MxRUlfWW42RVd1bVNuWHRnVmVsRnNYQXVlbG5JODY2aw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "삼성-하이닉스 호남 반도체, 용수 수요 하루 14만톤 차이",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kMUVWaUgzMm9mLUZvZzNldUZ1cmlBY2hPWlNHQi05ZGNmT3pPRlB5bGk2SVNPNGFRenpVMlNYNUItQTBlN3A0cFcxSGRobkJhclc0T09zaVJlMktVSnRiYQ?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "“주가 반토막인데 반도체는 품귀…반등 가능성 커졌다”",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRENiNWZzWmZsdU10bldTck1kdFFYbGh5a1E3QWpKa0pUU01YTl94OFFJRV9mNER0QjN1NUh0NW5MUjh3NVVoaVFwOHcxdzNad19RczVBWmk2QS1udEY5c0pHOUFTUjROYVBncWRHbThNVUlMOF9qMnN6aWUxZllpdw?oc=5",
+              "source": "이데일리"
+            }
+          ],
+          "description": "삼성·SK하이닉스의 호남 반도체 공장 위치가 '남전북닉' 구도로 결정됐다. 두 공장의 용수 수요가 하루 14만 톤 차이를 보이는 등 인프라 과제가 부각되고 있다. 한편 반도체 주가가 반토막 난 상황에서도 현물 수급은 품귀 현상을 보여 반등 가능성이 커졌다는 분석도 나온다.",
+          "headline": "삼성·하이닉스 호남 반도체 공장 입지 결정"
+        },
+        {
+          "rank": 3,
+          "word": "수능",
+          "count": 4,
+          "articles": [
+            {
+              "title": "\"끄면 된다?\"...부정 수능 차단 '위급재난문자' 발송 원리는",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Mm01ZHR0c1BJemlnSDFkMDNqamNDbmtZUkN1aFAxYThJUktjVUh5bkNuaFFweWhKYXgzRjEtZXlMVVVrNnlCQUlRVU9mSU45WFdDUklR?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jazZkUXlLNlVVazZ6SFFmLWRQZGNaOWdra0JXSW9uWHU3TjFNS0pkM3lLUnJZSEtzbllFcFI5bTByNC1rQ2pFZk1jNHlOVFdTaktXV2lJZzVIYWhKT2Z2YkdlaVZiUnZOQ1RrVFFhTUdSaTdVeUHSAWZBVV95cUxQWjRjeVA0UVZXS1NzSHE3WXJveHR6SlRESnlMTVd2SFRHTXh3a1VWWWxVVkdwNDlNZmZoaDVVTXplYWtkZXpJR0MxREMwV1U1cEJDRlptSnQ0SVFaMkhWMXdYOVFKMHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "과거제부터 수능까지…국가 시험 변천사 눈길",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMN3lndGdVa2N4ckx2V0U1azZMYmQwTTZpZGlfM0VVTURZbDdzQWpaSlk4RnpwUkpUTFNoWHlsU2RwOTdGUmVzRnhnaHBRMFF3S1B5VDlFd3p4eHp3YlZ2ZtIBeEFVX3lxTFB5a3FoTTNtMWx0ZkJGeHJZZFcxMWE0NXNSV2w5NGFkQ2oyOVJOblpWREpZZ09ETGJzU0ZiMzNKTFl5NnNKeU8xYWhVcEphTlpHWmota2FBWm9qNVRUMXhMUWF1MWRzVVh5MkVEX0hfVmxZSTFXSzB5Xw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "내년 수능부터 선택과목이 폐지되고 모든 수험생이 통합사회·통합과학을 응시하게 된다. 부정행위 차단을 위한 위급재난문자 발송 원리도 주목받으며, 수능 제도 전반에 대한 관심이 높아지고 있다. 오늘 처음 경제 분야 화제 키워드로 등장했다.",
+          "headline": "내년 수능, 선택과목 폐지 확정"
+        },
+        {
+          "rank": 4,
+          "word": "젠슨",
+          "count": 3,
+          "articles": [
+            {
+              "title": "젠슨황 복귀 퇴짜 놓은 이사회…왕족 행세 가족들에 150조 미스터리까지",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2clAwMlBiRW9jQ0tQXzU1RE5tb0lTd3NVQ1RNX25EWHNmUTZ5UHhVYmJ2RThkRW9KdHo0b2JYdFhUZFRpbm5JSlBZaWhFb28wWXNadjZR?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "젠슨 황 없는 엔비디아, 14분기 연속 사상 최대 실적...전년보다 두 배 증가",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZUZjb1pESGUyN2pYbUpPUWtpNE9sMWhsUnNnaERHMkdzV0RhaHFWVmNTcjFxc0Nucnc5UDByLUh6aWhOUlEyalkwQ1pwQ0NDb1pCanJsMktWU0VSWVM0ZG42VHU2SjVKUWJXa3ZZWDducUN6Ti04em1zQjd1TnN1bWJJUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "\"젠슨 황과 악수로 맺은 약속\"…韓 GPU 26만장 공급 차질 가능성은",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TeGljQjllbGhEdG5vRTRZZnNoc0poalVmSWNNME5LY2lRX3ZIVHFCSzNzeUVfcEItV0NNa2lNWThCVURGckdxOF92bHJSNlJkUUs2T1l1QkgzSUVaRXg3adIBeEFVX3lxTE1tSXZSQ1lXbGxFRldmVDFkbnV3cDVPenNEdUlUVXNZRVBmdVJkSlU4d2FjaDJYNjVLNXQwQUlIYlJOZ1hyZFBhdUZRV2c3Yl9ORGFRLTFsQVFWamc2eWxIQlFzQ200cXYyWmE2LVM4cnc2ZllndllSYg?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "엔비디아 이사회가 젠슨 황의 복귀를 거부한 사실이 알려지며 관심이 쏠리고 있다. 왕족 행세 논란과 150조 원 규모의 미스터리한 자산 흐름도 함께 도마에 올랐다. 젠슨 황 체제 없이도 엔비디아는 14분기 연속 사상 최대 실적을 기록하며 전년 대비 두 배 성장을 이뤘다. 한국에 약속한 GPU 26만 장 공급 차질 가능성도 거론되고 있다.",
+          "headline": "이사회, 젠슨 황 복귀 거부…새 CEO 물색"
+        },
+        {
+          "rank": 5,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "시진핑, 공항서 트럼프 포옹... 美中러 담판 전날 ‘파격 예우’",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0dobmtxOVBiQmR1Tlc4cnUwUUI2bG0xRzNGNDBzT1pRdWw0N0RVbW1XbHNyeVo1VDFLQ0Q1cFBvaDhiYnp4eDFNNk1JRFo1T1RYZElieFVqQ1NFMC12X2RJMkdtbkc2T0YwdHlhODlVeEp3eVlmbDFkTk9mSmNXT2JGY0tRUTRqT2Jzbk1ZMVVuSG5lekF6LTViWTNMUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "트럼프, 미국 내 시스템 장애 속출에 \"괜찮다…그게 인생\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wMVNhQkIzOXhGQU43a190akcwXzdseGtWUExZaVJ5cEY5TC1RUTR3YW9Rd0RiQmZSSFc2YzJIT2xLV05mRzVNUDFwckdNeFdhSkVVSEhoVldOZGPSAWBBVV95cUxQZEdIakZRcHdDUWJlQkRuQmE0TnRJNlB4ZVZFZ29lSkQ2VkY3SlV0VF95T1RKNFhMQzVkc1Jsbkp5TXZmQVh4SkZ3X1RfYVN4QWtsT09DcllsTjVXLXk3UHo?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "美 첫 흑인 하원의장 눈앞…제프리스, 트럼프 견제 선봉에",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45LTgyTk95Z0paZlhzcW1QMU1fWklsUkptVlNpUUYwMG9vclQ3NjN4LUEzVHpRZHJFbGc4Y2h1SVlwVjI1c0M2TDE3TVdNaDBjOVFsdzl4a0ROT0FqUDJ3dUNhWFVYUXhMX3c2eXRjdUplR1U?oc=5",
+              "source": "마켓인"
+            }
+          ],
+          "description": "미중 정상회담을 하루 앞두고 시진핑이 공항에서 트럼프를 포옹으로 맞이하는 파격적인 예우를 보였다. 미국 내 시스템 장애가 속출하는 가운데 트럼프는 '괜찮다, 그게 인생'이라며 여유 있는 반응을 보였다. 미국 첫 흑인 하원의장 탄생이 가시화되는 등 미국 정치 지형도 주목받고 있다. 오늘 처음 경제 분야 화제 키워드로 등장했다.",
+          "headline": "시진핑, 트럼프 공항서 포옹…미중 담판 임박"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "장나라가 드라마 속 불륜 소재로 화제를 모은 가운데, 고경표 음주운전으로 '보검 매직컬2' 제작진이 유감을 표명했다.",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "수능",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"끄면 된다?\"...부정 수능 차단 '위급재난문자' 발송 원리는",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5Mm01ZHR0c1BJemlnSDFkMDNqamNDbmtZUkN1aFAxYThJUktjVUh5bkNuaFFweWhKYXgzRjEtZXlMVVVrNnlCQUlRVU9mSU45WFdDUklR?oc=5",
+              "source": "지디넷코리아"
+            },
+            {
+              "title": "내년 수능부터 선택과목 폐지… 수험생 모두 통합사회-과학 응시",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jazZkUXlLNlVVazZ6SFFmLWRQZGNaOWdra0JXSW9uWHU3TjFNS0pkM3lLUnJZSEtzbllFcFI5bTByNC1rQ2pFZk1jNHlOVFdTaktXV2lJZzVIYWhKT2Z2YkdlaVZiUnZOQ1RrVFFhTUdSaTdVeUHSAWZBVV95cUxQWjRjeVA0UVZXS1NzSHE3WXJveHR6SlRESnlMTVd2SFRHTXh3a1VWWWxVVkdwNDlNZmZoaDVVTXplYWtkZXpJR0MxREMwV1U1cEJDRlptSnQ0SVFaMkhWMXdYOVFKMHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "과거제부터 수능까지…국가 시험 변천사 눈길",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMN3lndGdVa2N4ckx2V0U1azZMYmQwTTZpZGlfM0VVTURZbDdzQWpaSlk4RnpwUkpUTFNoWHlsU2RwOTdGUmVzRnhnaHBRMFF3S1B5VDlFd3p4eHp3YlZ2ZtIBeEFVX3lxTFB5a3FoTTNtMWx0ZkJGeHJZZFcxMWE0NXNSV2w5NGFkQ2oyOVJOblpWREpZZ09ETGJzU0ZiMzNKTFl5NnNKeU8xYWhVcEphTlpHWmota2FBWm9qNVRUMXhMUWF1MWRzVVh5MkVEX0hfVmxZSTFXSzB5Xw?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "2026학년도 수능부터 선택과목이 폐지되고 수험생 전원이 통합사회·통합과학에 응시하는 방식으로 개편된다. 현행 수능에서는 사회·과학 영역에서 과목을 골라 치를 수 있었으나, 이 제도가 사라지면서 수험생 간 유불리 논란도 달라질 전망이다. 한편 AI 등을 활용한 부정행위를 막기 위해 수능 중 위급재난문자를 발송하는 방식도 주목받고 있다.",
+          "headline": "내년 수능, 선택과목 전면 폐지"
+        },
+        {
+          "rank": 2,
+          "word": "장나라",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"월화수목금 다른 불륜 상대, 이게 흔하다고?\" 장나라 '충격' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LbGlveWpTRmpieDYza0FnR1ZieEVHWmt3MVZLMWZ5SjB5dUpzZ2drMUF4RVlONFByMVBlZU1nYms3V2dtOTlMWk01YjFaMWxqdFpZYVByS2NfRWRHSmhLUTVvQUlPMnV3dzVPU2w1RnRkaW_SAXhBVV95cUxNTXVic0tQMHU5ZVJnTkswNUVzU01YTUNqcXlXZWJ3X3dNangzRG8zS2dTaTdFQmdVWHFxbE1uYUM3S2gzUVlHM3REWHJ2ODZUUXByM1VoNzZfQkVza3pzUkIteVBiUG91elVBUEZWQy1rM1dMdVFYYlU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "장나라, ‘♥’6세 연하 남편 사랑꾼 'T' 팍팍…\"예쁘다고 다리 떨며 좋아해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BX1hXMWFmYmhaeFpCcnd0emdGZFRVSTFHQVlBeG9PZnhKWlIwbXRfQW81TWRnS3VuQjVIX0ZxZmVUaGxiQUU4RWZxMzdRSzVPZC00WmZhY085LWNfNWZoQ0xn?oc=5",
+              "source": "미주중앙일보"
+            },
+            {
+              "title": "장나라, 김혜윤 출연 기도까지 했다…“엄마 아빠한테 자랑해야겠다” 감격",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ea05yTVFlQ1lBZFh4NFA5dlFXMVV4SGdaZXFmV05rdzNwLUJwdE1SMnZ4TnpfVGhUN3d2NkhENzJXcklvMEt3RkJqUWNGOUdRNDBxa2lBNA?oc=5",
+              "source": "매일경제"
+            }
+          ],
+          "description": "장나라가 출연 중인 드라마에서 '요일마다 다른 불륜 상대'라는 자극적인 설정이 화제를 모으며 시청자들의 충격 반응을 이끌어냈다. 사생활에서는 6세 연하 남편이 그녀를 애틋하게 아끼는 모습이 공개돼 훈훈함을 더했다. 또한 김혜윤의 출연을 위해 직접 기도까지 했다고 밝혀 팬들 사이에서 감격스럽다는 반응이 쏟아졌다. 오늘 처음 트렌드에 등장했다.",
+          "headline": "장나라, 드라마·예능 동시 화제"
+        },
+        {
+          "rank": 3,
+          "word": "보검 매직컬2",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EMUlSVVJnN3JvMEd0bVFwcHd3R1ZySjBjNFFtTkN6VXd0Y202VXhiMGw4RF9fSHRBZkNtLUw0NV9fZUVRZlY4c1E1dGRRdlNaWDlGVVpHOFFEa0HSAWBBVV95cUxNblI2cDZzLW5iZjVEcEhJazBGSm1IZWNVWV9wOENMMDZjM25fTHNrV2ZUUzVsRGwyeVJWbE9sZlItZnIxWk5lZXdDQkNzVWVxa1lRQ0dMR2FjM1V3S1dpVEU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "고경표 출연 ’보검 매직컬2’ 측 “시청 불편 최소화할 것“",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oWGx0S2F4bFB5RXBYU09DOEIwcnp1cHYwdjVhSzhoYlczaEoyb2JTTVRfMTU4OWtxOHlVNzd1RTlCNVM5cEZ2LVlCUktib0tkV1BVUVhVdTdLOUVmQVNjc05JWC1zWEE?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "고경표 음주운전에 ‘보검 매직컬2’ 제작진 “시청자 불편 최소화”",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jWnJXS2lJUGdWcEJfV0t4dGdkaTNqbjNRdjNNQ01iVktjV0xzdGdDemRaZ3RwODhHaFdzSi1TbXdhSk9obHdSMS1ZNm91M1JQZzRhYTZKWXE1VlhxTHFMNDNTTENmZTJPeld1d19sb0tIZw?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "출연 배우 고경표의 음주운전 사실이 알려지면서 tvN 예능 '보검 매직컬2' 제작진이 공식 입장을 내고 유감을 표명했다. 제작진은 시청자 불편을 최소화하는 방향으로 대응하겠다고 밝혔으나, 구체적인 편집·방영 방침은 공개하지 않았다. 오늘 처음 트렌드에 등장했다.",
+          "headline": "고경표 음주운전에 '보검 매직컬2' 제작진 사과"
+        },
+        {
+          "rank": 4,
+          "word": "오행별",
+          "count": 1,
+          "articles": [
+            {
+              "title": "2026년 11월 19일 오행별 행운의 컬러",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUmhYOTBuZk9ZV3FpbWowUWgwUEg3cjBoZTJiSjhtT29EWlR5UGs1aTdFMDA0aHJ0X3VucUgwZEdTWW1EUjlpcDY3ci0zQ2NkNEY1dThOMEpUdw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "2026년 11월 18일 오행별 행운의 컬러",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWFZWRmhMVFAySXdiTkZZdkdQeGFud1BvU3ExN0FMb2g4WjRqUzh0OGRTVDE1SW00dnZyZkpBZXczSkhsRFdvRlNSLWZGQ0JFMXR5bDBMWjlTdw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "2026년 11월 16일 오행별 행운의 컬러",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OaVNjMnZnTjZVMm1nTWRXU000R2xJVE5FVWlSS2p4cS1famgzb3dmLTBlM2xwdWRGaEdSaTRZb1I2T2FGRldSZFlIaEVMMG9jTU4td3VaWnhldw?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "날짜별 오행(목·화·토·금·수)에 따른 행운의 컬러를 안내하는 콘텐츠가 꾸준히 소비되며 오늘 트렌드에 처음 올랐다. 오행별 운세·컬러 정보는 일상 속 가벼운 관심사로 자리 잡아 연예·라이프스타일 분야에서 반복적으로 등장하는 콘텐츠다.",
+          "headline": "오행별 일별 행운의 컬러 콘텐츠 화제"
+        },
+        {
+          "rank": 5,
+          "word": "정재",
+          "count": 1,
+          "articles": [
+            {
+              "title": "한양대 위정재 교수, 미국화학회(ACS) 고분자재료분과 대표위원 선출",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OVTVjTGs4d3l2c2xzdHB4ai1pY3JiUHJXdG1abm01ZUViZ2dxNjctbkVlOHhYdEZTZVlreTlVUEFWR0I5U25TTUNOZnAwelotOWpoUWtCNHJGd3U0LU80emkzdFpZeGc?oc=5",
+              "source": "대학지성 In&Out"
+            },
+            {
+              "title": "한양대 위정재 교수, 美화학회 고분자재료분과 대표위원 선출 … 내년부터 2년 임기",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVl6c1R4MndYMHZyVGpCQTFDeWJfcE5yZWNBektxWmdCTTBQcUZUS3FxaHhWQjFRNVlGSEtVSkJzZ2h2OWVoaHhNaUFtR1BtWkphRUcwN1FYblpJVjR3MTJ6Q21YTWV0bTNucmZ3bTMxRHAwdlJfTU1pa2N3YjNxcNIBgAFBVV95cUxNLVl6c1R4MndYMHZyVGpCQTFDeWJfcE5yZWNBektxWmdCTTBQcUZUS3FxaHhWQjFRNVlGSEtVSkJzZ2h2OWVoaHhNaUFtR1BtWkphRUcwN1FYblpJVjR3MTJ6Q21YTWV0bTNucmZ3bTMxRHAwdlJfTU1pa2N3YjNxcA?oc=5",
+              "source": "뉴데일리 경제"
+            },
+            {
+              "title": "한양대 위정재 교수 연구팀, Cell Press 국제학술지 『Device』에 자성 로봇 연구 잇따라 게재",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0cVAtbkJUUlVGZS0xdkcwRVJfMExoNjhGejVudERZanEwa1UxTUFrRkVYRExxY2lkMWZsQU01emlrWW5reWV4TF80MWl4dU5sOGh3clJ1WWcwejllS1U2OHVobDkzY3BsMTNz?oc=5",
+              "source": "뉴스H"
+            }
+          ],
+          "description": "한양대 위정재 교수가 미국화학회(ACS) 고분자재료분과 대표위원으로 선출돼 내년부터 2년 임기를 맡게 됐다. 위 교수 연구팀은 국제학술지 『Device』에 자성 로봇 연구를 잇따라 게재하며 학계에서 주목받고 있다. 오늘 처음 트렌드에 등장했다.",
+          "headline": "한양대 위정재 교수, 美화학회 대표위원 선출"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "삼성화재 배구 3위 도약 · 김도영 일구대상 · 최민정 은퇴 고민 · 프로야구 FA 시장 개막 · 손흥민 대표팀 선발 출전",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "삼성화재",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'왕빈 22점 원맨쇼' 삼성화재, 우리카드 셧아웃 승리...3위 도약",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNDNpN3F6c2VfeUV4VDJkNnAtdG4zd2lnVHczaHFaWF9iaFJBSjg5bTBMdG91MmpnamtSaFJkcjRqZkphOHVkZnpSbXNEb1Zhbk96dWx2b2QwSGhh?oc=5",
+              "source": "뉴스핌"
+            },
+            {
+              "title": "프로배구 삼성화재, 외인 빠진 우리카드 꺾고 3위로",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EQ1lMSzFNMGg2MS1SY3ZkMEFIcVhjRnB0ZzZUSzRjdGFqQmIyOHJTcDVEMVJ1d0ZpVVhuSFFRM0puTU9lcjNSV2NqNDdIMExxQTVwVEZQeFJyVDDSAWBBVV95cUxPMVkwM2pEb0syMlVTMzVweDhPVzhMc1JPM2p4VlBFT1BnRGhTQ0hKX0hQZjA5UXFsSUFyc2MwS2g4ZUhkMGxCYUVtY3oxelBkcnZNOWRUU3QxNnZScTZzcko?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "‘왕빈·호키 34점 합작’ 삼성화재, 아라우조 빠진 우리카드에 완승…현대건설은 SOOP 꺾고 첫 승 신고",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2NEFoUkRGWlRMRnEwZXBpVjZaNVhaM3kxYXBkZkxtYjlheEdKMklaMWwzVWJMV291S0RHUklFSF9HX2NnY0kteW1mNDloTXBvMlhnQnFHSzVybG9jN3fSAWNBVV95cUxOLTZmQmlUS3kwRGpYRjF6WjhGdVgxeEpnRnJZcUVnU0Jmbkk3Ri00ZTlMYV8ydUZzeXY1RmR4ckdTenlXa1dWdEFwY0JMMWdxR0J2cEMybkR6VS1OQTJ6YUJad2s?oc=5",
+              "source": "스포츠경향"
+            }
+          ],
+          "description": "프로배구 삼성화재가 외국인 선수가 빠진 우리카드를 상대로 완승을 거두며 순위를 3위로 끌어올렸다. 왕빈이 22점을 혼자 책임지는 원맨쇼를 펼쳤고, 호키와 합산 34점을 합작하며 경기를 지배했다. 외국인 에이스 아라우조가 결장한 우리카드를 상대로 셧아웃 승리를 완성, 삼성화재는 오늘 처음 트렌드 키워드로 등장했다.",
+          "headline": "삼성화재, 우리카드 셧아웃 완승·3위 도약"
+        },
+        {
+          "rank": 2,
+          "word": "수상",
+          "count": 3,
+          "articles": [
+            {
+              "title": "’프로야구 대중성 높여’ KIA 김도영, 일구대상 수상",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjR1VYVlhCcUF1cmVLTWt5a2NaNDhteURwME9YN3hSMXdwMV9TaGM5YmgtZE8yYWNqZ1N2SFMyODcxeGVhX1pvUWQ0RFBmWnRlSzNDQlZ5dm1ZSll0dTdLeEUzcXh0REk?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "화려하게 부활한 KIA 김도영, 2026 일구대상 수상",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UbFIzZWVHS2ZiXy1oQ0pnTDQ2VnVQcndNYndkT2N6TmRjRHd6SklGeS0tVFAzSTdmYnhwYVlTdWxpWVZIYUVuajlXNDZKTTR0cmpKNHNLUmg2YzAzNE5ITGtoMTlBZw?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "'홈런왕' KIA 김도영, 수비도 으뜸…데뷔 첫 KBO 3루수 수비상",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04c3VvZi01Z2VGSHJBUTZuMkJPeFBSN2Zid3Z6TjQzOXd5c0MyckliZE9LUjFSSElhaW1kZ2hsZDF3MFdXY08zMWVibU5oc3NXV1psNHlwSEJ4RnFOMVB0bdIBYEFVX3lxTE04c3VvZi01Z2VGSHJBUTZuMkJPeFBSN2Zid3Z6TjQzOXd5c0MyckliZE9LUjFSSElhaW1kZ2hsZDF3MFdXY08zMWVibU5oc3NXV1psNHlwSEJ4RnFOMVB0bQ?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "KIA 타이거즈 김도영이 프로야구 최고 권위의 시상식인 일구대상을 수상하며 올 시즌 활약을 공식 인정받았다. 홈런왕 타이틀에 더해 KBO 3루수 수비상까지 품에 안으며 공수 양면에서 최고 선수로 평가받았다. '프로야구 대중성을 높인 선수'라는 수식어가 붙을 만큼 올 시즌 김도영의 존재감은 단연 돋보였다는 평가다.",
+          "headline": "김도영, 일구대상·수비상 동시 수상"
+        },
+        {
+          "rank": 3,
+          "word": "투어",
+          "count": 3,
+          "articles": [
+            {
+              "title": "최민정, 팬들 은퇴 만류에 “생각해보겠다…당장 월드투어 잘할 마음뿐”",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyQm9WX1U3bHF4NzFsamdrTWV0TmItbDFYQjRrRmxJOG5PQkozUjc3eGxFaHc0a0ROZ3FTNkVta1cxZURkVFU2NS1VOUJiTVdrVWliYnZDQmJMdW5OM0owZXFxaHc0UEZlLUZ6b3BwZGg4U2Vq0gFmQVVfeXFMTmp4bUVuaFJzSjUxVGJfblJlT3QzMXNPVjcyM0pNc0VaX3g3amd6bGU4Q0ZCcFJNaElrTHM4b3d6Y1hMZlBWWEZ3clROTmhGX1hiWXJ1UGxwTFhNOE9NaTB2MC0zc19n?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "쇼트트랙 최민정, 팬들의 은퇴 만류에 \"지금은 월드투어에 집중\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4My1LZjdITlVsRVRZa3dMNlptT1BrbEhCZEdnR1pOcEUwVnVzU3ZpM19aYlpxUTFkb253YWc5ZFVBclhsS19qVXFXaDBNb0VSYTh3bnZvOHVHTmJxbVpIMNIBYEFVX3lxTFB4My1LZjdITlVsRVRZa3dMNlptT1BrbEhCZEdnR1pOcEUwVnVzU3ZpM19aYlpxUTFkb253YWc5ZFVBclhsS19qVXFXaDBNb0VSYTh3bnZvOHVHTmJxbVpIMA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "'은퇴 앞두고 월드투어 씹어먹는 여제가 있다' 최민정, 1000m 2연속 금메달에 종합 2위...서울 월드투어 앞두고 은퇴 번복 가능성 열었다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42aXc2emVOT2sxNVcxTzdLMXZlOHQ0YWh0dTFnR1NrT3QwRnJ2Vms2TzdOdHo3Z2tYbllZTUp3cEVtOFJEYkJrT01UOUZSRDdVWEhrSnQ5TDc1cWJ5YWFVWDFMcGpoVWZ0d3fSAW9BVV95cUxQT1NjOE5ZMVRCYURqTnUzUEVadkZDaUFvVVJraVpMRVNXd0FTLWhsZXp4WFFwNE5CMkYyTWFzdWQwVFBlcDJPWUg5WnhuTWsxbGtaeHh1emQ5QTdCVFp6RWNUOTg1WkZld244TTR0cUU?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "쇼트트랙 최민정이 월드투어 1000m에서 2연속 금메달을 따내며 종합 2위에 오르는 압도적인 성과를 냈다. 은퇴를 선언한 상태임에도 여전히 세계 정상급 기량을 뽐내자 팬들이 은퇴 만류에 나섰고, 최민정은 '생각해보겠다'며 번복 가능성을 열어뒀다. 서울 월드투어를 앞두고 있는 만큼 그의 선택에 이목이 집중되고 있다.",
+          "headline": "최민정, 월드투어 2연속 금메달…은퇴 번복 가능성"
+        },
+        {
+          "rank": 4,
+          "word": "김호령",
+          "count": 2,
+          "articles": [
+            {
+              "title": "원태인-구자욱-김호령-홍창기 어디로… 프로야구 FA ‘쩐의 전쟁’ 시작",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3ZzNYRXdWb2FzZ0tkVXlmblBubjBWLUczU1owNmdfQlFiWXRSRHQ5RDA1V0h6cngyMWhXRGs0UlBkbkhFTUhrTEdTSkFwZ1Zzd1hidmV2ZW9RWUs3djd2XzFDQWs4MU82S1Y1MGozNkxWSjVm0gFmQVVfeXFMT2lQWWJKWFBNX3FXN21aN0xfeGtDWTNTRkt5dUhRc0ZzeVlZZEJ5OGM2WlhNemc4bFowam1oY2s4QUVWdDRRMHJvRU83NVVJVGVqTkNfdzNuV1lfVEljd2RPcWxrYmxB?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "김호령 C등급 미스터리, KIA 잘못 아닌 이유 \"구단이 조절할 수 없는 구조→변수 너무 많아\" [이슈 분석] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QQ2l1QWE1bG5wZTVIVTRJNFdXdHo1OEZoUDZwR2Q2amptcWZrblpWdEtpdGZ1OU94YUdLSGpmbGxldm9aNng4UllIYkFOcFRWSEREb3BRQVV2c014OS1zY1o2Yk1aTThhVWfSAW9BVV95cUxOelBxRjFqLTJzRmVDbDlGWXR4T21fOGVRa2sxdmdfM21vSlBwS1ctUXRSX1hCUXdJMzFEZ0ZfM2xRV2FOdFFoTy1pd0VlRTBScC1iOUlVQTFmTTIyZDZXY1AzbTllU1hXaU5VSF9xeDA?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "양의지, 종신 두산맨 ‘박동원, 홍창기, 김호령은??’",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMndYVm1HUWYzTDB4SUt4V2psMWk1emp6VFdZQk90OEQzbzhWYWl0LVJtRVV2c3dkZjk1UmVPOUpkN2xuZ0ZiRVRWTC1OMjZ3dFFkaXJnT0JDeDA?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "프로야구 FA 시장이 개막하면서 김호령의 C등급 분류가 화제를 모으고 있다. KIA의 결정이 아니라 구단이 조절할 수 없는 구조적 변수 때문이라는 분석이 나오며 등급 산정의 미스터리로 떠올랐다. 원태인·구자욱·홍창기 등과 함께 올 FA 시장 주요 관심 선수로 꼽히며 각 구단의 행보에 관심이 쏠리고 있다.",
+          "headline": "김호령 FA 등급 미스터리…'쩐의 전쟁' 주목"
+        },
+        {
+          "rank": 5,
+          "word": "손흥민",
+          "count": 2,
+          "articles": [
+            {
+              "title": "7명 바꾼 모레노, 카타르전 로테이션 가동…손흥민은 선발",
+              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYUVlS3NDYUJ4THFYeERXTHZQUHNvUnlvdEkwX1U4WTNsRGNNVDZnQ01KSXhJY3JxWnlNdWVzUExlMFdGRjBmU2ZCLU9Ma0p0X1hFSU5sNExMMTBrQ0xtSlVIUmZQZkRpcUFrTl9GVUpiM1lnOGVQOFhWdmlwMTh5Ymd6aUFUWExtZ0ZYS3FDdVc3UFI5VFU3ckczby1QLUxONmlobGVQaFJ6OC1HVU9ZdGtnNS1tdGM0OE1Ib2w5MC1HNk5PNUtoSmdTbDNIOUYyYkdWLVVVaFdsVW4tU2lRMHIxaEM2VWRBNE1lREtwc0hmMjRUcUpJTEI0MU56TEh5VlBVOFUyOHk1bTQx?oc=5",
+              "source": "데일리안"
+            },
+            {
+              "title": "곧 35살 손흥민에 '710억' 쏟아부었는데…마케팅 효과 좋은데 기량은 급락, LAFC 재계약 어찌할꼬",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fWjV5ZlpuYmxjMUJmTEVTcmxfbUJEX3FIQk5nNTkwWTkySTJQQUxzYkxlcklyTUtVdFAyRjFQTUZ6U0J1WmlqbHhWZkhrVDEwLU5yQg?oc=5",
+              "source": "엑스포츠뉴스"
+            },
+            {
+              "title": "\"손흥민과 한국 악몽과도 같았어\" 외신조차 부정한 '2026년 한국 축구'…\"고민과 생각 많아진다\"",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43U0dXa0c3TWVYdjZPUHRQUXhESkZkRTNuOTQxWXNKaUxrWEt4NWZhVXpYckNjOHlfYzF0bm0xR0tGdW1ZbWRGbU9OVVdKWUR3UC1MT3lYSEViWno4cWFBakZXUTRwMkVuNGJSRmFzWTVfSHdCVU9HM2EzY19jUQ?oc=5",
+              "source": "스포츠조선"
+            }
+          ],
+          "description": "한국 대표팀이 카타르전에 로테이션을 가동하는 가운데 손흥민은 선발 명단에 이름을 올렸다. 한편 그가 몸담은 LAFC가 710억 원에 달하는 계약을 맺었음에도 기량 하락 우려가 제기되며 재계약 여부가 논쟁거리로 떠올랐다. 외신마저 '한국과의 경기가 악몽 같았다'고 표현하는 등 올해 한국 축구 전반에 대한 비판적 시각도 함께 확산되고 있다.",
+          "headline": "손흥민 선발 출격…재계약·기량 논란도 점화"
+        }
+      ]
+    }
+  }
+}
