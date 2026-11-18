@@ -1,142 +1,162 @@
 {
-  "트럼프": {
-    "sections": [
-      {
-        "heading": "FAA 전국 운항 중단, 9·11 이후 최악 혼란",
-        "body": "11월 13일 미국 연방항공청(FAA)이 전국 출발 항공편 운항을 4시간 이상 전면 중단하는 사태가 발생했다. 이는 2001년 9·11 테러 이후 미국 역사상 세 번째 전국 운항 중단으로, 연방 계약업체가 구리선을 광케이블로 교체하는 과정에서 시스템이 과부하됐고 사이버 공격 징후는 발견되지 않은 것으로 알려졌다."
-      },
-      {
-        "heading": "트럼프, 노후 장비·바이든 탓…북미 회담은 '진중모드'",
-        "body": "트럼프 대통령은 11월 16일 오래된 장비가 '심장마비'를 일으킨 것이라며 바이든 행정부의 책임을 거론했다. 더피 교통부 장관은 시스템 전면 교체를 위한 긴급 예산 500억 달러를 의회에 요청했다. 한편 미 국무부는 북미 정상회담 일정이 아직 확정되지 않았지만 트럼프 대통령이 진지하게 추진 중이라고 밝혔다."
-      }
-    ],
-    "sources": [
-      {
-        "title": "Trump attributes nationwide grounding of planes to old technology, Biden administration",
-        "url": "https://www.opb.org/article/2026/11/16/trump-attributes-nationwide-grounding-of-planes-to-old-technology-biden-administration/"
-      },
-      {
-        "title": "President Trump Calls U.S 'Third World Nation' Following FAA Systems Outage",
-        "url": "https://aviationsourcenews.com/politics/president-trump-calls-u-s-third-world-nation-following-faa-systems-outage/"
-      },
-      {
-        "title": "Trump blames nationwide grounding of planes on old technology, Biden administration",
-        "url": "https://www.mprnews.org/story/2026/11/16/trump-attributes-nationwide-grounding-of-planes-to-old-technology-biden-administration/"
-      }
-    ],
-    "headline": "트럼프, 美 시스템 장애에 \"그게 인생\"",
-    "generated_at": "2026-11-18 17:33 KST"
-  },
   "수능": {
     "sections": [
       {
-        "heading": "세무사 부정행위 파문, 수능 전날 AI 의혹으로 번져",
-        "body": "세무사 시험 수석 합격자의 AI 부정행위 자백을 계기로 다른 국가시험으로 의혹이 번졌다. 법학적성시험(리트) 사상 첫 만점자이자 수능 전국 최상위권을 기록한 서울대 치의학과 1학년생이 스마트 안경 이용 의혹을 받았고, 일부는 과거 성적 급등 이력을 근거로 의문을 제기했다. 당사자는 사실이 아니라며 내년 수능 국어 영역을 실시간 생중계로 풀어 증명하겠다는 정면 돌파를 선언했다."
+        "heading": "선택과목 폐지, 무엇이 달라지나",
+        "body": "내년 수능(2028학년도)부터 국어·수학·탐구 영역의 선택과목이 전면 폐지된다. 현행 수능에서 수험생이 각자 과목을 골라 응시하던 방식이 사라지고, 통합사회와 통합과학을 모두 필수로 응시하는 체제로 전환된다. 제2외국어·한문 영역은 종전대로 과목 선택제를 유지하며, 학생부 교과 성적도 9등급에서 5등급 체제로 완화된다."
       },
       {
-        "heading": "수능 D-1, 연기 요구 속 교육당국 대응",
-        "body": "구독자 200만 명의 입시 유튜버 미미미누가 AI 커닝 우려를 이유로 19일 예정된 수능 연기를 촉구하는 등 불안이 고조됐다. 교육부는 수능 당일 AI 기기 여부 점검 대책을 발표하고 모든 수험생을 대상으로 점검에 나서기로 했다. 2027학년도 수능은 예정대로 11월 19일 전국 시험장에서 치러질 계획이다."
+        "heading": "왜 개편하나 — 과목 유불리 논란 해소",
+        "body": "현행 수능 선택과목 체제는 과목 간 유불리가 발생한다는 논란이 꾸준히 제기돼 왔다. 최근 조사에서 고3 수험생 10명 중 8명이 '사탐런(사회탐구 선택)'을 택하는 현상이 나타나며 과학 소외 문제가 심화됐다는 지적이 이어졌다. 교육 당국은 이번 개편으로 과목 선택에 따른 유불리를 근본적으로 해소할 수 있을 것으로 기대하고 있다."
+      },
+      {
+        "heading": "2026년 학평서 첫 출제 — 현고1 직접 영향",
+        "body": "올해 3월 학력평가에서 통합사회·통합과학이 처음 출제되며 사실상 2028학년도 수능의 가늠자로 주목받았다. 2029학년도 수능은 2028년 11월 16일 시행·12월 8일 성적 통지로 일정이 확정됐다. 개편된 수능 체제를 처음 치르게 될 현재 고1 학생들을 중심으로 준비 전략에 대한 관심이 크게 높아지고 있다."
       }
     ],
     "sources": [
       {
-        "title": "'리트 최초 만점자'도 AI 의혹?···문제풀이 본 일타 강사 \"왜 그런 선택했나\"",
-        "url": "https://weekly.khan.co.kr/article/202611161751001"
+        "title": "2029학년도 수능 2028년 11월 16일 시행…국·수·탐 선택과목 폐지",
+        "url": "https://etoday.co.kr/news/view/2615436"
       },
       {
-        "title": "\"너도 AI 안경?\" 불똥에…LEET 만점자 정면돌파 \"수능 국어 실시간으로 풀겠다\"",
-        "url": "https://m.seoul.co.kr/news/newsView.php?id=20261113500132"
+        "title": "오늘 학평서 '통합사회·과학' 첫 출제…2028 수능 가늠자",
+        "url": "https://mobile.newsis.com/view/NISX20260323_0003560214"
       },
       {
-        "title": "\"19일 수능 연기해야, AI 커닝 수험생 불안\" 200만 입시 유튜버 미미미누 촉구",
-        "url": "https://weekly.khan.co.kr/article/202611161122001"
+        "title": "중2 치를 수능부터 선택 과목 폐지…내신도 5등급제로",
+        "url": "https://newstomato.com/ReadNews.aspx?no=1203840"
       }
     ],
-    "headline": "AI 커닝 의혹, 수능 당일 쟁점으로",
-    "generated_at": "2026-11-18 17:33 KST"
+    "headline": "내년 수능, 선택과목 전면 폐지",
+    "generated_at": "2026-11-19 05:25 KST"
   },
   "게임": {
     "sections": [
       {
-        "heading": "GTA6, 아슬아슬하게 더 게임 어워드 후보 자격 획득",
-        "body": "11월 19일 출시 예정인 GTA6가 더 게임 어워드 2026 후보 자격을 확보했다. 주최 측이 11월 20~21일 출시작까지 자격을 인정하면서 GTA6는 올해의 게임(GOTY) 등 주요 부문에 이름을 올릴 수 있게 됐다. 다만 심사위원들이 출시 직후 충분히 플레이하기 어렵다는 우려가 함께 제기됐고, 후보 발표는 11월 17일 라이브 스트림으로 공개됐다."
+        "heading": "13년 만의 귀환, GTA 6 오늘 자정 출시",
+        "body": "록스타 게임즈의 대형 신작 'GTA 6(그랜드 테프트 오토 6)'가 19일 자정 플레이스테이션 5(PS5)와 엑스박스 시리즈 X|S용으로 정식 출시된다. 2013년 'GTA 5' 이후 13년 만에 선보이는 신작으로, 발매 1주일 전에 이미 10억 달러(약 1조4,000억 원) 이상의 사전 판매 수익을 기록했다. 사전 판매량은 1,500만 장에 육박한다는 보도가 나오고 있다."
       },
       {
-        "heading": "닌텐도 젤다와 맞대결, 출시 열기도 뜨거워",
-        "body": "닌텐도는 11월 5일 스위치 2용으로 출시한 '젤다의 전설: 시간의 오카리나' 리메이크를 올해의 게임 경쟁에 내세우며 정면 맞대결 구도를 형성했다. GTA6 출시일에 맞춰 연차 휴가 신청이 급증해 BambooHR 집계 기준 평소 대비 9~17% 늘어난 것으로 나타났다. 더 게임 어워드 2026 시상식은 오는 12월 10일 열린다."
+        "heading": "역대 최강 사전 판매 기록 경신",
+        "body": "시장조사업체 센서타워는 GTA 6의 사전 판매 캠페인이 역대 비디오게임 사상 가장 강력한 성과를 보이고 있다고 분석했다. 애널리스트들은 출시 첫 주에 최대 5,100만 장이 판매될 수 있다는 전망도 내놓고 있다. 2026년 6월 25일 사전 판매가 시작된 이후 수요가 꾸준히 증가하며 역대 최고 흥행 기대감이 커지고 있다."
+      },
+      {
+        "heading": "80달러 출시가·PC 버전은 추후",
+        "body": "GTA 6의 스탠더드 에디션 출시가는 79.99달러(약 11만 원)로, 닌텐도 '마리오 카트 월드'에 이어 역대 두 번째로 80달러에 출시되는 대형 타이틀이 됐다. 이번 론칭에는 PC 버전이 포함되지 않았으며, PC 버전은 2027년 이후 별도 출시가 예상된다. 역대 최고 기대작의 출시를 앞두고 게임 업계 전반의 관심이 집중되고 있다."
       }
     ],
     "sources": [
       {
-        "title": "GTA 6 Confirmed Eligible for Nominations at The Game Awards 2026",
-        "url": "https://www.gfinityesports.com/article/gta-6-confirmed-eligible-for-nominations-at-the-game-awards-2026"
+        "title": "GTA 6 boasts 'strongest pre-order campaign on record' as analysts expect 51 million copies sold in its debut week",
+        "url": "https://frvr.com/blog/gta-6-boasts-strongest-pre-order-campaign-on-record-as-analysts-expect-51-million-copies-sold-in-its-debut-week/"
       },
       {
-        "title": "GTA 6 eligible game of the year 2026 nominees november 17",
-        "url": "https://fandomwire.com/gta-6-eligible-game-of-the-year-2026-nominees-november-17/"
+        "title": "Grand Theft Auto 6 already at $1 billion in sales a week before launch",
+        "url": "https://fox29.com/news/grand-theft-auto-6-already-1-billion-sales-week-before-launch"
       },
       {
-        "title": "GTA 6 Launch Day: PTO Requests Up 9-17% [2026]",
-        "url": "https://money.com/gta-6-vacation-requests/"
+        "title": "GTA 6 Has Reportedly Banked $400M in Preorders Before Launch",
+        "url": "https://www.comicshoplocator.com/2026/08/20/gta-6-400-million-preorder-revenue-take-two-2026/"
       }
     ],
-    "headline": "GTA6, 더 게임 어워드 최다 부문 후보",
-    "generated_at": "2026-11-18 17:33 KST"
+    "headline": "GTA 6 자정 출시, 사전 판매 1500만 장",
+    "generated_at": "2026-11-19 05:25 KST"
   },
-  "징계": {
+  "선전": {
     "sections": [
       {
-        "heading": "최민희 녹취록 파문, 징계 절차 속도전",
-        "body": "11월 12일 더불어민주당 최민희 최고위원의 비공개 간담회 녹취록이 언론에 공개되면서 당내 갈등이 격화됐다. 녹취에는 이재명 대통령이 당 대표 시절 탄핵에 반대했다는 취지의 발언이 담겼고, 김민석 대표는 15일 사건을 윤리심판원에 이첩하라고 지시하며 절차가 급물살을 탔다. 이르면 이번 주 안에 징계 결과가 나올 것으로 알려졌다."
+        "heading": "트럼프, 선전 도착 — 시진핑 직접 영접",
+        "body": "도널드 트럼프 미국 대통령이 아시아태평양경제협력체(APEC) 정상회의 참석을 위해 중국 선전에 도착했으며, 시진핑 국가주석이 직접 나와 영접했다. 중국이 2026년 APEC 의장국으로서 선전에서 11월 18~19일 정상회의를 개최한다. 이번 행사는 미중이 올해 무역 휴전에 합의한 이후 처음 열리는 대규모 다자 외교 무대여서 더욱 주목받고 있다."
       },
       {
-        "heading": "친청계 반발, 신천지 역공으로 맞대응",
-        "body": "징계 절차가 속전속결로 진행되자 친청(親정청래)계가 강하게 반발하며 절차의 공정성을 문제 삼았다. 이성윤 최고위원은 김 대표의 신천지 의혹 제기를 '성공한 정치 공작이자 해당행위'로 규정하며 김 대표에 대한 징계 청원과 최 최고위원 사건을 공정하게 처리하라고 맞받았다. 친명계가 중징계를 요구하는 가운데 친청계가 맞불을 놓으며 갈등이 파국 기로에 선 모양새다."
+        "heading": "사상 첫 미·중·러 3자 정상회담 성사",
+        "body": "선전 APEC을 계기로 트럼프 대통령, 시진핑 주석, 블라디미르 푸틴 러시아 대통령 간 3자 정상회담이 19일 개최될 것으로 알려졌다. 백악관은 이 회동이 전례 없는 공동 회담이 될 것이라고 밝혔으며, 알자지라 등 외신도 세 정상이 중국에서 사상 처음으로 함께 만난다고 보도했다. 비핵화와 국제 분쟁 해결이 핵심 의제로 거론되고 있다."
+      },
+      {
+        "heading": "김정은 선전 방문 가능성도 주목",
+        "body": "국제사회는 김정은 북한 국무위원장의 선전 방문 가능성에도 주목하고 있다. 중국 항공기를 이용한 방문 가능성이 제기되며 '작은 징후들이 많다'는 외신 보도가 나왔다. 미·중·러 3자 회담 성사 여부와 맞물려 한반도 정세에도 미칠 파장이 클 전망이다."
       }
     ],
     "sources": [
       {
-        "title": "최민희 녹취록 논란: 이재명 대통령 탄핵 반대 발언부터 김민석 대표 징계 지시, 친명·친청 갈등까지",
-        "url": "https://newneek.co/@newneek/article/48717"
+        "title": "트럼프·시진핑·푸틴 3자 정상회담 19일 개최",
+        "url": "https://news.mtn.co.kr/article/2026111409340058810"
       },
       {
-        "title": "최민희 징계 속도전…친명·친청 파국 기로",
-        "url": "https://m.seoul.co.kr/news/newsView.php?id=20261117001006"
+        "title": "Trump, Xi and Putin to hold first three-way summit in China",
+        "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
       },
       {
-        "title": "정청래 최민희 징계 YTN 보도",
-        "url": "https://www.ytn.co.kr/_ln/0101_202611161916151170"
+        "title": "Trump, Xi and Putin plan an unprecedented joint meeting, White House says",
+        "url": "https://www.12onyourside.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/"
       }
     ],
-    "headline": "정청래, 최민희 징계 강력 반대",
-    "generated_at": "2026-11-18 17:33 KST"
+    "headline": "트럼프·시진핑, 선전 APEC서 회동",
+    "generated_at": "2026-11-19 05:25 KST"
   },
-  "반대": {
+  "사건": {
     "sections": [
       {
-        "heading": "정청래, 최민희 징계 반대 목소리 높여",
-        "body": "정청래 측은 최민희 의원의 해명과 진심을 믿는다며 징계가 당에 도움이 되지 않는다는 입장을 거듭 강조했다. 녹취록이 지난달 이미 입수됐음에도 지금 공개된 것은 타이밍을 조절한 것 아니냐는 의혹도 제기하며 징계 추진 과정 자체에 문제를 삼았다."
+        "heading": "성북구 에어비앤비서 15세 소녀 살해, 50대 구속",
+        "body": "서울 성북구 정릉동 공유 숙박 업소에서 15세 소녀 B양이 흉기에 찔려 숨진 채 발견됐다. 경찰은 B양을 살해한 혐의를 받는 50대 남성 진모씨를 긴급 체포한 후 증거인멸·도망 염려를 이유로 구속했다. 진씨는 범행 직후 피해자의 휴대전화를 전자레인지에 돌려 파손하고 흉기를 버리는 등 증거 은폐를 시도한 것으로 전해졌다."
       },
       {
-        "heading": "김민석 대표 겨냥 '신천지가 더 큰 해당행위' 역공",
-        "body": "정청래 측은 김민석 대표의 신천지 의혹 제기가 오히려 더 큰 해당행위라며 역공을 펼쳤다. 친청계가 절차 공정성을 문제 삼는 사이 친명계는 중징계 요구를 고수하면서, 민주당은 창당 이래 최대 내부 갈등의 하나로 치닫는 양상이다."
+        "heading": "공범 20대 여성도 구속 — 성매매·절도 교사 혐의",
+        "body": "진씨와 사실혼 관계였던 20대 여성 김모씨도 성매매·절도를 교사한 혐의로 구속됐다. 경찰에 따르면 김씨는 범행이 이뤄진 숙소를 직접 예약했으며, 증거인멸 우려가 구속 이유로 적시됐다. 유족 측은 김씨가 사건의 배후에 있다고 주장하지만, 김씨 측은 살인 사건과의 직접 연관을 부인하고 있다."
+      },
+      {
+        "heading": "진술 거부 속 계획 범행 여부 집중 수사",
+        "body": "경찰은 진씨의 범행이 계획적으로 이뤄졌을 가능성에 주목하며 수사를 이어가고 있다. 진씨는 범행 동기에 대한 진술을 거부하고 있어 조사에 난항을 겪고 있는 것으로 알려졌다. 미성년자가 연루된 충격적 사건의 전모가 드러나면서 사회적 파장이 커지고 있다."
       }
     ],
     "sources": [
       {
-        "title": "정청래 최민희 징계 반대 YTN 보도",
-        "url": "https://www.ytn.co.kr/_ln/0101_202611161919032210"
+        "title": "'10대 살해' 50대 남성 구속…사실혼 관계 여성도 영장 청구",
+        "url": "https://supple.kr/news/cmweqxhlgax70al9pdgf9pu2l"
       },
       {
-        "title": "최민희 녹취록 논란: 이재명 대통령 탄핵 반대 발언부터 김민석 대표 징계 지시, 친명·친청 갈등까지",
-        "url": "https://newneek.co/@newneek/article/48717"
+        "title": "10대 소녀 살해 혐의 50대 남성 구속",
+        "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=485253"
       },
       {
-        "title": "최민희 징계 속도전…친명·친청 파국 기로",
-        "url": "https://m.seoul.co.kr/news/newsView.php?id=20261117001006"
+        "title": "[속보] 서울 성북구서 '10대 여성 살해'한 50대 남성 긴급 체포",
+        "url": "https://www.wikitree.co.kr/articles/1173624"
       }
     ],
-    "headline": "정청래, 최민희 징계 반대 목소리 높여",
-    "generated_at": "2026-11-18 17:33 KST"
+    "headline": "성북 15세 살인, 공범 여성 구속",
+    "generated_at": "2026-11-19 05:25 KST"
+  },
+  "민주": {
+    "sections": [
+      {
+        "heading": "민주당, 엡스타인 사진 또 추가 공개",
+        "body": "미국 하원 감독위원회 민주당 의원들이 성범죄자 제프리 엡스타인의 유산에서 확보한 사진을 추가로 공개했다. 이번에 공개된 사진에는 언어학자 노엄 촘스키, 영화감독 우디 앨런, 빌 게이츠 등이 엡스타인과 함께 찍힌 모습이 담겨 있다. 민주당은 위원회가 이미 9만5,000여 장의 사진을 확보했으며 앞으로도 계속 공개하겠다는 방침을 밝혔다."
+      },
+      {
+        "heading": "트럼프 사진도 포함 — 공화당 강력 반발",
+        "body": "공개된 사진 중에는 도널드 트럼프 대통령이 여성들과 함께 찍힌 장면도 포함됐으며, 성매매를 암시하는 문자 메시지도 함께 공개된 것으로 전해졌다. 공화당과 백악관은 민주당이 트럼프를 겨냥한 '사기극'이라며 강하게 반발했다. 공화당 측은 민주당이 바이든 행정부 4년 동안 파일에 접근할 수 있었음에도 선택적으로 공개하고 있다고 비판했다."
+      },
+      {
+        "heading": "법무부 공개 기한 압박 — 맥락 불명확 지적도",
+        "body": "민주당의 이번 사진 공개는 법무부의 엡스타인 파일 공개 기한을 앞두고 이뤄진 것으로, 트럼프 행정부가 파일을 충분히 공개하지 않고 있다는 주장과 맞닿아 있다. 전문가들은 사진에 등장한다는 사실 자체가 범죄를 입증하지는 않으며, 사진 속 날짜·장소 등 맥락도 대부분 불명확하다고 지적했다. 엡스타인 파일 공개를 둘러싼 갈등은 미국 정치권에서 계속 이어지고 있다."
+      }
+    ],
+    "sources": [
+      {
+        "title": "House Democrats release another batch of Epstein photos",
+        "url": "https://abcnews.com/US/house-democrats-release-batch-epstein-photos/story?id=128519600"
+      },
+      {
+        "title": "House Democrats release 68 new photos from Epstein estate",
+        "url": "https://www.cbsnews.com/amp/live-updates/epstein-files-photos-house-democrats-estate"
+      },
+      {
+        "title": "House Oversight Dems release 'never-before-seen' video of Epstein's private island",
+        "url": "https://www.foxnews.com/politics/oversight-dems-drop-epstein-images-day-before-trump-admins-release"
+      }
+    ],
+    "headline": "美민주, 엡스타인 사진 추가 공개",
+    "generated_at": "2026-11-19 05:25 KST"
   }
 }
