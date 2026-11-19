@@ -1,509 +1,509 @@
 {
-  "date": "2026-11-19",
-  "updated_at": "2026-11-19 17:27",
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20 05:16",
   "briefing": {
-    "text": "2025학년도 수능 당일, 경기 용인과 서울 서초구 고사장에서 초소형 카메라·이어폰·신발 속 스마트폰을 소지한 수험생들이 무더기로 적발됐다.\n\n교육부는 위급재난문자를 활용해 고사장 내 스마트폰 소지자 22명을 추가로 걸러냈으며, 실제 시험 진행에는 차질이 없었다고 밝혔다. 김영훈 고용노동부 장관은 수능 휴대폰 일괄 수거와 공정성 회복을 위한 TF 가동을 지시했다.\n\n경제 분야에서는 호재와 과제가 함께 부각됐다. 한국이 연간 수출 1조 달러를 돌파하며 세계 네 번째 달성국이 됐지만, 반도체 편중 구조 탓에 내수·중소기업 현장의 체감은 어렵다는 지적이 나왔다. 엔비디아를 둘러싼 경영권 혼란 속에서도 삼성전기는 협력 확대 기대감에 8% 넘게 오르며 강세를 이어갔다.\n\n연예계에서는 박지윤이 최동석과의 상간·이혼 소송에 직접 반박 입장을 밝혔고, 이정재는 200억 수익 중 소속사 귀속액이 4억 원에 그쳤다는 보도로 사익 추구 논란에 휩싸였다. 스포츠에서는 쇼트트랙 월드투어가 서울에서 개막해 최민정의 3연속 금메달 도전이 주목받는 반면, 손흥민의 LAFC는 전문가 66%가 플레이오프 1라운드 탈락을 전망하며 위기감이 고조되고 있다.",
-    "period": "저녁",
-    "generated_at": "2026-11-19 17:27"
+    "text": "2027학년도 수능에서 국어·영어는 무난했지만 수학이 사실상 당락을 가르며, AI 부정행위 차단을 위한 안경 전수검사·단추 구멍 확인 등 초강력 감독 대책이 사상 처음 시행됐다.\n\n트럼프 대통령이 미·중·러 핵감축과 종전협상 의지를 공개적으로 언급하며 푸틴을 '내 친구'로 부르고 김정은과의 접촉 가능성까지 시사해, 한반도 주변 외교 지형 변화에 관심이 쏠리고 있다.\n\n경제 면에서는 반도체 호황을 바탕으로 한국이 세계 네 번째 수출 1조 달러를 달성했고, 자동차·조선이 뒤를 받치며 제조업 경쟁력을 다시 증명했다. 수능 당일 늦은 개장으로 출발한 국내 증시는 앤트로픽 IPO 기대감에 반도체 투자심리가 살아나며 상승 마감했다.\n\n연예·스포츠에서는 이강인이 AFC 국제선수상 2년 연속 수상이라는 사상 최초 기록을 세웠고, 삼성 구자욱의 10년 220억 원대 초대형 FA 시나리오가 화제를 모았다. 영화 '슬픈 열대' 개봉을 앞두고는 김명민의 이민 결심 고백과 박유림의 전 분량 일본어 연기 도전이 함께 주목받았다.",
+    "period": "아침",
+    "generated_at": "2026-11-20 05:16"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "수능서 스마트폰·초소형카메라 등 첨단기기 부정행위 적발·대법, 김건희 명태균 여론조사 의혹 상고 기각 무죄 확정",
+      "summary": "김건희 주가조작 징역 4형 확정·수능 AI 부정행위 방지 대책 발표·민주당 최민희 징계 논의",
       "keywords": [
         {
           "rank": 1,
           "word": "수능",
-          "count": 6,
+          "count": 4,
           "articles": [
             {
-              "title": "서초구 모 고교 수능시험장에서 신발 속 스마트폰 적발",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uSWhUb2VESDVGaXZ4eFNNZ0JIUG5xc0QxTzdiU2FzVElTaVFXRWt6eVpVWGJwX3NwVlV5aHRKSFhBN09XR1dhMW91V2dMUzZVWHZ5QXRuY2haM1ZSXzd2ZFRTQUFiT204anltYW5nTEZpUTRlLXEw0gF3QVVfeXFMT25rXzVfS29ZdTdkajh4VFhoZk1jeUc0Z3N2UkdFclU2NTJ6eDBEZmxIT21hUVM0bnBsQTJXcGpLMVVrM3NBdGdRRGoxa0VRM0FVOTVsZ0hBbm1QNzIzWTJOTGRMM1pnRWZrdDZZWDgxWkhkMXdRTHM?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "“용인 수능 고사장서 초소형카메라·이어폰 발견”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTXYtbkJhVHRhQVk1Nnkwem4yc0ExcVBxMFA1T3ZTVk9CM00teHkwNEVGNm5abzJ3SUVUZXVNVDljYy04dWFmelhvTnhJc2JmTmh2Yzdn?oc=5",
+              "title": "폰 끄고 잠적한 리트 만점자…모텔엔 ‘찢어진 수능수험표’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NbjJMY2FaOUR0SmV4WGd5dDhyczdsMWxqNWFJbTQ1MGF2YVpBSm41UUtkUE1Vci1NY3NNNE1nWEVrMjRBN2M5MS11aXU4d3ZvdWhSZlFn?oc=5",
               "source": "중앙일보"
             },
             {
-              "title": "경기 용인 수능 시험장서 카메라·이어폰 소지한 수험생 적발",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUFNYWGFPTy1OaExjdEN4MWs3eFo0VFExSkN3RGRWT3c1bll1VFowdi10VGNQVlZJQ0x2eW52eDBMZ2pRWWFPY0t2ZnFESnBKN1RwRnppNTY1QdIBX0FVX3lxTFBKb2ctRW1uSVFZQjQxRFdXQ0tnb0d3UDlmVFdSa09TTWppSjQwUHNHdUktS0xkb2VycVdzZTdYaUg0UkV5d052RUF1X1RHUGN3YXo5ZG45SW1obldaRFZj?oc=5",
-              "source": "경향신문"
+              "title": "수능 위급재난문자 3번 울렸다...입시업계 \"수학 영향력 커질 것\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LdnJGcDJLOGRubzZkd2c1NmNscXJQaDd3cG5lSFM4Uk8tVldEb2N6N2VVWTFXRF9Ba0VJUHFkMHZqMGt2TzhuRl9la2J5eTY4Z3Q0cVdQcUpyQXlSbnIxQk9ESzFFVWUtcnfSAW9BVV95cUxOS0VyN1RTV0tTRXk3dGlBOWU0aVFHZldBRVlZZE1hVFVjWDBwM0tpYnVSWnYtRHBYV0FoazQ1ajNWZUhjdEtrQUhKcFZjT2huYVVKLU9EWEFsd25yVEdvbEpTRlR3dWV4b1B5cDFzMVU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "국어·영어 ‘불수능’ 피했다… 작년과 비슷한 수학서 당락 갈려 [2027 수능]",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qOGZkMEtYZ0JoSXpSS19laG5maWphMFdjTDVvNGRfZFV0eklxSGNZU2g3QTRyeWRhcjhKRmZXcVdPTXdiRW12ZU1TbWU0SnYyZXNpLVdoenTSAVRBVV95cUxNT1JUWlRnZEN4YmNZR0M2cmVkUzk0SVFZN0RhYkM4NGRuVXYzbjNWWVNXSXVJZlpKRFIydVlPaU5sVm9TM21qb1Bld3J2b3V6RmdGalQ?oc=5",
+              "source": "세계일보"
             }
           ],
-          "description": "2025학년도 수능 당일, 경기 용인과 서울 서초구 고사장에서 초소형 카메라·이어폰·신발 속 스마트폰을 소지한 수험생들이 적발됐다. 교육부 차관은 위급재난문자 발송으로 22명의 부정행위자를 추가로 걸러냈다고 밝혔으며, 첨단기기 실제 사용이나 시험 지연은 없었다고 전했다. 조직적 부정행위 가담 여부는 조사 중이다.",
-          "headline": "수능 시험장서 카메라·이어폰 잇따라 적발"
+          "description": "2027학년도 수능에서 국어·영어는 작년과 비슷한 난이도로 '불수능'을 피했지만, 수학에서 변별력이 집중되며 사실상 수학이 합격을 가르는 핵심 과목이 됐다. 시험 당일에는 위급재난문자가 3번 울려 수험생들의 혼란을 빚었고, 'AI 부정행위' 방지를 위해 안경 전수검사와 단추 구멍 확인까지 진행하는 등 사상 초유의 감독 대책도 주목받았다. 만점자로 추정되는 수험생이 연락을 끊고 잠적하는 해프닝도 화제가 됐다. 수능은 3일 연속 1위를 기록 중이다.",
+          "headline": "2027 수능, 수학서 당락 갈려"
         },
         {
           "rank": 2,
-          "word": "부정",
-          "count": 2,
+          "word": "회담",
+          "count": 4,
           "articles": [
             {
-              "title": "재난문자로 스마트폰 22명 적발…첨단기기 사용·시험 지연 없어",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03UVROS0tvamZ6aVJBeEp2Ulc0YmtiZFlRd3JWamFqRmtzTWxKbHp1WWk0bXRQY1pSTnJoV3hWZDZrTG5wUDIxYTFGeVF5OGtVcXRvU0wzQmhSMkZ5MzRPY2F6LU5id3ZmakE?oc=5",
-              "source": "한겨레"
+              "title": "트럼프 “미중러, 핵무기 감축 논의할 특별한 위치”",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ObjVieWR4a2hSSk1QRlVpaE5Qc2VCWm9ueHNiTXhSSUp1UjNOODJheW8ybURRcXJSY0ZFam9MUDlmNG96WlEtbG9oQTNUUnJ0eHdPRXVYeGxYMTgwRzFRZXd0b1BsZ0JTRmYw0gFuQVVfeXFMTkxwYURLOWNUNjRibkVuQUpFcU1tUFU0N0VORXN6d2RQMTYzVG45UkliU01QY3ZVLTVwdjJ1d2Flbm8xTzNYVGRjZm94OExSYlJXSkszbkxIX3BWM2VkRWdUd2xPQ1R1NVhtSkVOaUE?oc=5",
+              "source": "VOA 한국어 홈페이지"
             },
             {
-              "title": "교육차관 “위급재난문자 발송으로 부정행위 22명 적발”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OeWwtdl9wQlB6SW5YdENmQU1qNmQ0WkpWcHN5anFsSThONWZ3aW9KUHU4UnVIMHlZLXJmWmptTTdVQjJGb2RqY3BYUURhMGR5Y3pacWFR?oc=5",
-              "source": "중앙일보"
+              "title": "트럼프에게 \"내 친구\"로 불린 푸틴…종전협상 영향은",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWZUJnZzA0UUZucGdtalA1LWNIMHJhZ0EtLWl5ZXlnWmYxZlZkMzhBUXR1SzJzRXZSSFpLMGxWQnp2LWxfZ1N2SUZjaWZaTkhiaWJkQ1NsbXBRVTjSAWBBVV95cUxOVUZvNU9MdmpvQTFIRV9ZUnMyVXFsc0N3ZXoxclJFQ0I4eTZ3QUVkbXpvTjdBQmRaalFQRnlENWlQUjlDVnYxcF9nSWl2ZGRrb3B2Z1JHS2RYcTA5YnhMTzI?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "수능 시험장서 카메라·이어폰 적발…부정행위 여부 조사 [현장영상]",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FZVhNSm1DeWV1NDFMUnR1QlZzdDVKTDlQTmN4U0ZUM01RaUcwYzFiRS1md01sTWVIbklBVFBmNm8zQ2pYWXMtNVB6b0hRdmRldGJ2MVZ6anAwbV8yS3pPQTNfZlJpUQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "미중러 정상회담과 김정은 찾는 트럼프…한국의 자리는 어디에?",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hendKekQ0ckFIZnB0YmQ0ZDIyRnVfMHctNy14MzlBX1VqQUMxTDQ5Y1NkbjNhc1R5WHpCdzN0SUt0RThNX1lDUzZhOXp2N1EtbDNYWnowR19weGNLZkHSAWNBVV95cUxQWHA0dEViSlE4ZDFZdHdJQlA4OFJiNGlYYUpGbGJXNDJZdmlmbjJDZDdQam5GODNUdWl3YTh5a1VQOXljbWo4TFJYSDJzaHRSeFR6SWxON0dkS2dUQ1hkM01vb1E?oc=5",
+              "source": "BBC"
             }
           ],
-          "description": "올해 수능에서 위급재난문자를 활용해 고사장 내 스마트폰 소지자 22명이 무더기로 적발되는 이례적인 상황이 벌어졌다. 용인 시험장에서는 초소형 카메라와 이어폰을 지닌 수험생이 발견되는 등 첨단 장비를 이용한 부정행위 시도가 확인됐다. 당국은 실제 시험에 영향은 없었다고 밝히면서도 부정행위 여부에 대한 정밀 조사에 착수했다.",
-          "headline": "수능 부정행위 22명 재난문자로 적발"
+          "description": "트럼프 대통령이 미국·중국·러시아가 핵무기 감축을 논의할 '특별한 위치'에 있다고 언급하며 대규모 외교 구도를 공개적으로 거론했다. 푸틴을 '내 친구'로 부르며 종전협상 의지를 드러내는 한편, 김정은과의 접촉 가능성도 시사해 한반도 주변 정세 변화에 관심이 쏠리고 있다. 미·중·러 중심의 판이 짜이는 가운데 한국의 외교적 위치를 묻는 목소리도 커지고 있다.",
+          "headline": "트럼프, 미·중·러 핵감축·종전협상 띄워"
         },
         {
           "rank": 3,
-          "word": "노동",
+          "word": "검사",
           "count": 2,
           "articles": [
             {
-              "title": "김영훈 노동 “국가자격시험 휴대폰 일괄 수거…무작위 전화”",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ocE5aWFVUNENhSnVfRkk4LWdXaE9QSG4yc1JwT3pkaVZsZlE2ZjE1WE5zdkYtTlIyMU1nOEJuMU5qOTA5ZjFtRVk0dXFlZzBfN3lnWDV0aW5veGxCTi1yTElQYXA?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "김영훈 장관 “이주노동자 소중한 동료이자 이웃”",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TaTZ1dWNGb2pGajhWWl80Z1dLVVp3VjJVZHRndmFoeUNhdjFQczFSWF82UFBiVkhrc0Q2SnM4ZWRZVWt3a2pyaTN3ZVUtTk50MFFPRDRZTmxGeThWaVphRVBrSEpQeFZITm9EUUVnOHM?oc=5",
-              "source": "매일노동뉴스"
-            },
-            {
-              "title": "‘초광역특구’ 노동특례 놓고...김정관 “일자리 사라지고 ‘주 52시간’만 남는 악몽 꿔”",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHU5ZjRqN3ZPUXcxOGFiYUtsMjFJa0k1a2dkMnpFQll2WGl3MjN4NEJ4c3RoaFdQUHZDdGF6SG05X05VVDN4a3o1ZFQ2MWsxeVY2V09DaGZMMWdtSG1qOHEtLUFvandSdlVsSm9BN0dhcHQzQjNDRUtia1NZdTBrOXNR?oc=5",
+              "title": "검사 탄핵, ‘채 상병 특검법’… 수능에 등장한 尹정부",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVh6UGhid0FaaDdobnNBUU1XQ2RrNG1kNDZrTFphclVNSjBNRFZIQjNhYnQybEhaeFNreC1BLXNUbjhmZjRVQlNzNnRldndCUW5aOWdMemNQNEFaYjNUaWNibnR4ZGRHMEtBYUlnYXBEUkdwZU5IOURqWEdTTFBMdVBiWEdhc2c?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "수능 추가대책 : '안경 검사하고 단추까지 확인'... 정부 'AI 부정행위' 방지 대책 발표",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vZUItVFRuaVBDaDNPR01nMnBCTFNiUUFKdTdVWlNPMDJWekxTbkhYdlpWQ3hCaEl6SllRM0JHWDBMZzhxeEVXdGxVQUIxVXJfZEhWeTJMeWRwWks3MUHSAWNBVV95cUxOaXhldzZCRjhrQzNvTlVoVDNycDE0dE42SklPQVcwVmZHMlNPcFRoQzN0TlBIWjBCcXpudVBRRGVMa1FELXpFWHdQa3ktbzhraWdBQllfdVBFZ3dKRm41LVJGTVE?oc=5",
+              "source": "BBC"
+            },
+            {
+              "title": "정부 ‘AI 악용 수능 대책’ “단추 구멍 막아라”…1교시 전 안경 전수검사",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBWEUwTks3WjVYWEEwUm9ETWZ0cUtnb0dZOVFWdzZmd0FDVTM4eHpicklaa3Q0M2k0QU9DUnRuaVhMdnl1ZWp0aFV2N1M4N3dBeEZPbHVOTTA2ZXNDbjBITklIemFTUQ?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "김영훈 고용노동부 장관이 수능 국가자격시험 휴대폰 일괄 수거와 공정성 회복을 위한 TF 가동을 지시하는 한편, 이주노동자를 '소중한 동료이자 이웃'으로 표현하며 포용적 노동 정책 기조를 강조했다. 초광역특구 노동특례를 둘러싼 주 52시간제 완화 논쟁도 함께 불거지며 노동 현안이 한꺼번에 주목받고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "김영훈 장관, 수능 공정성·노동특례 현안 발언"
+          "description": "정부가 AI 기기를 이용한 수능 부정행위를 막기 위해 1교시 전 안경 전수검사와 단추 구멍 확인 등 이례적으로 강화된 감독 대책을 시행했다. 같은 날 수능 국어 지문에 검사 탄핵·채 상병 특검법 등 윤석열 정부 관련 소재가 등장해 눈길을 끌기도 했다. 오늘 처음 등장한 키워드다.",
+          "headline": "수능 AI 부정행위 막아라, 안경 전수검사 실시"
         },
         {
           "rank": 4,
-          "word": "국가",
+          "word": "조작",
           "count": 2,
           "articles": [
             {
-              "title": "김영훈 장관 국가자격제도 종합점검 및 대책수립 TF 회의",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44N3pNcmlRNEZZMmtBUTVycU9qRHJyd0hteTh0ZDV3eWVNTXBsMkZZaEdQRFo1cl9Vb2lscEowczlTNGxZakdMWUlENTlvZ3V6TDdfUmxuM2tvT0IyY21HZGpnaTFsSlpRRzdhWGlLWVl0aE3SAXNBVV95cUxOODd6TXJpUTRGWTJrQVE1cnFPakRycndIbXk4dGQ1d3llTU1wbDJGWWhHUERaNXJfVW9pbHBKMHM5UzRsWWpHTFlJRDU5b2d1ekw3X1JsbjNrb09CMmNtR2RqZ2kxbEpaUUc3YVhpS1lZdGhN?oc=5",
-              "source": "세이프타임즈"
+              "title": "대법, 김건희 ‘도이치 주가조작·통일교 금품 수수’ 징역 4년 확정",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbFd6QS1sa21WWDBkVzhBT29oU01HS3REYnVNNDBpQTBob0Z3YlkxMGxpa05Cb0JvY0FHbWUxQS1QcUtvbTJpV2hUVkZHck5ENHhBTXRSX21XQdIBX0FVX3lxTE9tRVFyRk8xNGhhYlZVRlowWUZBZkdLa2NvZlY3VnRNTzR2QXlXem9vdW9uWFMtT19MRjJHZWhHX0hPOHVwSEloa215MXRCbGFZLXBXNHQ5Qm9qMEdUdnZn?oc=5",
+              "source": "경향신문"
             },
             {
-              "title": "김영훈 모든 범죄 흔적 남아…국가자격시험 공정성 회복 총력",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YRlJxTjRJdEZDM0dYaUZPenoyRkNWMW1jbmpkZExmWHppWmRyWV95RWVSVTBLaGh4NGYyVFVsMmlob3pGbDFfekttN3Iwc0pOV0RzN2FVLXZSQdIBWEFVX3lxTE1wYWd0NTY4SENjZGpOMzlERU9rTUFXMHlRamZUcHc3ODYyNEwtWlA0YmV5b0dLN0xHNVVlYWhyRktKSVJ0b1JFdGNFMmJMR2FPSUN3Mkc0ckU?oc=5",
-              "source": "아주경제"
+              "title": "‘주가조작·금품수수’ 김건희 징역 4년 확정…‘무상 여론조사’는 무죄",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUlR6VDBreXpNMW5mQmFWdGZkSkRMaVhWNHhXVTBzZ0JjNV9DeEs5Vi1vWkF5NEoydktrNS1sdVdjRlZ0ZVoyNDY2ZXBYMjNKejNmUExpMk1PUXpxTGxPb1dRRmtuTXd6YXRGSWJkQ1AtUQ?oc=5",
+              "source": "한겨레"
             },
             {
-              "title": "김영훈 \"초광역특구 국가 명운 걸려…사회적 대화 반드시 성사\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoYTBMYlBBU1VnME9EUkQtZjNadG1LY1hvX2xDY1NaRVI5TkJBN1A2ck1iVE9uSUgtN3dLTVNLOVR3ZG5seklUYlJrRjk1YzVrNlR2ZGlrd0dIV3PSAWBBVV95cUxNQ18yb0FMQS1tTWlVS1RjT1ZvRVF6WkVUWld3WUdraGN0ZEdZTEg0bHJPNk9MdHo3RlkyVnlYeEdsSnA5Uk81S0NIczZkQXdwQ2NFZzNiNUwtWk9oV2JzWjI?oc=5",
-              "source": "연합뉴스"
+              "title": "김건희, 주가조작 등 '3대 의혹' 징역 4년 확정…전직 영부인 첫 실형 확정",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tMUVwYVRWODdpUUN3Y2FhTGRjcmdmSE9teXl6c3dzRXVxXzNGNHpFSVFPWGk3YUxPaElySVl4QWpFQlpoRVZvSFBKcWxxQQ?oc=5",
+              "source": "전자신문"
             }
           ],
-          "description": "김영훈 장관이 국가자격제도 종합점검 및 대책 수립 TF 회의를 주재하며 '모든 범죄 흔적이 남는다'고 경고하고 국가자격시험 공정성 회복에 총력을 기울이겠다고 밝혔다. 수능 부정행위 적발 사태와 맞물려 국가 시험 관리 체계 전반에 대한 점검 필요성이 커지는 상황이다. 초광역특구와 관련해서도 '국가 명운이 걸렸다'며 사회적 대화 성사를 촉구했다. 오늘 처음 등장한 키워드다.",
-          "headline": "김영훈, 국가자격시험 공정성 회복 총력 선언"
+          "description": "대법원이 도이치모터스 주가조작과 통일교 금품 수수 혐의로 기소된 김건희 씨에게 징역 4년을 확정했다. 전직 영부인이 형사 사건에서 실형을 확정받은 것은 헌정 사상 처음이다. 무상 여론조사 혐의는 무죄로 판단됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "김건희, 주가조작 등 징역 4년 확정"
         },
         {
           "rank": 5,
-          "word": "무죄",
+          "word": "징계",
           "count": 2,
           "articles": [
             {
-              "title": "대법, 김건희 ‘3대 의혹’ 상고 기각…‘명태균 여론조사’ 무죄",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iOEc2VzY4QUVrbG94ZE5HMkRVdGRBeEVHTEpGcDZIRWI1OTd3a3dkSkFlNGxYVWxqTmU0Rlk2V3VpWUQ4YmtuSGozd3FWVTVqdHpRQ1Rac1E3VzAtS0F0UEhmN0tFWGRCWU1SSEthUTBKSUlESnfSAWZBVV95cUxNX0VselJ1U3dnRHp0MDlxWEtqMmx3OC16VGFxTWNzdmphWVo4YXZvTjlKdldGdjN3WlJHVWpYZndFMHFxdkh3aHlfY3J4dlYzZFhDdlR3ZnpiR3diTzdlSm5RXzQxUVE?oc=5",
-              "source": "동아일보"
+              "title": "정성호 “최민희 징계 불가피…김민석·정청래 연락 안 되면 내가 중재”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfVkNRSnY2aElNcTkxMzdrbkw4U0kyTV94RTc2MmRIbXQ2X1pIU1ZsOFBjdDVTV3RmYWxaYnV0TE5TcTk5RXFna0gtdk9mRzF0TDgtT0V3dGlJN2s?oc=5",
+              "source": "경기일보"
             },
             {
-              "title": "김건희 무죄 ‘명태균 여론조사’ 첫 대법 선고…윤석열·오세훈도 지켜본다 [세상&]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05eE1NN3ZNVXVIczVaeXNJYmRxbjEtaFdmMWxka0ZyR3VoQkNic29XZTBjc2pMQWd5UXZlQ1RtcFZ3X0VBZXU4aTBCNnZlZUlNcHQyS1Jn?oc=5",
-              "source": "헤럴드경제"
+              "title": "정성호 “최민희, 징계 불가피” 김영진 “윤리심판원 존중해야”...'김민석ㆍ정청래' 만남 '중재' 나선 중진들",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NY0tCOXFienA0R3BUejRRS0lLX1hQeVNOd3dJRDlCc203SGpqMmp0TmRKRGxyVHJQNzBDVjgtbFF3RVJnLTk4aGEtMnNMSEgtSmdQeA?oc=5",
+              "source": "JTBC"
             },
             {
-              "title": "김건희 '징역 4년' 확정…대법, '명태균 여론조사'는 무죄 판단",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGaVlHVUJWeU5xdjh5OXlmYVdRNDZDY0xHNlB5bUx5Rl9GTHdkNDBfLWdnaXZld2hpQXpGQmpEbEFrTHE1TFN2TExqVjVrLW5kUmc?oc=5",
-              "source": "노컷뉴스"
+              "title": "정청래 \"최민희 해명·진심 믿어‥징계는 당에 도움 안 돼\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2d3hXbmVTcnFUa1VmOFotNUZvY3ZJX3Z2aEJwTEd3S3NWc1NUNkxZQW1kX0VnQm1nNTlnWFJyS3VZQXA1eF91RHRRbFVncTRBOVF4MjBCa2FEZnVkNzZWVzNFaGVHQXh2UmVnbVBubzdsMlRRWDNRM9IBeEFVX3lxTE11MFE5X09UUzZFMVJJa2pMWjM0SmJJZGFhMWdXbkZxbW9MdUFueURzekVmTEFLemctQTBzR2VHMlJqbDBWMlg1VHR4SVRPNWRrYUVvRXlLSXlOUWQzNERzMzdwelUwak9YV2dDQ08tZUVRbHJrbHpiRQ?oc=5",
+              "source": "MBC 뉴스"
             }
           ],
-          "description": "대법원이 김건희 여사의 '명태균 여론조사' 의혹에 대해 무죄 판단을 내리며 상고를 기각했다. 이번 선고는 해당 의혹과 관련한 첫 대법원 판단으로, 김건희 여사에게 '징역 4년'이 확정된 별도 사건과 함께 선고돼 주목을 받았다. 윤석열 전 대통령과 오세훈 서울시장도 결과를 지켜봤다고 알려지며 정치권의 관심이 집중됐다. 오늘 처음 등장한 키워드다.",
-          "headline": "대법, 김건희 '명태균 여론조사' 무죄 확정"
+          "description": "더불어민주당 정성호 의원이 최민희 의원에 대한 징계가 불가피하다고 공개 발언하며, 당내 갈등 수습을 위해 김민석·정청래 의원과의 중재에 직접 나서겠다고 밝혔다. 김영진 의원도 윤리심판원 결정을 존중해야 한다는 입장을 내놓으며 징계 절차가 가시화되는 분위기다. 반면 정청래 의원은 최민희 의원의 해명을 믿는다며 징계가 당에 도움이 되지 않는다고 반박해 당내 의견이 엇갈리고 있다.",
+          "headline": "최민희 징계 불가피…민주당 중진 중재 나서"
         }
       ]
     },
     "경제": {
-      "summary": "한국 연간 수출 1조 달러 세계 4위 달성 · 엔비디아 창업자 비판 속 젠슨 황 복귀 불가 결정 · 코스피 목표치 하향 조정",
+      "summary": "반도체 호황으로 수출 1조 달러 달성 · 수능 당일 스마트폰 22대 적발로 성적 무효 처리",
       "keywords": [
         {
           "rank": 1,
-          "word": "엔비디아",
+          "word": "증시",
           "count": 5,
           "articles": [
             {
-              "title": "공동 창업자까지 공개 비판… 젠슨 황 선긋기 나선 엔비디아",
+              "title": "\"개장은 10시, 프리마켓 휴무\"…수능 날 바뀐 증시 시간표",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55dnpFRnFFWXJWaDFud3RUUEFJdkxNUFZRYlYzeVNzMElZS2dyeF9zNmRSd3l0MEVCd1AtNk5Sb2hGV1ZhUklYMzh5UkdZXy1UWGFEdWpEUnpRWUZoOFpZ?oc=5",
+              "source": "뉴스1"
+            },
+            {
+              "title": "양대증시 상승 마감…앤트로픽 IPO에 반도체 투자심리 회복되나",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tMFY3MHdVYVBIMmd3ZlN0UEpDUF8zVGhOQzNoNnZKQTIybTFyUEIwOXh4cTYzZXVwN2FrQXM3VHdyMVc5MjBmYmU3OFNmWjMyVldoZGhpV3B0N1R4d3hQZVdWWWtKSWdU?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5",
+              "source": "한국경제"
+            }
+          ],
+          "description": "수능 당일을 맞아 오늘 국내 증시는 개장을 오전 10시로 늦추고 프리마켓을 휴무했다. 양대 증시는 앤트로픽 IPO 기대감에 반도체 투자심리가 살아나며 상승 마감했다. 반면 뉴욕증시는 엔비디아 실적 호조에도 AI 투자 부담이 부각되며 힘을 쓰지 못하는 엇갈린 흐름을 보였다.",
+          "headline": "수능일 개장 늦춰진 증시, 반도체 훈풍에 상승 마감"
+        },
+        {
+          "rank": 2,
+          "word": "반도체",
+          "count": 5,
+          "articles": [
+            {
+              "title": "반도체 호황에 수출 1조 달러 달성‥세계 4번째",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEdXE5UDNFRzRCelZLQVRVR1dHanJ5b3BNWEoxR1V4ektxd3Y3ZTg4eXc4enE2TzU1eTVxRm13a2F0ejg5NndsaWtxM2VTdXNiZzlRejRZOGY5WTFhaWQ5bzN2YS1CdkpEbzBWVHR2R2JCMmpZ0gF0QVVfeXFMTjEyUDdhOGJaY1hCaVpPekZOcmxIb3p5M2FmZ191LXl6LWFlNXFDb0VnX05YVjJicE5scDBCTW45dWM5d3JTeGtiVGZ6Tm9nX1k3U2twTkVNN3AwS2RBWjRwbHFNQVF4d281cWRvOTd6NVpXSm4?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "한국 반도체 호황... ‘네덜란드병’ 초래할 위험 없다",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmZyOFEwWmdpbExaNmhwRnNMZzVKREJIWUQwTkZ6MllYd1dCZ25YakhULUxtUUdNLVozb2w4M2gtbUFhSmliVGFBTVpDNm5xT1ZYZHdxU2xSSjk1b3R4YURwaGFva0V2dHBvYUtMdnl4OWU3X0o1TkFONS1tcWcwdnhlNG5pdw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "‘아틀라스’, 車 넘어 반도체 공장까지 ‘임무 확대’",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PLXFGLUh1M3ZSdzNJTU5yM1EzcW5BOWkxUlBQQXpTUTRxM19fMXVJdVlUeVdQR0czLW9tTWJJY3BUZHB3OVNsblJSZ1dmdFNRSV9ESm9wZTdBYzZfUWc?oc=5",
+              "source": "동아비즈니스리뷰"
+            }
+          ],
+          "description": "반도체 호황을 발판으로 한국이 세계에서 네 번째로 수출 1조 달러를 달성했다. 반도체 편중 성장이 '네덜란드병'을 초래할 수 있다는 우려도 제기됐지만, 산업 구조 특성상 위험이 크지 않다는 반론도 나왔다. 한편 보스턴다이내믹스의 로봇 '아틀라스'가 자동차 공장을 넘어 반도체 공장으로 임무를 넓히며 제조 현장의 자동화 흐름도 주목받고 있다. 반도체 키워드는 어제 4위에서 오늘 2위로 올라섰다.",
+          "headline": "반도체 호황, 한국 수출 1조 달러 견인"
+        },
+        {
+          "rank": 3,
+          "word": "수출",
+          "count": 5,
+          "articles": [
+            {
+              "title": "쉼없는 공장이 만든 수출대국, '하드캐리' 반도체의 명암도 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3ZnJGSm8zeU95bThrYjZ5Rm5rTEV2N1M5X3ZJN21PR1BucjFwTzU2X1hjbnQySFdvREh6SkR2b0xWdXh1bkZGbF9fbnJGVk95UVJuRGMtbzNBMHBhNjlFS1F0QXN0VzItYi1rd9IBckFVX3lxTE9XZ1ZWblhCVjhaQVlHaUk0emZlV29OMkV2U1NKN1lvc0xST2xyQWt4LWkwWV95Z3dycURHMWFpM3ZoQ1o1eTV6NFlZU1BmY3VqR0NFVVRjNlo0d2kwSGlhYWZsN1pCZERUN2FGNVl5WGx4Zw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "반도체가 열고 자동차·조선이 받쳤다…수출로 제조업 경쟁력 입증",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BMUZod29yT3NTNVlCdXJCaFI4eXNQTHh3Z1k2NFhtMjVMTlBlOVowcTVwQ1pPb2FMNlhDX0d3czhTWVVLc2ltQ05OWWQyZ1E1cC1NdU5selZCTllOQ2tpdlBta0V4dDlUZ3NqTk1YVGVuVkE?oc=5",
+              "source": "마켓인"
+            },
+            {
+              "title": "원전 수출, 산업 생태계 살리는 물길 돼야 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WaWY5MFpVVmNHdWp1dkI5bHNpalp5Nkd6SzdVbDdqQmpxdnZnaEUtUko1VHpkRVlHTXJSYXI1YXkzOTJHYWhDNnEzb09zUENRQnY2YW56dm1ydTdZN0NhdUR1VkYzby1PM1FrcUZ1VVl3N2xQZ0dKcNIBfkFVX3lxTFA3TkZhMnRtcG50bl9PVEdZbWxWZE9rNU1vRzBRZnRwOTJ1d1pUVEd1enZTUXJxNVhuZVdjQkE1bEl1STNDNkZfZXJUd2xVVDh6MVBkdlJYSUp1U2VZekR5cklRaVVsZ0FTSEtia3Q4WnQwS2NxaWJucGJlRjdfQQ?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "반도체가 선두에서 끌고 자동차·조선이 뒤를 받치며 한국 제조업이 수출 경쟁력을 다시 한번 증명했다. 반도체 의존도가 높은 수출 구조의 명암도 함께 조명되는 가운데, 원전 수출을 산업 생태계를 살리는 새로운 성장 동력으로 키워야 한다는 목소리도 커지고 있다.",
+          "headline": "반도체·자동차·조선, 수출로 제조업 경쟁력 입증"
+        },
+        {
+          "rank": 4,
+          "word": "스마트",
+          "count": 4,
+          "articles": [
+            {
+              "title": "재난문자 발송으로 스마트폰 22대 적발…수능 성적 무효 처리",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lcU1US2Fkd3Z5Y3NvOGRpODdFNjJud2E4YTFaTDVrR2Y5X0FWR2loTTVFWTZqNDlKc09LaTJSOEpFLU1BNk43VkZKYUF5ZzRuVXNwTHZMQUxRZ9IBX0FVX3lxTE9uTC1YbkhYS0QycktZUFJ4cG4wd1dvWXlZZFM4Ukx0enZvTEoyclVRYWFmTXpGdEUyN19LSTdDT0Z5eVI5aFpVRlZIeVVzNzdiOGVTUkhGNmdnbnlXQ1Nn?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "스님 출신 응시생 스마트폰서 재난경보음",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jS2ctYUx5NHJHcllRYnVkM3hrQmhWdUF5a0lGWW5SSWhnV1JoRGxhdzl2a3lmbXkxYm45QnFtem81WGllOGQxcnFIR1M3eFVabVhVUXhRZnFORUHSAWBBVV95cUxOQVRyaWZfeU9mZUlfdHREMGszZmlGTTNjN3lwQ1NIRks2VzRkNW1QRXdxb0w2UDhxaDhPY1NLSlJtem5QZHhxNXktcjJkeklHZWJsQ3hteGJGT0dOcU9TVEU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "충남 천안 수능시험장에서도 ‘스마트 안경’ 부정행위 의심 적발",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KRWlfWXdteVdfMGJ0UF9FamJ2NHBLdmRMdWhUOGtRbzBOejZidXhhbHkzdVoxS3JYSGJ3LW9VWW5OdVdQS1VYWW50Wmo3cDB4QTZEQkxR?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "오늘 수능 시험장에서 스마트폰 소지로 22명이 적발돼 성적이 무효 처리됐다. 스님 출신 응시생의 스마트폰에서 재난경보음이 울리는 사례도 발생했으며, 충남 천안에서는 '스마트 안경'을 이용한 부정행위 의심 사례까지 적발됐다. 스마트 기기를 활용한 부정행위 수법이 다양해지면서 시험 관리 당국의 대응 과제로 떠오르고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "수능장 스마트폰·스마트 안경 부정행위 잇달아 적발"
+        },
+        {
+          "rank": 5,
+          "word": "엔비디아",
+          "count": 4,
+          "articles": [
+            {
+              "title": "엔비디아, ‘포스트 젠슨 황’ 본격화…‘중재자’였던 공동 창업자까지 젠슨 황 공개 비판",
               "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXcyaXVUdWpwSFVLcjhMV3NMVl92SVVFSEI5aUtqWTZfYUZLNUh0XzNGMldOZmhtREc3dkFxWkhxaGZUcnliY1BXdXgzQ0NrbGxuc3JOMHI3amdhcjBibFc1UEQxQ0ctZDZ5NHJWUlBIdE5yRkNKMXlzSDBBM3RwdkN3aw?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "엔비디아 임시 CEO \"이사회는 젠슨 황 복귀시키지 않기로 결정\"",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oT19xcDB2UmJ4bWcyTlhRVTZpcG5URlBlQmFSS3hLRmVLQXFwa3AxM0dKM0Zra3BwUWtyS250QUhwM3J5b3lDZ0k5WFZpRGRCaUhUbGFZcEhLSlFFRmVkSnpzQ3ZSOVlWcGd5bVpfMA?oc=5",
-              "source": "YTN"
+              "title": "엔비디아, AI 전용 소형 데스크톱 'RTX 스파크' 출시",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85T2pCRGhlN2pucHlJLWo0Z3J1MDJ6Tm5xWUcxVFZzT2NEc1pwc1dFRWg3YkYxanJwQVUtUmxjZDZaa090TENNNV8wVEUzYjA0NlB1QjdGVWZfME3SAWBBVV95cUxPRXlfS1o0QlNIVTR0MmhzNWgxdmRZNFBDYUF4d3ZoMTJvc09Vd3VLUC1VS0FmLVFrMHZNYWVqX282dWZJM0VTXzVEdVUwQlZ2YVI1R2xhdEp4ODFVT1dyRE8?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "삼성전기, 엔비디아 협력 확대 기대에 이틀째 강세…8% 넘게 올라",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YbmQtamdfN3RiOGtfRmQtc1FXSl9vSEdLY1E4YlozVnVNV2dsM05kT1BLMWpSVGVSVkJ0dE5qZHVLMnJRelNOSVMwYWZCZDhsMEdOenRQTDllQQ?oc=5",
-              "source": "한국경제"
+              "title": "엔비디아, RTX 스파크 소형 데스크톱 출시",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCeDVyVVRzclZRNjhJcmNicTVjU2RCQkdZNExyeVVlYThxWTlRRlBLRnN6bG5zUmNHdjljUEwyTFctQjhUUmhzRzBjaV9TbEg3RU5xWVVB?oc=5",
+              "source": "지디넷코리아"
             }
           ],
-          "description": "엔비디아 임시 CEO가 '이사회는 젠슨 황을 복귀시키지 않기로 결정했다'고 공식 발표하며 파장이 커지고 있다. 공동 창업자까지 젠슨 황을 공개 비판하고 나선 가운데, 젠슨 황 본인도 선긋기에 나선 모습이다. 한편 삼성전기는 엔비디아와의 협력 확대 기대감에 이틀째 강세를 보이며 8% 넘게 올랐다. 엔비디아는 어제 3위에서 오늘 1위로 올라섰다.",
-          "headline": "젠슨 황, 엔비디아 CEO 복귀 불발"
-        },
-        {
-          "rank": 2,
-          "word": "수출",
-          "count": 4,
-          "articles": [
-            {
-              "title": "韓, 세계 4번째 年수출 1조달러… 日도 못 세운 기록",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fN1E4SlM4UHJQdVdGV2F2YV9ibzBnN1VJQXlGcnVXS2tpaWtURS1WVWdNTWZLNmthMlI2cDJvc3ZxZEZmMEJWZW54Ni02S3ZoUTFTTFd0TEtsVFl2NlZ4R3hVcTd6V0xIWk52QWFDamszNVhtMXfSAWZBVV95cUxPZm1rZWxiNEEyemdkRURiVDlYcmdkeEp6N1A1UXB2OEdXOEhfR2Rnb09WZHB3QTFEU2puaWdWQXNMeGtTWWptQUViYW5HRHRrdktjWDRudEFkYlczMkhnSTI0VEtIR3c?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "반도체 ‘나홀로 호황’… 내수·중기 “수출 1兆달러 체감 못해”",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGE3d3dGc2kwcUY4TjdrbGdzX21VM2dWUlZuN3VwSE5VODdyM3dPbTkycmZBc2RGenJSMldvc29MZGp6SWVyMXc0bGFwRVEwaGQ5RzE2aE56UDExVFM3cllfRG1PTzdHNDZkaHVvWW83c0w5QzdHVzZnd2xiSGNTQlByWlBaQdIBmgFBVV95cUxNYmlDbXBSd2tkRlFBVFdGVHJKS0VNWDBBNlZNRFFXNHVQYU03bF9fQzdLWk4xYUlDZ0c1RHF2Sm9RcXhtdE5mMGhLZVd0TXd1Y0ZNWU9hZUtXYnMyWU1YTWtITXYtYU53MWp0bVFuNTJPQ2lGTnZsVXlTLTFrT0hhb1ZhNWltaTEyY3lGRVZZRFVmQ2JyajM1YThn?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "수출 1조 달러라는 단군 이래 최대 횡재",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ucFV3dmJ5NnZyOHF0bVJ1VW92S29MWW1MRDlLb2s0enlMc3V1amQ4dlJTbk5ZRW44T0RkelllbG0wLXdFUUh2emkwM2ZZaEdFQnJtTjd0Q2dtUQ?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "한국이 연간 수출 1조 달러를 돌파하며 세계에서 네 번째로 이 기록을 세운 나라가 됐다. 일본도 이루지 못한 성과로, 일부에선 '단군 이래 최대 횡재'라는 평가까지 나온다. 다만 반도체가 사실상 홀로 호황을 견인하는 구조여서, 내수·중소기업 현장에선 체감이 어렵다는 지적도 함께 제기됐다. 수출은 어제 5위에서 오늘 2위로 올라섰다.",
-          "headline": "한국, 연간 수출 1조 달러 세계 4번째 달성"
-        },
-        {
-          "rank": 3,
-          "word": "수능",
-          "count": 3,
-          "articles": [
-            {
-              "title": "서초구 모 고교 수능시험장에서 신발 속 스마트폰 적발",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uSWhUb2VESDVGaXZ4eFNNZ0JIUG5xc0QxTzdiU2FzVElTaVFXRWt6eVpVWGJwX3NwVlV5aHRKSFhBN09XR1dhMW91V2dMUzZVWHZ5QXRuY2haM1ZSXzd2ZFRTQUFiT204anltYW5nTEZpUTRlLXEw0gF3QVVfeXFMT25rXzVfS29ZdTdkajh4VFhoZk1jeUc0Z3N2UkdFclU2NTJ6eDBEZmxIT21hUVM0bnBsQTJXcGpLMVVrM3NBdGdRRGoxa0VRM0FVOTVsZ0hBbm1QNzIzWTJOTGRMM1pnRWZrdDZZWDgxWkhkMXdRTHM?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "“용인 수능 고사장서 초소형카메라·이어폰 발견”",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tTXYtbkJhVHRhQVk1Nnkwem4yc0ExcVBxMFA1T3ZTVk9CM00teHkwNEVGNm5abzJ3SUVUZXVNVDljYy04dWFmelhvTnhJc2JmTmh2Yzdn?oc=5",
-              "source": "중앙일보"
-            },
-            {
-              "title": "경기 용인 수능 시험장서 카메라·이어폰 소지한 수험생 적발",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vUFNYWGFPTy1OaExjdEN4MWs3eFo0VFExSkN3RGRWT3c1bll1VFowdi10VGNQVlZJQ0x2eW52eDBMZ2pRWWFPY0t2ZnFESnBKN1RwRnppNTY1QdIBX0FVX3lxTFBKb2ctRW1uSVFZQjQxRFdXQ0tnb0d3UDlmVFdSa09TTWppSjQwUHNHdUktS0xkb2VycVdzZTdYaUg0UkV5d052RUF1X1RHUGN3YXo5ZG45SW1obldaRFZj?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "오늘 수능 시험장 곳곳에서 부정행위가 잇따라 적발됐다. 서초구 한 고교에서는 신발 속에 스마트폰을 숨긴 수험생이 발견됐고, 경기 용인의 고사장에서도 초소형 카메라와 이어폰을 소지한 수험생이 적발됐다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "수능 시험장서 카메라·이어폰 부정행위 적발"
-        },
-        {
-          "rank": 4,
-          "word": "반도체",
-          "count": 3,
-          "articles": [
-            {
-              "title": "간첩보다 못한 한국 반도체 외교",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1d2dlhKRGVGVGp2WGZTREpUVjFJNkM4ajNud0h6dWxYUF9vdTFVcUxWM3pJNV96bTBnV0N3T0xQbUMwQTJaUDdiM1I0dXJtaUpvZWdJcWxvRGRQdXFpQU1rQmM5STg2bWhQNGJFdHF4UmpGeE1NWXY3b2M2VmJvWWV2aW4yT2JkVXRpeg?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "\"장초반 사던 연기금 던진다\"...믿었던 반도체마저 '파란불' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tXzJpZzdpQnhzOUl5d2o0VXI3a2ZNenBZN2s3N05ZQ0JoM1lucnZ0RXlxSHlPT3pPdEZDTDVpZ1U1Tmd6YXNRaHc1bDZFX2lWem5FU0J0VFBVUHQ0b092UHItQy1hNUc20gFuQVVfeXFMUEJERnlwVTFkLUxLdlVuQWNqTXZEOHlDaVBGU0R6RVp6cUE0WHVPQThBSzl1VVBYQkotS2R0OG9tel9NaVNyWFAwWXVSXzd2UXlxUEV4bjU5ZGNsVTdtejNVWEhwbDdVMXdpNHlaQlE?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "호남 반도체 공장 ‘南전北닉’으로 결정",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZkZ4VUJ5YzNPem5Gb0dET3p5TjBxRHhtMXhFZGZuVV9VcDZqWWVNbmwxU1hUMTM0dWJQQnVRUGRZUDFmU1lzTEtuZnVZbVBJWk9tMmJxMmZ5RkJubV8xbzdMSW5FdW56WU4ydHU5c1MxRUlfWW42RVd1bVNuWHRnVmVsRnNYQXVlbG5JODY2aw?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "한국 반도체를 둘러싼 외교 전략이 도마에 오른 가운데, 증시에서도 반도체 업종에 불안한 흐름이 감지되고 있다. 장 초반 매수에 나서던 연기금이 반도체주를 내다 팔기 시작했다는 관측이 나오며 투자자들의 불안감이 커졌다. 호남 반도체 공장 입지 결정 등 국내 산업 이슈도 함께 주목받고 있다.",
-          "headline": "반도체 외교·증시 전망 엇갈려 혼란"
-        },
-        {
-          "rank": 5,
-          "word": "코스피",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"코스피 1만2000 간다\"던 골드만삭스...\"7500피\" 목표치 낮춘 이유 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OdWpkQjhBU3VGRFNXZTRaajQ1X3JNbTBFc2N6eU9KazVmUk1BOWIzWVpzV1hyWTlhczBWeDNScWM3QWpVRmhWTm85S2kxR2xHTXg3eXA5OXhBWWhHcTJMYThXeGhoWkxs0gFuQVVfeXFMUEtVcl80RHpMTzVPOXdMd2tMeEx5MDRKR0VYSDJPTmxHRWt6RmNSeERTZGJpQ1lnclllN1JDTzRQMGNoYzQxRUVRN0s4NjFFNW5rUG81Z3F2d1Y4ME1XcWI4ZUdCc0llSHoxOGtkcEE?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "반도체 끝물이라는데 1만피 간다?…개미들 혼란 빠뜨린 전망 [분석+]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BMTZfdXlvUkJNZFMtR2tybUR2cEhIbkt1RjB1YndYd21rOWlvUkttUHJ6d0poak56cDNxbkRFTG81SWpWcUZaZkhzN0NwS1BmMHJQRlI2bDlzUQ?oc=5",
-              "source": "한국경제"
-            },
-            {
-              "title": "골드만삭스, 코스피 목표치 또 내렸다…9000→7500",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjMUExYi1yQ193NS1XSEZqZHVRTGF5dU1tWW8yQS0wRnRYWThDYlpKWGpLWWFBeVBHWjRSTzktMFJ5WlZVUWdoY0VaRUY0SU0xNVNyRGxQRjF4SjB2T18tRWVuNlYza3U0NkhVM1NVVG51NEk?oc=5",
-              "source": "마켓인"
-            }
-          ],
-          "description": "골드만삭스가 코스피 목표치를 9000에서 7500으로 또다시 낮췄다. 한때 1만2000을 제시했던 골드만삭스의 잇따른 하향 조정에 시장의 시선이 쏠리고 있다. 반면 일부에서는 여전히 1만 포인트 돌파 가능성을 거론하고 있어, 엇갈린 전망 속에 개인 투자자들의 혼란이 커지는 모습이다.",
-          "headline": "골드만삭스, 코스피 목표치 9000→7500 하향"
+          "description": "엔비디아 공동 창업자가 젠슨 황을 공개적으로 비판하면서 '포스트 젠슨 황' 체제 논의가 본격화되는 모양새다. 그간 내부 중재자 역할을 해온 인물마저 공개 비판에 나섰다는 점에서 시장의 이목이 쏠리고 있다. 한편 엔비디아는 AI 전용 소형 데스크톱 'RTX 스파크'를 출시하며 하드웨어 라인업 확장에도 속도를 냈다.",
+          "headline": "엔비디아 공동 창업자, 젠슨 황 공개 비판"
         }
       ]
     },
     "연예": {
-      "summary": "박지윤 최동석 소송 반박, 헤이지니 유튜브 복귀, 이정재 수익 논란, 장윤정 모친 투자사기 항소심 · 고경표 음주운전 여파로 출연작 편집 착수",
+      "summary": "김명민이 아내 태아 문제로 이민을 준비했다고 밝혔고, 박지윤·최동석은 이혼 소송 중 성관계 폭로로 SNS 공방을 벌였다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "박지윤",
-          "count": 1,
+          "word": "김명민",
+          "count": 2,
           "articles": [
             {
-              "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FM1BiMDFhSE9aREtnY2dwRnUwU1lKSjB0SWtsdU9ROXNublgwU3ZpLTVXWkh3NVBpZ1NvdTFWdzhhZmlTemdJUUY2cEtXODZtNnZTYVdCM2IyX1dVeVRPV9IBeEFVX3lxTFAtOXI1aDhLeGVKLVZqSXk2Z3FjT1BVcEUxOFY5WkdVSTlZLXFjRGQ2VFpES29lbVphRDllUWNrUmVmNlM5TGMtRjJrYjlWOHZiblBzdHRRdGkzYW9zZTE2VEp6WEhHV3NKRE9UWmRRanpZRm1wY3RTNw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "\"지인은 성소수자\"…박지윤, 최동석과 상간·이혼 소송 직접 반박",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX04xOU9lOHA5eTl1bGJuQkFoVHdYR2lMZjg4cGdQT3FJZ1M2WVliY1dEU3c4QkQ2MUFrdkd0N29kcVZxZmRKNFIxaGJZZDA2dmlxV09tOWdYSWFJUENTWFZoWFFuaG41QWtxSmg0V0cxeHRrbzBVSGRqRmlKeXVEcG1R?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "박지윤 지인 상대 상간 소송 1심 뒤집혔다…최동석 일부 승소",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZZzFvZVlLNWM0UVhQRlMxNmF4ZnpGZ0YzU0tBZ2tBczV3MlpnSFBWODdYdkRGdFpwYkZfWGQ2RS1kenBGY2wwUUc0dDNWeXZ2RVVfR2dB?oc=5",
-              "source": "중앙일보"
-            }
-          ],
-          "description": "박지윤이 최동석과의 상간·이혼 소송과 관련해 직접 입장을 밝히며 반박에 나섰다. 문제의 지인이 성소수자라는 점을 근거로 상간 관계 주장을 부인했다. 한편 박지윤 지인을 상대로 한 상간 소송 1심 판결은 항소심에서 뒤집혀 최동석이 일부 승소한 것으로 전해졌다.",
-          "headline": "박지윤, 상간·이혼 소송 직접 반박"
-        },
-        {
-          "rank": 2,
-          "word": "헤이지니",
-          "count": 1,
-          "articles": [
-            {
-              "title": "'노동 착취·산재 시비' 헤이지니, 한 달 만에 유튜브 활동 재개",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yc2lwRGhPc01QaVlIMEYwRGFNQU03WUVKQlRkbHRpYjlrVmhsVmlzWElaX3JuZVBBMzBMU0hGTjNqNGFkZ3pxb2oxdE1kajRGNFUzbXE5LWZfRl91cDIzLdIBeEFVX3lxTE9KS2M5V1dBanRXREdleUJvTkdESThtaXdjRGdmaDViOEROclJqOXJkRmNZU0YzZ0twSGs1bkhtUUFTNUlZenAxOU5nenpQMllJZTA1LUg5cjJaTHZpZHBJNDZBbEtSSThBZmdfX2V2R3lhdVlscUZ0dw?oc=5",
-              "source": "뉴시스"
-            },
-            {
-              "title": "‘노동 착취 의혹’ 헤이지니, 한 달 만에 유튜브 복귀… 댓글창은 여전히 폐쇄",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lLWowRTdqeDUzY0YtMWpFOThrZkdCSTZDdjdTQWZxU1dZYTVyMkhWeW83ckJueDM4aWdlc2h4bDBzdnZ4TEVqTDNWSFFWby0zWnQ5U29GSWFsN2c?oc=5",
-              "source": "일간스포츠"
-            },
-            {
-              "title": "'노동 착취 의혹' 헤이지니, 한 달 만에 영상 재개…\"다음 영상으로 만나요\" [Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3QzI2Rnk4SlhrYkI0bVVsclRVQVp0MDdrMnMwd2JHaUx3VWdLcTdtX2xGdl9UUW1NVDdQOWxQLU9VMTE0QmllVUVscmtpalhaZ3UtYg?oc=5",
-              "source": "OSEN"
-            }
-          ],
-          "description": "노동 착취 및 산재 시비 의혹으로 활동을 중단했던 유튜버 헤이지니가 약 한 달 만에 유튜브 영상 업로드를 재개했다. 다만 댓글창은 여전히 폐쇄된 상태로 유지되고 있어 논란이 완전히 가라앉지 않은 분위기다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "헤이지니, 노동 착취 의혹 후 한 달 만에 복귀"
-        },
-        {
-          "rank": 3,
-          "word": "이정재",
-          "count": 1,
-          "articles": [
-            {
-              "title": "200억 번 이정재, 회사엔 4억만?…아티스트컴퍼니 \"표적보도 유감\" - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpT3BIWC1TdkdpbmRfeDc5ZnFQTnpFY0M1a0p1NmFTajJTT3FVT0tSSmZ0Ymt6V0NHUkNvR2dwZ1dRTXZkNngxRjRiTktYLVdzWl9sMWR4OTh1blJVTHZuMHNvTlZkME9TOXhJ0gFwQVVfeXFMUEQ3dl9NVXVtQUVWMUEwR29iR2d1Rkg2Ymw0eE9YeXBfMV9oS1RaaW5sS3Zielo0Y2puM2I2aXlscXN2ZWx6Mi1Kdl9ZSTMxblFrY2IyREd4c3NCaHdMV0dWbnBJZTBWWHdrYl83VGxsUw?oc=5",
+              "title": "김명민, ♥아내 임신 중 태아 성장 멈춰…\"이민 가려다 '이순신'에 잡혀\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QZU5KaVlOZ3NIRVc4aHF6dy1vZmNVRTVrbXkxY0JWd3FzVEZtZkZkemhWLW9qajBZWHJTYjcyOWJyUTJ5UjlJVlVtQ0Zkc1FuZlVUdDJWRDdTdk9iSThEZktKNjhKdGU2WUxYYUhQcDJrdkHSAXhBVV95cUxPcnRqandfLVY4V0kwZDk1NXJkSkhNOXBnSnV3clZYbzNiYlFKRkhpUUp5SkZheVNHSTdMUjJVVzFVTTJ1YnVOWjZ0YXkxbkJYamhnclEzOGlOWDAxME1aM1ZNZmVCaks5V2VFZkVYTjRQR1owR3ROakQ?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "이정재, 200억 벌고 회사엔 4억…소속사 “특혜 아냐” 법적 대응",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93RVNBQl9xazU2N1k2djNlZFlValo1X09tdWhXRU9VTGRoOURleU5TZlZPRFVaY2psV2ExWjFNRkgyOS1PcTA5cDhDQmhxZmpycTFnNVdB?oc=5",
-              "source": "중앙일보"
+              "title": "김명민, 뉴질랜드 이민 준비한 이유…“임신한 ♥아내, 태아 성장 속도 더뎌”",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CSWtibmw4Q3M2YlVKSko3Z3VQcWMxd0RMd1d3b0JRQ2oydEJZOFU1WE5lV2FqQ3Q0bDJCQXV2RlFybklsOFozM1FLZ2FJWGFPeDd4UDh4a3ZISkJTRy1MTmRlQWVEeFdxSFHSAW5BVV95cUxPQl9IYzJpZDdtM0Zna3JvdDNYZWk4X0QzVlA4cGFGYl9CdXpsOTRBUllrY3RhXzd5eFk1bnBlQ2Nsd0NFeXAwNEJfdjBodm1LQjU4blNUUXVIbWJHNTB2QWhpNThENDMyQWI1R0diQQ?oc=5",
+              "source": "앳스타일"
             },
             {
-              "title": "이정재, 사익 추구 해명했지만…‘래몽래인 사옥 이전 회의록’ 폐기 등 추가 의혹",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85aVllcU95MUxyTldKXzAxZW9MaUhGX2Q0X0t6Ymkyal9obkdUdXhvanBVQzVBNHpiNHZFamk5ZDFpRURFaG16TUVUZVdDRlZ5NW5fQXNwLU5fc0hYNkM0YjZ5QndlMjc3?oc=5",
-              "source": "일간스포츠"
+              "title": "'슬픈 열대' 김명민 \"박훈정 감독과 9년만 재회, 과정을 고단해도 해피\"(슬픈 열대)",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ2c4LXhIZWVCbFBOM3VOYUtuWnZzakhlakpRbURpZkE0Y08wcjY4R3B5T2dCZ0hoMVllYWM0QVEzbGJpQXU0QnRMOUdHZGM2YXJCeHJmNGZQVUdNWjlGTjRzeWRsZ0dZNjhaaHlNN1JGWnBQZlJ2LUI3amVCbDQxekdLZktaQzhIRVE?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "이정재가 약 200억 원을 벌어들이면서 소속사 아티스트컴퍼니에는 4억 원만 귀속됐다는 보도가 나오며 사익 추구 논란이 불거졌다. 소속사 측은 '특혜가 아니다'라고 해명하며 표적 보도라고 반발하고 법적 대응을 예고했다. 그러나 래몽래인 사옥 이전 관련 회의록 폐기 등 추가 의혹이 제기되며 논란이 이어지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "이정재, 200억 수익·소속사 4억 논란 추가 의혹"
+          "description": "배우 김명민이 과거 아내 임신 중 태아 성장이 멈추는 힘든 상황을 겪으며 뉴질랜드 이민을 준비했다고 고백해 화제다. 그러나 영화 '이순신' 출연 제의가 들어오면서 이민 계획을 접게 됐다고 밝혔다. 현재는 영화 '슬픈 열대'로 박훈정 감독과 9년 만에 재회해 개봉을 앞두고 있으며, 힘든 촬영 과정에도 만족감을 드러냈다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "김명민, 아내 태아 성장 멈춰 이민 결심"
+        },
+        {
+          "rank": 2,
+          "word": "박유림",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'슬픈열대' 박유림 \"전체 분량 日대사..완벽한 톤 찾기 위해 노력\"",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhNVVBpVm5Cd2lxY0lxVEFXdENQRGtjQXlRcll2ZUNhbkoyY2ZRYkktdVNXcXQ1SjlLbWNleWdTQ2hvSFlnNzBuRVFIcGZnTURiM2ViamhoemZxaEZPc1VoNk45dHpWUUwxQ1hneGJhcGV0QUNDQjZ3VEc3MUhmcFdlbjRCZ1p2RHc?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "슬픈 열대 '힘차게 파이팅'",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzUk9MMVZCcnk4TGZ1YzM0WWpwQlgyUTNNRE5jZzREaUJOY2JWcGZOdHoxcmFwS0xjdUdOZFhPS1RPb0FSWldNQWpRX0I0TVE?oc=5",
+              "source": "조이뉴스24"
+            },
+            {
+              "title": "'슬픈 열대' 박유림 \"집요하게 연습하는 것이 가장 큰 무기\"",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5dEw4X1JQZTBHTEFDYVl2RmxWbXpMTWw5RjNyd0FJYU9kQWxFamhETmtCMXpvaTlFWl95bExTVTdKZWRfMk1RdmxRWkxjOWM3MmxXSVF1TGxIUTZLSDlqZXF3VWw?oc=5",
+              "source": "YTN star"
+            }
+          ],
+          "description": "배우 박유림이 영화 '슬픈 열대'에서 전체 대사를 일본어로 소화하는 역할을 맡아 주목받고 있다. 완벽한 톤을 찾기 위해 집요하게 연습한 것이 자신의 가장 큰 무기라고 밝혔다. '슬픈 열대' 개봉에 맞춰 오늘 처음 트렌드에 등장했다.",
+          "headline": "박유림, '슬픈 열대' 전 분량 일본어 연기 도전"
+        },
+        {
+          "rank": 3,
+          "word": "오상욱",
+          "count": 2,
+          "articles": [
+            {
+              "title": "고경표와 다른 박효주·오상욱..\"차는 안 가져와\" 음주운전 오해 칼차단[Oh!쎈 이슈]",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa2xLTldOUUVQenlveWc1RTd6RVNTdUJTSDdIWjBEVF90bEdPQ1NRSHRGc2xta29iY1E0OEtuZGlMbklMWE1RSnk3ZGNkMXU3UE14cjdOLWRIdGpJaV9wSVFBX19ZOWtPWEZuV0Z2T0NmUDJEWm96RnlwUTZja3NRX1JVdFRISTdJOWN5V3R6Yw?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "오상욱♥하루카, 이 정도면 공개 열애 아니야?",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kRW9DT201UUNpc3NGbEFZQW5DSktKTFZ6WFA4c21VazZkUEdpM1IzSktSVm9yYUVSWlZ2UjBBWmJGYktoYS1zLUZ2YkQxSWZ3eTBxTjhxY2wybzB1WGfSAWNBVV95cUxNQ004anhWQTZxS0NRay1yYzNFVkU0U0VFVDVvN1RmSlU2TG5Va0l3cUJTSnhpLThNZlJNb0ZGTk4xU2NVZDg5VzIzOW8tdnRtZnVBeHBSaER0dkJIb3FKaTE1U2c?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "\"옆에 오상욱?\" 열애설 난 모델 하루카, 바다 데이트 사진 공개 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzdG11ZEpmV084R1lrZE5CdWliZU1DZzJjTjdwRVpUX21QZEFMcWxVa0dDOTBnWnExQkxYazZFTkZmUEZBelpiOGxVeE85TjZQRW1oUVB3Wm1zOTl2N24wWkdwME5BWVFIMXNlR3UwNVVMT03SAXhBVV95cUxPZ2w5VzFUWUcxc1d2Wkw5MmVJcWNhY2d2dWNMUWFrc3JxRllVTmR4dHFNSmJPLWg4R3RxeFI5TjZpLXMwTFBmd2hkUElUamkzTGNnbVZOcnRVQm1NSEFQdU9rZUx3bU8yd1g1SjVzUjU3RlZBaGhmSmg?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "펜싱 국가대표 오상욱과 모델 하루카의 열애설이 불거졌다. 하루카가 바다 데이트 사진을 공개하면서 옆에 오상욱이 있는 것 아니냐는 추측이 확산됐다. 한편 오상욱은 최근 고경표 음주운전 논란과 관련해 자신은 차를 가져오지 않았다며 오해를 차단하기도 했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "오상욱, 모델 하루카와 열애설 제기"
         },
         {
           "rank": 4,
-          "word": "장윤정",
-          "count": 1,
+          "word": "수능",
+          "count": 2,
           "articles": [
             {
-              "title": "장윤정母 '투자사기' 인정 눈물..\"가족 연락 끊은지 오래 됐다\"[종합]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LSTZMdjRvZDVuRmQ5czhWOGhLRk8zeG1PdjNyMHdUWkVmbnlJWW5hbXRJUkh1LWlGMXVob2tPdjNmM2FSQmp3SXZjNDl4R2JmbVZEOXpNVXRfM3BRQkx3MERZSnp3Zjk4V2NFVkRmYVFYSjA?oc=5",
-              "source": "스타뉴스"
+              "title": "폰 끄고 잠적한 리트 만점자…모텔엔 ‘찢어진 수능수험표’",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NbjJMY2FaOUR0SmV4WGd5dDhyczdsMWxqNWFJbTQ1MGF2YVpBSm41UUtkUE1Vci1NY3NNNE1nWEVrMjRBN2M5MS11aXU4d3ZvdWhSZlFn?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "“가족과 연락 끊은 지 오래”…‘투자사기’ 장윤정 모친, 항소심서 눈물 호소",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPY2NBaExzRDdDdmUwUEo4RThGVHQ0UkVpbWtnWHQyTHBheEVQc0l0NER6VXFFVmtMaXQ0M2x5dlU1d3RqVXYyNEtIQXdzZ3VPTmJUdA?oc=5",
-              "source": "매일경제"
+              "title": "수능 위급재난문자 3번 울렸다...입시업계 \"수학 영향력 커질 것\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LdnJGcDJLOGRubzZkd2c1NmNscXJQaDd3cG5lSFM4Uk8tVldEb2N6N2VVWTFXRF9Ba0VJUHFkMHZqMGt2TzhuRl9la2J5eTY4Z3Q0cVdQcUpyQXlSbnIxQk9ESzFFVWUtcnfSAW9BVV95cUxOS0VyN1RTV0tTRXk3dGlBOWU0aVFHZldBRVlZZE1hVFVjWDBwM0tpYnVSWnYtRHBYV0FoazQ1ajNWZUhjdEtrQUhKcFZjT2huYVVKLU9EWEFsd25yVEdvbEpTRlR3dWV4b1B5cDFzMVU?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "'투자사기' 장윤정母, 항소심서도 '눈물'..\"건강 안좋아 생활고\" 호소[Oh!쎈 이슈]",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqb2pYZGhTWlBlT3BTVjhUR2NkUWpOZ1otSUp3TFJYc3FLcVVjeVVremE3dGRVaXNpcWNqdEdtYjRXSmF4Z1dLRGZ6Q2JHcjVFZndIYQ?oc=5",
-              "source": "OSEN"
+              "title": "국어·영어 ‘불수능’ 피했다… 작년과 비슷한 수학서 당락 갈려 [2027 수능]",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qOGZkMEtYZ0JoSXpSS19laG5maWphMFdjTDVvNGRfZFV0eklxSGNZU2g3QTRyeWRhcjhKRmZXcVdPTXdiRW12ZU1TbWU0SnYyZXNpLVdoenTSAVRBVV95cUxNT1JUWlRnZEN4YmNZR0M2cmVkUzk0SVFZN0RhYkM4NGRuVXYzbjNWWVNXSXVJZlpKRFIydVlPaU5sVm9TM21qb1Bld3J2b3V6RmdGalQ?oc=5",
+              "source": "세계일보"
             }
           ],
-          "description": "투자사기 혐의를 받고 있는 장윤정의 모친이 항소심 재판에서 혐의를 인정하며 눈물을 흘렸다. 건강이 좋지 않고 생활고에 시달리고 있다며 선처를 호소했고, 가족과는 연락을 끊은 지 오래됐다고 밝혔다. 가수 장윤정과는 별개의 사안임에도 관련 기사가 잇따르며 화제가 되고 있다.",
-          "headline": "장윤정 모친, 항소심서 투자사기 인정 후 선처 호소"
+          "description": "2027학년도 수능에서 국어·영어는 작년의 '불수능' 수준을 피한 반면, 수학 난이도가 변별력을 좌우할 것이라는 분석이 나왔다. 입시업계에서는 수학의 영향력이 더욱 커질 것으로 전망했다. 한편 시험 도중 위급재난문자가 세 차례 울리는 사태도 발생했으며, 리트 만점자가 연락을 끊고 잠적하고 모텔에서 찢어진 수험표가 발견되는 등 이례적인 뒷이야기도 전해졌다.",
+          "headline": "2027 수능, 수학서 당락 갈려"
         },
         {
           "rank": 5,
-          "word": "보검 매직컬2",
+          "word": "최동석",
           "count": 1,
           "articles": [
             {
-              "title": "'보검 매직컬2' 측 \"고경표 음주운전 유감…시청 불편 최소화\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EMUlSVVJnN3JvMEd0bVFwcHd3R1ZySjBjNFFtTkN6VXd0Y202VXhiMGw4RF9fSHRBZkNtLUw0NV9fZUVRZlY4c1E1dGRRdlNaWDlGVVpHOFFEa0HSAWBBVV95cUxNblI2cDZzLW5iZjVEcEhJazBGSm1IZWNVWV9wOENMMDZjM25fTHNrV2ZUUzVsRGwyeVJWbE9sZlItZnIxWk5lZXdDQkNzVWVxa1lRQ0dMR2FjM1V3S1dpVEU?oc=5",
-              "source": "연합뉴스"
+              "title": "가족 살던 집인데…박지윤 \"최동석, 이혼소송 중 여성과 성관계\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xWXFaak1VWG9TVVphRXlSdTk2bnYycmtmX3FYMGxZUmhpYlM0dE0zNnc3M0pocEdPSnU3YVJBWjk2OHFfOHFEMUU2SjNSbDFQUTJ4S2hLc0dtQlVLZHB5QnU1NGVYa1luWnNZ0gFwQVVfeXFMTVN1TDZuWHdFYzlIb1hqMXdqa0p2Q3R2bEZNMl80LTk2WlRTTnBGQW4xdWxGSko4bFd5TGRMaXVJVzBicHJtNF9INnVhQnlqd1czZTNKdWJ2cFMyN3Zva1VvbDhnTGhZeExaNkNIZlNvRw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "’보검 매직컬2’도 고경표 흔적 지우기 시작",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oYVRseGUzeDY2dEplYXd1TmZ5WlFvMjMwU201T21DNnJMNkUzZEFBS2pvTkxYQnQ5MHB5S0NvQUtRYmk3cm9lOElLR2hEalhkaVcyUUVnSjBDR0RQS2t4UVRTdG51RW8?oc=5",
-              "source": "연합뉴스TV"
+              "title": "미미미누, 백지연 ‘리트 만점’ 이진우 영상 비공개·남태현 구속·박지윤, 최동석 SNS 공방 [퇴근길연예]",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nTkZPYVN2clU0UXlhRXZoZ3g0TWJOc0EzN3JuSC1hbl81NFZNV1pFWk81a2hjLXEwY2lnbXY0VV9ZZkhESVBMUGl5cUpVX2hjM1dPaER4T1J4dFZIYXfSAWNBVV95cUxOYjBQeWZvM0tNa1hZazFUT2lhUENYMUw3LTQ3NVd0VWwzaElYbG5aRGNRQkg0MnJJRmRWdkhLWmNQZ0VQQ0NNYllodEZqX2RvcllkVnZVcnA3d2VaRFprbERoNEE?oc=5",
+              "source": "스포츠경향"
             },
             {
-              "title": "고경표 음주운전에 ‘보검 매직컬2’ 제작진 “시청자 불편 최소화”",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jWnJXS2lJUGdWcEJfV0t4dGdkaTNqbjNRdjNNQ01iVktjV0xzdGdDemRaZ3RwODhHaFdzSi1TbXdhSk9obHdSMS1ZNm91M1JQZzRhYTZKWXE1VlhxTHFMNDNTTENmZTJPeld1d19sb0tIZw?oc=5",
-              "source": "한겨레"
+              "title": "박지윤, 최동석 상간소 일부 승소에 “성적소수자와 부정행위? 가능할까요”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNE9vNU05Q2dLRkIzV0thRkd5TzF1X3NlakVYMW4zRkQ4RXcxcjc1VmF1ZVlEbVZ6OHFWWUxnaEsyNDBzblIteHIxNTBYc09weUpLanlR?oc=5",
+              "source": "중앙일보"
             }
           ],
-          "description": "고경표의 음주운전 사실이 알려지면서 그가 출연 중인 예능 프로그램 '보검 매직컬2' 제작진이 공식 입장을 내놓았다. 제작진은 시청자 불편을 최소화하겠다고 밝혔으며, 고경표 관련 흔적 지우기에 돌입한 것으로 전해졌다. 출연자의 사생활 논란이 방송 편집으로 이어지는 상황에 시청자들의 이목이 집중되고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "고경표 음주운전에 '보검 매직컬2' 편집 대응"
+          "description": "박지윤이 최동석의 상대방을 상대로 제기한 상간소송에서 일부 승소한 것으로 전해졌다. 박지윤은 최동석이 이혼소송 중 가족이 살던 집에서 여성과 성관계를 가졌다고 주장했으며, 판결 직후 SNS를 통해 직접 입장을 밝히며 공방이 이어지고 있다. 두 사람의 이혼소송과 SNS 설전이 연예계 주요 화제로 자리잡고 있다.",
+          "headline": "박지윤, 최동석 상간소 일부 승소"
         }
       ]
     },
     "스포츠": {
-      "summary": "손흥민이 부진 속 LAFC 재계약 난항을 겪는 가운데, 쇼트트랙 월드투어가 서울에서 개막해 최민정이 3연속 금메달에 도전한다.",
+      "summary": "이강인이 AFC 국제선수상 2년 연속 수상 · 삼성 구자욱 초대형 FA 계약 시나리오 · 프로배구 경기 중 관중 심정지 발생",
       "keywords": [
         {
           "rank": 1,
-          "word": "손흥민",
+          "word": "이강인",
           "count": 3,
           "articles": [
             {
-              "title": "'7골 15도움' 손흥민, LAFC 재계약 난항 속 토트넘 입단 첫해 이후 처음 겪는 굴욕…PO 앞두고 우려도 \"SON 살아나야 한다\"",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oLWVZNXdSdmJkcTBSYU1tU3VnOXBoWkpfUmRZRS1meVY1WVRlMnJOaWhucjNHX2VoZ1dTd21aTFVUb1p3U0xieFRxQllzOEJzOGZybzlwc1VnRXBuTjhxbUdaajAzcjI5UU1yVnRzTDg3ZkM1?oc=5",
-              "source": "인터풋볼"
+              "title": "`사상 최초` 이강인, AFC 국제선수상 2년 연속 수상",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50RXNZazlNRWxZamZqbWhKWE04MWFmOWhYdUI5aW8xekgyRHFXY09Wem9ZVGlyN0dOWmpMektsT0pYRVBJbTdwQUs4T19LazZkZE1kQkxnR1AzZUNwbzkxLVM1MUtWZw?oc=5",
+              "source": "마이데일리"
             },
             {
-              "title": "\"손흥민·부앙가 있어도 안 된다\" LAFC, 감독 바꾸고도 반등 실패...미국 언론, 정상빈의 세인트루이스 승리 예상 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BQkVVZ2hManpGQ1RJYk9kd0dhUVNuTVYyNzhxbE40U29qallvSHFPSlV5QUdXYVBnUWozVTFQSEFScnNaUDk0RExQTXRPQnJaNDRuc3MtNUdyckNpd3J4UmFmdW1IVnctSkHSAW9BVV95cUxPT0ZydVl3NzZDTEdyNVlWOU5MbUlHUklPeFpnUDFqVzl4TU9jNGV3LS1uWFl4SUlpaHBLZGlnRkROMkRkWUJoa3libTFBZG9CMDhPanN3dE1lQVY3WW15YWNjZlJHVGhmTGRmRmZUcFE?oc=5",
-              "source": "머니투데이"
+              "title": "'세후 1240억도 필요 없다'…이강인, 유벤투스+토트넘+사우디 러브콜까지 뿌리쳤다→오직 아틀레티코만 원했다 '이적 뒷얘기' 나왔다",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcjVLdTBfSUZ6QllBb1dULVB2NHowSnVpelluMnppLXVxOGVIcHZkcEZpRzNYdVk3VmlWVnhBaFhpNnlIS2tZbjhlMUtJaDZXNndmSg?oc=5",
+              "source": "엑스포츠뉴스"
             },
             {
-              "title": "잔인한 '오피셜' 공식발표, 손흥민 올해도 트로피 없나...MLS 전문가 66% '1라운드 탈락' 전망, 우승 후보는 '마이애미-밴쿠버-내슈빌' 3파전",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYWt4SDRrM3RnbVI0MDBRWWt5UXg4eHlSOFZmTVkxcWRYa0pLOG5xMWNJMWNiMllLdjBpbzJhNlhxZWZacHk0R1NXNFc1Y1piRnZXbjJ1MlJIMHlQOGM1SXFNbTRSRmZFYlJKaGZEOGo1QVpZbDg0Z0Q0cjRLZw?oc=5",
+              "title": "이강인도 손흥민과 똑같았다, 오일머니 1250억 파격 거절...토트넘+유벤투스 이적도 거부, 오로지 아틀레티코",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15MFE5OW1FLVZISno3cXlsR0ZzRnRod3BRemNpOFdyZG4xcTBqcmJWdDFQd3ljUVF4X0x6NXZoMk1iUk13c2VoeEtqdXlaekFVTlFqeXZMY0lzRzhjTzNoNUgyTWU2VVdjSGNNT19xdHpNbjlNSm5uaVJBdjFKQQ?oc=5",
               "source": "스포츠조선"
             }
           ],
-          "description": "손흥민이 활약 중인 LAFC가 감독 교체에도 반등에 실패하며 MLS 플레이오프를 앞두고 위기감이 고조되고 있다. MLS 전문가 66%가 LAFC의 1라운드 탈락을 전망했고, 재계약 협상도 난항을 겪는 것으로 전해졌다. '7골 15도움'을 기록 중인 손흥민이지만 현지 언론은 팀 성적 반등의 열쇠로 그의 살아남을 꼽으며 우려를 나타냈다. 우승 후보로는 마이애미·밴쿠버·내슈빌이 거론되며, 손흥민의 트로피 도전은 올해도 불투명한 상황이다.",
-          "headline": "손흥민, MLS 플레이오프 1라운드 탈락 우려"
+          "description": "이강인이 AFC 국제선수상을 2년 연속으로 수상하며 사상 최초의 기록을 세웠다. 아틀레티코 마드리드 소속으로 뛰고 있는 이강인은 유벤투스·토트넘·사우디 클럽의 거액 러브콜을 모두 거절하고 아틀레티코 이적을 선택했다는 뒷얘기도 함께 화제다. 세후 1240~1250억 원대의 파격 조건도 마다하고 오직 한 팀만 택한 결단이 수상 소식과 맞물려 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "이강인, AFC 국제선수상 2년 연속 수상"
         },
         {
           "rank": 2,
-          "word": "투어",
+          "word": "구자욱",
           "count": 3,
           "articles": [
             {
-              "title": "쇼트트랙 월드투어 20일 서울 개막…최민정 3연속 금메달 도전",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pem52WTVETWZYcVJqOG5udVBCaU5mMmd0LXVRUVZMVmhqbDdNcEhhMm9DTmNHYlIzbTZ5ZUtsQm1RcVZ5bVROaTBZNFRES05XS29fRENHRVBqZ0tIN0x3QtIBYEFVX3lxTE1pem52WTVETWZYcVJqOG5udVBCaU5mMmd0LXVRUVZMVmhqbDdNcEhhMm9DTmNHYlIzbTZ5ZUtsQm1RcVZ5bVROaTBZNFRES05XS29fRENHRVBqZ0tIN0x3Qg?oc=5",
-              "source": "연합뉴스"
+              "title": "삼성 FA 구자욱 '10년 220억' 초대형 계약 시나리오 떴다, 원태인까지 다 잡나... 타 구단이 부러워할 삼성만의 '역대급 FA 계산 승부수' [류선규의 비즈볼] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MRFNPZnNGMGpXb2RneklpemNOdVFndDR0Unc2UFk2RHVhRmVjWDBxYVQ1cU1icVo1cWFIT1NHQ1VaOEw2WjBoUzJMTXpzMHRWdzI1ZFNwU1FZWFhtenowc3hxUVBEVjFRTnfSAW9BVV95cUxQQ3I4OGZ1THFTWGNNc3FFc3ZaOGQxS2FMd3BNTlhEWHJwdU5ibGU2SEloT1pkNGtocXRzeWc2TzhNeVl6d3JuYmpXdFEzVUQ5YUNYb0lRM3RhU2Z1Rk94WWd0aUJ6TEoyYi1OcGo5ZjQ?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "성남시청 최민정·김길리, 안방서 쇼트트랙 월드투어 3차 대회 금빛 질주 도전",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiRThUUHVfTGxqX2xIaVJuODNPblN3aTlQQk84X0ZwVGxHbHZOYXhPRHhIV2IyZ0N4OGVfd01Ld3hFNzFkYmlOZm5rQnJiNzFSQnd5Zkk3azd2TTFGZE94MXdR?oc=5",
-              "source": "경기신문"
+              "title": "놀이공원에서 만난 구자욱 원태인, FA에 관해 물었더니",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QSnlaeXVRQmRDcF9NdTZfRjVTQ0tZMzhfRG5IRnUtZF9RRWZTdUhLQlpXVWQwM3dLblNabUlSb2lITWg0M3pXU1BZRGFmQnpyd1JZeFJpT0JDSE0?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "월드투어 20일 서울 개막… 최민정 3연속 금메달 도전",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sbk1aOWFmU3M0Qzk4VE9RQi1LNU80TTd5WXpZSzNvOG8wamQtc18wTHpjQS1PbGExT3hESWNIYTR4MlhVa19nXzBiTG92QnBNNGJMeFl5TGRpcjBCY0x2ZUZQbFlHdGxqcVE?oc=5",
-              "source": "천지일보"
+              "title": "김호령 50억설, 구자욱 연간 50억설 → 롯데, '최고점 매수' 불사해야 하나",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkx1MXlhenl0dnp1cEdkZHBCQ2N3b1dRRThWY0h2R01KZF9vdXhaU3pGNGhLTVVUUXdsakNET1pBT0xSeUREdG15cEZwR3JKSXh1dS1iWE9EWnRCdnhTQ240WWN0T0xEYVNCaUhqTFp5Rk9GSWp3dUdDSHNXVm1CQjBxdw?oc=5",
+              "source": "조선일보"
             }
           ],
-          "description": "쇼트트랙 월드투어 3차 대회가 20일 서울에서 개막하며 국내 팬들의 이목을 집중시키고 있다. 최민정이 3연속 금메달에 도전하고, 같은 성남시청 소속 김길리도 안방에서 금빛 질주를 노린다. 홈 경기장에서 펼쳐지는 대회인 만큼 한국 선수들의 활약에 대한 기대가 크다.",
-          "headline": "쇼트트랙 월드투어, 서울 개막…최민정 3연속 금 도전"
+          "description": "삼성 라이온즈 구자욱의 FA 협상을 둘러싸고 10년 220억 원 규모의 초대형 계약 시나리오가 거론되며 화제를 모으고 있다. 구자욱의 연간 몸값이 50억 원대로 거론되는 가운데, 롯데 등 타 구단의 경쟁 참여 가능성도 제기됐다. 삼성이 같은 시기 FA를 앞둔 원태인까지 함께 잡는 이른바 '역대급 FA 승부수'를 꺼낼지도 관전 포인트다. 한편 구자욱 본인은 최근 놀이공원에서 포착돼 FA 관련 질문을 받기도 했다.",
+          "headline": "구자욱, '10년 220억' 초대형 FA 시나리오 부상"
         },
         {
           "rank": 3,
+          "word": "인천",
+          "count": 2,
+          "articles": [
+            {
+              "title": "인천서 수능 부정행위 2건 적발…스마트폰 소지",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GMEFCX1BVV0QxOWZ0MTFRc0t0LW5reGo4blc5b1dtT1E5NmtGTEFiMGlxQ1RtdG1MWHVKeGdISmhGS3NOU2NxcWk3cjJYVkVpc2NKQ0NnLU5NYXfSAWBBVV95cUxONHU2RjdhZG00MlowSEhSUlpMZ2hKQk1jTGtmOXVIcW5nSDFfejM3NVJPRExzZVRMMzFCS0pKaHpvbXVleXp1MUlvSkpFMjlNa3dmS0hqSExza2NTSHpMNDY?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "인천 수능 시험장서 디지털 기기 미제출 수험생 2명 적발",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxN2JEV3F3WnZjcmFsRHBaWFJYcnF1enRVaDFSa1pwUjJ5cEtTWG9DUlotSC1RbFJBRGZ2MEVHakctSnl1ZzJqbjB2SEpKLTdxQ2d6QVJLNi13aXc?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "인천경찰, ‘수험표 두고 오고, 지각 위기’ 수험생 수송",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oRUtzRXcyN0lZYkQ2cWliMHFTdU9UQlVIWGRBQnBpdUgwMW9jUjlOemtIci1ub19RekRGUzBXNVR0Rkh6T1pvbXBPS0Q4V1ZqQWNGS01iSjJaTFVJaU8xWF9rNWZRdw?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "오늘 수능 시험이 치러진 인천에서 스마트폰 등 디지털 기기 미제출로 인한 부정행위 2건이 적발됐다. 인천경찰은 수험표를 두고 오거나 지각 위기에 처한 수험생을 수송하는 지원 활동도 펼쳤다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "인천 수능 시험장서 부정행위 2건 적발"
+        },
+        {
+          "rank": 4,
           "word": "관중",
           "count": 2,
           "articles": [
             {
-              "title": "월드컵 비키니 미녀 탄생인 줄…알고 보니 AI",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95RFdLVWlKZUgxanNSS05QZnZGMWhjbXU3NW0xeTVTTEktN3A0UkFxY0cwckNuQUlUVXc4ODdqNW15MTVmeWZndS1WQTlUQVVXNGtKaGh0bkp0c2RnQy03SdIBeEFVX3lxTE0wcEcyV1lWMUtTQ295VW5sTkRhNFc0SHhNV2ptaExwUlNCN0dWaWxTOUo1R1lXaVhReGtIX2piU0s1U1dQNFhBZG5BUGhKZlhjdzNCWElJNUN6d1VoSmFPVlc3MTEtSHBfSEFhd3FxUVdxblloQXBOUA?oc=5",
-              "source": "뉴시스"
+              "title": "여자 프로배구 흥국생명-GS칼텍스전서 70대 관중 응급상황...CPR 이후 병원 이송",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFMlczQlpmSDZRS2lxU3VNeDlhOXlSbWV2U1BRTUVrdHBaQ0NENzlsLWR4X1ZnRzZUUXQ3YV9sZ2ZwZkhnY1hTd0QxVjJKSks4T2JPRVNrR2NSbmdB?oc=5",
+              "source": "뉴스핌"
             },
             {
-              "title": "1000만 관중 시대 KBO 총재의 두 얼굴",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ZkcxSnpHcmVKalM4NnNwUG5YYUlyM1RYTlYxYzZJeFNJbjRoT0RwUGFrUXJ3YWYtTEJLN1hGUXNGX2RqOUc3UHlWZ1NoblVzTFhjLTVTdFZKeHFPTTJWTmdSMGlpOEU2S2fSAW5BVV95cUxNbDBSM2F3cTRGYk9sMEs2NE4xR2pCeUJRbGp6eS1Xd1ZDWkRsMnF4Wk1vM09HN2xuOVozb044Y0NSLVBvNUJpVmpscE13TGNXMTdKdEVRa0IyS01IVHNTbzRZTXNCQnBrWmQ4REVJUQ?oc=5",
-              "source": "주간조선"
+              "title": "인천 삼산체육관서 프로배구 관중 1명 쓰러져‥심정지 이송",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0Y3RU1TcldJUHdIajgwdXBMb25uWXBYR2UxbDF3blNZUmo4a2RLclpGLThibDdLSDdxaHNuaUlHU3B5TkJjR2ExVElXQUE3eFhaTk43V2xJX0J6WWpFLVB4ZFR4U1gzLVZja0dQNkozZ0NzczNmSDQzLWhIUVBrX0NFcW9HbHNKQ1R2OEZn0gF3QVVfeXFMUFFVVC1lWXdrZGlPMnZtU1pkcEQ4WlpMM0xmVUhvOVFRN09RZFNrN3FXSlBWQUV2a2RDSzV3cXU1SGE3TWdGYVdYQ1NvYjBfVmh1N2VVY0FlRzJGNmhPUVJma1Ryd1lXQkJjSmt0VjUtbmYzUURzZVE?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "'구릿빛 피부' 저 여성 누구?…10만 '좋아요' 월드컵 미녀, 알고 보니 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2N1hkSzhjaWk2YzhJR3ZPcm5zNUpFODAtdDFwY0hnT2ZQQTR6YmdvbFRMTC1zTXNlWHZ4UXNBZVBPMGo1T0NKNUxSdDI0ZWQybXJRZnJ2OGFBV0p3MGlPOHlNbTlHdU5W0gFuQVVfeXFMTk11WjdpbEhPMkdYRXl2aE0tLVNoVDc3SmJ0dnNrUFFyS1RoQ1VHeWVVQm1jNkh5cG13a2N6RGt4WDN2NU5hVkhUejIwQndNX0JzWVFLTUdFajMtdDFfQUpEVTM1cUJsUEtBRlBXbUE?oc=5",
-              "source": "머니투데이"
+              "title": "프로배구 흥국생명-GS칼텍스전서 관중 심정지…병원 이송 당시 의식 없어",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uVTB1QTZCMjhzTjlLenB6amxncmxHdFlWMjBNLTlsTlFXX2VKZHR3SEtkT3B2VUFIQUk2MEs5MTZ3LVN5TTJmUXQ3bkxEcnpmS1F6UlE0VDZGUDlUNWlJV0drbw?oc=5",
+              "source": "쿠키뉴스"
             }
           ],
-          "description": "KBO가 1000만 관중 시대를 맞이한 가운데, 총재의 이중적 행보를 꼬집는 보도가 나오며 화제가 되고 있다. 한편 월드컵 현장의 AI 생성 미녀 이미지가 10만 좋아요를 받으며 관중석 화제로 함께 떠올랐다. 오늘 처음 등장한 키워드다.",
-          "headline": "KBO 1000만 관중 시대, 총재 행보 논란"
-        },
-        {
-          "rank": 4,
-          "word": "총재",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이창용 전 총재, 李 저격? \"추가세수, 단기 고통 완화나 반도체투자에 더 쓰지 말아야\"",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTRWFRblp1TTFfb3JHT3VPTVIydlR6SkdKbHZVS1NUYkdObGZmUzdWVzdQMDE5MmVkb1lTdTlCeUtCbkhTXzFIMkYtRTVlWU9ld21SNXJWV1pvWFBPeEFHTS1scWF5a21ldDhn0gFvQVVfeXFMTXhPeUY3MDdtZTZaa1VibE1SLTN3azVzTHBaZkRfLTd5Z2Z3SVZMdGpIdkhZczk5TnBUY2hIVVN2eTNBY3ZkLW1DMVZ2bHRJR0NLcFB2Q1paRGNRVU8zR0xlSnhXLW9CRUs5aXdBcXBz?oc=5",
-              "source": "펜앤마이크"
-            },
-            {
-              "title": "물가상승률 2%, 인플레 기준선인가 허구의 선인가 [마켓톡톡]",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zbFU5N1hqaGFMdG40X19KQ3FTUFFYWEY3RnhieHVFNUp4UnNBbU96cGNwYmQ5TWduaHJQVXNISU5iUlU5Q2dqQXNOWU5PdGdsY1dSNk1Mc1RMb2NPeF8yUGw1Nmg0NWVaT3dfdl9R?oc=5",
-              "source": "더스쿠프"
-            },
-            {
-              "title": "공화주의, 자유주의, 급진주의는 있어도 “민주주의”란 말은 허구다 (2)",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1alFIUDJHcEdJckptVTBQZWlkR1BvTWp5Z0UxX2hnVUZPclY1dHd5YVdiLXIzMjVTdV9DamEtU3dYOUtYQTg2MDIwR0RzNGIyNFgtOFdXaEpBYTMxVnZrTnNxZGNKdUpCdjhaUWdHYw?oc=5",
-              "source": "프리진뉴스"
-            }
-          ],
-          "description": "KBO가 1000만 관중 시대를 연 가운데, 총재의 상반된 행보를 비판하는 보도가 나오며 논란이 일고 있다. 관련 기사들은 스포츠 흥행의 성과 이면에 총재의 태도 문제를 조명하고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "KBO 총재, 1000만 관중 시대 두 얼굴 논란"
+          "description": "여자 프로배구 흥국생명과 GS칼텍스의 경기가 열린 인천 삼산체육관에서 70대 관중이 쓰러지는 응급상황이 발생했다. 현장에서 심폐소생술(CPR)이 즉시 실시됐으나, 해당 관중은 의식 없는 상태로 병원에 이송됐다. 경기 중 발생한 돌발 상황으로 현장과 팬들이 큰 긴장감을 느꼈으며, 이송된 관중의 상태가 우려되고 있다.",
+          "headline": "프로배구 경기 중 관중 심정지 발생"
         },
         {
           "rank": 5,
-          "word": "스페인",
+          "word": "정지",
           "count": 2,
           "articles": [
             {
-              "title": "모레노 축구대표팀 임시 감독, 카타르전 마치면 스페인으로 귀국",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSnVXSVNZSkhFUUtEWGJBZG0yZjNDWjlpTlhya09obThZYjRHbkgwbHJPOHlNcTJtQmxEcEV5NThteEZxeWszdVJuSzNrNEhnQUdDaERR?oc=5",
-              "source": "중앙일보"
+              "title": "유기된 갓난아기 심정지 상태 발견…검찰, 친권 정지 후 직접 출생 신고",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSVVdRcnNRM1h3VlNHWHhfVkl5clVaNFlKeG0wNEZwXzk1aENzOXF1S2p6Q2kxZkVsNXFnR29lSHdkT2FyelU4eHBWckNkT0ZSc0U2X3dVRk9UX1A2bzU1eVZkZWg5ay1leWVPVkVxUQ?oc=5",
+              "source": "진일보 | 전남일보"
             },
             {
-              "title": "‘월드컵·유로 제패’ 스페인 마타, 현역 은퇴…“사랑하기 때문에 놓아야”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XRlNHQmQxZXFKQlg2RU53UkwzaElDR2xDZkktM0R3dXR5U3FBN3ZwQjJ5cEhtdmVoVURxUV85RnYxVlhwX1h5QUFKdzE1dWdBY044clhweTBLQVdiQmJlSk5YVHlHaDhHLUo5aGR4TzgzUk1f0gFmQVVfeXFMT1lJNmF0Z1JpU1NnYzZrZWlDZ2ZQQ1hoNTEzZTNrVzJUTzBTUHNBNWp2c3BWRTNSc2YwV0UyejNTdVdNa0R0NHJwMFZxeVRwa29IZWszdllBMmU4YkJwN0NEdEhmV1RB?oc=5",
-              "source": "동아일보"
+              "title": "경찰 “아워홈 심정지 사고 기계, 안전덮개·비상정지 버튼 미설치”",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMk9lMDMtZjRmYmJzcnhZZGpxYUdjbUVHajFYdUkwSHlQSHNuWG82RThFYTB6OXc1VmxEc0JnajZmZlVqNk5fcG50Sjh1RU5TaGdFcFZNVlJCV2xFQkw2a2c0bDhPWG1jSW0yZmVOWnJwNThqVDQ5YzEyS1NaTE94QjM2OHVaSGV1Y2fSAZ4BQVVfeXFMTmlFR0RXZ3VuOS0yYktkem82dG1BNlV4a21jYmlDTmVZa0N2d2dpSThXS3RLYmF2dE9Ub25MMFE0T1FiWFVmUWpRNERDZGl4ZDhocXdTUXFieUJ3eDIzYzZ2ZDhpdmJpMEozQ0hRQ0tyUGZ6TDNBZnRDcUp3aEZmZ3EyQXA1RjlRaGF4QnZaeUc4UFRHaUt4QlhReExOdmc?oc=5",
+              "source": "Chosunbiz"
             },
             {
-              "title": "스페인 원정 떠나는 여자 축구대표팀, 이금민·페어 등 복귀",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oekVsZkRjaUVNaUQxdVpJX1VPdHdGNVA1TUF4dEphUlptUTlLQ0dPS0p5LXBHNDJ5Q0d5VXhjQUFoQ1c4S2JuaFpHRzJDd3VPMFljT2tfb21RaTDSAWBBVV95cUxOZzJLcDB6OXloWkw1RWRIUTk1aWVFbjZZWVVPRk1fQzFrX3FMRFBqQWh4bUhYYUdLdkJZREtHUWRhRVdEOUtJZ09SZGpXLTFCZDlZQ29pOFVkVnB0UnhnLVM?oc=5",
-              "source": "연합뉴스"
+              "title": "어르신 심정지… 요양원 초기대응에 달렸다",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFVXc2RlVOc0xOVFpNaUU3S1dUY1pCTVdSY19oeDRBa2xTamlONVpDdE5acU4tMGZsWVIzaDlsY3dkQTB1c3dqZWUtMmxtRHVFM29KTWdMUF95VVU?oc=5",
+              "source": "경기일보"
             }
           ],
-          "description": "월드컵과 유로를 모두 제패한 스페인 레전드 후안 마타가 현역 은퇴를 공식 선언했다. 마타는 \"사랑하기 때문에 놓아야 한다\"는 말을 남기며 팬들의 감성을 자극했다. 한국 여자 축구대표팀은 이금민·페어 등 주요 선수들이 복귀해 스페인 원정길에 오르며, 임시 감독 모레노도 카타르전 후 스페인으로 귀국할 예정이다. 오늘 처음 등장한 키워드다.",
-          "headline": "마타 현역 은퇴…스페인, 한국 축구와 교차"
+          "description": "경찰 조사 결과 아워홈 심정지 사고와 관련된 기계에 안전덮개와 비상정지 버튼이 설치되지 않았던 것으로 확인됐다. 한편 유기된 갓난아기가 심정지 상태로 발견된 사건에서는 검찰이 친권 정지 후 직접 출생 신고에 나서는 조치를 취했다. 요양원 어르신 심정지 사례 보도와 맞물려 각종 심정지·안전 관련 사건이 동시에 주목받고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "아워홈 심정지 사고 기계, 안전장치 미설치 확인"
         }
       ]
     }
