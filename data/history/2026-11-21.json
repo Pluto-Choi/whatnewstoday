@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21 05:16",
+  "briefing": {
+    "text": "김건희 전 영부인이 주가조작 혐의로 징역 4년을 확정받으며 전직 영부인 첫 실형이라는 헌정 사상 초유의 기록을 남겼다.\n\n트럼프 대통령과 푸틴 러시아 대통령이 첫 정상회담을 가졌으나 실질적 성과 없이 '역사를 만들었다'는 자평만 남겼고, 우크라이나 종전 협상 타결 시점을 둘러싼 분석이 이어졌다. 국내에서는 올해 수능 부정행위 적발자가 98명에 달했으며, 이 중 절반은 위급재난문자를 악용한 것으로 드러나 시험 공정성 논란이 커지고 있다.\n\n엔비디아가 AI 테마 투매 여파로 시가총액 4위로 밀린 가운데, 아침 최저 영하 6도의 한파와 함께 전북 남부·제주에 대설특보 가능성도 예보됐다.\n\n빅뱅이 데뷔 20주년을 맞아 GD가 작사·작곡한 신곡 '기립'을 예고 없이 기습 발매해 팬들의 뜨거운 반응을 이끌었고, '굿파트너2'가 첫 방송을 시작하며 장나라·김혜윤 조합이 주목받았다. 성폭행 유죄 전력의 배우 강지환은 틱톡 복귀를 시도했다가 하루 만에 계정이 영구 삭제됐다.",
+    "period": "아침",
+    "generated_at": "2026-11-21 05:16"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "미중러 정상회담 성과 없이 자화자찬 · 수능 부정행위 98명 적발 · 이강인 활용법 고민 중",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "트럼프",
+          "count": 4,
+          "articles": [
+            {
+              "title": "소득 없었던 첫 미중러 정상회담...트럼프·푸틴 \"역사 만들었다\" 자화자찬",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6dXFNSVBHNEdqLTVIT0ZoRWwzZWN6MGNCeW1oZ1Y2R1BOclZSUTZvQVRLNnNQSEtJMzRxdTVkMjFlUmFqSEFka0xTZWVUNzRobGhIYlJ2WTUzNloyeEE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "트럼프 \"금리가 너무 높은 건 정치적인 연준 탓\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qSmttUF9XZmM1Y21lWC1NWTZsVjJ0NVNPbTdUTHRxRVlTd1lyVnBqeV8zalE3TVNBSGRVX0gzNmdlQThtQ2JjNU8zQlFrNzFJSm8wSWtEVml2czBaRlE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "\"트럼프, 민주당 의회 장악 전 우크라 종전협상 타결 바라\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82UFdCMU5BY1ZsNy0tc3VHV1ZtNjBEcm5ueVVXbUJFTWpYLWFaU2Y4cUxmVlFpZnpmWnRXQjJWR2dxRzMyaExXZ25WTHlZQlZ2bkFKTFZrZEtNQk81V3BzONIBeEFVX3lxTE14amtTUFI2N3JCbVhGYmlNR2dXS0Mzcko1VVBMeWJ1VlNEempfVmhFQTdfaUMxWndKX2JPc2gzX21GQ1lVc0p1ejBuQjFFRVhpZzB5bWRlSG1oSWJtM1Ytd0N3NWtCUG9DN01oSmFMTFVUTnVtNFBoSA?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "트럼프 대통령과 푸틴 러시아 대통령이 첫 미중러 정상회담을 가졌지만 실질적 성과 없이 '역사를 만들었다'고 자평해 논란이 일고 있다. 우크라이나 종전 협상과 관련해서는 트럼프가 민주당의 의회 장악 전 타결을 원한다는 분석도 나왔다. 한편 트럼프는 현재의 고금리 기조를 두고 '정치적인 연준 탓'이라며 연방준비제도를 재차 압박했다.",
+          "headline": "트럼프·푸틴 첫 정상회담, 성과 없이 자화자찬"
+        },
+        {
+          "rank": 2,
+          "word": "고민",
+          "count": 3,
+          "articles": [
+            {
+              "title": "‘고민 또 고민’ 이강인 사용법 해답은 무엇인가···“시메오네 ATM 감독, LEE 영향력 끌어올릴 방법 고민 ...",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MUFJSbElFZG5CZDN2NjA1RkxpNUE1UkVKTlRYaS1lY1pjVTVtTFM3aC13ampqX1pGTDJIRURla0JsSlhZS0pIeVMyeTRwZS04Si1TcmlWMlpIOHpON2fSAWNBVV95cUxPR0Q5THlmVU8xNGdCMi1Dc242NHNSUDRQYmtfYTUzZmRBWldpaEcxRWVpMlEtNG52dkQxdEdpWk1vemthOUtvV1JzS2dJQTNZN044U29PNVhVLXFYOVoyLUVKeGc?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "\"이강인, 아직 최고의 경기력 아니야\" 스페인 매체의 아쉬움...\"시메오네는 최적의 방법 고민 중\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydUllWU90UzB6NXkzLVozdXFqT08zQ1R3NWtTVDl6djAxNlY1T0R0MnFaNFhMWWVYYjk4anhwdG5ueFV0UXliOGRCSFYyWk0xSkdWWUVBX054RnB0SW9IeVlzQUFabGYxLWVVM245S0Q?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "\"이강인 어디에 써야 하나\" 시메오네도 모레노와 같은 고민... 스페인 현지 \"공 잡으면 위협적, 최적의 자리 찾는 중\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZG12VzA5cW1WcGYyMjJUdGFrM2xNMWtnUjNNNkF5bVcyWmxHbWhOcnZVeVVNbzdsQkJBbzBPSzlrczM4aUYtQkVsdFFLRHR0cDMyNGpvS3dSVDdLS29aRUg2UXhwYjdrTVHSAW9BVV95cUxNUTR1NFNkZks5Y1pzaDhFNTlJZ0VYWk9oN0dqU3hXNFpCRFBYX0ZOV3NrMVp1cC0zcS1qdkd2OGNLdWZManZpVzI0dDFvbzBVS1p1bWx4ZktUZlU4bXF5aHRTSjRnUDItaTRBT2I4bVU?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "아틀레티코 마드리드의 시메오네 감독이 이강인의 활용법을 두고 고심 중이라고 스페인 현지 매체들이 잇따라 보도했다. 공을 잡으면 위협적이지만 아직 최고의 경기력에는 미치지 못한다는 평가 속에, 어느 포지션에서 그의 영향력을 최대로 끌어올릴지가 핵심 과제로 꼽힌다. 오늘 처음 등장한 키워드다.",
+          "headline": "시메오네, 이강인 최적 포지션 찾기 고민"
+        },
+        {
+          "rank": 3,
+          "word": "부정",
+          "count": 2,
+          "articles": [
+            {
+              "title": "하지 말랬는데 기어이···수능 부정행위 98명 적발, 위급재난문자로만 49명",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oanZuU3JBeWg3WmN4dG82OXg1UGJDRU5SRDNyMEw3QzUzRFZwX2t2ZjlEMWp5SmUxMVhYdGJxZFlDNGJPb3pjSTdRNW04M0RxaEhxUXRUak11Z9IBX0FVX3lxTE9TUWR2czZ2TFo3VUxhOHRHSHJvOGZOUnA5UmNtWkVZSFpkY0IwQkV3aHo4VDQ0Y2V5MVkzRVcxNlgwOVNBWEduZjlTTnZKZGtYeDgzSWgyUm5zTDdFZVlB?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "AI 안경 기사마다 나온 ‘그녀’는 누구?…“부정행위자 아니고요, 스마트안경 교육하러 갔다가 그만”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSjJmVDkwakRnalJLUXl6VDRGd3NLWEFmTUNMR010bGs5TEh0SEcxZTgxT1N1SUt2eHd5VDhST04tcEcxUjhGelZVcGZ0M2gwNHAtNlNoUHZrUdIBX0FVX3lxTE1maGh0TVhZb2g3cGV4VFB1WHhfdWczUzFOblBpTXVjOXQ2TzRCYTFDWFEzQ21waUlrQVQ0NGZPUGQzYVA0bVBuUVlXaE9DbE5QZkNFMENlVm4xdmM4OTBj?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "LEET시험 만점자 이진우 결국 줄고발…“부정행위 규명해야”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FWVlJbVlfMzR3d0hJOTNYNE9kaGlSdnNzd2V2T0Voc2xQMVpFcVNYeV96MWpjLTg1eEFoZ3hrR2tBSUcxdGtQMDFfRmRLMEpkeXoxQkE5aGtiWTQ?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "올해 수능에서 부정행위로 적발된 수험생이 98명에 달했으며, 이 중 49명은 위급재난문자를 이용한 것으로 나타났다. AI 스마트안경과 관련한 부정행위 의혹도 불거졌고, 법학적성시험(LEET) 만점자 이진우 씨를 둘러싼 부정행위 의혹 역시 고발로 이어지며 시험 공정성 논란이 여러 분야에서 동시에 제기되고 있다.",
+          "headline": "수능 부정행위 98명 적발, 위급재난문자 악용도"
+        },
+        {
+          "rank": 4,
+          "word": "미국",
+          "count": 2,
+          "articles": [
+            {
+              "title": "우크라 비판한 미국에 \"어리석다\"…독일 국방장관 발언 사과",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPV3lpUzVCMXBCSTlVbXd1ZmRVdllmVUkxeFNtZ1ZsTUNWdlRtajNuaHQtcm5iMmxNU0FHbUEwVW9BT0xSOVR1alJ4UDIyeFJ5NmR6ekMydXFHN1HSAWBBVV95cUxPUFk5SnVkcXh0WTB6bmNHNlZzNUt2WU1RcXgwcjdOc1RVTXZyVFk0TnA0Y0ZfejhtOVRiQkIyUEdqTnNTcm5Kckg3ZlNvZ2tJOWFaTU56VDJ2c0Z5RTlpdDU?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "보스니아 내전 종식 위한 데이턴 평화협정 가서명…뉴욕 베라자노 내로스 대교 개통",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mdXU3aC1oYVZKdVRzMThjNUdHQnY5bFY2cUtZWDFuX3JaczdTWHZqU0ZtZjFwbktnS1ZpTXloUzFodFlBWmZ3aVJwWGpXUE9J0gFTQVVfeXFMUG9JZV9WMTNtbFRXUy1wLUM0NVpEY1k3ek1hZ1V0UGNZQV9QMjctdE5KblpsYXlwQlBsUDJPeUdFUUpuaVB2Ykk4MTZRc2VZNEJwYW8?oc=5",
+              "source": "VOA 한국어 홈페이지"
+            },
+            {
+              "title": "최근 기술 장애 이후 새 미국 사이버 보안 수장 취임",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Hc1c0Y01mNGhXQ2lQTUNUQ2dCblFJRmhzT1RYTmZKNzB2YVRRSWhEclAyV3FoclNacUdTMUJDZnNzT0FiR3Z4Rk4zRks2UFpi0gFTQVVfeXFMUHJON09PU0hLaHRfNVFtdks2ZHpvUEszang3bm1PR2FwTl9rN0tDSjlMazFadTJEM3hBbnl1dUFWU3JQd1ZCTTlBV0VwNmd1NUYzY2c?oc=5",
+              "source": "VOA 한국어 홈페이지"
+            }
+          ],
+          "description": "최근 잇따른 기술 장애 이후 미국의 새 사이버 보안 수장이 취임했다. 한편 우크라이나를 비판한 미국의 입장에 독일 국방장관이 '어리석다'고 발언했다가 사과하는 외교적 마찰도 발생했다. 오늘 '미국' 관련 기사는 사이버 안보, 유럽 동맹 관계, 역사적 사건 등 다양한 사안에 걸쳐 있다.",
+          "headline": "미국 새 사이버 보안 수장 취임"
+        },
+        {
+          "rank": 5,
+          "word": "선물",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'공개 연애' 김요한, ♥오연희에 명품 가방 선물···생일 선물이 결혼 예물급('신랑수업2')",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGR6V3hpYWY0RmVaREtfN0VtOHRTU2V4QjRTZ2VrTmU3Q3NJeVg0aVVrYnRSZzNvVnVZRWxDOGl5OExHenZERmNrT0VhbE1WN29yb3ZvdmRVTUFJeUtsRmgwM2VIV2UyM1gyRk1QRzlPMDM1czR3Vmc1Sk5RcW5EcGUyV2ZYdGRudHREbTEzYkJPVnpWN3ZDeDhSNEctamk5alk4QmxMUdIBpwFBVV95cUxOcGR6V3hpYWY0RmVaREtfN0VtOHRTU2V4QjRTZ2VrTmU3Q3NJeVg0aVVrYnRSZzNvVnVZRWxDOGl5OExHenZERmNrT0VhbE1WN29yb3ZvdmRVTUFJeUtsRmgwM2VIV2UyM1gyRk1QRzlPMDM1czR3Vmc1Sk5RcW5EcGUyV2ZYdGRudHREbTEzYkJPVnpWN3ZDeDhSNEctamk5alk4QmxMUQ?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "'공개 연애' 김요한, ♥오연희에 명품 가방 선물···생일 선물이 결혼 예물급('신랑수업2')",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lYy1GTWVjYlFhT0NTRGhmczNZYXpQRllBSUJyYVZyTUF2a3hhLTlmOG5KRk5BZ1JrUVowS1VBUVNIMk93VkZYeWxEemtPaUhVbldPTw?oc=5",
+              "source": "OSEN"
+            },
+            {
+              "title": "‘신랑수업2’ 김요한, 오연희 父 위한 선물 준비…“감동했다”",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CeUJ5cDl3eDhnTVUxVkRjWUFiUjNHMC1pVlYxSnNVMXBvWGQwdXR5N0hxZDFTZXdCaHYxUmRQRWhjQ1dubFNWT0txUWdVTnB0UC1oWnlTX1BVbEZiaFdXR0NlQklDS1dFWjRtOTgteHhfNFZYU3BjdGNIY1M2Z9IBZkFVX3lxTFBNR29LS24xcHE5X2M0QVo4QjJmcmNUa3NsZURvWVkxbi1lMnRXMXhNYjl1MDMwQzI1MFl1dllvcGFUZ3BaYXNJdV9tQ2taR0cwVmQyRkVrWWw3MGRQY2ptSnluU202QQ?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "'신랑수업2'에서 공개 연애 중인 김요한이 오연희의 생일을 맞아 결혼 예물급 명품 가방을 선물해 화제를 모았다. 또한 오연희 아버지를 위한 선물도 별도로 준비해 감동을 전했다고 방송됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "김요한, 연인 오연희에 명품 가방 선물"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "김건희 전 영부인 주가조작 징역 4형 확정 · 한국 연간 수출 1조달러 돌파로 세계 4대 수출국 진입",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "조작",
+          "count": 3,
+          "articles": [
+            {
+              "title": "김건희, 도이치 주가조작 유죄에 격앙 “난 죽어도 이해 못 해···대법관들이 내 사건 봤는지 의문”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRVBxSFBGR3NDazd2ZnFyUmtlSVVyeHJKVlpzc1N1aVF1WEtNcThYZTZtampKUVhXRXd6SHlDanlrczdUQlViaDlEam9sekFtQWhmMWpvb05uUdIBX0FVX3lxTE5jZ2VvZGpIWHJUbkhBV3JNNkhJZGFtcVZSOU5vR1FqRGVBSGdFQkNuaUZvaUpMTFBCeUlIWDE5MElKS0dVdzlaY1BmS3hBSThMR2JRbk9KZlBWc1FVV1Zz?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "김건희, 주가조작 등 '3대 의혹' 징역 4년 확정…전직 영부인 첫 실형 확정",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tMUVwYVRWODdpUUN3Y2FhTGRjcmdmSE9teXl6c3dzRXVxXzNGNHpFSVFPWGk3YUxPaElySVl4QWpFQlpoRVZvSFBKcWxxQQ?oc=5",
+              "source": "전자신문"
+            },
+            {
+              "title": "‘주가조작·금품수수’ 김건희 징역 4년 확정…‘무상 여론조사’는 무죄",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUlR6VDBreXpNMW5mQmFWdGZkSkRMaVhWNHhXVTBzZ0JjNV9DeEs5Vi1vWkF5NEoydktrNS1sdVdjRlZ0ZVoyNDY2ZXBYMjNKejNmUExpMk1PUXpxTGxPb1dRRmtuTXd6YXRGSWJkQ1AtUQ?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "김건희 전 영부인이 주가조작·금품수수 등 3대 의혹으로 징역 4년을 확정받았다. 전직 영부인으로서는 첫 실형 확정이다. 김건희 측은 도이치 주가조작 유죄 판결에 강하게 반발하며 '대법관들이 내 사건을 제대로 봤는지 의문'이라고 격앙된 반응을 보였다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "김건희, 주가조작 징역 4년 확정"
+        },
+        {
+          "rank": 2,
+          "word": "최저",
+          "count": 3,
+          "articles": [
+            {
+              "title": "영어 1등급 7~10% 전망…수시 ‘수능최저’ 충족자 늘어날까[2027 수능]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4WDdUaHUwRjFhQy1lNnU4NzNHMjdmN09Vdm12S2RTRGFmMG9aYXF4YjBZTFkxUV9mRnBqTFhVTnYxa2JQYm1jcGo4UXhzU3VZVjJZQzZKQXFrd9IBX0FVX3lxTE54ZzhfcTJIRmlwRVZSRnc5VUFidXdzeHppek1kN2g3YnlYVkQ2QlowR2JidUZkMnFuODVueTZ6RlFITVgwNjB4R2phVzMtamU3TVY4bEpNLUVRV1hGVWVB?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "금요일 아침 더 춥다, 최저 영하 6도…전북·제주 대설특보 가능성",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoR1BvYjZ0bmlHODA1YXBLcmRwRXpnMUhPcXUwWWl2UDcyTnJLLUY3bV9sN3ZoRkgxQU9SYlRsQUYwaXFlVFZPQ2ZOZUhvTVVwWmM3cVFoZ2U2SUHSAWBBVV95cUxOemZTUFpGN0hUdUpYTU1XaEJkQnVnOVU4OXM2Qjl2Z1J3WTZRRHd4WEk1dldaeWVMRzA2TEZvQ0p2cm52ZnNOWVNOdGZtZHZiNVhKbmZQSFh2NE11MGdhNUE?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "최저 -6도 아침 전국 영하권…전북남부 최대 '8㎝' 폭설[내일 날씨]",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tbW02M3oxRm9aaTRha2VwR0t5MFRRTkNxYWFxaWRpei0xVVZjRmdrUU5hLVJCM3FqbEs3U2Nlcm5rVDJodjQtb3ZaMkktbm1aSUVuYWd0UkJhaExTTFN0ZlpNWQ?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "금요일 아침 전국이 영하권으로 떨어지며 최저 영하 6도의 강추위가 예보됐다. 전북 남부와 제주에는 최대 8㎝ 폭설과 대설특보 가능성도 제기됐다. 한편 2027 수능에서 영어 1등급이 7~10%로 전망되면서, 수시 수능최저 충족자가 늘어날지 주목된다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "아침 최저 영하 6도, 전국 한파"
+        },
+        {
+          "rank": 3,
+          "word": "엔비디아",
+          "count": 2,
+          "articles": [
+            {
+              "title": "엔비디아 경쟁사 AMD의 리사 수, \"젠슨 황은 엄청난 리더… 소음은 가라앉을 것\"",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmtST1RncHBRZHZaUmhCcVY2aVpNVDN5SkVqSWtkcjJXSEZ6cUNiSUphQWhRampMV0hhX01rU3BiY0Rkbm5TUmtLRVBSc1ppWjI1YzM2YlFOVzNibnN0YXF2UzRnTFlMV2J2SHdFWlhpNS1McXVBRUNSZVkwN2dOUnVZVQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "엔비디아, 삼성전기에 또 돈 댄다…기판 넘어 MLCC까지 'AI 동맹' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoU2YtYzlTSUItZWtIMHRUVjdtRGtwMnpzTDV6WUFpVEZ6dmd1NC11UlNvLVF4VzlScEoxZkxKcE1FVG9SMXJzbEdOdDhSSThnc0RqTUhBbDVkNjFaTjhsajMwS0cySGVnaU02eNIBckFVX3lxTFA5QzdncnBkREg1cGZycWJwYmdnU0ZjamRBMDMwbjV0ZnBrdUlYS1dyVm5vamwzcDBoR1ZwZ0ZUVXNpemxMbEpMYTNwdWJpc2pxWUJueE5VUHpvUFNOMHU5cW05RmgzeUJ3UG9yUk9TLTN2Zw?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZWVzWTZpYXRxWElLX2dqR3lGSXlWaGJzRnZzeEcwRkFIdXJZeWFsWkxSUlpKaWxYcmQ5b09vTTFnaTBFcHRveUFjby1DZkpwcGhOMWpwVkNSY3NHcEVlM3F1dGZmdWpmWndGazNtbTE?oc=5",
+              "source": "연합인포맥스"
+            }
+          ],
+          "description": "AI 테마 투매가 이어지며 엔비디아가 알파벳에 시가총액 순위를 내주고 4위로 밀렸다. 한편 엔비디아는 삼성전기에 기판을 넘어 MLCC(적층세라믹커패시터)까지 투자를 확대하며 AI 공급망 동맹을 강화하고 있다. 경쟁사 AMD의 리사 수 CEO는 '젠슨 황은 엄청난 리더'라며 현재의 시장 소음은 가라앉을 것이라고 평가했다.",
+          "headline": "엔비디아, AI 투매에 시총 4위로 하락"
+        },
+        {
+          "rank": 4,
+          "word": "허용",
+          "count": 2,
+          "articles": [
+            {
+              "title": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZFduemJabTNKX1hrdXZLbnRYTnZHNjhxcU10VXRfZVRqSDViT3N5LXZfR0M0TjFHNURKT0xHeWlCa1RRUEJ3dnh5empoZTVqWVVRZFBIYnh0dXfSAWBBVV95cUxPWFliTllWbUpiczdBZnE5a0JHRjF5dnAzcUhOTzBreHBiLVBjdzlaZi0wa2pMT3o4RHBIN1V6VzBUMzFpVmFESmlYeG1ERXBfRG5wbWlTZ1diRlo0eGZzVzM?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "의협 \"한의사 X-ray 허용은 무면허 의료행위 조장\"",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEbUFpTFZtZ1hzbTZ5OVNXV1lMbTJIa3NDZzhaUV8tREhyZU5ubFdTdDFiQXlfWFctT1VNMnFOd2JHTXM1VlJJWnRfSjVZZTFOZWZqNTJpTXViUmNuZzR3dGkwQmFqSzJRd1F1WWp1YmV0Zw?oc=5",
+              "source": "의협신문"
+            },
+            {
+              "title": "한의사 X-ray 허용 추진에 의료계 분노...의협 궐기대회 검토 기류",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SVkxlOUFMTmNuSzdfZ2hDT25VYmhwbGdEdkx0SzlxeWdFQTBhREtuZDNacWRPekZiNGhtbE1KMjBucUFaaDUwajdzeEU0cEVOZUxPR1gzSnBybGNPUkp5MTlaeHVLeXMxbXc?oc=5",
+              "source": "의학신문"
+            }
+          ],
+          "description": "정부가 한의사의 X-ray 사용 허용을 추진하자 의료계가 강하게 반발하고 있다. 의협은 이를 '무면허 의료행위 조장'이라고 규정하며 궐기대회 개최를 검토 중이다. 한편 미 재무부는 엔비디아 H200의 중국 판매 허용과 관련해 '정책 변화가 없다'고 선을 그었다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "한의사 X-ray 허용 추진에 의료계 반발"
+        },
+        {
+          "rank": 5,
+          "word": "수출",
+          "count": 2,
+          "articles": [
+            {
+              "title": "반도체 날개 달고 수출 '1조달러'…거세진 中 추격, '이젠 수성전이다' - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iR2Y3X0VvSlBaSm92TFpWYU5GUTFlZjMwdmFGeHBVNjA0WjdIeGVTdTlpWmpZUWlEY212REhLb0dJeHdyWFV0YUdGSDh1S1F1RWZvSUVNMlFJN092RkQyOXd5OVdraXV4QVpF0gFwQVVfeXFMTjZQaXE1NkhtRi1iRkZKX1ZlUmIwVm15RnpiV3dZV1pTOU1SNmVZWlozQUdXZHBrZHlnYkNmVkVPRC03T1hNTDRpRlJOemVVUHd3cGRjd200VTRGQVVxWmNZdF9ESUlJdmo5eXpITWVMZg?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "한국 수출 1조달러 돌파…일본 넘어 세계 4대 수출 강국(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IVEdtLUttbF9TUXNMdEhxaEpxQUFrM0hSMTRiX1I5WUUwZ0xweHEwU2lPMGhhT0xUR2ZMZmZxTUNnV3lOSVNocEtPVzF0TVFWVnhUbWk3SkdqU3fSAWBBVV95cUxQZDNwd0xIRm9hWVF4NTdLTnNJMWE5a1Q1bUZMRE1laThNVEhueG9rdzRtREhwU09OMFRoRGF6SFR1RS10dlpzQk9zVGhEbF83V1owWnRNdzNSbHdhSngwdGo?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "19년 만에 탄생한 새로운 수출 1조 달러 국가!",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93M2ZSMlRfQUEwdHVMbFNUZ3lzRVJBZUwtSDhuc0ZMVmdFQjVuSFNSeHZjZzJNbC1mM1Z6U0l0cjhLQm9qQ2NndXB1OUhnTVdueTI2d0FqM0VrT0lnY3Q0eUxrSWU?oc=5",
+              "source": "대한민국 정책브리핑"
+            }
+          ],
+          "description": "한국이 수출 1조달러를 돌파하며 일본을 넘어 세계 4대 수출 강국에 올라섰다. 1조달러 수출 국가 탄생은 19년 만의 일로, 반도체가 핵심 견인차 역할을 했다. 다만 중국의 추격이 거세지면서 앞으로는 수성 전략이 과제로 떠오르고 있다는 분석도 나온다.",
+          "headline": "한국 수출 1조달러 돌파, 세계 4위"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "빅뱅 데뷔 20주년 기습 신곡 발매 · 성폭행 유죄 강지환, 틱톡 복귀 시도했으나 하루 만에 퇴출",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "빅뱅",
+          "count": 2,
+          "articles": [
+            {
+              "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aGxFZlcxVGFuR0NRRE5xd3ZpUFA3ZXgwdEVvMmM2bHo1Wlp1M2gzRnJ0WEVrTWNBSzI1VkdFbDBqekdmYU9VUXE2ZGNRV3l5MEVvTFZOdG4tZ9IBX0FVX3lxTE4xb2I2VkY1UUxZRWF4bWhGOE5hM2ZZTDh1MnBzQ3dNZXhIbEp5Wlk0THRDbW5KWkdEc3JyZ19MYTZQcmMwcng0dlJlczZoMlV5RkwtWmxVU3VsTjdzMGE4?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "20주년 빅뱅, 신곡 '기립' 깜짝 발표…GD 작사·작곡(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VdGZzUDZyRy1oYkxldHNCUGk2X2ZiNzFONkROMGhmYjBkNndYUWFUN3RiQ3JSelVDVmptSktKVEVjUjRtaV9YTTRTQ21uN3hSWS0zTHh3cVZGY1HSAWBBVV95cUxOeVFjSDZ6dmVVQllEV0ZJVUFVejU3X3VfV09teFNKXzF2VzZZdmd4cGNPYTV0YXNXa0hEcFJBNFhHRnYtRkxtbUZ6aEpzaFNfV2w3YS13NWItV3Jta2dNQnQ?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "데뷔 20주년을 맞은 빅뱅이 오늘 신곡 '기립'을 제목도 사전 공개하지 않은 채 깜짝 발표했다. GD가 작사·작곡에 참여한 이번 곡은 예고 없는 기습 발매로 팬들의 뜨거운 반응을 이끌어냈다. 신곡 발표와 함께 마마 어워즈 출연에 대한 기대감도 높아지고 있어 빅뱅의 완전체 활동 재개 여부에 관심이 쏠린다.",
+          "headline": "빅뱅, 20주년 신곡 '기립' 기습 발매"
+        },
+        {
+          "rank": 2,
+          "word": "장나라",
+          "count": 2,
+          "articles": [
+            {
+              "title": "김혜윤-장나라 '우리는 굿파트너'",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kQ1NGR1lBYktBbVVpclE2bVoxeWVVdm9tWEpiNm9qd0VQWjNuUEhTNndRS2Y1dG13endENFZlQUJMbnZYOXllV2NlSWp1RFJMWEozOVQzVXQ?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "장나라, ♥6세 연하 촬영감독 남편에 먼저 고백한 이유 \"용기 내보고 싶었다\"",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUG0tRTR0eXdsZlMwZl9ndjRVYndFR0J6LWZkN2FwVVJUYWRFQTdHc0V6N01xbUJEZ3k2NUg1NUZfUUxZa2hZT2xHQXlmUjFaSHdXYTlkVWpCNVBjdHdfaXEzRFhmWThRNm1ETU83dld6Xzg3bnlsb2J3VGlQcHVRRTA5NkI?oc=5",
+              "source": "스포츠조선"
+            },
+            {
+              "title": "'굿파트너2' 오늘 첫 방송…장나라·김혜윤 새 조합 주목",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsUTMwYVYwOUZpVllkYW9RMU1NczROVDl1WTlLWjV1TmNGMDZGSk9hSGFQV3NjYXV1YVZzVFJpWmh2Z1NDZkJVU2tVY21qNDVLaVBmcl9UdllqZnNmQlBwYTQ1MWVkQlk3R2M2bG0wWQ?oc=5",
+              "source": "진일보 | 전남일보"
+            }
+          ],
+          "description": "'굿파트너2'가 오늘 첫 방송을 시작하며 장나라와 김혜윤의 새 조합이 주목받고 있다. 전작의 인기를 이은 시즌2인 만큼 두 배우의 호흡에 대한 기대감이 크다. 한편 장나라는 6세 연하 촬영감독 남편에게 자신이 먼저 용기를 내어 고백했다는 사연을 공개해 화제를 더했다.",
+          "headline": "장나라·김혜윤 '굿파트너2' 오늘 첫 방송"
+        },
+        {
+          "rank": 3,
+          "word": "강지환",
+          "count": 1,
+          "articles": [
+            {
+              "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ra1d3c2dvQXByWnBrZ3UxS3pKdEk5S1FGSkFGNGlObWl0OFhkRHVtYW1nXzlFVFMzNjNyUFAxWUtUOFJMMV9OM2FqNGJzM2tfVk9na2Iyc212dWwzcF9YRWVRV2pnYWhIMWhhekk3RllaeEJPc0HSAWZBVV95cUxOTGVha2R0VFY3Y1FEOTVINEwwd3NkX3AyNmZndVF1Q25DOUFJdkJsdkhLejFobWdRYWVuVGZiMmduaHp0WXlXOHhlWGdieUxKcFZzNXJsMm5sSjJYeHBUTzNaYk9IQlE?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "‘스태프 성폭행’ 강지환, 뜨개질로 복귀 시동…하루 만에 퇴출됐다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfcWtaT0pxTGk4TERUdUEwWnFKRWtROVdtbUJmdVdWd3ZfZEZ5by01dlpFSFRYM3RER2ZtckQxRUNKbnFJbkFFb1lQYWhHNzEwaEJxX1h3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "‘성범죄 유죄’ 강지환, 뜨개질 하며 복귀?…하루 만에 “영구 삭제”[이슈픽]",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVAyd20xUjhCOTRvQU0wZF8xSHhLOXctM2VmdE1aZmJ4YmI3UnFoVHhKR2xMSHNTQy00X1NSRUJjRVlPcDNFbWhxZDdIT2FZdnpxdEFfY1c1ZmQyTjlYeEhVMm95dERLQ1ViT1Q1a1hPZ2dhNjNWMldWbEtpQ2tEUm5lTU4?oc=5",
+              "source": "www.twig24.com"
+            }
+          ],
+          "description": "스태프 성폭행으로 유죄 판결을 받은 배우 강지환이 틱톡에 뜨개질 영상을 올리며 복귀를 시도했으나 하루 만에 계정이 영구 삭제됐다. 성범죄 전력이 있는 인물의 SNS 복귀 시도에 비판 여론이 거세게 일었고, 플랫폼 측이 신속히 조치를 취한 것으로 전해진다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "강지환, 틱톡 복귀 시도했다 하루 만에 퇴출"
+        },
+        {
+          "rank": 4,
+          "word": "고영욱",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'성폭행 유죄' 강지환도 고영욱처럼…틱톡 하루 만에 '삭제' 굴욕 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yYnkyVTdhWUhYUnBXVWZ1SzFOcF9fdloyWGdYRGVJM29wVXdfVTVON3Jwdzk2d2RsOUVEWGJVdE92ZDZhZTcxZE15Q2duN3NrY21OZXJOZ21yejVlZ24yUTdXY3NYOUZETzNPRTV2bE1Oa1nSAXhBVV95cUxQRm81cEF6eHY5ZUVZc0xKTm1SWFFlSE04MFdaWHpjUE16WHVsdmY1WU84djRDcnBKU0RfX3ItSGRBNlI0M3hvX0hsUDZSbEJVT0o4QklBb3d2d3A4ZHlURGtUNVpHZDBIT1NqRXVDOVJxRHdXNUtVVmc?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "'성폭행 유죄' 강지환, '틱톡 복귀' 하루 만에 퇴출⋯고영욱과 같은 신세",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mMVMyZFpwNzBubjY4TTlUS1FMaWYwSnpnbWZNcW1rOUxQN0V6N0cwdzFDS18yVlJmWTVDd3V4MHhYa20yV2VzVEdhQjR3Tks5NWN0NQ?oc=5",
+              "source": "이투데이"
+            },
+            {
+              "title": "고영욱 이어 강지환까지…성범죄자들, 틱톡서도 쫓겨났다 [MD이슈]",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jV2lYTHBTRFR1eS1OdmEteDNjR3F1WldmcDI5czgzZ0s4aDlVVnJ0eWZvTl9xbXNlVGJqWElYT2JUb1p0dWRkX2l6aUdoYkxiR1ZNVlNKNE80c3J4SnZUbg?oc=5",
+              "source": "마이데일리"
+            }
+          ],
+          "description": "강지환의 틱톡 퇴출 소식이 전해지면서 앞서 같은 과정을 밟은 고영욱이 함께 화제로 떠올랐다. 성범죄 유죄 판결을 받은 연예인들이 SNS를 통해 복귀를 시도했다가 플랫폼에서 잇따라 퇴출되는 패턴이 반복되고 있다는 점에서 사회적 비판이 모아지고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "고영욱 이어 강지환도 틱톡서 퇴출"
+        },
+        {
+          "rank": 5,
+          "word": "김혜수",
+          "count": 1,
+          "articles": [
+            {
+              "title": "시상의 아이콘 김혜수, MAMA에서도 빛나는 존재감 [O! STAR 숏폼]",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeTRDQVY2c2Vfeld1cUV4cjVEdkhiTDI2bHBrSVdEODNtWVlRTVR1dUpadFBPODN2S3F4VHVDWTFGckduNmg3NmNzVkxWRGhObVZMRzdTZFgwVEN0TnBQdUlWOGd4Q2x5NmRGcWFuQ0NzSkFVMndiUHhaazVGbVZ5NXhzT09BSWJSMmc?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "김혜수 '육지로 올라온 인어공주'",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdDhpc1NlYzFjaUhzdXFTQzBaSjlSMVlzTkU0MjFUV0ItOTk0M2Yxa3NTLTN5UDVZQWxUbThJX000eEtnMDBqS25zcU9FNzVFYTQ5ZzQ2RzNReGhmcVRDem15N0FOY0d3SVZ3amZaYXNROHpoejVQNEcwRzhYYklFckpyeklaZHFjYklmUXU2bE91a2lUV21NeDlfVdIBrwFBVV95cUxQclZ3WVhZOENCM2FKbVdwQ0dpT0swbTI4LVN1cC1BU3FLSUFjN0NUTnVWWjF4Vl9sWTk4a3N4bHdRRVU4a1FHSTBpMHRoVXU2Mkw4WVpFV0dGTEZvbEw1N0kwaXgzUUhjNjY0NGh0NUh5TjItVEVGY0xvbmdlUnY1ZHR6dndvZFUxenNsNUgxc0sxakw3T0tvVVNlaEMzZm12OXpSeW5zQlFTLUpNLVZn?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "김혜수→유인나 우아한 드레스 자태…어른 여자의 매력 (2026 마마 어워즈)｜포토뷰",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfU0NlQ3JHaGE2MXZ1ZE10eFhBbmhEc1NrcmtoUFdIZ29ld3I5MmRocGpSRmVsYjhwdGxIbnpuRzZuTHpzZWVOS0xSUjBQTXNhXzRtcEc4dXFyM05pd1NvdXRVUHZlcFVHdDdIYUI2ajBHa1c5akx1RWtPRQ?oc=5",
+              "source": "스포츠동아"
+            }
+          ],
+          "description": "김혜수가 2026 마마 어워즈에 참석해 우아한 드레스 차림으로 시선을 사로잡았다. 오랫동안 각종 시상식의 아이콘으로 자리해온 그는 이번 행사에서도 유인나 등과 함께 어른 여자의 매력을 발산하며 주목을 받았다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "김혜수, 마마 어워즈서 존재감 발휘"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "이강인 아틀레티코 적응·AFC 2연속 수상, 손흥민 MLS 연봉 4위·왕따설 해명, 최민정 국가대표 은퇴 시즌 마지막 질주",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "고민",
+          "count": 4,
+          "articles": [
+            {
+              "title": "‘고민 또 고민’ 이강인 사용법 해답은 무엇인가···“시메오네 ATM 감독, LEE 영향력 끌어올릴 방법 고민 ...",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MUFJSbElFZG5CZDN2NjA1RkxpNUE1UkVKTlRYaS1lY1pjVTVtTFM3aC13ampqX1pGTDJIRURla0JsSlhZS0pIeVMyeTRwZS04Si1TcmlWMlpIOHpON2fSAWNBVV95cUxPR0Q5THlmVU8xNGdCMi1Dc242NHNSUDRQYmtfYTUzZmRBWldpaEcxRWVpMlEtNG52dkQxdEdpWk1vemthOUtvV1JzS2dJQTNZN044U29PNVhVLXFYOVoyLUVKeGc?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "\"이강인, 아직 최고의 경기력 아니야\" 스페인 매체의 아쉬움...\"시메오네는 최적의 방법 고민 중\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ydUllWU90UzB6NXkzLVozdXFqT08zQ1R3NWtTVDl6djAxNlY1T0R0MnFaNFhMWWVYYjk4anhwdG5ueFV0UXliOGRCSFYyWk0xSkdWWUVBX054RnB0SW9IeVlzQUFabGYxLWVVM245S0Q?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "\"이강인 어디에 써야 하나\" 시메오네도 모레노와 같은 고민... 스페인 현지 \"공 잡으면 위협적, 최적의 자리 찾는 중\" - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwZG12VzA5cW1WcGYyMjJUdGFrM2xNMWtnUjNNNkF5bVcyWmxHbWhOcnZVeVVNbzdsQkJBbzBPSzlrczM4aUYtQkVsdFFLRHR0cDMyNGpvS3dSVDdLS29aRUg2UXhwYjdrTVHSAW9BVV95cUxNUTR1NFNkZks5Y1pzaDhFNTlJZ0VYWk9oN0dqU3hXNFpCRFBYX0ZOV3NrMVp1cC0zcS1qdkd2OGNLdWZManZpVzI0dDFvbzBVS1p1bWx4ZktUZlU4bXF5aHRTSjRnUDItaTRBT2I4bVU?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "아틀레티코 마드리드 시메오네 감독이 이강인의 최적 기용법을 찾지 못하고 있다는 스페인 현지 보도가 잇따르고 있다. 공을 잡으면 위협적이지만 9경기 연속 침묵이 이어지는 상황에서, 스페인 매체들은 이강인이 아직 최고의 경기력을 보여주지 못하고 있다고 평가했다. 시메오네 감독이 이강인의 영향력을 끌어올릴 방법을 적극적으로 모색 중이라는 점에서 향후 활용 방향이 주목된다.",
+          "headline": "시메오네, 이강인 최적 포지션 고민 중"
+        },
+        {
+          "rank": 2,
+          "word": "롯데",
+          "count": 3,
+          "articles": [
+            {
+              "title": "프로야구 롯데-키움, 투수 정철원-외야수 임지열 트레이드",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JandYeHU0YUR2emlzQjFwblVPWmRKR01rV2Y0djNLVEw3T1Z2LXJrcXRXSTRLNGJxQTRpMi1vSXhvcEVUVG43MlhwSXNjWThoOHFjSkZNY0RkNm_SAWBBVV95cUxOTTN3V1ZtT1Y3R0VnOEpVRjhVX3dLc3oyX1RGcGlHQnNCVndIREtadWZKZldEczVZcDNmZFl1MUY2X3MxMmQ5ZWROakZIaDdmeWpTWV9JaUx0S2ZkTWVJODc?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "안정 속 세대교체, 롯데그룹 퇴임 임원 93명 중 쇼핑·케미칼·건설서만 35명",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhR1NYcXUyX280cWhPbWNsRENyX3RFd0RGel9UTDEtU0lFd1hycTIzUW82a2hyWGcycXdDVjBXYk4wTEktcUVGSUgxS0dVNE9MeEF1dmdGdjNxczRjZUZ3VkhYLUI5WHpXU1M0c2dxRU5vbTZ6ZmxxbFF3c9IBgAFBVV95cUxPR0pPcXF1MkFfREJBN3NybTZnRThSSzFtUjdsR0JnWXRPQTdpejNaN2ZvaDRfb1BaajBJeUZjbl9LaGxuTlBmQjFJV2JoUHgwODVNSHNhMkdDbXhZRFhKNXg5U2dNUW1zMFlIS045X3dqN2c3ZzRnb0VBM3hrYnRtQQ?oc=5",
+              "source": "뉴데일리 경제"
+            },
+            {
+              "title": "2027 수능 수험표 할인 혜택 총정리! 에버랜드·롯데월드 자유이용권부터 외식 반값·항공권·미용실까지",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00Vy1uN0xFTGpyQ1ZtTS1LSkFxazlEcW5MODJGTHQwWVdSWlFlckJxTTNqTDFESXVWYmlSTzJ2QzBRMjFhVmcyTTFwTTRHdzNteU9DNHBB?oc=5",
+              "source": "고향사랑기부제 위기브"
+            }
+          ],
+          "description": "프로야구 롯데 자이언츠가 키움 히어로즈와 투수 정철원과 외야수 임지열을 맞트레이드하는 선수 교환을 단행했다. 롯데는 이번 트레이드를 통해 전력 보강에 나선 것으로, 시즌 준비에 속도를 내고 있다.",
+          "headline": "롯데, 정철원·임지열 트레이드 단행"
+        },
+        {
+          "rank": 3,
+          "word": "손흥민",
+          "count": 3,
+          "articles": [
+            {
+              "title": "'150억원' 손흥민, MLS 연봉 4위로 하락…1위 메시는 378억원",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5waUk2TXEySUp0VFprekFKdFZCLWV5RW1UbF9qdlZiVEZWSlRQcXc0VDYwNWhHUE5KNEJfYmx3amNEczNWeFF2b25YeTBoeXFSVS1hUzlVRXpFczh3aXpSONIBeEFVX3lxTE9oajc2MFJmanN4MlhJUEltUVNDZnRYZGNBV3ItOWhKam9vTmxBbVhvV2djV1BoU0VHNzZTWEJlMGJCdjBLUE9oZENidk9SLWQtekpHVEtnT2JoM3R6MFF6VWx1QmlIeHE2TjdJNHB0NGliUkM1TUhEYw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "손흥민 왕따설에 휘말렸던 이강인 공식 입장 \"밖에서 벌어지는 일은 통제 못 해\"…대표팀 내분설에 \"서로 돕고 긍정적인 분위기 만들 것\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fQ2dqQVR6R0pVQ2UyNTNTRkFmZGtxcE1jME55d3oxOE82NVptM0p6X0ExSXRGNmozYXdtZC02MFJjZlA3SUtVdFZZWmhudjVZYmhSeFhkem15bjVNREJiYUZDbkxiYlRzeUNNMHVoYXo?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "손흥민 “많은 아픔과 충격 있었다” 발언 조명…英언론 ‘SON, 한국과 실망스러운 한 해 돌아봐’",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84WFVTN2VFRFVmS1NraXdLU0dETnFSaktXZWRFLXJDdzRpNGdYUzhCaTVUWm5sN3ZfZ0VCdjRJY1p3SXpxQjBCaW1IdXZzVVZwZmdDcFZCVTM?oc=5",
+              "source": "스포츠서울"
+            }
+          ],
+          "description": "손흥민이 올 한 해를 '많은 아픔과 충격이 있었다'고 돌아봤다고 영국 언론이 조명하며 화제다. MLS 연봉 순위에서는 150억 원으로 4위로 밀려났고, 메시의 378억 원이 1위를 차지했다. 이강인과의 대표팀 내분설이 재점화되는 가운데, 이강인이 '왕따설' 관련 공식 입장을 내놓으면서 손흥민도 함께 주목받고 있다. 오늘 순위는 어제 5위에서 3위로 올랐다.",
+          "headline": "손흥민 '아픔과 충격' 한 해 돌아봐"
+        },
+        {
+          "rank": 4,
+          "word": "마지막",
+          "count": 3,
+          "articles": [
+            {
+              "title": "국가대표 은퇴 시즌… 최민정 ‘마지막 질주’",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWJDd21Icjg1RzllZ3V6cnFwUWpmeFBDRndOTmVMSi1sam5iY0RNeDZzTUI3NUNXekgyLWRaaVRzeWpDRG43S0JxZm5lUTUtalowMVlKRF9UR2pKUjZ5b1FwTHIwUTMwMzhHSGxlWVZDMGdQUnEza3Q1UVlxbEtsMERfdnAzR3FMLVNv?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "쇼트트랙 최민정 마지막 홈 월드투어…내년 3월 고별전",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5haklqaE8wY05HRmN6cVFjMVIwN1hIMmJiVEZvdXhQckdsWDI2NF9Tb0o0SWVvUzBXUHcycjRPMkpKVG5WUGN0UUtqNE9YTjdtYVc4ZmJjNWVHajI0bE1DLXk3M2k3ZTZDWWfSAW5BVV95cUxPdHNQRDgtZ2N6OURlSU14dHA5VG5KSjFFYWRLWXpJbzRqTF9NTnJnaGNDblE0ZnRoaXhwQVdHTVVnWlc2ZDRmdi1ZMDhBUzJ2N3ZmTUFTVm1tMGYteHpUQXBuRU1nSlc3Rzhmel9RUQ?oc=5",
+              "source": "중부매일"
+            },
+            {
+              "title": "최민정, 서울 월드투어 예선 첫날 전 종목 조 1위…마지막 시즌에도 건재",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NU0tIa0ZBQy1Vc0NMWHc5dlo2T2FIb0hjSDBwTUVpcU5vVE9fanlBS01WUkRHT0tDcUlSbDRKQkRySWktRlN6U3kxNUFtb3Z5SGh3WHJoN0tFNlRpaWExS3JUdzlkdVE?oc=5",
+              "source": "연합뉴스TV"
+            }
+          ],
+          "description": "쇼트트랙 최민정이 국가대표로서의 마지막 시즌을 맞아 서울 월드투어 예선 첫날 전 종목에서 조 1위를 기록하며 건재함을 과시했다. 최민정은 내년 3월 고별전을 끝으로 대표팀 은퇴를 선언한 상태로, 이번 서울 대회는 국내 팬들과 함께하는 마지막 홈 무대가 된다. 오랜 기간 한국 쇼트트랙을 이끌어온 그의 마지막 질주에 국내외 팬들의 관심이 쏠리고 있다.",
+          "headline": "최민정, 마지막 시즌 서울 월드투어 전 종목 조 1위"
+        },
+        {
+          "rank": 5,
+          "word": "이강인",
+          "count": 2,
+          "articles": [
+            {
+              "title": "`강인아 어서와`…아틀레티코 선수단 단체 사진 정중앙, 감독과 회장도 기다렸다",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HUlpxcmdnc2hLVlpTTmUtLWdKNno0UEcyeVNOT2JMVzdmaHVVNGgySDE1SFc3OGtQOUNpREZqTHUwZVJiSTJ3aGNaQjBSbGRCNE0xNjA0ZFlJU2swOHVwQlVmYkVtdw?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "이강인, 2회 연속 AFC 올해의 국제선수상 수상",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94MkxpcTJPT1hEeU5pUkhMNzRwOGJFNzdZWG44aFRGNWpfOG1ZX0dIYkJJcTBuM1laMUNJaVlvS01JeUFGVlpvVnF2TDJ5OUdsYmxxVTgtNWtJWVppZnAzMNIBeEFVX3lxTE12WlZ3Q0c5WDctaHJUWlJmMXhWYzFoVDNYVTlJb1NkbG1xYmlhcTJYNGtqY0xyNm1uaW5HcmpnZk11S2w1TlNpbEhURWJBMlZ4ZmZtWEZFYWU0TkstWjdkU084eUIxSmtRRDU4R1lzSV9kZmRMWGNqdw?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "\"이강인 최고의 모습 아냐\"...아틀레티코서 9경기 연속 침묵, 스페인 매체 '충격' 주장! \"꾸준하지 못한 활약→이제는 한 단계 더 도약할 때\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtZE9lNXB0X3lQcjR2SFdnMjUtMGNPemtNaGo1OVY4bWVLajRzLURaVVRHYWZMYkUwUzVKSEdrS1R0dnh5MmI5WWNaMFBoRTVFNVdfS0ZrQ3UyX1FCeFYtdw?oc=5",
+              "source": "마이데일리"
+            }
+          ],
+          "description": "이강인이 AFC 올해의 국제선수상을 2회 연속 수상하며 주목받고 있다. 아틀레티코 마드리드 이적 후 선수단 단체 사진 정중앙에 서는 등 팀 내 존재감을 과시했지만, 스페인 매체는 9경기 연속 침묵 등 꾸준하지 못한 활약을 지적하며 '한 단계 더 도약할 때'라고 평가했다. 대표팀 내분설에 대해서는 '밖에서 벌어지는 일은 통제 못 하지만 서로 돕고 긍정적인 분위기를 만들겠다'고 직접 입장을 밝혔다.",
+          "headline": "이강인, AFC 올해의 국제선수상 2연속 수상"
+        }
+      ]
+    }
+  }
+}
