@@ -1,19 +1,67 @@
 {
-  "date": "2026-11-21",
-  "updated_at": "2026-11-21 17:27",
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22 05:16",
   "briefing": {
-    "text": "트럼프 전 대통령이 미·중·러 정상회담에서 한반도 위험 대응을 논의하겠다고 밝히고, 우크라이나 종전 협상을 내년 1월 초까지 타결하겠다는 의지를 드러내며 취임 전부터 굵직한 외교 현안에 직접 개입하고 있다.\n\n국내에선 이재명 대통령이 수능 부정행위 신고 포상금을 건당 최소 1억 원으로 책정하고 국가시험 전반을 전면 개편하겠다고 선언했다. 수험생연대는 실효성이 없다며 최교진 교육부 장관 사퇴를 요구했고, 현직 강사 이지영은 수능 문제를 9분 만에 풀어 예상 등급컷을 공개해 수험생들의 이목을 끌었다.\n\n경제 분야에서는 젠슨 황이 반복된 거짓말과 폭언을 이유로 엔비디아에서 퇴출된 이후 AI주 매도세가 겹치며 아마존 시총에 맞먹는 규모의 시가총액이 증발했고, 국내 서학개미들은 오히려 저가 매수에 나섰다. 이재명 대통령은 AI 데이터센터 건설현장을 직접 방문하며 인허가 일괄처리와 평가 특례 마련을 추진하고 있고, 트럼프 대통령은 자국 외 데이터센터 건립 시 대규모 세금을 부과하겠다고 경고하며 각국의 주도권 경쟁이 가열되고 있다.\n\n연예·스포츠에선 성폭행 유죄 판결을 받은 배우 강지환이 7년 만에 틱톡 복귀를 시도했으나 계정이 하루 만에 영구 정지되며 비판 여론이 거세게 일었고, 장나라는 '편스토랑'에서 6살 연하 남편을 처음 공개했다. MLS 선수 연봉 순위 공개로 손흥민(약 149억 원)이 리그 전체 4위이며 메시(약 379억 원)와 2.5배 격차라는 사실이 화제가 된 가운데, 독일 레전드 토마스 뮐러가 MLS를 직접 경험한 뒤 '90분 집중력을 유지하지 못한다'고 비판해 손흥민의 차기 행선지 논쟁에 다시 불을 지폈다.",
-    "period": "저녁",
-    "generated_at": "2026-11-21 17:27"
+    "text": "수능 6수생이 부정행위 피해를 호소하다 극단적 선택을 했다는 소식이 전해지며, 사회 전반에 큰 충격을 안겼다.\n\n경부선에서 화물열차 5량이 탈선해 천안~대전 구간 일반열차 운행이 중단됐고, 대학 논술 시험을 앞둔 수험생들의 이동 차질 우려가 잇따랐다. 이재명 대표는 수능 부정행위 신고 포상금을 건당 최소 1억 원으로 책정하겠다고 밝히며 사안이 정치권으로도 번졌다.\n\n해외에서는 트럼프 대통령이 미·중·러 정상회담에서 한반도 위험 대응을 논의했다고 밝혔고, 미국 증시 폭락 여파로 국내 개인 투자자들의 손실 우려가 극에 달하면서 금융시장 불안도 가중됐다. 일론 머스크의 우주 데이터센터 프로젝트에 채권단이 GPU 반입 제한을 요구하며 제동을 걸었다.\n\n스포츠에서는 은퇴를 예고한 최민정이 쇼트트랙 월드투어 여자 1000m에서 3연속 금메달을 차지했고, 신동민도 남자 1500m에서 첫 금메달을 따내며 한국 쇼트트랙이 남녀 모두 존재감을 드러냈다. 수원 삼성은 우승을 확정하며 1부 리그 복귀를 알렸고, 빅뱅은 데뷔 20주년을 맞아 신곡 '기립'을 깜짝 발표하며 팬들의 뜨거운 반응을 이끌었다.",
+    "period": "아침",
+    "generated_at": "2026-11-22 05:16"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "트럼프, 미·중·러 정상회담서 한반도 논의 시사 · 수능 부정행위 포상금 건당 1억 추진 · 조희대 탄핵 놓고 여야 충돌 · 경부선 탈선으로 수험생 논술·면접 차질",
+      "summary": "수능 부정행위 논란 속 6수생 사망·이재명 포상금 1억 공약 / 화물열차 탈선으로 수험생 불편 / 트럼프, 이란 핵 합의·한반도 문제 논의",
       "keywords": [
         {
           "rank": 1,
+          "word": "행위",
+          "count": 2,
+          "articles": [
+            {
+              "title": "수능 6수 끝 세상 떠난 의대 지망생…“부정행위가 꿈 짓밟아”",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EazcxdndCQm54dVRXMHg0alI3VHRRcTFTdlBuNFNBQThJdWI5T09aU0o5NDQ1QnJselFZc2NheEtRNkVlV2xNYUFjaFRfdWotZjR2Wk9B?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "李 \"수능 부정행위 신고 포상금 건당 최소 1억\"",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTZWOVlXOEx1aW5kRFdCRWRXZW1qOGFVb3p4dlZnX2hQYV9oalUtTEFMYldsd0xSSjJoS1gzdVhaQ0VVb3JhWnVtN3V3UVFPdTJidHBLYkR3ZFI4THk5UVdXUXFSRUFEanRsbHFrTEFQM2MyYzZlblhEOG5aaTNYal8tV25JVFRmRWNOMEVxd3I?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "\"'수능 6번 도전' 친구가 세상 떠났다…그는 부정행위 피해자\" 글 '먹먹'",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04UTBnckpqSjctNDVBM3U1MmhvTGxJaXRKWDRLeDlrVVcyN0dqSjVEOGJHYVRnaFE3VjlYVk8xYTVVRWN6a0VHTG5neU5hTUZNZ0JKaE01WEUxYXQ1QXR1dDFn?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "수능을 여섯 번 도전한 의대 지망생이 스스로 세상을 떠났다는 소식이 전해지며, 그 배경에 수능 부정행위 피해가 있다는 주장이 확산되고 있다. 친구로 추정되는 이가 온라인에 올린 글이 큰 반향을 일으켰고, 이재명 대표는 수능 부정행위 신고 포상금을 건당 최소 1억 원으로 책정하겠다고 밝히며 사안이 정치권으로도 번졌다. 오랜 수험 생활 끝의 비극이 부정행위 문제와 맞닿아 있다는 점에서 사회적 충격이 크다. '행위'는 어제 3위에서 오늘 1위로 올랐다.",
+          "headline": "수능 부정행위, 6수생 극단 선택으로 공분"
+        },
+        {
+          "rank": 2,
+          "word": "열차",
+          "count": 2,
+          "articles": [
+            {
+              "title": "화물열차 탈선‥경부선 일반열차 운행 중단에 수험생 불편",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPa0lYM0JKZGZab0xzalJkamtyQ3RpU3R4QmUzZk43akVVSjNMcXVvTzdGSGs5M0lVeHVQSWhIYzVJeUpKalZLNVBOdm1Yd2tRak9CbVM5c25xTDh0Nkc1bzNzVHVhcE9kai1XMDhiaGs5ck9WcDhEUNIBeEFVX3lxTE9vMzlZbHpRMnc5amJIdmdjSVpnSGNmbkN4bFA2VXp6UWg4OXZEZkFZN0hITWdDc2tMOVg0Qk5xeFhiOEl2UGppVEJ1NG9SZ0ZWanNmVU5BZ05vVFZYMW1fRzJEQXFGXzFVU0RIOERkT2Y3VDI2dzlkLQ?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "화물열차 궤도 이탈에 천안~대전 일반열차 운행 중지... \"논술 보는 수험생들 불편 예상\"",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTFsNGdiRlpWbWtyVTBtWDd1T01QUDhqQzVETm9zSUc3bUhXOXVwdU9HZ3VJbElsck1oeVc3eGYxZGZGVWRSTTJuTWZLVmhKX0Y5VTg3YWlSM0NjNWRPdmVDUktQaTM1MF8wZVFLSUMxRjg1RVgzUkVPd190ZmlFdE1LekFmQjdVcEdWM2I3MGk?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "경부선 화물열차 5량 탈선에 일반열차 운행 중지…\"수험생 유의해야\"(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13cjh3by1XNkN6UDVSM3NNTjByQWhZMXpNTzZxLTZBdmdubEpURjI1eVp6ZEJHbXVRQkpTMV8zS0JNbWlrdVJzQ09pZERsQnZRXzZ4bHBGMk5JVk3SAWBBVV95cUxQRDNjWFJFbVMzRXdhY21SUFBsaC1KZWt5blRZaGRSSnoyalNoVWtQRDVhV0JndkVQNlV4QVNMdUJVWFplM0JmVm8xQU9OdVhaRjBIdFFScWZuR0k1bm1zR00?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "경부선에서 화물열차 5량이 궤도를 이탈하면서 천안~대전 구간 일반열차 운행이 중단됐다. 대학 논술 시험을 앞둔 수험생들이 이동에 차질을 빚을 수 있다는 우려가 나왔고, 당국은 수험생 유의를 당부했다. 오늘 처음 등장한 키워드다.",
+          "headline": "경부선 화물열차 탈선, 수험생 발 묶여"
+        },
+        {
+          "rank": 3,
           "word": "트럼프",
-          "count": 4,
+          "count": 2,
           "articles": [
             {
               "title": "트럼프 \"미·중·러 정상회담서 한반도 위험 대응 논의\"",
@@ -21,283 +69,283 @@
               "source": "조선일보"
             },
             {
-              "title": "\"트럼프, 우크라 종전협상 내년 1월 초까지 타결 원해\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ieUVSb0Foand3YldwbVMtOHlDSDgyejNlYTV3cHZDMl9pekJQVGdyYjc5QVQtVzZtaExPREZtMDVLcmRxTEpDdk5TcUZoN0cwcWRiSEo1ZDlVOFnSAWBBVV95cUxOM1N6MU9WVmNSTGVZcWpUS2dSNmExUDNzSi1sSG9xaHZuOTlCREZrN0tfQm1aeWFCQXZmZWFwSlloS3BpWE5XdkZCOE5ueWNtTlpUN0owT2pLUkNaZW8yaG0?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "트럼프, 우크라 종전 서두른다…\"1월 초 목표\"",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85ZnFaSklOelg1TEVJTjZzSExuTnBCdHZ4UHM4VnVDNkMwazJqUkFyZlpsR1F4Wlhpa2FNQ2RWSzhnWEctRnliME1xeWhwWVoxMTVfZUJ4azZQOXozZnktN3FDakphdG1jUWxveGM2UTVIOGc?oc=5",
-              "source": "마켓인"
-            }
-          ],
-          "description": "트럼프 전 대통령이 미·중·러 정상회담에서 한반도 위험 대응을 논의하겠다고 밝혔다. 동시에 우크라이나 종전 협상을 내년 1월 초까지 타결하겠다는 의지도 드러내, 취임 전부터 굵직한 외교 현안에 적극 개입하는 행보를 보이고 있다. 한반도 정세와 우크라이나 전쟁 모두 트럼프의 귀환을 앞두고 새 국면을 맞을 가능성이 커졌다.",
-          "headline": "트럼프, 한반도·우크라 현안 직접 언급"
-        },
-        {
-          "rank": 2,
-          "word": "수능",
-          "count": 2,
-          "articles": [
-            {
-              "title": "이 대통령 “수능 부정행위 포상금 1건당 1억원…부정행위자 수만큼 가산”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN01xV2RkRTVYeHB6OWFEUjFuOGtiZ1J5bl9JdDJfVDR6Y1RQZ2JmcTU5MTI0NU9XY0JUTUJ3bVRSZF85ZjRzUVhtbGVWRGlpYVBuTF9wYlZCc2p1VExpMWZrV3NUbXpOc091cUdFMHVPdjNk?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "이지영, 9분 만에 수능 풀고 “큰일 났네”…예상 등급컷 공개",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81RXZ0dTNObVFlX2tfMHpXb1oxbjN1OTNMbGRnaGdUV2VfLVlWV0pNQS05Zzk5TVg0Znc3OVRwcGpnZXRYcHRLczg2VG1lSU9zVTg4aVQ2LUF3emM?oc=5",
-              "source": "경기일보"
-            },
-            {
-              "title": "수험생연대 “수능 부정 방지책 실효성 없고 불안 키워···최교진 장관 사퇴”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14aFBNRnRhNWNfYWh2am9YcEhHWmJ0MWJ1eTVIc294b0pFMXloZllQb3FGRlA5eV8wMUMwZFFnNV9ZZ2NYTEc2Yk5BbEdXa2hVNVZ0Y2sxV0d2QdIBX0FVX3lxTE1yUnhJVXl1QVpKcjRjOWg2Sm4tUXNxaHpGeFQ3R1dSWTAzNVdlaEFMeDdsYVB2eWoxZnpFT0dfck9nZWdERF9tX3NvSjFRS3lQY2JuVEpHbEs1UjNSYjk4?oc=5",
-              "source": "경향신문"
-            }
-          ],
-          "description": "이재명 대통령이 수능 부정행위 신고 포상금을 건당 최소 1억 원으로 책정하고 적발 건수만큼 가산하겠다고 밝혔다. 수험생연대는 이 같은 대책이 실효성이 없고 오히려 수험생 불안만 키운다며 최교진 교육부 장관 사퇴를 요구했다. 한편 현직 강사 이지영은 수능 문제를 9분 만에 풀어보며 예상 등급컷을 공개해 수험생들의 이목을 끌었다.",
-          "headline": "수능 부정행위 포상금 건당 1억 원 추진"
-        },
-        {
-          "rank": 3,
-          "word": "행위",
-          "count": 2,
-          "articles": [
-            {
-              "title": "\"의대 가려고 수능 6번 봤는데\"…친구 보낸 대학생, 부정행위에 '분통' - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQc1hEUzdIZGJZOEtIY3FoM1BmWTJCbXNUNDNBdTNwOGFuTnZhMlJiWUI5Y0V4T05EejJkQVE2V1lTbFR1eHZqRGpGanhOTFYxb1FJemhTUGJka2Y0Ri1EbjR0Znpkc3g2RUdR0gFwQVVfeXFMTU1TOHVfdmVxa2FrNUlJb0pMYVZtbzdDamNCSGhxb3RtTHFIRUdHZG5vMTF5Z0VCcVVHUzRZZzZNZU15UGhZNDBHZlNIUFV0cWJLMW1Ta2FtckpHOFB5WVFxNTBJNlQwTzRuaUo3SkhqdQ?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "이 대통령 “수능 부정행위 신고 포상금, 건당 최소 1억…수만큼 가산”",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rOVJpWVp2NTBDbUdxYmxjSXhJamQ0Vm5DVFFFcTc2OExLN1ozZnlaaE42WGJfLTVNMkxkdDQ3OUZwUzVtM19sRmpWOUhTU3VDVUs5UllUZ1BUVmJQMC1sMzQ0dTM4dw?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\"",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYdjNUaDNhT2dhYWpQYlFkNHhGMmIzMlFyem1mdXluMU1VY25ZN0ZzMWw4UGJWWGFJTjBVX1dDaUY4eUlaSUhPNkYxS3E2bWpaMXJXTkVhVUVBVjJsc25rT19JZmhEUXdXMWloMA?oc=5",
-              "source": "대한민국 정책브리핑"
-            }
-          ],
-          "description": "이재명 대통령이 수능 부정행위를 철저히 추적하겠다며 신고 포상금을 건당 최소 1억 원으로 책정하고, 국가시험 전반을 A부터 Z까지 개편하겠다고 선언했다. 의대 진학을 목표로 수능을 여러 차례 응시한 수험생들 사이에서 부정행위에 대한 분노가 커지는 가운데 나온 발표다. 오늘 처음 오늘의 이슈 순위에 진입했다.",
-          "headline": "수능 부정행위 대책 강경 발표"
-        },
-        {
-          "rank": 4,
-          "word": "탄핵",
-          "count": 2,
-          "articles": [
-            {
-              "title": "민주당 “조희대, 헌법·법률 위반” 국힘 “탄핵은 삼권분립 부정”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yR2d1ZWtwR1NUUmc3dktGSDhFTGQzVlBLSURJaXpackg2cFFHeVluWXZTN0pCUi1PMUdnNW5yaUxod0M3M0cydjJuU3I1cldwYktjMFpKbTJaYkU?oc=5",
-              "source": "KBS 뉴스"
-            },
-            {
-              "title": "국힘 “’조희대 탄핵’ 당론 채택한 與, 탄핵밖에 모르는 ’탄핵냥이 집단’“",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFa1I1Q3BBYlR0QUZzM3o2S0lBSE5zckpqVUtXdXN2S0tocjFSeHlpSTNfSlBNMWVESEN4UFJzdDlpam9xcm5KTlJSOE9kclM1VzEyYnVEZmVQLTNfOC1JVXZHcmNqakk?oc=5",
+              "title": "EU, 빅테크 디지털세 공식 제안…트럼프와 충돌 불가피",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFOFZUb1NSMU9OSUVUc09fd1pJeVh6Y09zZDYydW5Zcjd2Uk1zdWs5Sk5TaWsyS1VYRU1hQ2hHUzN5WndhMGg1TTFGbnVSZlhfbTBTUGhmWkx2QVJ3YzhzeVItN3pOYWc?oc=5",
               "source": "연합뉴스TV"
             },
             {
-              "title": "김은혜 “대법원장보다 대통령 탄핵이 빠를 것”…국힘 의원들 반발",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WR1dlRGhYUm81QTdILS1TQU1KUGZ4QmVDT3k5MVp6dFBDZDBVRDRmWEFVQXd3UktybkFCTEFGWDdpUlNBUTd2RjVPM2lwano0NGc?oc=5",
-              "source": "경인일보"
+              "title": "EU, 빅테크 디지털세 공식 제안…트럼프와 충돌 예고(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MTI3bkwzQ0JNWDBTRFBULXNkWmhEUzIwWUVySi1uSUNNODZHRjBxb2tSaEVoSldSeVNCdWZEckR5WEZtcnNqTzdfaEN5eS1DR3dkaUhvTGlqOFXSAWBBVV95cUxNUzN4OWE0MkFfUU1Ca2dPUlRaMkwyY0lLZ3BxeVRKMnN5dDNqWU5PYmo0cnJhc29SbmhTc1FNWGJSYVNLMm5XdXljY1BvclM1MXNwY1pLbUdSUURrTm9XWkw?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "민주당이 조희대 대법원장이 헌법과 법률을 위반했다며 탄핵 당론을 채택했다. 국민의힘은 사법부 수장에 대한 탄핵은 삼권분립을 부정하는 행위라며 강하게 반발했고, 당 내부에서는 '탄핵냥이 집단'이라는 표현까지 나왔다. 국민의힘 김은혜 의원은 대법원장보다 대통령 탄핵이 먼저 이뤄질 것이라는 발언으로 의원들의 반발을 샀다. 오늘 처음 오늘의 이슈 순위에 진입했다.",
-          "headline": "민주당, 조희대 대법원장 탄핵 추진"
+          "description": "도널드 트럼프 미국 대통령이 미·중·러 정상회담에서 한반도 위험 대응 방안을 논의했다고 밝히며 주목을 받고 있다. 한편 EU가 빅테크를 겨냥한 디지털세를 공식 제안하면서 트럼프 행정부와의 충돌이 불가피하다는 전망도 나왔다. 한반도 외교와 미·EU 통상 갈등이 동시에 부각되며 트럼프 관련 뉴스가 다방면에서 쏟아지고 있다.",
+          "headline": "트럼프, 미·중·러 한반도 논의 언급"
         },
         {
-          "rank": 5,
-          "word": "수험",
+          "rank": 4,
+          "word": "이란",
           "count": 2,
           "articles": [
             {
-              "title": "논술·면접 시험 봐야하는데…수험생 경부선 탈선에 어쩌나 ‘발동동’",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FbXlZNFdCZURhOGlYd3pfWlBHWm94TDdEWkhzU0YzYzlFNjl4c0trcXU4MnVCdDlnWm1OYTgwNzltck5YQjdoVDZSMFpNRjFrdC1EN3BnSGwtZUx1VjRRRXdHUlhhSlQtaUtHSUdYSFNVQQ?oc=5",
-              "source": "한겨레"
+              "title": "트럼프 \"이란, 합의 원하지만 내가 수용할 합의는 원하지 않아\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYXJoZEZITDdFWkljQTZDYUVOZ1dkUk1icy1WcnhfOGFoWWxmRVY2YTZjZkFkXzdobEVrdURyWjA4RUNyanZ5MWlRY0FGRUxFMExrUHBSSHVfT2PSAWBBVV95cUxOcWJkYmxRc3p6Vmx5NG1pdkU1Z3dlQXo1RVdyLTJtOEFraWZHYXFOQVItYURXR0dBWTl5clJhZDJ3Nms2a0QwZFd2aGRXa0I1ajN0aGZaeGFmZS1Zb3lvMjY?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "수능 후 첫 주말 경부선 화물열차 탈선… 논술·면접 수험생 발 묶여",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PM19BamFSVl9NYnlHRks4TUs2eWxKV3pqQ0g3ZE1lYnFPVWotdmdaLWJqLTNCNnc4NENRYWVwRWpDaWk5Qzh3TFdrUDRCLVBaWVdDNVpMbUpDeG5yOGRfSUhxckJIWWZNSVE?oc=5",
-              "source": "천지일보"
-            },
-            {
-              "title": "경부선 탈선 사고로 일반열차 운행 중단...\"수험생 수송 차질\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90dHVKc0JhNGZpYXZDaXd5cDlJLWQxSDNXbnc3SWg5eU5xaHVqTC1GT2NVOWRxWG1EVXJqSkwtVFpMcWRDcGJGQWlXSGZabjc4emVyM2N5WUZqNm16WlE?oc=5",
+              "title": "트럼프 \"이란, 합의 원하지만 내 방식 원하지 않아\"",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQUJzeDUxOTlLeXlsRmplV3NVTG1SQjF4Z3RLT3h5QmxKR0lkSTA4TFhIVUwwSVdlaHdqaTVadXN3NC04bzZaamJKemNfRlkyRVphMTdvUnM2NUN4MXVvemdNYzFsVEpkeGNMeHFucw?oc=5",
               "source": "YTN"
+            },
+            {
+              "title": "트럼프 \"이란 핵 보유 막을 수 있는 영구적인 합의 할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBITlNoNXNRSFJmaFFTUVUzdjVwT3ctU18zdTJfc2hfMXByTkhWdjFYZmNheTNQb0xWLVMyOFk4c0I5MjVTMFpOaHAzZkpjVkdDSm5JQjBTbktJVXBWQ2NnQmRjNnpFVXBoS1E?oc=5",
+              "source": "SBS 뉴스"
             }
           ],
-          "description": "수능 직후 첫 주말, 경부선 화물열차 탈선 사고로 일반 열차 운행이 전면 중단됐다. 논술·면접 시험을 앞둔 수험생들이 이동에 차질을 빚으며 발을 동동 구르는 상황이 벌어졌다. 입시 일정상 가장 민감한 시기에 발생한 교통 마비인 만큼 수험생과 학부모들의 불안이 커지고 있다. 오늘 처음 오늘의 이슈 순위에 진입했다.",
-          "headline": "경부선 탈선으로 수험생 발 묶여"
+          "description": "트럼프 대통령이 이란이 합의를 원하지만 자신이 수용할 수 있는 방식은 원하지 않는다고 밝히며 협상 기류에 긴장감이 고조되고 있다. 트럼프는 이란의 핵 보유를 막을 수 있는 '영구적인 합의'를 이뤄내겠다는 의지도 함께 천명했다. 이란 핵 협상이 미국의 조건을 둘러싼 줄다리기 국면에 접어들면서 중동 정세의 향방에 국제적 관심이 쏠리고 있다.",
+          "headline": "트럼프, 이란 핵 합의 조건 압박"
+        },
+        {
+          "rank": 5,
+          "word": "합의",
+          "count": 2,
+          "articles": [
+            {
+              "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nOWdFa2lIano1RzZyR3JSRHFPOEZra1pCZHRBLW1oZ1h4WTVMZDgyWDRnWG5hM2I0bHRoYUgxdmQyTEc1akVRVjJUaWwzNmF4amtOVTgzdTdDc0otaHZXMUppWm1rWG8?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "트럼프 대통령, “이란이 합의 원하지만 수용 가능한 조건 아냐”",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VRFFhVU9EdlNjdG5GbXg1dzdJYVM3OEROamdLLVp1MkRmZ2M4dFh2amt5MHcxYnJaT2pQZnYxV2pCcDhtdmVTRmRIb2Q4NzZlV01IbHluZjlkMGdz0gFfQVVfeXFMTjRyNGxhRmwtZWlVRDVzVTdTd19BQ1l0XzRvZzE4YW1va1NScEloZkVaRVBXYU92R0kyVFR4bFF1TDFwOFVnMEEwd1QxNHR1VDZnT2pVZlNodFlPbXg2RkU?oc=5",
+              "source": "VOA 한국어 홈페이지"
+            },
+            {
+              "title": "트럼프 \"이란 핵보유 막을 수 있는 영구적인 합의 할 것\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZVNSam82YUF5enBkOE5aRHVMdU9KWVowU3hEV2JfMDJud1QyWFl3d3o0M2t4bWtZR2ZoaHBzdnp4blBaRjloN19EMmdJTG5zVVJPSGpXVDVnZjDSAWBBVV95cUxQZkR6RW1NV04yczBCeEhzNVdCVEdJa042VXJKZDY1dzBrbVhWbklYRFpsM1NaQW1sNWVQUHlWR3k3cnJRYUJHd3E0enNNWDhDbG9pUUJMQ0VHTExpdU42X0o?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "트럼프 대통령이 이란의 핵 보유를 막을 영구적인 합의를 추진하겠다고 공언하면서, 미·이란 핵 협상이 쟁점으로 떠올랐다. 트럼프는 이란이 합의를 원하고 있음을 인정하면서도 현재 이란의 조건은 받아들일 수 없다고 선을 그었다. 협상 여지와 압박이 동시에 표출된 발언으로, 향후 협상 전개가 주목된다. 오늘 처음 등장한 키워드다.",
+          "headline": "트럼프, 이란 핵 합의 조건 압박"
         }
       ]
     },
     "경제": {
-      "summary": "엔비디아 시총 급감·나스닥 5.3% 폭락 등 AI·기술주 매도세 / 한국 대중 무역흑자 회복했으나 반도체 제외 시 적자 확대",
+      "summary": "미 증시 AI 대장주 추락에 개미 투자자 패닉·머스크 우주 데이터센터 채권단 제동·10월 생산자물가 0.1% 하락",
       "keywords": [
         {
           "rank": 1,
-          "word": "엔비디아",
-          "count": 5,
-          "articles": [
-            {
-              "title": "젠슨 황 떠난 엔비디아, AI주 매도세 겹치며 아마존 시총만큼 증발",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUlyelBkN0tucVotWUQtNlN1Yml3Z0ZybGZ1SzQ3NUtYdDhwRGNoeWlIYjZDSkh2MU9DVGhXRnREY1VUbHp1T2lsTE9JSHJMNFFxN2FXWW1reFEwQTYwcm16MEFXOFZFZWxudklxbEhZc2ZJZ0VuWGVpZ2wxNmxlMnFoZlppWTdfZWZEV1hR?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
-              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaWlZNNFprYkh5STBkNkNfcDNzV1RuMGNfNmhDWVZnZFFGX21EWnJPeDdEMGJCUzQwWElPZzlROHlHa1FtY0pzc3pZWXpObkpnU3c?oc=5",
-              "source": "매일경제"
-            },
-            {
-              "title": "이재용의 원픽…\"될 사람이 됐다\" 엔비디아 뚫은 30년 삼성맨 [강경주의 테크X]",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUFdleVN3by1tamhUajFQczRqMHA2djFDNHJfMmhLMzNBNXNpQl9kYWgyYXdGVUtJRDFoM19MUFQ5TUNveF9OQnJoVFRVLXctNFVBbWpjcU1OUQ?oc=5",
-              "source": "한국경제"
-            }
-          ],
-          "description": "젠슨 황이 엔비디아를 떠난 이후 AI주 매도세가 겹치며 아마존 시총에 맞먹는 규모의 시가총액이 증발했다. 이런 급락에도 국내 서학개미들은 '엔비디아' 주식을 오히려 쓸어 담으며 저가 매수에 나서고 있어 눈길을 끈다. 한편 삼성전자의 30년 경력 임원이 엔비디아 공급망에 진입했다는 소식도 화제를 모으고 있다. 엔비디아는 3일 연속 1위를 기록 중이다.",
-          "headline": "젠슨 황 퇴출 후 엔비디아 시총 급감"
-        },
-        {
-          "rank": 2,
           "word": "데이터센터",
           "count": 3,
           "articles": [
             {
-              "title": "이재명 대통령, AI 데이터센터 건설현장 방문",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZUWVUVkQ4akxzRmlkMDRubE5HclBFMmZoOURaN0VkZDc4U3Q2ZDVCNTg5cXZBQ1V3X3QzdXd4ZmhpajRDMmdRRkMtelhEQQ?oc=5",
-              "source": "전자신문"
+              "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53MFIxMUxoZDVZRUNTSE0xNk11N2M5TkN2Q2QydXBHeW9zNG9obUV0TTdZdXF5TEFsWW9wTGRwdmhncGh6RFlLRmFsekY0SmNLaEx5OHBxTm81akh0WVEyb19RTk5PV19vU0E?oc=5",
+              "source": "AI타임스"
             },
             {
-              "title": "트럼프 ““다른 나라에 데이터센터 지으면 엄청난 세금 부과”",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zbVRESFMwV2RScjJnYmZoM3FIR1hKYlE1eFE5U1I0d1o0UlpqQmlXcm5TSFUzXzVKcTdSdHFQbFNHQWpSM1JFWVBOMnBSYnhVN0t4VHZRdG5sUdIBX0FVX3lxTE9EZDZiV1A1VmhpdEIySEU0anhjaDkzNFdfaE9aZXJaUkxkakNXalJnc2N3dlVEY3g1YXo1V0ZDeFZTei1wWFFLNWZ5NHpBbmpnSklLOG5PRUx1VXdXRlBN?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JallUQmlaUGd4bXVKRS1mMVVmaTlQcWxGMmsxeG8wWHhoQUxENkViUFJxZXhzcnRyOHBUcWFrM2o5bUpvSmJBclJDdW1Fb2RveGlnNVdkYmhtMVk0WHlKbUVKVXd4SHlGN1phUQ?oc=5",
-              "source": "대한민국 정책브리핑"
-            }
-          ],
-          "description": "이재명 대통령이 AI 데이터센터 건설현장을 직접 방문하면서 국내 AI 인프라 투자에 대한 관심이 높아지고 있다. 정부는 AI 데이터센터 구축 속도를 높이기 위해 인허가 일괄처리와 평가 특례 마련에 나섰다. 해외에서도 트럼프 미국 대통령이 자국 외 데이터센터 건립 시 대규모 세금을 부과하겠다고 경고하며 데이터센터를 둘러싼 각국의 주도권 경쟁이 가열되고 있다.",
-          "headline": "이재명 대통령, AI 데이터센터 현장 방문"
-        },
-        {
-          "rank": 3,
-          "word": "젠슨 황",
-          "count": 3,
-          "articles": [
-            {
-              "title": "한국의 깐부들은 어쩌나",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnU2prZ1lFNjV5VVg4TktUM1lPaEc0RTU0bEd4b3AydUpYc1hnMkhoWFFlcmRjVHJDcmJiMkpZbmtzMlVpU3ZtOUdyZnlmbEEydWUzaHk1MC1oUTNUd0V6TGZCYTYxM1VqcnlzbExsaUY?oc=5",
-              "source": "연합인포맥스"
-            },
-            {
-              "title": "젠슨 황 퇴출 뒤엔 반복된 거짓말…“네 뇌에 오줌 누겠다” 폭언도",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFBWWDFheXB5VnpDUDA5NEJlWUpXbHhmVXI1NkxNMWM2WVF1TVFhaTFvVG9zRUpOWGgyUkkwMUNNRDIySjhrbGgzZXVud3JPdEVDcUNPaVpRam53Tk5lOUt4cF82aGRnTy04Uk9JX3hnU2JLTlE3LXlwbU51b3g5ZW9n?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "트럼프, 젠슨 황 복귀 촉구…“두 번째 기회 주어져야”",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83WEl1bXNldWxrckpQeFNWa3JTekRPbjJJU1h6THFheUU0QUJ6dWJzbjZ0ZHA2ZDdqNGIzbWdDWEk3bkp0R3Vxb1dxd09hYVNPZUVlcnFmUEplVXM?oc=5",
-              "source": "KBS 뉴스"
-            }
-          ],
-          "description": "젠슨 황이 엔비디아에서 퇴출된 배경에 반복된 거짓말과 폭언이 있었다는 사실이 알려지며 파장이 커지고 있다. 트럼프 대통령은 젠슨 황에게 '두 번째 기회가 주어져야 한다'며 공개적으로 복귀를 촉구했다. 그간 젠슨 황과 긴밀한 관계를 맺어온 국내 파트너들의 행보에도 관심이 쏠리고 있다.",
-          "headline": "젠슨 황, 엔비디아서 퇴출…트럼프 복귀 촉구"
-        },
-        {
-          "rank": 4,
-          "word": "반도체",
-          "count": 3,
-          "articles": [
-            {
-              "title": "4년 만에 대중국 무역수지 흑자의 역설...반도체 빼면 적자폭 확대",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRXNMT0NqUzNkbFllb0dqTDZnRGttM180cXlpXzY2YTkyTG9sRGZRQmpIOXlZVnpmSXE3SFJEajdvNmZGcGRNOVpVVzRuZk9BTGdjQ3ZVRS14OHhWLTRaQzVXQklIRXdDNTVFdTc4MnZiZw?oc=5",
-              "source": "한겨레"
-            },
-            {
-              "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4eU53eDhweVhVOTFoYkZtOGtxcXhiM3RlRWFFTXhhdnJjZWtjOVV0cTg3UTJlXzBOdkg5ZXRibTRlb1JNQTJ4UEUyYkk0em40S2NnZFVNYTRQbzTSAWBBVV95cUxOUTRTdHpsaHQtcy0yQUpKQzllVFZDNm0zX1Y3TllCVElDd2lTT2ljbFl0MGw2MGp2ZlF2SGVlYkFsaVJoV00wdkFtakM5NDlVR2twUUUzZ3lIRnp1VzFnUHU?oc=5",
+              "title": "\"담보 회수 어쩌라고\"…머스크 우주 데이터센터에 채권단 제동",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ObDBPTmdVYU1YWC1ZR2wxMUxsaW5qeVdscU9mbDAtUUNyN2luZVpyQW43LThUeUJNeHhmTTZMcFBPbkFMekE5djBtUjdoYXRhLS1SY1FvWGJZUVnSAWBBVV95cUxOVE1uTzN0NWtHZlgzenVJQ2NQVUlaNkgwcW5UOF92Q3g4QVUxaGs2a3ViVTVJdHFVTzU4WUdHUEZrd3VibWVCRVVPUWgtWWMxQU1WdVNUTDMwdVUtdmpLWnk?oc=5",
               "source": "연합뉴스"
             },
             {
-              "title": "대중 무역흑자 433억달러…반도체 빼면 415억달러 적자",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTjdTSGhPbzN5YUdHQVFiS3Jua1hncnU3cmQtVVR2OW5WdmI5RUttUkdoUEdtZkhRT1ZZSjA1VzhlWlNZbTNaa3JyNHdsVUI1dUZhV3E2QUh2QQ?oc=5",
-              "source": "브릿지경제"
-            }
-          ],
-          "description": "4년 만에 대중국 무역수지가 433억달러 흑자로 돌아섰지만, 반도체를 제외하면 오히려 415억달러 적자로 나타나 반도체 편중 구조의 취약성이 드러났다. 반도체가 대중 교역 흑자를 사실상 혼자 떠받치는 구조인 셈으로, 반도체 경기 변동에 따른 무역수지 리스크가 크다는 지적이 나온다.",
-          "headline": "대중 무역흑자, 반도체 빼면 415억달러 적자"
-        },
-        {
-          "rank": 5,
-          "word": "매도",
-          "count": 2,
-          "articles": [
-            {
-              "title": "하이퍼리퀴드서 래핑 모네로 99.8% 폭락…1350만달러 규모 대량 매도",
-              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93N1ZRRjNONmdJRVotTDBQdFJfRE1NZGJqWUhzZG1kWGFfQTRFZTN2Yy1uM09OMTJpRzJ6RXZNUG9hMmE4VHhoajMtZ1o3cnR4?oc=5",
-              "source": "블루밍비트"
-            },
-            {
-              "title": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55NzlORU9XMU9uYjRHM1BOckJLQUFBcFhUaG1CYzZucG1HSmM2M3U5NFhib3UzRVlYOGhrUDFXeFFEUlE1U0JOQ2dqNGFpMklrNm5hdWd3NThNRUXSAWBBVV95cUxNd2lwaXpNaTRHSmRuVnNudzRuRUMzakxmbXhhWkhYU1c0SWlHWkNtQkR4Qi16TUZJOTE3YUdaUVFxcjZKOUNGSVRWeTMwbVhYRnl1ckFnM1NKaVRGZnFIUmk?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "상장 이틀 만에 무너진 앤트로픽...뉴욕증시 AI '패닉 매도'",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1NWc1SzlSWlNnZ3Y2S3ZQT0xZbmp4anEyeXQtTDVreF9kMjZGZTEtMHNoVEJhOWZ4bDRDQk9WZU5fc3NLUWxweEZ5QklKZldFUEZjWDVqS2VQN2FlX3c?oc=5",
+              "title": "\"AI 칩 우주 발사 반대\"...채권단, 머스크 우주 데이터센터 제동",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkWDZQVS1rQWR4WENhcTRVN2RmOFZEbHRTZ09TMFJydE9IZTB4cklLTFhGcFBhbFVKTEdRekRCaWpEZTRlcjRPbWRsYlRfa1BzX2VNODgzMzJ6SFprbFE?oc=5",
               "source": "YTN"
             }
           ],
-          "description": "뉴욕증시에서 기술주를 중심으로 AI 패닉 매도가 쏟아지며 나스닥이 5.3% 폭락했고, 다우와 S&P500도 조정 국면에 진입했다. 앤트로픽은 상장 이틀 만에 급락하며 AI 투자 심리 악화를 상징적으로 보여줬다. 같은 날 가상자산 시장에서도 하이퍼리퀴드에서 래핑 모네로가 99.8% 폭락하고 1,350만달러 규모의 대량 매도가 발생했다. 오늘 처음 등장한 키워드다.",
-          "headline": "AI 패닉 매도에 나스닥 5.3% 폭락"
+          "description": "일론 머스크가 추진 중인 우주 데이터센터 프로젝트에 채권단이 제동을 걸었다. GPU 등 AI 칩의 우주 발사에 반대하며 담보 회수 문제를 이유로 반입 제한을 요구하고 나선 것이다. 우주에 데이터센터를 띄운다는 구상이 처음으로 금융 장벽에 부딪히며 실현 가능성에 의문이 커지고 있다.",
+          "headline": "머스크 우주 데이터센터, 채권단이 제동"
+        },
+        {
+          "rank": 2,
+          "word": "물가",
+          "count": 3,
+          "articles": [
+            {
+              "title": "10월 생산자물가 0.1% 하락…농축산물 내려",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IYkR2bmZpdEQ2clEycGZ4enh0MkdoOWdnRDU2LTRUMUhzT1VFSkplVVlKMlNXZ1plU0ppVHR4MUJROUNzdFZubXJsLTFKRW5QS2pFdUkwTlRHcEnSAWBBVV95cUxPalRQbnkyX3NzYlFPWjNqMzU2THdDRmVPTDB2Qk9RT04xaWZNVlIxNTM1UmJHZ1pjZTJWejE0VE5DU0J6MzRSTkdGNnlrbXhhWHZPd05FY3BwWVdyckR6alc?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "李, 울산 전통시장서 장바구니 물가 점검‥\"내년엔 좀 더 좋아질 것\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEUml0czd6NXNQX1VVcTZIR1FZMTdPdzEycDE0dUYxMFE4WW42ZGVwY0dqWllUZWJfVkhvOWhfMkF3RDVORFJXaXJjWHVCdkhUdzhjN0RNU3dqS2dKMUtwVGFtU19FUTdYVURJRzRBUjZyVktOeHk0MNIBeEFVX3lxTE40R2t0R3cwaHRDV1lxSEEtSWdEcml0cy04SnAwRGJYWmVhRU52Q1UyakxIR0ZGOENYQ1BsOVM4QnFRbnlUNnY0VzUzY1hrdlhoWEI4ZU8wakJrYU1SWlZXZ3NVOFNKei13b21JM1k0NmluamRyV1ktZQ?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "코스피 5,000선 회복할까...미국 물가·금통위 주목",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VT0FuSE5Xc1pWMnBlV2I0aTV1RThJRGNSUkFRZzNsb1BqZnp6MmkxUkZCTjlQNGV0bnNYVzFDMEJfenhDalk0X1g4T19rU2d1QVBuNi1QeWkySGN1UEE?oc=5",
+              "source": "YTN"
+            }
+          ],
+          "description": "10월 생산자물가가 농축산물 가격 하락에 힘입어 전월 대비 0.1% 내렸다. 이재명 대표는 울산 전통시장을 방문해 장바구니 물가를 직접 점검하며 '내년엔 좀 더 나아질 것'이라고 밝혔다. 한편 미국 물가 지표와 금통위 결정이 코스피 반등의 열쇠가 될지 주목된다. 오늘 처음 등장한 키워드다.",
+          "headline": "10월 생산자물가 0.1% 하락"
+        },
+        {
+          "rank": 3,
+          "word": "개미",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"월요일엔 또 무슨 악몽이\"…삼전닉스 개미들 멘탈도 '바닥' [분석+]",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjeTllT2x4eENVRGYydnRlRExnMGVGSndRemdxYU1VMzVQcEc0MVZrSE1GX09IUlh2M3VXYlFyZDJadFNrTlU3UnNKMnFHQzdGX3JEaDBTME5vUQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"이미 2.8억 손실, 월요일이 무섭다\"...미 증시 폭락에 개미들 패닉 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fTlhXYV8yY2JBWWt3by1VQ3QyTktXbUE0ODRIazdWRnRhLUNDb0dYaHlYUTNzaWc1TkJJYjF4Wm40LXJkamVCZk1ZUWdUeXFQMzNDMkRQdFBueWIxOExya1lVdkpLRlVQbTRF0gFwQVVfeXFMTW9EZDlTR0YtS2p5akxqeW9LMzlvdnc3cGpaZUlTS3Z2ZXFBdGlJYWJZSGtwbnd6YXZBWllwMlZ0d2tjeDltSE5FdDlGdUVPVEI5ZGV4aEJ0VFU1OEoxWXlTN3JPaGZyUC1sQnRNaXplSg?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "“韓 개미, 하반기만 563조 손실”",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xN0daMVVDVmpKTEYzSHdEdEZrSHN3S2RVMGpCRVJ0dTRuZTRiUHhZLThsVTl5TkVFTFNHdU9jWGR1eW50UDlyVWloRXV3cXQ3VHfSAVNBVV95cUxON0xZYmZWNjA5TmhpOV9CM213M1d4cUJCMTFHYjdiVVhNd25pX3plVGVleXlqQnd5M2tNVUp0emxvUU9ybzFZaWlEY1J4U0FaYXVsSQ?oc=5",
+              "source": "서울경제"
+            }
+          ],
+          "description": "미국 증시 폭락 여파로 삼성전자·SK하이닉스에 투자한 국내 개인 투자자들의 불안이 극에 달하고 있다. '이미 2억 8천만 원 손실, 월요일이 무섭다'는 말이 나올 정도로 투자 심리가 바닥을 치는 상황이다. 한국 개인 투자자들이 하반기에만 563조 원의 손실을 입었다는 분석도 나오며 충격을 더하고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "미 증시 폭락에 국내 개미 패닉"
+        },
+        {
+          "rank": 4,
+          "word": "패닉",
+          "count": 2,
+          "articles": [
+            {
+              "title": "골드만삭스 패닉지수 최고치 근접…다음주도 매도세 지속 경고",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByalZYMFhtc1hudTUwbTV5WVFjay04THBrVk5relRQV001YlpEMmlqeWticC1nWC1EYmU0WWZReGhmMmVuQlBiV25tSDRzeWRKS2FmZFhYVEJWb2PSAWBBVV95cUxNLWphYlNiQWxlV09xV0ZOSUtYRHZEc3RIMjZ0Z2RwWmNEMWd6czVjNFJpR1pWZk9UUXVSX3VGdlpjU29BcUo5WlpNQ0ViSEdfNGZQQlBFSWRPS3RuRzVzNjI?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "수익성 시험대 오른 AI...대장주 추락에 뉴욕증시 '패닉'",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MdEVmSUkzNGYwUnBPVHFIWUhzRjN6RWJfWV9wWm4wd1UybElRbVBPbVFkZC1xVWRWaFZNY2ZJay1sZmU2LWJtT3dLbG1NOFF5R0I5V0U3N3hieE9naWc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "빅뱅 20주년·패닉 31주년…오사카 마마에 9만명",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWSG81dVc4VDJHcS1Ca2pwQ2JXeTdCblZKdGpKMVdwVk8zNGYwbjdqX29TTXN4V2h1Tl9rMzBVcFI3NWV4eFZxNDBMblJkZ1dEZ1Q2b2dxQkwzZw?oc=5",
+              "source": "경북매일"
+            }
+          ],
+          "description": "골드만삭스의 패닉지수가 최고치에 근접하며 다음 주도 매도세가 이어질 수 있다는 경고가 나왔다. AI 대장주들의 주가 급락이 뉴욕 증시 전반의 패닉을 키우는 모양새다. 수익성 검증을 요구받는 AI 섹터의 불안이 증시 전체로 번지고 있다는 분석이 잇따르고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "골드만삭스 패닉지수 최고치 근접"
+        },
+        {
+          "rank": 5,
+          "word": "앤트로픽",
+          "count": 2,
+          "articles": [
+            {
+              "title": "앤트로픽, 상장 이틀째 8.5% 급락…공모가까지 위협",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XbVhBdVlPZmhOU1M5QkUwcWFReldiV2QyakRMZ3M4ZGxHcnc1djdkLWRyVjdFVy0zRVVMWVN1YnFOWnA5NDJKczQ4eE1XUQ?oc=5",
+              "source": "전자신문"
+            },
+            {
+              "title": "앤트로픽 연구원 “AI로 리만 가설 증명 발견”…‘167년 수학난제’ 풀었나",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0F0UTU3OEpBUVlNZ3IzU0twV0hWaGFYX1Jjekp4M3ZnT2JITGIxMDhvYl9WbGJLSXBiWkNBLW0weEg3OVFGbjJub0pRWmxCTF9zeWRUa09ueFJHWWJJem1RTlU0QWVRWTR5Z0lXemJWRTZxV2xCVFlBcTdTU0FGbkZ3?oc=5",
+              "source": "한겨레"
+            },
+            {
+              "title": "앤트로픽 수학자 “최대 난제 리만 가설 증명했다”",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tdndkSTd4eE5QZkU0Q0xxUFlmd1d5a3p3SGFSWGtXc3pmRHJpZTZ3cWx5aUFya3lRcTkyMnN2WERaVGFoX3NsYll3VGFsam1OSWFBYUNBSmdab2k2MUoxQjQwejJNT2l1aklWbmFTMl92RWPSAWZBVV95cUxPWE56V3pmc1lWajdMaU9FUUJFWXhMZlE0cHMtRDlnY0FvWkgxcHBSNHd5UzZxc1UtS2RGbXJxcVY4anRHR09CcnNVTkNiRHVLY2tMUVRvVTBkMXhtNFNZVjlpQzZrVEE?oc=5",
+              "source": "동아일보"
+            }
+          ],
+          "description": "AI 스타트업 앤트로픽이 상장 이틀째 8.5% 급락하며 공모가마저 위협받고 있다. 한편 앤트로픽 소속 연구원이 167년간 미해결 수학 난제인 리만 가설 증명을 발견했다고 주장해 학계의 이목을 끌고 있다. AI가 순수 수학의 최대 난제를 풀어낼 수 있는지를 둘러싼 논쟁이 주가 급락 소식과 맞물려 화제를 모으고 있다.",
+          "headline": "앤트로픽 상장 이틀째 8.5% 급락"
         }
       ]
     },
     "연예": {
-      "summary": "성폭행 유죄 강지환이 틱톡 복귀를 시도했으나 하루 만에 퇴출됐고, 장나라는 6살 연하 촬영감독 남편을 공개했다.",
+      "summary": "유재석 건물 완공·빅뱅 20주년 신곡 발표·장나라 연하 남편 공개·허각 24kg 감량 근황 화제.",
       "keywords": [
         {
           "rank": 1,
+          "word": "유재석",
+          "count": 3,
+          "articles": [
+            {
+              "title": "유재석, 논현동 198억 현금 매입 부지 신축 건물 완공…\"얼마나 더 오를까\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XRjRVTGhrVkNPUjd4QnR1Vnpmc0FFTHIxamU2aUNWU2s3WnBJand1Qm10MFpNTnZtUGRTcUU3WTBSSVgxNjJiY1VPeHREUlRtQUpEZ2FPVnlzNkc0YXdjbdIBeEFVX3lxTE5sVGpzcEtZTzZpd2k5c2dDdUhCVjh2cVVINHl6b0tYdlozVGgxcUpybHoza0g0dDZUMkRiWGZIS0NNMmYxdE45dGhNZTctdURuWE5YYVowRzZsazJkczNCSXZseTh4ZUMwZnBaMkhXMXpad0lJRzQxTQ?oc=5",
+              "source": "뉴시스"
+            },
+            {
+              "title": "이서진 “연예대상 안 가!”…유재석과 티격태격",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qcjVYSWZtazI1b0tjdEFfMHVZQlVJV3lkcFhvZjNkaTBuZHNoTzdGdnVuRkJ3SWUwandfTkhjZ1lWMUZRdHk4QS1EaUN3Zm1RUEI3RmhTZGw1cTZfd05HNjc1Z0s4T2x5R0ZsMlFraTVuRDZNYkU4QUIwZl9Ld9IBZkFVX3lxTE1zU3I3WTJydmdVOGI2Q0NaZnhTSUlaX2FDZFVHaXhLcWcwZU1iOXRzcFFIVzQ3bk5GQ0YwVFVEQjQzSG4zZENEX1d2UWN6SUNiMmNNOENKYUxfTzdCNTRPakg5OTFBQQ?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "남창희, '한강 아이유' 아내 임신에 너스레 \"진짜 '아이 유'\"…유재석 축하",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHUFZzY0lZNVNCbE5YSkVGcXBtVXpBUEgzaGFjWEdoMHlNLWd4b3h1am1GaUN1MDhxcktXNXl6bW9yYnRQR3RXU3BXdEhLa3FDOERKMl9IeTNoZEoxRjVHeGtWZHU?oc=5",
+              "source": "뉴스1"
+            }
+          ],
+          "description": "유재석이 논현동에 198억 원을 현금으로 매입한 부지에 신축 건물을 완공했다는 소식이 전해지며 화제다. 연예인 부동산 투자 중에서도 현금 매입·자체 신축이라는 이례적인 규모로 주목받고 있다. 한편 이서진과의 연예대상 불참 선언을 둘러싼 티격태격 모습, 동료 남창희 아내의 임신 소식을 축하하는 훈훈한 장면도 함께 눈길을 끈다. 오늘 처음 등장한 키워드다.",
+          "headline": "유재석, 198억 논현동 건물 완공"
+        },
+        {
+          "rank": 2,
+          "word": "빅뱅",
+          "count": 2,
+          "articles": [
+            {
+              "title": "20주년 빅뱅, 신곡 ‘기립’ 깜짝 발표…GD 작사·작곡",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VMkVfalIzSTlWaTV3cUVCRUY4SUJZQ2dzNk9MVE5neUN5R2tiLVcxZ2JyZTdONHFrLTNpVUt0elpjNzJXcXJPbEszaTVhNUlEbHVlNzFwblA0RUE?oc=5",
+              "source": "KBS 뉴스"
+            },
+            {
+              "title": "빅뱅부터 코르티스까지…과거와 미래 이은 '2026 마마 어워즈'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KaDYxYUFvN2E4SU0waWdTdENyekpXa2ZBenpkQ0NWM1V1ZjBUbUVpNzhPYlp2cHdPWHpnNUxqSldralFycG1qOUI5T3YwNXkycVVlanBpNmpUTjTSAWBBVV95cUxOc2JpOVcyZmNOMkdjMkFpSF9PMVBiYm9oQzJueG44TTNNdHFoZ1RwRVNTd1dCLWp3cFg5dDJRUEdVQnlOU2VOREVHUzRtb2dnM09BVk00WE9zeUVxYy1PQjY?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "에픽하이, YG 신사옥 보며…“빅뱅이 뭘 했냐, 우리가 다 했지”",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43RjhYU1JhRV8zZ1JEV1Bkc1lKZl95VkFfVVBzclhmN3pmZEptdVVVX1RoNVkxbGEyblNkbjFoZzk2VzdYdDk4bHh2ejY1ZU92WVU2dVM4eHoyRFhwWW9LWW84Tm5rTVFBbWl4RkJn?oc=5",
+              "source": "스포츠동아"
+            }
+          ],
+          "description": "빅뱅이 데뷔 20주년을 맞아 GD가 직접 작사·작곡한 신곡 '기립'을 깜짝 발표했다. 오랜 공백 끝에 나온 신보인 만큼 팬들의 반응이 뜨겁다. '2026 마마 어워즈'에서도 빅뱅을 비롯한 K팝 역사를 조망하는 무대가 예고되며 20주년 열기에 불을 지폈다.",
+          "headline": "빅뱅 20주년, 신곡 '기립' 깜짝 발표"
+        },
+        {
+          "rank": 3,
           "word": "리센느",
           "count": 2,
           "articles": [
             {
-              "title": "리센느 구주 싹쓸이…'거제 야호'에 빠진 DSC 신동원",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iVG5nWURfc01ha1B4WmJEeW52ODVPeVpYaTR0SHFvUG1DeXBaSlU2YlVybWVlVmxmRWREek13Z0ZNWlJuZkpkVmNUdV8zVjQ?oc=5",
-              "source": "딜사이트"
-            },
-            {
-              "title": "하츠투하츠·코르티스·리센느, 수능 안 본다…가수 활동에 집중하는 08년생들",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod0k4LXQ1T3plZDBzOFdKUTRjSDVkZElSclBpZjUtbFJiQUh5a2FyLVZSTU83RnU1MkdsNFQ3WTRPdHYxZUhhb2luZWMxUG5OTGxkU0JfZEpFMU0?oc=5",
-              "source": "일간스포츠"
-            },
-            {
               "title": "‘전참시’ 유영우X리센느 원이X이선민, 가슴 벅찬 거제 콘서트 현장 공개 - 머니투데이",
               "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDM1ZnbUl1cndXTkVTXzhNWHVNOUFwb0RfbjFuWHRtNnBOZzZYcHkwWURucUxOS2FTQ25NNjZMWHhsZEtCQXRaMXpQUlY5MTZkV0ptY2VSbFk0Q3czOXpFaGVYV0Y1NDNpTE96NFFyeEtsa2_SAXhBVV95cUxPSWFhcm15NWR0djJ5NlBjeW5BS1NObG1mZUY3akc5eFliRURxdHBncFcxZm5KQTViMWJUSWtKVkVFTFpmR1UxLUktYUJRTGdzZ2hyVmFDcS1vZVdIRXNrQXl4RkxCUTc1VjAyTEdwRnZGNEpMcTJHZ0M?oc=5",
               "source": "머니투데이"
+            },
+            {
+              "title": "리센느 원이, 눈물의 '마마' 무대서 이선민과 약속 지켰다…엔딩 포즈에 뭉클",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGxGZXlJTS1xWjRLNHpUMXBLc1lkVnFJYmE1a2JzeVlpLXM0SnpBajNQVW5Tei00aU9wUnpPaUVJemV0VnBhSWN1d0hTcWh6OUJfVmFRSVYxTlAzQnRiNlNNQ0hNQU5UejJKdG1XVmstTGVQc29yUnVVeFh2aWxnRjI2bTB0NTdINXc?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "임영웅, 가수 브랜드평판 ‘톱3’…리센느 1위",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSXJFeFlRdGh0QW1oaWYzX3V1QWZCWXhGbXl5c2NSYmtIRTBfdjdYb0ROcHlJNmpDYnlFM19QbWxraUNuUTBQNWFVaU9qZHlOd25XYTc4TXlwVklfdFHSAWNBVV95cUxPLUFfMXFtU3hCR2hBLXJCZFdUdUJVYmwxZFhraTd0aWdoeG9RRDIzZndxb3Q4ZnFYME96ZmtseGVhQmpNLVlhZzJZeW1odVh0YUdZTWVKaUplcmFDNUZIRlNDN28?oc=5",
+              "source": "스포츠경향"
             }
           ],
-          "description": "걸그룹 리센느가 '전참시'를 통해 유영우, 이선민과 함께한 거제 콘서트 현장을 공개하며 화제를 모으고 있다. 한편 리센느의 구주 매각 소식도 전해지며 팬들의 관심을 끌었다. 08년생 아이돌 중 하츠투하츠, 코르티스와 함께 수능을 치르지 않고 가수 활동에 전념하는 멤버로도 주목받고 있다.",
-          "headline": "리센느, 거제 콘서트 현장 공개"
+          "description": "리센느가 이달 가수 브랜드평판 1위에 오르며 화제를 모으고 있다. 거제 콘서트 현장이 '전참시'를 통해 공개된 데 이어, 멤버 원이가 눈물의 '마마' 무대에서 이선민과 약속을 지킨 엔딩 포즈로 뭉클한 감동을 안겼다. 임영웅이 톱3에 이름을 올린 가운데 1위를 차지하며 그룹의 대중적 존재감을 입증했다.",
+          "headline": "리센느, 가수 브랜드평판 1위"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "word": "장나라",
           "count": 2,
           "articles": [
             {
+              "title": "“잘생긴 당나귀” 장나라, 6살 연하 남편 얼굴 공개 (편스토랑)",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UnRvTGFUcE1DR29tYXMwcjU5X1JRckhRcEZra0ZYVTRadEZYaG1HRkVYc3N3MWtFbWdqYmVWOE1nTFpNRFRWbDA1OUxLSXJHMFExLWhpR1AtUF9TWFHSAWNBVV95cUxNUXlHVEZ6UVdtU201Z21mSDhxMVRCZkVtWktrbW9xc1RpUTR4SDJ5U3F6VGIteXJXTG5iMTU3YldOaG5SN19OWklSUlhuMFlQMmxwQ3dCWFZOby1sZ01lemJrZTA?oc=5",
+              "source": "스포츠경향"
+            },
+            {
               "title": "장나라, ♥6살 연하 남편 깜짝 공개..'잘생긴 당나귀' 인형에 함박웃음 ('편스토랑')",
               "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcERjT3gyOTVtU29ZWGV1N0k1SjRwb3JueS0zQVVmVFJUTlBVVURXWk04bHBYMnFQbnVnZVZUUEZFNUZrNGpiUEw0ZG1QMkFIRlB1eThobTJDTVN3eThWalVQd0dDaTg1SHhkd0lYTVZFV012LThfMERVTnAzbllGMnZRNWJVRUdnOFliQ01nQQ?oc=5",
               "source": "조선일보"
-            },
-            {
-              "title": "장나라, 6살 연하 촬영감독 남편 공개…\"잘생긴 당나귀 닮았다\"",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NLTE4WGxHY2pRQ09vNkZXelMybjhFTWpPZW5oVHFTZTFjcnRnZmM5TkFHR01TNWttZU1YTVJMMEZIdUt1NjloNnRlUVEzNUlrdGhia3JFbC00UXBsdWdjTdIBeEFVX3lxTE9YaEk0VUU1dldGR210Smx0Nml1anJNVVN0aS1HSnNMTmVUUWljS1REME1UWWF3OUdVcTZhanZGNjNPZzZWWWNsR09HWm9EaC0xcEN5NEhEY0Z0TG11ZTJRMnhKWGY2d0tkVjZ3ZEdvaEpVNFRWeWdHaA?oc=5",
-              "source": "뉴시스"
             },
             {
               "title": "장나라 충격고백 “전성기 때? 건강 안 좋고 기억 안 나” (편스토랑)",
@@ -305,161 +353,41 @@
               "source": "스포츠동아"
             }
           ],
-          "description": "장나라가 '편스토랑'에 출연해 6살 연하 촬영감독 남편을 처음으로 공개했다. 남편을 '잘생긴 당나귀'에 빗대며 환하게 웃는 모습이 눈길을 끌었다. 같은 방송에서 전성기 시절 건강이 좋지 않았고 그 시기 기억이 잘 나지 않는다는 충격 고백도 함께 전해졌다.",
-          "headline": "장나라, 6살 연하 남편 처음 공개"
-        },
-        {
-          "rank": 3,
-          "word": "강지환",
-          "count": 2,
-          "articles": [
-            {
-              "title": "‘성폭행 유죄’ 강지환, 틱톡 복귀 시동 걸었지만…‘하루 만에’ 퇴출",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ra1d3c2dvQXByWnBrZ3UxS3pKdEk5S1FGSkFGNGlObWl0OFhkRHVtYW1nXzlFVFMzNjNyUFAxWUtUOFJMMV9OM2FqNGJzM2tfVk9na2Iyc212dWwzcF9YRWVRV2pnYWhIMWhhekk3RllaeEJPc0HSAWZBVV95cUxOTGVha2R0VFY3Y1FEOTVINEwwd3NkX3AyNmZndVF1Q25DOUFJdkJsdkhLejFobWdRYWVuVGZiMmduaHp0WXlXOHhlWGdieUxKcFZzNXJsMm5sSjJYeHBUTzNaYk9IQlE?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "女 불법촬영범은 만삭 아내 사생활 보호, 성폭행범은 뜨개질..승리·강지환, 황당 근황 [스타이슈]",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5SWNrSENQU1JWam05cEliV0ZjWUx2Y2NOc2ZvZEdCNTR5cVh4YVNNNUdoS3NaWUtLaTlMSlA2M2lxSU5rTnVMZm16aG50WUw2R2J4Yl9DWGxFTF9vbU50akFFTHo5dDFSZmJkeEh3amx2YVU?oc=5",
-              "source": "스타뉴스"
-            },
-            {
-              "title": "성폭행 유죄 강지환, 7년 만에 근황 공개…하루 만에 계정 영구 정지",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Xa19vVW1DeUUyckJWck5VN3BkSzFvclVoWWpfWUVJcTdXcURCb2pZWVBHaVlYaDlFc1g0OUdiSzdvZHBXSHFCenoyTGdZWWNVMDZ4dUVfMTBhb0xBdU1iTDBTMHR5dVprMGh30gFuQVVfeXFMT0lXbk1fM3NXTDVyWkZfcEVVLTFvNmZPV19UMGE5NDBCblFJRXNzcXZFLThjcEZfMGlzSW9hNGNPY0gxOG9oWWdoSnRvSDhNSUNpMXYtVnBfeDFRZ2pnNzJJbVdzMHExZmVSY2FHcGc?oc=5",
-              "source": "주간조선"
-            }
-          ],
-          "description": "성폭행 유죄 판결을 받은 배우 강지환이 7년 만에 틱톡을 통해 복귀를 시도했으나 계정이 하루 만에 영구 정지되며 퇴출당했다. 뜨개질 영상으로 근황을 알리려 했지만 대중의 비판 여론이 거세게 일었다. 성범죄자의 무분별한 SNS 복귀 시도에 대한 논란이 다시금 수면 위로 올랐다. 오늘 처음 등장한 키워드다.",
-          "headline": "강지환, 틱톡 복귀 시도 하루 만에 퇴출"
-        },
-        {
-          "rank": 4,
-          "word": "최미나수",
-          "count": 1,
-          "articles": [
-            {
-              "title": "“옷 좀 입혀라” 최미나수, 강추위에도 드레스 하나 입고 야외 진행 ‘덜덜’ [핫피플]",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjQ1R3RRSDlrNzdTYUI1bEFtMHJwYWlBOWJrT0JYWTdmYlZLaVNnN1FlU0NkVERHNllEQnJCWHZrUkcwUVhqN0xLMUVNSXpOaGF2TFplWWsteHJveGR5R3Uxblg2SF9iWWxWbktWVzZRdEZJSExVV0RRUXdMUmR5cnB2WElobk1IWVdWYWZVTQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "카니-최미나수, 매혹적인 드레스 패션으로 [포토엔HD]",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQVE5cnozbjFwT2dhSkpyaTVuRTU5XzJNaXVjOXJHUm44X2VvNnVhYnF1MVZfeDIyX1hFWkZrS1V1SlJpNlFlb2M4U2VyQVFPLWRGTV9pTnp4QzNhbkFzQ1NhS2dIY2s5?oc=5",
-              "source": "뉴스엔"
-            },
-            {
-              "title": "최미나수 '우아한 미소'",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRkVtZlBzM3E2amgxa3pvbDFvRlZqT2ZUYVV0YUpYVVZNY2x1cE1qUHd1YUpwZFdTNmh2ZENCSW55MGEzcTNkQVNwcWhTVnJUY0xMVWhKM2FTeFNNZ091RFExM3ZZTlRndDQwcEpkZ3NEb1lmNk1lajhuX1VfYlE3RG1fcUdFZFNBcUtfTTBrcUVMWUp2TFQ4?oc=5",
-              "source": "조선일보"
-            }
-          ],
-          "description": "방송인 최미나수가 강추위 속에서도 드레스 하나만 입고 야외 행사를 진행해 화제가 됐다. 현장에서 덜덜 떠는 모습이 포착됐고, 함께한 김연경이 '괜찮으세요?'라고 걱정을 건네는 장면도 눈길을 끌었다. 오늘 처음 등장한 키워드다.",
-          "headline": "최미나수, 강추위에 드레스 차림으로 야외 진행"
+          "description": "'편스토랑'에서 장나라가 6살 연하 남편의 얼굴을 처음으로 공개해 눈길을 끌었다. '잘생긴 당나귀'라는 표현으로 남편을 소개하며 함박웃음을 지은 모습이 화제다. 여기에 전성기 시절 건강이 좋지 않아 기억조차 나지 않는다는 충격적인 고백까지 더해지며 시청자들의 관심이 쏠렸다.",
+          "headline": "장나라, 6살 연하 남편 얼굴 공개"
         },
         {
           "rank": 5,
-          "word": "김연경",
+          "word": "허각",
           "count": 1,
           "articles": [
             {
-              "title": "김연경, 베트남 배구 전설과 맞대결…한·베 배구 빅매치 성사(‘신인감독2’)",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2JpMDVRbjJnM1NZOEUxaTRLWDg2eXpBOVd5ZFF6czRhM3daY0dfOTdCQjM0dUZncjZmcFdldUxpVEZpaDhiclluTnFOUDVfZ1JPd2R3a2pQRHRfNHVVYXlEd1prUmkyT2lHN3I3SDNXZEZDMFBIVEdSYWdnczNIZ1lxemZTUExaZUZ4TzM4TEFmeGvSAacBQVVfeXFMTkpGdFpXN1dKSEV3cFNYWUVJeFdXRGZZTzRrZXpUR1VLWWZOOURPcGhoNXJ0NnVMOGstT3YyUERTamFjTzZhYUVVUFQtNTlZYXg4SjhuN0I0dWZGMGVxNldQQlhJZS1rYzRRQk5LLTRveXlhTDZCU1htN1ljUFpZaHNKMXZOVjdMYllxWEN0cVFNSG1hY2NRdUhzUUlic2VCQXBINGFrbWc?oc=5",
-              "source": "Chosunbiz"
+              "title": "허각, 24㎏ 감량 근황…\"운동은 전혀 안 해\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KS1NwbEp0c29PYmtOdG5TQmtqZVpnU2x2QlZtbHMxcFczcWliTktzbDJIZkpLNko1YUg4VXZoUTBZeldXZ1BLWC1fZHotOHlRdzhGVUVQeTJJMFJBbWJ3U9IBeEFVX3lxTFBtLU53d1JJNVhKanhPcW45Qk1UZGRPM0dWTjJuOURsYmVNRlBRVVhUOGpxNUJHeWtXNUhSZEdUV2llbVZQdTZrQTg0bU93UDlSMnRwdjl4cUYyMHlicV9oVHUxZVZ3djZYdmZOMlVsa0hFQTFneHpZXw?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "드레스 입고 덜덜 떤 최미나수…김연경 “괜찮으세요?”",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvWlpFdXl1MDl0Y2FCRm9KajFaMjZSbUo2d2s1Zncwd3ZOdVBLWTh5NDVPS0JfUnpWSjVJRjVpcWhHZjJneHQ5OUp3XzJMQTUyNHg2RVZCV29KY3BLNnBzNmZqWjc4UXgtZkZYMkxBSmNXUnRTbmfSAWZBVV95cUxQLWQzeFJBakxCTmVUVDA1X1JuNno0cFA3VDF0b21HNjFQaE91TUJHWW50NHl4VE8ySFNybUMyaDF3OUpiWEFIQUljajRoczBQUVhXNWwzc080R3NSN1pFQ3dzTW01bUE?oc=5",
-              "source": "동아일보"
+              "title": "허각의 24kg 감량부터 한로로의 1만 8천 석까지…‘더 시즌즈’가 보여준 음악인의 서로 다른 성장",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZTRZLTdRVkZPeGNra0Jyb202cXY5STFmMmlaVlV1akpzN3ZKcDB4YUt1aTJjSkNUeE1tenF4RW12UW05TklDSlhyWWZXUTF2LWNTdnF6Y0RCTXhCbzEyUQ?oc=5",
+              "source": "제이앤엠뉴스"
             },
             {
-              "title": "‘신인감독 김연경2’ 팝업 스토어 개최… 일정·예약 방법은?",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaVXVzc2traVhUc0VUMWhQNFNadlZZZWQtMVJHcG1FdXhWbFIwRXJBVTB2NWpQeC1EMUk0NWxyeVdwYzBjWkpuNDM2eVR6R0Fybzk5ZHV2aC1id05hdFZwTGlwUXFMazU0V2c?oc=5",
-              "source": "금강일보"
+              "title": "허각이 돌아온다…새 미니 '사이'와 타이틀곡 '안녕 너희'",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YZ2FPcEtWTWZWTTg3cHFaMDBkd2NnNnZWbV91cFlOTVpWcXd6Z20wa3o3TUlVZ2YzLTlnUkhndUdyUk56ZDhLUmNRSDdJUQ?oc=5",
+              "source": "전자신문"
             }
           ],
-          "description": "배구 스타 김연경이 예능 '신인감독 김연경2'를 통해 베트남 배구 전설과의 한·베 빅매치를 성사시키며 주목받고 있다. 야외 행사에서 추위에 떠는 최미나수를 걱정하는 다정한 모습도 화제가 됐다. 프로그램 팝업 스토어 개최 소식도 함께 전해지며 팬들의 관심이 높아지고 있다. 오늘 처음 등장한 키워드다.",
-          "headline": "김연경, 베트남 배구 전설과 빅매치 성사"
+          "description": "허각이 운동 없이 24kg을 감량했다는 근황을 공개해 화제다. '더 시즌즈'를 통해 달라진 모습이 알려졌으며, 새 미니앨범 '사이'와 타이틀곡 '안녕 너희'로 본격 컴백도 예고했다. 오랜 공백 후 건강한 모습과 신보 소식을 동시에 전하며 오늘 처음 트렌드에 등장했다.",
+          "headline": "허각, 24kg 감량 근황 공개"
         }
       ]
     },
     "스포츠": {
-      "summary": "최민정이 쇼트트랙 1000m 3연속 우승을 달성했으며, 손흥민 연봉이 MLS 전체 4위(약 150억)로 확인됐다.",
+      "summary": "최민정 쇼트트랙 월드투어 1000m 3연속 금메달 · 수원 삼성 K리그 우승 확정 · 이강인 AFC 올해의 국제선수상 2년 연속 수상",
       "keywords": [
         {
           "rank": 1,
-          "word": "손흥민",
-          "count": 3,
-          "articles": [
-            {
-              "title": "'와 손흥민 연봉 150억' 미국 MLS에서도 전체 4위다...1위 메시와 격차 2.5배",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSF9kMDBySjNYN05kc0hqTTdnV3JGdndabWxPSFBTNWxVZFN3LTVmeUlsMkxVcnJpeG5sRmZYSDZoMDRwVXp4VmxXcm5PNkI5UEJTSy0zT2tiS0Fvc0JsMjdUT2FFOXRSdUlQYkxZOHdzeVlYVklfblRkdzM3emFQSUJFT3BnRUhnNmJZ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "이러면 손흥민은 뭐가 되나…MLS 직접 경험한 뮐러의 작심 발언 “강등도 없고 큰 압박감도 없다, 선수들은 90분 동안 집중력 부족”",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45dUhOYlJhRW9pY0o4YWRxd0Q0S1ZJWWNjZVFYTDhOTHJJSTVDRlB2bldkODM0SktnamYzVW9kdjJISTJRcDJYQlNpYkFMX2k3dUJVT284VzZmd0xqdVpmbFYwM3hHMW02ZC1SRnZ4eVY0WDBr?oc=5",
-              "source": "인터풋볼"
-            },
-            {
-              "title": "손흥민까지 싸그리 무시하나…\"아마추어도 가끔은 프리킥 꽂아 넣어\" 獨 레전드 뮐러, MLS 작심 비판! \"90분 집중력도 부족\"",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3Y1dU1SU0xLUmpWMGxEX2JJT1N1MEtrb1JWaDFDUHdQUHg2SHkzY2JDWEJLLUV5NFZGLUhMU05SMklOX3NlY2lBa0RXVXk2TUpPWU1yOXZ4dWVuN2xQaXhtT1hOMERKQmtENkNobWNGcmJWdzNnV2RZR0VSSFBVUkV3?oc=5",
-              "source": "스포탈코리아"
-            }
-          ],
-          "description": "손흥민의 연봉 150억 원이 미국 프로축구 MLS 전체 4위에 해당한다는 사실이 화제다. 1위 메시와의 격차는 2.5배로, 손흥민이 토트넘에서 받는 대우가 MLS 최상위권과 견줄 만하다는 점이 주목받고 있다. 한편 독일 레전드 토마스 뮐러가 MLS를 직접 경험한 뒤 '강등도 없고 선수들이 90분 집중력을 유지하지 못한다'고 작심 비판하면서, MLS행을 저울질하는 손흥민의 미래 행선지 논쟁에 다시 불을 지폈다. 손흥민은 오늘 트렌드 1위로 급부상했다.",
-          "headline": "손흥민 연봉, MLS 전체 4위 수준"
-        },
-        {
-          "rank": 2,
-          "word": "협상",
-          "count": 2,
-          "articles": [
-            {
-              "title": "KFA, 모레노 감독 연장 계약 협상 루머…\"결정 사항 아무것도 없다→전력강화위원회 일정도 미정\"",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaFktWEhQZDRqSHR0SDV2d3Fqal9NMHVtSWNWTnVXSHctNzNvQnJBUUdXclp4YlRCTU81MmlEd25aT0JyR3VqSjJ4dk0wMFBNVnpCN003N21CamVSam9nWnpOSjNiZEtpcTNGTU5nOU51c0R6am82djNsYUxqdm9BNTdFVQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "스페인에서 터져나온 모레노 감독 재계약 협상설→KFA \"사실무근, 아직 전강위 평가 중...절차대로 진행할 것\"",
-              "link": "https://news.google.com/rss/articles/CBMiwwpBVV95cUxNQ092cWUxdndJQmY3QUx0RktHX1JSWjFoUGJQblBRc1VDTS1KaDBGdklpbnNLWG4tajloV2g4MnpjNktacC1tTkc4NzByUlpncG1SM3dzdGJxeHVKSTBHZVF3OWJtWXFicXhsb0t6N3cxQi1odWlPb1VvcnJvdVlUa1BZMTNwbF9WRFREalQ4LUIxd1pQZk1jY25PbjdmNjhHNkI0NTByYzg4MXFiUkxQNk4tYkVBcUdpeDBxTER0NGNjcElfLW55dE5ldDFxc1R1VXZ4TUpkdXVOcUYyT2hiOFVhTlFBYnVsRFYwN0dMdktBbDlwb01ESkIyekZDcXFxY0Jta1QycHRTUW5paHMwWU5tT0tPdW9qLWZvQkRnZ2k0X1ZTN0RhOHBaWUdzX05sdHYwdmx1NlVEOUMtN3JOMENqSE5nUjlPTGFIYi1YZVlLeWZlYlJEUGFvM2YyYzk2emZkd1RkQlRfemljaUhLakZYVjRKRjMwSG42WHZNTWl5T3NjS19tWXUzanE0LUxpdjBYS0NDeEpPOXJGbU1fa1hfMXN6ZklmVnJ3YVBSb3l4ZGlRbjgxeWthQ0J6cld5RXlrTmp5TzdLa2l6RVVSUzBpUFd5dDUyOUdydVhBSXM2U1gxUjFwbXNNTnpIMHpYR2FDSXczS3JwYzA4bTZISFZGZEZORmNhWlVmQktiTHJQZ2x1djRSWl9ERWVMRW00Ni15c0tUOGl6SS1fQ1dTMzFQbGZNa2ZJc2N4aW0wTjdwcW1Sdkd1UE9YTzVIblRDZTJldWlITGF1bVdDcGRaaWYxY3FkVGNDek5IMXpCZFdMXzQ3M2JwYzJYOFRqWlBtMXl6amJaeFJwM1BvM0RnY3MtYWIwT1ZqMG9hNE5KZWVaMnd6TEI3QWREb3o3TmlEZ1h5b2VhMFJwQnByQVFEb3VqbGhwUWpxcklQTXJTZzZwd0pDRElGYVQtbW16bWlfdVJKNlRZcmdrZWNOd0FMbk9VX2VuZFlyMUdDVTc1ZHNmVjZTWTFJanRFby1hbWtuYW1ZUVhhdXE1eFhBMjZoZGQxS2R1X2VIZkNhNzhYbU1sWjhQdV9hd2FrX25mSkJFM1AzWkFSVlQ4a2RNZXFibW92TEx1bnQ1U3ZNakplOHpDeGcyaXlTTE9tWlhNYXdHOTVVRmNkVDhNVE1qTUIxUTZRS1NGUlhjSnNjVEZQRktIV19PRWQ1WVhQcTlyNjU3OHNjWUxjODdOZTF4OHF6bFV3N2xSYTVWc3E1ZjNvRnJSeVNYQk80QXVoWThWc2NZRXJaaVhVeGRJdUllRzhERzk1Y2hqdkc3bk1fTVR0NlRENDVTSGxwYVA3ZlNNVzFHMGJmMlRFakJRajh2X2p4b0xYcy1iVmlzN1FndnN0bnlyNWN3NmtXYUE3dVZFLUozMVdzOHlDMi1NX0ZYVUpLck1hd3FIM0tzZEt6R2VqdjhXMjl1M1BBRGIwWWh1UHNjTFFwTnlmd0hQdGtDcEd1YkJBNnpYbmNnT1pSYUJNNTdpZzRGSUdsQTllSXdVVmYtMnB3X0RUaE90N0RDdXFZRjkyRno4T3VicWpuRElYbmlfUTFXWlRYZ2p6Z1d2TGk4NVBsUFVYVjF4QUxYUjQwYWVraEVwZU1sT3REVEpQSS1sT2UtalRSdDh0WUFsa0FqYU9KMHJDM25xQUsySWc1alYyQ3pROFhhZ1NpbTFVYnU5XzRPWEZMZ3RlQjFDQlVoR09wTHdCUThuYUZKQnY4MVEyMEcyTWM2d1gtTXp2MWZLZUk?oc=5",
-              "source": "Goal.com"
-            },
-            {
-              "title": "충격 주장! \"韓 국대 연장 협상 진행\" 대체 어떻게? 아직 평가 시작도 안 했는데 깜짝 소식, '스페인행' 모레노는 직접 소감 발표 \"자부심 느낀다\"",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13U2FxSmgyZDJLSUJDRmJ0WGNrWXlsNGxGeEl0M25kU3BzRkltdFdrQVpnUHNBODlfUkxBal9faFlYTkl4UzB6V2w1c2drYzJ5SDNfbENjX2RJZkhnd1Mwd0ZBcHFacERWMHQ4YVNIX1B2VE0tZGdGRjJZQnNhUQ?oc=5",
-              "source": "스포츠조선"
-            }
-          ],
-          "description": "스페인 현지에서 한국 국가대표팀 모레노 감독의 연장 계약 협상이 진행 중이라는 주장이 나와 충격을 줬다. KFA는 즉각 '사실무근'이라며 아직 전력강화위원회 평가 절차도 시작하지 않았고 일정조차 미정이라고 선을 그었다. 모레노 감독 본인은 대표팀 지휘에 자부심을 느낀다는 소감을 직접 밝혔다. 평가 시작도 전에 재계약 협상설이 흘러나온 경위를 두고 관심이 집중되고 있다.",
-          "headline": "모레노 감독 재계약 협상설, KFA '사실무근'"
-        },
-        {
-          "rank": 3,
-          "word": "연봉",
-          "count": 2,
-          "articles": [
-            {
-              "title": "'축구의 신 맞네!' 메시 연봉 379억, 손흥민의 2.5배 받는다…손흥민 MLS 전체 연봉 4위 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBweFF0RmU0RkduVG5BSGl2YlRfN0FuZC1UeVpBWkxyLU5LNU1xc1VrZTZseDVNMkFMLU5rU1pEeVBVZnVrdGVXakhCcXdwaS1HVFpIR29VcjlyWUJYSFgtMHktSXlqM3V6TGo0QjV5QdIBb0FVX3lxTFBweFF0RmU0RkduVG5BSGl2YlRfN0FuZC1UeVpBWkxyLU5LNU1xc1VrZTZseDVNMkFMLU5rU1pEeVBVZnVrdGVXakhCcXdwaS1HVFpIR29VcjlyWUJYSFgtMHktSXlqM3V6TGo0QjV5QQ?oc=5",
-              "source": "머니투데이"
-            },
-            {
-              "title": "’149억’ 손흥민, MLS 연봉 4위…’378억’ 메시 1위",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kdkNucUUzeG04M1NkNDNXU1RNSDk4dFl5UkpHanB3UWpzNTlEZmQybDYyNmE5X0RiNndraHV0dFJ5RXRxU1MxbHY3VEhoemVxYTgwVDBBNV84Z0JyMl82TFNRUnFhdTQ?oc=5",
-              "source": "연합뉴스TV"
-            },
-            {
-              "title": "손흥민 연봉 149억원, 대구FC 세징야의 7배…메시 378억원으로 압도적 1위",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SzV4QlJhWmNnUU1ZQnh5ZDVobXMyd3hFeWJxbmxTQkFfUkVtSDhiTFJndE1MOGpZSVhoVkpTZGFIUHZLcVlMYzhlNk9neVJPQ04tQlF2TmNLQQ?oc=5",
-              "source": "경북매일"
-            }
-          ],
-          "description": "MLS 선수 연봉 순위가 공개되며 메시(약 379억 원)와 손흥민(약 149억 원)의 격차가 화제다. 손흥민은 리그 전체 4위로, 국내 대구FC 세징야 연봉의 약 7배에 달하는 수준이다. 메시는 2위와도 큰 차이를 벌리며 압도적 1위를 차지해, 세계 최고 선수의 몸값이 얼마나 독보적인지 다시 확인됐다.",
-          "headline": "메시 연봉 379억, 손흥민의 2.5배"
-        },
-        {
-          "rank": 4,
-          "word": "쇼트트랙",
+          "word": "쇼트",
           "count": 2,
           "articles": [
             {
@@ -468,42 +396,114 @@
               "source": "조선일보"
             },
             {
-              "title": "'쇼트트랙 여제' 최민정, 안방서 1000m 3연속 금메달…종합 우승 향해 질주",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tSll2cVUxLW1YN0FlZEZlalBpZTAyT1A4ZjZqckdxUzA3VV9WZHVydFVuZlI3RzRDbzg3STREUnNzLTlhSTdBQ1lOb25jaU44WG5OaUhtM051NFp3UGszXzA3Rmw3T25tdVE?oc=5",
-              "source": "아시아경제"
+              "title": "'은퇴 예고' 최민정, 쇼트트랙 월드투어 1000m 3연속 금메달",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EWjRWeFdYUmRCWEZnWjNOdGJKRHZFNmlpRWlRc2ZYUHdkaUQxaEJXdFVVbUo0VWlhaG1leFRUN2JNa25GRzRTZ1owQ1Fwc0ZYMjBrR0VGdGtTNksxMFFPY0p6QnJtZVN4SzEwLWZRYWQ1VnZhWEHSAXZBVV95cUxPTUN3eTZ0ODFaUm90Y3R4dnN3bl9sQ1NOc1dXbEZhcFNybHc4b3JaUThEbkZLSl81bmF0Q3h3STh4aVV3SG5YNlJpSWJrQThta2JrZnd6b25TYk9JSlRZMXBySG9yUEJIaHJ3OFFOajNLTEhITnZR?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "최민정, 홈팬들 앞에서 쇼트트랙 월드투어 1,000m 3연속 우승",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JeDhIRnBxMzNLWjh5RTJyNjZzaFZ2WkYzZGU2Z2FYUXNycjhmNWR4aG14WUdoUkltbzV0UFRaa0gxeW1BbWNiRHM2U1lMdS1qNm04UTlBZkpQeGlRSmZqOXpkcFdwSms?oc=5",
-              "source": "연합뉴스TV"
+              "title": "최민정, 안방서 쇼트트랙 월드투어 여자 1,000ｍ 3연속 우승",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4Uko1UTgzMHNXc3ZqNnZId1pRTW5iRFRjam0wWjRUTEpaRWswRjlIYWd3aUU2YUtRdXFNblBQQnNWLWZ5bWRWa0RRUDhHVHdoMThZSzYycFkzZzjSAWBBVV95cUxQWi1TT0NkeURyYVNaVXpvdjA0LWhSeW9TNEtWOHZIbXNkUzVvWXlxdmxONm04TGcwT0lBQlp2ZEN0bGs1dkw3QWlOVEl1VUxKSmVfc1I4QktQNGVQR2ozNHE?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "쇼트트랙 간판 최민정이 홈 팬들 앞에서 월드투어 1000m 3연속 금메달을 획득하며 종합 우승을 향해 질주하고 있다. 올 시즌이 은퇴 시즌으로 알려진 가운데 나온 성과여서 더욱 주목받는다. 최민정의 연속 우승 행진이 이어지면서 쇼트트랙 '여제'의 마지막 시즌에 대한 팬들의 관심이 높아지고 있다.",
-          "headline": "최민정, 쇼트트랙 월드투어 1000m 3연속 우승"
+          "description": "은퇴를 예고한 최민정이 쇼트트랙 월드투어 여자 1000m에서 3연속 금메달을 차지하며 홈 팬들 앞에서 존재감을 과시했다. 이번 시즌이 선수 생활 마지막이 될 수 있다는 점에서 연속 우승의 의미가 더욱 크게 다가온다. 여자 계주에서는 은메달에 그쳤지만, 개인 종목에서의 압도적인 활약으로 '쇼트트랙 간판'의 건재함을 입증했다. 오늘 처음 등장한 키워드다.",
+          "headline": "최민정, 쇼트트랙 1000m 3연속 우승"
         },
         {
-          "rank": 5,
-          "word": "신인",
+          "rank": 2,
+          "word": "투어",
           "count": 2,
           "articles": [
             {
-              "title": "[2026 유스클럽 드림컵] '2026 KBL 유스클럽 드림컵 in 제천' 1일차, 모비스와 SK B의 U10 경기 화보",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NOGZmYk8xRkliQVgxZmFzUnJlTUFxMmUxTjdPcmJzOU5JZnFfaG91VTl5MmFQV2k2MlRDYzZ4WnFDZk12QmZJNlBkZEZkaTkzclc2d0JkdDFCNWZwcWZkcW9VRWg0a09xUkpiSFhmaTc?oc=5",
-              "source": "점프볼"
+              "title": "신동민, 쇼트트랙 월드투어 남자 1500ｍ 첫 금메달",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93Z2o4eW1LXzM4S05mWFRxNUpyR3NJY29vYzZrU2xuWTZaOTRJbWh1S1FXVllYVVliQzM0MXlxa1V4a0pySzVMLTVpMUIxRzc4MkhIVWtmaDRES045X19wb0lpTEVRUkxTQkE?oc=5",
+              "source": "천지일보"
             },
             {
-              "title": "2026 KBL 신인 선수 드래프트",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LcEt3bW5aVFRYSFFCeTZQd0pRbWd0SGxoNTZta3lvbHYyaGxXSm8zT2Z6UGNUNEhjRTd2VzJkQnRWd2JndC1JNERUUTM5SVFKTVBQU3JYR3BiMm0wa0s4b9IBYEFVX3lxTE5LcEt3bW5aVFRYSFFCeTZQd0pRbWd0SGxoNTZta3lvbHYyaGxXSm8zT2Z6UGNUNEhjRTd2VzJkQnRWd2JndC1JNERUUTM5SVFKTVBQU3JYR3BiMm0wa0s4bw?oc=5",
-              "source": "연합뉴스"
+              "title": "'쇼트트랙 간판' 최민정, 3차 월드투어 1000m 우승…여자계주는 銀(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SHMyWTdDZVdtV0pQcmVBSVF5bWNwQzdVNjVkR21CUnE5ZW5seHItakJuS1Iwek1iQjkxVzJnTjRfZXNoY1BRTGU4LTM4Y0MtZ3p3VFpqUlpTZkNib3RXbtIBeEFVX3lxTFBWSjdMZEV6bU5NWTBJMGNBUW1fa3pqVEZ2aUE0NWlqTXcxVTdGOHZUSVlEUmhjX1VnSFFmSDBmbmxWYVlZU1JmOG1Dcl9Lel9NRU5CdjJCMUMtcGtpQkNVMGZmMkhnWDNDUDVReGc1QzIwZHRMcXJmeA?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "[2026 KBL 신인드래프트] 이변은 없었다! 1라운드 1순위의 영광을 안고 수원 KT로 향하는 이동근",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnZnMEdFX2ZGZ3VpRkxPU2tJSDAtVHNlc3FlZDZLSURNTDUyZkZ0S291dF9ia0hoa01NM0JTcXUwcldNTmJNTlM5U19tMkxCU1RlaElwZi02NVYxU2w1Q1l5bERtWFJhUWljTG5FcWxBTTlzS290UnBfanhicUlnQ3BMaElUQ01pZTFJa2xOVQ?oc=5",
-              "source": "Naver Blog"
+              "title": "밖으로 안으로 추월쇼...최민정, 쇼트트랙 월드투어 1000m 3연속 金",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3U3Z3JWNGJBWGd1SGFyVnlKQnBnMTcxLUZ4MjVzaENvSUQwNHdnbzU3STJ4YXZfR3ByR3JXNmtHODVqQkZWUGp1ODN2dTlXUERoRTB4Z0RvZTNqLU9DZ0lUQ1EwSm93MGh2RE5MNjdnbDZsVmlPU3ZnNUNBRmU5Yw?oc=5",
+              "source": "이데일리"
             }
           ],
-          "description": "2026 KBL 신인 선수 드래프트에서 이동근이 1라운드 전체 1순위로 수원 KT의 선택을 받았다. 큰 이변 없이 최상위 유망주가 순조롭게 지명되며 드래프트가 마무리됐다. 같은 날 제천에서는 2026 KBL 유스클럽 드림컵이 개막해 차세대 선수들의 활약도 함께 조명됐다.",
-          "headline": "KBL 신인드래프트, 이동근 1순위 수원 KT행"
+          "description": "신동민이 쇼트트랙 월드투어 남자 1500m에서 첫 금메달을 획득하며 주목받고 있다. 같은 대회에서 최민정도 1000m 3연속 우승을 달성해, 한국 쇼트트랙이 월드투어 무대에서 남녀 모두 두각을 나타냈다. 안팎으로 거침없는 추월 레이스를 펼친 최민정의 경기도 화제를 모으며 쇼트트랙 월드투어 전반에 대한 관심이 높아졌다.",
+          "headline": "신동민, 쇼트트랙 월드투어 1500m 첫 금메달"
+        },
+        {
+          "rank": 3,
+          "word": "수원",
+          "count": 2,
+          "articles": [
+            {
+              "title": "이정효 수원 삼성 감독 “홈팬들 앞에서 우승 확정해 기뻐요”",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lb0dLWDVtLW1oektOVDVrMWY5MEZXRVJ1OWhKd3hZc0VCeHJsZzRUQVRLRWZMR2I2VVdtWVFzbFktV1Y3Z0RjVDIwaXB1X21oMGs1NGxLcFhiS2llOVhGSFlhWUU3bl9UOEtPZFRpMA?oc=5",
+              "source": "기호일보"
+            },
+            {
+              "title": "“이 정도면 국대 감독 해야 하지 않나?”…이정효, 수원 살려내더니 또 역사 썼다",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uZTUtTDBobktJVDJ3NndaV200VHc5LUFwZFFtUXhyVTVLUWpTVEItV0NSdjR2MEw4bTV4cEJxcU5MUE5WTVBDdTc1ZkpZajVaTjdLYTZvYzdvZ1hvZm1oZmUtc2hLdw?oc=5",
+              "source": "www.ftimes.kr"
+            },
+            {
+              "title": "이정효의 수원 삼성, 우승 트로피 안고 1부 리그 복귀",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmtyWGRGXzBiSUptVkhVNWJzMmxMLWlLRGp3X0t2Q0dsQjBMOWtSandfdm1rSWxXVFBKeDg4OEFFQnZjb1lSMEdRdU94empWamR4ODRhbjc1eUlXMEpMc2ptUEFNazdwMDM3NFRXTC1hX1oxVXFfSF9pRHFDQkhkeDNWRQ?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "이정효 감독이 이끄는 수원 삼성이 우승 트로피를 들어 올리며 1부 리그 복귀를 확정했다. 강등 이후 팀을 되살려낸 이정효 감독에 대해 '국가대표 감독 자격이 있다'는 평가까지 나올 만큼 호평이 쏟아지고 있다. 홈팬들 앞에서 우승을 결정지은 이번 성과는 수원 삼성의 부활을 알리는 상징적인 장면으로 기록됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "수원 삼성, 우승으로 1부 리그 복귀 확정"
+        },
+        {
+          "rank": 4,
+          "word": "삼성",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'호키 36득점' 삼성화재, 3연승 신바람 2위 도약",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MWWxlWHU3eFd4cjZZVTVzdVNyMW9BYVl0OXVMNlExZy1zRnZZakNZUjd2S3RTX1YyQ0pRR0dOZUczd3BHOHU4aEpnUDRHQUNmTXdFNEtSa3VEVURuTGc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "'호키+왕빈 55점' 삼성화재, OK저축 잡고 3연승...2위 도약",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dWZnLVlyMnJFSmV4T0dDc2JUUl9qQkRuQzBvUEYxNHliYmJsbGZUZ1FmWjZfSUpsRWZINmhkaUpZZm9McGpGYXlvNXNwRWZjNmo1dTNhY1R3V3hl?oc=5",
+              "source": "뉴스핌"
+            },
+            {
+              "title": "유광우 백토스, 호키 36득점 화답…삼성화재 3연승",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94UGtMRnhfbU0xeTNvLWJ2WE04T2kxa0RrVlNrRFNRNjc2OW5DVEliSVAyWTdYVFpTX2l3ckVUblNiaEN0b1pxLWpwYzBsM3dJZGxMT052M2x2UlU?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "삼성화재 배구단이 OK저축은행을 꺾고 3연승을 달성하며 리그 2위로 올라섰다. 외국인 선수 호키가 36득점을 폭발시키고 왕빈까지 가세해 두 선수 합계 55점을 쏟아냈으며, 유광우의 백토스가 호키의 득점 행진을 뒷받침했다. 연승 가도를 달리며 상위권 경쟁에서 존재감을 키우고 있다.",
+          "headline": "삼성화재, 호키 36득점 앞세워 3연승·2위 도약"
+        },
+        {
+          "rank": 5,
+          "word": "이강인",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"이강인, 아시안컵 안 간다! 이제 전성기 활약할 때→공격P 부족, 결정력 결여\"...LEE 향한 스페인 매체의 냉철한 분석",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PZ1dFSS1tM2E0OGg2TVVHckZhbTRYOExpRVUxbnhJSWFfTThOQTdKdkY0OW9yZVpXT1hqYmJCNVlyUUFBVUd5NHJrSDRXNURPSUxTWkdXc0RTRTR4RFA5ajRGTmxrNVo5VGE2aFF6UDRDMnZv?oc=5",
+              "source": "인터풋볼"
+            },
+            {
+              "title": "이강인, AFC 올해의 국제선수상 2년 연속 수상…한국 선수 최초",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXpIVlJkNTlULUxxSmhCRzA2c3R1UnZaa0RXMFZobDJPVjBJNGNfdGZSa0hvc1VjS3dKd0VZR2xHZmhOUjNhYnNqM2pKS0J4dlo1Q1lPNWJvVTZPTFBBSV9pWGlJeFF2Yjl2eVR6ZnJjYlpYQWNZWFc2eGx1WEFqQQ?oc=5",
+              "source": "이데일리"
+            },
+            {
+              "title": "'루크먼 부상' ATM, 해법은 '이강인 시프트'?...헤타페전 시험대",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yaXdPejVYVFJfMnktakd4QmRmd3F2QVhIbHB1Yk1TenJUdUZ6c0pST0xUaEVmVU1neFVxaGpHUzUyak1PQnhES0ZpZ3hIZHdzWmhVVTFjLTjSAVNBVV95cUxORUJtRy1QS01wOWxMVl84MjF6RXhaZFFheFFMcnhLaEtwT2pMSk9lY0ktck5vXy12SW1UWFRZakFGb0hfbmFOVExLS09ZZVdSVk9jbw?oc=5",
+              "source": "더팩트"
+            }
+          ],
+          "description": "이강인이 AFC 올해의 국제선수상을 2년 연속 수상하며 한국 선수 최초의 기록을 세웠다. 한편 스페인 매체는 이강인이 아시안컵에 출전하지 않을 것이라며 '공격 포인트 부족, 결정력 결여'라는 냉철한 분석을 내놓기도 했다. 소속팀 아틀레티코 마드리드에서는 루크먼의 부상 공백을 메울 카드로 이강인 활용이 거론되며 헤타페전이 시험대로 주목받고 있다.",
+          "headline": "이강인, AFC 올해의 국제선수상 2년 연속 수상"
         }
       ]
     }
