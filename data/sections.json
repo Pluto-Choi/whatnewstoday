@@ -1,150 +1,162 @@
 {
-  "트럼프": {
+  "북한": {
     "sections": [
       {
-        "heading": "트럼프, CEO 인사 개입…팀 쿡 추천 후 말 바꿔",
-        "body": "트럼프 대통령이 엔비디아 CEO 후임 인선에 직접 개입해 애플 이사회 의장 팀 쿡을 엔비디아 수장에 앉혀야 한다고 촉구하면서 논란이 불거졌다. 그러나 이후 트럼프는 젠슨 황 전 CEO의 복귀도 나쁜 생각이 아니라는 방향으로 입장을 바꾸며 혼선을 더했다. 현직 대통령이 민간 기업의 최고경영자 인사에 연이어 개입하는 모습이 주목을 받았다."
+        "heading": "트럼프 아시아 순방 계기 회담 추진",
+        "body": "미국 정부는 트럼프 대통령의 최근 아시아 순방을 계기로 북미 정상회담을 막판까지 적극 추진한 것으로 알려졌다. 트럼프 대통령이 직접 전화로 연락을 시도했으나 북한 측으로부터 답신을 받지 못했으며, 뉴욕 주재 북한 대표부 외교관은 미국이 보낸 서한을 개봉도 하지 않은 채 반환한 것으로 보도됐다."
       },
       {
-        "heading": "데이터센터 관련주 급락 후 반등…증권가 '저가 매수'",
-        "body": "트럼프 발언이 전해지면서 데이터센터 관련주가 급락세를 보였으나, 증권가에서는 우려가 과도하다는 분석과 함께 저가 매수 기회라는 평가가 나오며 주가가 반등했다. 한편 트럼프 행정부에 대한 레임덕 우려가 제기되면서 조선주를 비롯한 일부 수혜 업종에 대한 기대감도 흔들리는 모습이다."
+        "heading": "북한, '받아들일 수 없는 조건' 고수",
+        "body": "회담이 무산된 직접적인 배경은 북한이 미국이 수용하기 어려운 조건을 내걸었기 때문으로 전해진다. 미국은 협상 돌파구를 마련하기 위해 한국전쟁 종전선언과 연락사무소 개설 등 대폭적인 양보안도 검토한 것으로 알려졌다. 북한은 미국에 사실상의 핵보유국 지위 인정을 요구해 온 것으로 알려져 있어, 이 문제가 핵심 쟁점이 됐을 가능성이 거론된다."
+      },
+      {
+        "heading": "미국 내 엇갈린 반응, 협상 재개 전망 불투명",
+        "body": "일부 미국 행정부 관계자들은 회담을 주선하려는 노력이 전혀 없었다며 보도 내용을 부인하는 등 미국 정부 내에서도 엇갈린 반응이 나왔다. 북한이 연락 자체를 거부하는 태도를 보이면서 단기간 내 협상 재개 가능성은 높지 않다는 전망이 지배적이다."
       }
     ],
     "sources": [
       {
-        "title": "Trump wants Apple's Cook to replace Huang as Nvidia CEO",
-        "url": "https://www.dailysabah.com/business/economy/trump-wants-apples-cook-to-replace-huang-as-nvidia-ceo/amp"
+        "title": "트럼프·김정은 만남, 北 조건 탓에 무산 - 파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202611221806515858"
       },
       {
-        "title": "Trump Reportedly Urged Nvidia's Jensen Huang to Fight for His Job",
-        "url": "https://letsdatascience.com/news/trump-reportedly-urged-nvidias-jensen-huang-to-fight-for-his-e6714585"
+        "title": "美, 아시아 순방 계기 북미회담 추진…北 수용 불가 조건에 무산 - 한국경제",
+        "url": "https://www.hankyung.com/article/2026112223007"
       },
       {
-        "title": "Trump supports Jensen Huang Nvidia CEO return",
-        "url": "https://cryptobriefing.com/trump-supports-jensen-huang-nvidia-ceo-return/"
+        "title": "김정은 만나려고… 트럼프, 종전선언·북핵 용인도 검토했다 - 서울신문",
+        "url": "https://www.seoul.co.kr/news/international/2026/11/23/20261123006003"
       }
     ],
-    "headline": "트럼프 개입에 엔비디아 CEO 교체 뒤집혀",
-    "generated_at": "2026-11-24 17:31 KST"
+    "headline": "북미정상회담, 북한 거부로 무산",
+    "generated_at": "2026-11-25 05:20 KST"
   },
-  "러시아": {
+  "우크라": {
     "sections": [
       {
-        "heading": "군용기 KADIZ 무단 진입·전투기 출격",
-        "body": "러시아 군용기 여러 대가 동해 한국방공식별구역(KADIZ)에 진입했다. 한국 공군은 즉각 전투기를 출격시켰으며, 합동참모본부는 러시아 군용기들이 KADIZ 진입 전부터 탐지됐고 우발상황에 대비한 전술 조치를 취했다고 밝혔다. 러시아 군용기들은 이후 KADIZ를 벗어났으며 우리 영공을 침범하지는 않은 것으로 확인됐다."
+        "heading": "1,000명 넘는 자살, 유출 사망증명서로 확인",
+        "body": "가디언은 러시아 연방통계청 사망 증명서를 분석한 결과 우크라이나 전장에서 복무한 러시아 군인 중 1,087명이 스스로 목숨을 끊은 것으로 집계됐다고 보도했다. 이 자료는 벨라루스와 우크라이나 해커 단체가 유출한 것으로, 파이낸셜타임스는 미집계 사례를 추산하면 실제 자살자 수가 1,600명에 달할 수 있다고 분석했다."
       },
       {
-        "heading": "독일, 러시아의 우주 핵무기 배치 경고",
-        "body": "독일 연방군 우주사령부 사령관 미하엘 트라우트 소장은 러시아가 궤도에 핵폭발 장치를 배치하는 기술을 연구 중일 가능성을 배제할 수 없다고 경고했다. 그는 고고도 핵폭발이 발생할 경우 저궤도 위성의 상당 부분이 작동을 멈출 수 있다고 설명했다. 나토 역시 러시아의 우주 핵무기 배치 가능성에 우려를 표명하면서 우주에서의 군사적 긴장이 새로운 국면으로 접어들고 있다는 분석이 나온다."
+        "heading": "매년 증가세, 2025년 365명으로 정점",
+        "body": "우크라이나 전쟁 초기인 2022년 약 50건이던 군인 자살 건수는 2025년 365건으로 급증했으며, 2026년에도 이미 300건에 육박한 것으로 알려졌다. 전문가들은 지휘부의 압박, 학대, 전장의 극한 공포 등을 주요 원인으로 꼽고 있다. 러시아 정부는 2010년부터 군인 자살 통계를 공개하지 않고 있어 실제 규모 파악이 어렵다."
       },
       {
-        "heading": "러시아, 서방 위성 추격…긴장 고조",
-        "body": "러시아 군용 위성이 우크라이나를 지원하는 서방 민간 위성을 근접 추격하는 사례가 보고되면서 우주 공간에서의 위협이 현실화하고 있다는 우려가 커지고 있다. 독일 국방부는 러시아가 독일 군이 활용하는 위성 두 기를 추적하고 있다고 공식 경고한 바 있다. 전문가들은 직접적 공격 없이도 위성 기능을 방해하는 방식의 회색지대 위협이 증가하고 있다고 지적한다."
+        "heading": "은폐 의혹과 더 큰 전쟁 피해",
+        "body": "사망 증명서에는 자살 외에 '의도 불명의 총기 사망' 항목으로 885명이 별도 기재돼 있어 자살 은폐 가능성도 제기된다. 한편 러시아 망명 언론 매체들은 개전 이후 러시아군 전사자가 70만 명을 넘었을 것으로 추산하고 있어, 자살 문제는 전쟁의 참혹한 단면 중 하나에 불과하다는 지적도 나온다."
       }
     ],
     "sources": [
       {
-        "title": "South Korea scrambles fighter jets after Russian military aircraft enter air defense zone",
-        "url": "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/"
+        "title": "러시아 군인 자살 최소 1200명…우크라전 이후 매년 증가 - 아시아경제",
+        "url": "https://view.asiae.co.kr/article/2026112409594000785"
       },
       {
-        "title": "Bundeswehr general: Russia plans to deploy nuclear weapons in space",
-        "url": "https://censor.net/en/news/4008215/russian-nuclear-weapons-in-space-the-bundeswehr-has-warned-of-a-threat-to-satellites"
+        "title": "스스로 목숨 끊은 러시아군 1000명 넘어… 전사자도 70만 명 추정 - 한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026112408460005743"
       },
       {
-        "title": "Russian satellite activity raises concerns for Starlink, German space commander says",
-        "url": "https://www.thestar.com.my/news/world/2026/10/09/russian-satellite-activity-raises-concerns-for-starlink-german-space-commander-says"
+        "title": "전쟁 장기화에 무너지는 러시아 군인…유출된 사망증명서 충격 - 한국경제",
+        "url": "https://www.hankyung.com/article/2026112461157"
       }
     ],
-    "headline": "러시아 군용기 KADIZ 진입·핵위성 연내 발사 임박",
-    "generated_at": "2026-11-24 17:31 KST"
+    "headline": "러 군인 1천명 이상 스스로 생 마감",
+    "generated_at": "2026-11-25 05:20 KST"
   },
-  "조작": {
+  "제재": {
     "sections": [
       {
-        "heading": "오세훈, 대통령에 특검 임명 중단 직접 촉구",
-        "body": "오세훈 서울시장이 이재명 대통령에게 이른바 '조작기소 특검' 임명을 중단하고 조희대 대법원장 탄핵을 막아야 한다고 공개적으로 촉구했다. 오 시장은 국무회의에서 발언 기회를 얻지 못했다며 유감을 표하고, 이후 공개 입장을 통해 이 같은 요구를 직접 전달했다. 현직 광역단체장이 대통령에게 특검 임명 중단을 공식 요구하는 것은 이례적인 장면으로 주목받고 있다."
+        "heading": "스위스의 야영소 제재가 발단",
+        "body": "스위스 정부는 최근 북한 송도원국제소년단야영소를 대러시아 제재 명단에 올렸다. 스위스 측은 해당 야영소가 러시아와 연계된 세력과 협력해 우크라이나 내 러시아 점령지 출신 아동들을 북한으로 이송하는 프로그램에 참여했다는 EU 정보를 근거로 제시했다."
       },
       {
-        "heading": "특검법 논란…'셀프 면죄부' 비판 속 진행",
-        "body": "더불어민주당 주도로 국회를 통과한 조작기소 특검법은 대통령의 공소 취소를 위한 수단이라는 야당의 비판을 받고 있다. 오 시장은 이 법이 한 사람을 위해 사법 체계를 흔드는 것이라고 주장하며 거부권 행사를 촉구해 왔다. 대통령 측은 특검 임명 여부에 대해 의견을 물을 사안이 아니라는 입장을 보이면서 갈등이 이어지고 있다."
+        "heading": "김여정 '너절한 처사'…외교사무소 철수 위협",
+        "body": "북한 노동당 총무부장 김여정은 조선중앙통신 담화를 통해 스위스의 조치를 주권 침해로 강하게 규정했다. 그는 외무성에 평양 주재 스위스 외교사무소를 수일 내에 철수시키는 문제를 엄정히 검토하고 해당 조치를 취할 것을 권고하겠다고 밝혔다."
+      },
+      {
+        "heading": "스위스 '외교와 제재는 별개' 원칙 고수",
+        "body": "스위스는 북한의 위협에도 제재 유지 입장을 고수하며 외교와 제재는 별개라고 선을 그었다. 이번 사태는 스위스 외무장관 카시스가 지난달 말 방북해 평양 외교사무소 개소식에 참석한 직후에 불거져 주목받고 있다. 한·미가 중립국 스위스를 통해 대북 간접 소통을 모색하려던 구상에 차질이 빚어질 수 있다는 분석도 나온다."
       }
     ],
     "sources": [
       {
-        "title": "오세훈·범야권, 조작기소 특검 비판…李 발언에 의견 물을 사안 아냐",
-        "url": "https://www.etoday.co.kr/news/view/2581437"
+        "title": "북한 김여정, 스위스 제재에 '평양 외교사무소 철수 검토' - 경향신문",
+        "url": "https://www.khan.co.kr/article/202611240738001/"
       },
       {
-        "title": "오세훈, 이재명 대통령에 조작기소 특검법 거부 촉구",
-        "url": "https://www.wikitree.co.kr/articles/1174332"
+        "title": "북한 제재하면 관계 개선 없다?···김여정 '스위스 외교사무소 철수 엄정 검토' - 경향신문",
+        "url": "https://www.khan.co.kr/article/202611241601001/"
       },
       {
-        "title": "오세훈, 조작기소 특검법 총리가 의결할 가능성 높다",
-        "url": "https://inews24.com/view/2026020"
+        "title": "김여정, 스위스에 '너절한 처사' 맹비난…친러 교육 北 야영소 제재에 반발 - 한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026112408110005076"
       }
     ],
-    "headline": "오세훈, '조작기소 특검' 임명 중단 촉구",
-    "generated_at": "2026-11-24 17:31 KST"
+    "headline": "김여정, 스위스 제재에 외교사무소 철수 위협",
+    "generated_at": "2026-11-25 05:20 KST"
   },
-  "안전": {
+  "우주": {
     "sections": [
       {
-        "heading": "트럼프, 우크라 안보 보장 지지…유럽 낙관론 확산",
-        "body": "트럼프 대통령이 우크라이나에 대한 안전보장 방안을 지지하는 쪽으로 기울면서 유럽에서 낙관론이 번지고 있다. 나토 사무총장 마크 루터는 트럼프의 우크라이나 안보 기여 의지에 대해 '진정한 돌파구'라며 긍정적으로 평가한 바 있다. 트럼프 대통령은 나토 사무총장과의 회동을 통해 우크라이나 안전보장 방안을 논의할 예정인 것으로 알려졌다."
+        "heading": "빅뱅 6억3천만 년 후 초거대 블랙홀 확인",
+        "body": "유럽우주국(ESA) 유클리드 우주망원경 연구팀이 빅뱅 약 6억3천만 년 후 시점의 퀘이사를 새로 발견했다고 밝혔다. 이 천체의 중심 블랙홀 질량은 태양의 약 3억6천만 배로 추정되며, 연구팀은 태양 질량의 2억 배에서 8억 배 사이의 범위를 제시했다. 연구 논문은 천문학 국제학술지 '에스트로노미 앤 애스트로피직스'에 게재됐다."
       },
       {
-        "heading": "나토 집단방위 대신 양자 협정…쟁점 부상",
-        "body": "다만 트럼프 대통령은 나토 제5조 집단방위 체계보다는 개별 동맹국들이 양자 안보협정을 맺는 방식을 선호하는 것으로 전해졌다. 이는 우크라이나의 나토 가입 경로를 사실상 차단하되, 별도의 안보 우산을 제공하는 절충안 성격을 띤다. 러시아와의 휴전 협상 국면에서 서방의 안보 보장 형태를 어떻게 설계할지가 핵심 쟁점으로 부상하고 있다."
+        "heading": "어떻게 이렇게 빨리 자랐나",
+        "body": "관측 결과 이 블랙홀의 물질 흡수 속도는 이론상 최대 한계인 에딩턴 한계의 약 12~44% 수준인 것으로 나타났다. 연구팀은 블랙홀이 빅뱅 직후 극히 빠른 속도로 자랐거나, 처음부터 큰 질량의 씨앗 블랙홀로 시작했을 가능성을 제시했다. 다만 이번 관측만으로 형성 경로를 확정할 수는 없다고 연구팀은 덧붙였다."
+      },
+      {
+        "heading": "초기 우주 연구의 새 이정표",
+        "body": "이번 퀘이사의 적색편이 값은 8.13으로 기존 기록을 경신한 것으로 보도됐다. 초기 우주에 이미 초거대 블랙홀이 존재했다는 사실은 블랙홀 형성·성장 메커니즘을 둘러싼 천문학계 이론 논쟁을 한층 가열시킬 전망이다."
       }
     ],
     "sources": [
       {
-        "title": "'A real breakthrough': Rutte praises Trump's readiness to contribute to Ukraine's security guarantees",
-        "url": "https://www.ukrinform.net/rubric-polytics/4027095-a-real-breakthrough-rutte-praises-trumps-readiness-to-contribute-to-ukraines-security-guarantees.html"
+        "title": "빅뱅 6억3천만년 후 퀘이사 발견…태양 질량 3억6천만배 - 재경일보",
+        "url": "https://news.jkn.co.kr/post/1120146"
       },
       {
-        "title": "Trump signals support for security guarantees for Ukraine, stresses Europe's role",
-        "url": "https://www.yahoo.com/news/articles/trump-signals-support-security-guarantees-073934568.html"
+        "title": "[사이테크+] 빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀…성장 비밀은 - 뉴스통",
+        "url": "https://www.newstong.co.kr/view3.aspx?seq=14838134"
       },
       {
-        "title": "NATO Chiefs Signal Unity on Ukraine as Trump Pushes Bilateral Security Guarantees",
-        "url": "https://www.kyivpost.com/amp/post/58656"
+        "title": "[사이테크+] 빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀 - 네이트뉴스",
+        "url": "https://m.news.nate.com/view/20261125n00026"
       }
     ],
-    "headline": "트럼프, 우크라 나토식 안전보장 지지 시사",
-    "generated_at": "2026-11-24 17:31 KST"
+    "headline": "우주 탄생 6억 년 만에 초거대 블랙홀 확인",
+    "generated_at": "2026-11-25 05:20 KST"
   },
-  "젠슨 황": {
+  "공소": {
     "sections": [
       {
-        "heading": "황 전 CEO 공개 복귀…복직 가능성 열어둬",
-        "body": "사임 이후 모습을 감췄던 젠슨 황 전 엔비디아 CEO가 공개 석상에 다시 모습을 드러내면서 AI 관련 불안 심리가 일부 해소됐다. 황 전 CEO는 회사 복귀 가능성을 열어두는 발언을 했으나, 엔비디아 이사회 의장 하비 존스는 이사회가 황을 복직시킬 의사가 없다고 명확히 선을 그었다. 측근들을 중심으로 복귀 로비가 진행 중이라는 보도도 이어지고 있다."
+        "heading": "청문회 핵심 쟁점은 '공소취소 지휘권'",
+        "body": "이용철 법무부 장관 후보자는 24일 국회 법제사법위원회 인사청문회에서 공소취소 지휘 의향에 관한 집중 질의를 받았다. 야당이 '공소취소를 지휘하지 않겠다는 말을 못 하느냐'고 압박하자 이 후보자는 '예, 그렇습니다'라고 답하면서도 명확한 의사 표명은 피했다."
       },
       {
-        "heading": "사상 최대 실적…'AI 우려 해소 vs 더 지켜봐야'",
-        "body": "황 전 CEO의 사임 이후 발표된 엔비디아 3분기 실적은 매출 1,158억 달러로 사상 최대치를 기록해 경영 공백에도 실적은 견조하다는 평가가 나왔다. 증권가에서는 'AI 우려가 해소됐다'는 분석과 '2~3일은 더 지켜봐야 한다'는 신중론이 엇갈리고 있다. 황 전 CEO와 연관된 추가 불륜 의혹 보도가 이어지면서 엔비디아 지배구조에 대한 관심은 여전히 지속되고 있다."
+        "heading": "'법과 원칙' 반복으로 확답 회피",
+        "body": "이 후보자는 청문회 내내 '진상규명이 먼저이고, 나머지는 법과 원칙에 따르겠다'는 말을 반복했다. 그는 서면답변에서 공소취소 여부는 검찰총장의 지휘를 받는 검사가 할 일이라는 취지로도 답해, 장관 취임 후 검찰총장을 통한 간접 지휘 가능성에 대한 해석이 엇갈렸다."
       },
       {
-        "heading": "시가총액 급감 속 '통과해야 할 3대 관문'",
-        "body": "엔비디아의 시가총액은 일주일 사이 759조 원 감소했으며 애플과의 격차도 1,000조 원 이상으로 벌어졌다. 시장 분석가들은 황 전 CEO가 복귀하려면 이사회 설득, 주주 신뢰 회복, 대외 여론 관리라는 세 가지 과제를 통과해야 한다는 분석을 내놓고 있다. AI 최대 수혜주로 꼽혀 온 엔비디아의 지배구조 불안이 단기간에 해소될 수 있을지 주목된다."
+        "heading": "여야 공방 속 27일 경과보고서 채택 논의",
+        "body": "여당은 야당의 공소취소 공격이 선동이라고 반박한 반면, 야당은 이 후보자를 사실상 '공소취소용 장관'이라고 규정했다. 국회 법사위는 오는 27일 전체회의에서 이 후보자에 대한 인사청문 경과보고서 채택 여부를 논의할 예정이다."
       }
     ],
     "sources": [
       {
-        "title": "엔비디아, 젠슨 황 없이도 사상 최대 실적",
-        "url": "https://www.mydailybyte.com/post/엔비디아-실적-2611"
+        "title": "이용철, '공소취소 지휘 안하겠다는 말 못하나' 질문에 '예'(종합) - 파이낸셜뉴스",
+        "url": "https://www.fnnews.com/news/202611241833349958"
       },
       {
-        "title": "일주일 새 759조원 감소…애플과 격차 1천조원으로 확대",
-        "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1437000"
+        "title": "이용철 청문회 '공소취소' 공방…野 '공소취소용 장관' 與 '선동' - 노컷뉴스",
+        "url": "https://www.nocutnews.co.kr/news/6612102"
       },
       {
-        "title": "Trump says Jensen Huang's return certainly isn't a bad idea; Nvidia's board isn't considering it",
-        "url": "https://www.tikr.com/ko/blog/trump-says-jensen-huangs-return-certainly-isnt-a-bad-idea-nvidias-board-isnt-considering-it"
+        "title": "이용철 청문회 여야 격돌…공소취소 지휘권 쟁점 - 스페셜경제",
+        "url": "https://www.speconomy.com/news/articleView.html?idxno=420340"
       }
     ],
-    "headline": "젠슨 황 복귀에 나스닥 5000선 회복",
-    "generated_at": "2026-11-24 17:31 KST"
+    "headline": "이용철, 공소취소 지휘 여부 즉답 피해",
+    "generated_at": "2026-11-25 05:20 KST"
   }
 }
