@@ -22,7 +22,11 @@ jobs:
     outputs:
       skip: ${{ steps.check.outputs.skip }}
     steps:
+      # ref: main — 기본값은 트리거 시점 커밋이라, concurrency로 앞 수집을 기다린 백업은
+      # 방금 들어온 수집을 못 보고 다시 수집했다가 push rebase 충돌로 실패했다(11-25).
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: 최근 정시 슬롯 이후 수집됐는지 확인
         id: check
         if: github.event_name == 'schedule'
