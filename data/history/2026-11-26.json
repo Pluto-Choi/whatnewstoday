@@ -1,0 +1,487 @@
+{
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26 05:16",
+  "briefing": {
+    "text": "조희대 대법원장 탄핵을 둘러싼 여야 충돌이 격화되는 가운데, 북한이 스위스 외교사무소를 전격 폐쇄하며 외교 긴장도 고조됐다.\n\n민주당은 탄핵 사유의 중대성을 강조하며 탄핵을 밀어붙이고, 국민의힘은 탄핵 남용 우려를 내세우며 맞서고 있다. 북한은 김여정 담화 하루 만에 스위스 외교관을 48시간 내 추방하라고 통보했는데, 스위스가 미·북 중간 채널 역할을 해온 국가라는 점에서 파장이 주목된다.\n\n경제 분야에서는 미국이 한국을 포함한 14개국에 과잉생산 관세 추가 부과를 예고했고, EU는 한국산 하이브리드차 수출을 내년 6월까지 6만7천여 대로 제한하기로 하면서 수출 환경에 잇따라 제동이 걸렸다. 반면 삼성전기는 11년간 보유한 자사주 전량 약 1조7천억 원어치를 소각하기로 결정해 주주환원 기대감을 키웠다.\n\n연예·스포츠에서는 넷플릭스 드라마 '재혼황후'가 45개국 1위를 기록한 채 오늘 종영하며 화제를 모았고, V리그에서는 화성 IBK기업은행 최정민이 데뷔 7시즌 만에 처음으로 1라운드 MVP를 수상했다.",
+    "period": "아침",
+    "generated_at": "2026-11-26 05:16"
+  },
+  "categories": {
+    "오늘의 이슈": {
+      "summary": "미국이 한국에 15% 관세 상한 유지하며 과잉생산 관세 추가 · 북한, 스위스 외교관 추방 · 젠슨 황 복귀에 나스닥 6.5% 급등",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "조희대",
+          "count": 1,
+          "articles": [
+            {
+              "title": "김민석, 조희대에 \"이완용의 친일 행각도 봐주게 되는 거 아닌가\"",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnNyT3Z6Y0dpNW40OE1CUGtSTzB4QXZoMkJoUUwtcHhmczZQYjhGS19qU3oyLVYwZTc2dmtFY3VxT3h3Nk1KNExSTDNjaGRmc19XMm5VRy1qeWtlV3FXcGU1bU4yVVNCenF4cGRkekI1cXFYWm5XYVlfbU1uUHJXNmlZQnExdzFXbXRaZGwyNVE?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "與 “조희대 직무정지만도 실익”…헌재 탄핵 남용 우려",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xaDBDeHZ6dUxVNFQxbTdKT0s4UVVLVnB6MWdaclRVWXgxamlKdFFoVEJUZmx5OEJPWnBpaS1iQ0JpRkY4R2o5NnUzcF9hV3NzT1FhVGR3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
+              "source": "한겨레"
+            }
+          ],
+          "description": "조희대 대법원장 탄핵 추진을 둘러싸고 여야 간 충돌이 격화되고 있다. 민주당은 탄핵 사유를 합산하면 중대성 요건을 충분히 넘긴다며 탄핵을 밀어붙이는 반면, 국민의힘은 헌재의 탄핵 남용 우려를 거론하며 직무정지만으로도 실익이 있다고 맞서고 있다. 민주당 김민석 의원은 조 대법원장을 이완용에 빗대는 강경 발언을 쏟아내며 여론전에 나섰다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "조희대 탄핵, 여야 공방 가열"
+        },
+        {
+          "rank": 2,
+          "word": "관세",
+          "count": 1,
+          "articles": [
+            {
+              "title": "美, ‘과잉 생산’ 관세 추가... “한국엔 15% 상한 유지”",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUlKVjBiYmt3X0FQUEIyXzFmVzBfUTVsWGRxTmNXZHBEQUZvX1RheDM5NW1iYVAzZk8temN1NnY2MzlYeG1zRk5WelF3Vm5IZjdEU1FiRmY5QWFZdUpfUzgxZXN1dXhleFI4NUluS19qN0ZMaWI1WDAzcmNOQnV2UHRmNnE?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "美, 한국 등에 ‘과잉생산’ 관세 추가…‘관세 상한’ 15%는 유지",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Qm9BcnJrRmstejRzZmxBWnc5dVBZNG1LS1B2eWNHV2hoV2F1V1ZIbUFkMGwtdFBNSEtib1dtbW9IbUpldUF0Nl82WjRid1NtZEVON2V3?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUEZwVVktUWppWGtveEl1VTJZb1VWSnZYTWJadUNWc2hJaXZsaVRjRU9GcGQ5RDRTalAyTUc0dFh4bnJrZTRnLURpWXlFS0ZLSUFqWkE3TUo2dnItdXVOWm1taXRBQQ?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "미국이 한국을 포함한 14개국에 '과잉생산 관세'를 추가로 부과하겠다고 예고했다. 다만 기존 합의에 따라 한국에 적용되는 관세 상한선 15%는 그대로 유지된다고 밝혔다. 중국산 저가 제품이 제3국을 경유해 우회 수출되는 것을 겨냥한 조치로 풀이되며, 한국 수출 기업들의 추가 부담 여부에 관심이 쏠리고 있다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "미국, 한국에 '과잉생산 관세' 추가 예고"
+        },
+        {
+          "rank": 3,
+          "word": "김여정",
+          "count": 1,
+          "articles": [
+            {
+              "title": "北, 스위스 외교사무소 폐쇄…김여정 담화 하루 만",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uNDQzUkQyZXU0TFZHSnFRcGtOQzFLdTZGUzJHRm1ScTNnaTBWbDVacHNKMTFHcmJ4ZHVfMmc1NlZyNEJ2WHRkVnlmSEZ3Z01oa1lsT0FnQ2ZaODJoelpfM3NQQU90ZVU?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "김여정 담화 하루 만에 “스위스 외교관 48시간 내 추방”···대북 제재 압박에 선제 대응 나선 듯",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEY2d1Frcl8tOU05d0NmaS12dWsxaFpZNTJGbW1zUllSeFZTbmtHWVAtU3MtWG9yZjZtcjl2SEFpZ09mTGRuZGl2cmpzUGNNV0YxOXprOGFlSDJublVmUHZ5Q2tGbm9jcGs2OU8xcjI1WURhS2t3UHFRUzRVRXJfMjhmYnJzdXRkbDNuZlViTE50YXRCeG5pNVk2RmUxMU5YMmpmeVVyaUVaUdIBX0FVX3lxTFBNd0kwa0VGSzZZMkw5R1plMDRSR0pOR2ZJOEZRU21LcUR3ZkxwNDA0WG96dGdMcDRlMTRpajE2YU1wSGFMTWh4VzdNYUY3WFRFbjZzVmpkSkVrMWlielVF?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "북한이 김여정 노동당 부부장의 담화가 나온 지 하루 만에 스위스 외교사무소를 전격 폐쇄하고 스위스 외교관을 48시간 내 추방하라고 통보했다. 대북 제재 압박이 거세지는 상황에서 북한이 선제적으로 외교 관계를 차단한 것으로 분석된다. 스위스는 그간 미국과 북한 사이의 중간 외교 채널 역할을 해온 국가여서, 이번 조치가 외교적 파장을 불러올지 주목된다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "김여정 담화 하루 만에 북한, 스위스 외교사무소 폐쇄"
+        },
+        {
+          "rank": 4,
+          "word": "나스닥",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNE5yZlFNMHBNd3NuRWxTbEQ4NXBETVpNemtUczVvTlh3NXJiQllRQ25MSGRYdXdSRU1RajB2Q1hjQk9VMXRMX0hsYjAxUDR5X2xucjBZcl93T2PSAWBBVV95cUxQd1U5V2R3clR0bTE5U19OcC1hR3lrdVVBY0RuWHdrVWJjMV9XSTJ5X1dETkNvcFNvNnU4TXNMemVYQ28zWFY5b2NHTDlsZXVqRjZ2YzRESFg4cGpvR2tLai0?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "‘하루만에 무려 1300조!’ 그가 돌아오니 ‘31%’ 급등…나스닥까지 6.5% 올라 [투자360]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yYTMwZTcwQk9oeF90dHY0cmJlWlQtNFlIMERFU2FzQjd3T0NLVlg2d3d5Qlp3cTR3WEtSMEJFRUxaam10OEJfZDNWaE03M2FWWG50MGhR?oc=5",
+              "source": "헤럴드경제"
+            },
+            {
+              "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YkNjUXNJRDV4TWhEc2xOZ0VDTUkzN0NCa2NGeGdpWkZlVE5jeVhsM2tTWkxMMXdpaFFVUEhGUHJsNERxNllYdVdGazAtbkZJTUpPd2hLcGlXUVU?oc=5",
+              "source": "KBS 뉴스"
+            }
+          ],
+          "description": "젠슨 황 엔비디아 CEO의 복귀 효과로 나스닥이 6.5% 급등하며 1년 7개월 만에 최대 상승폭을 기록했다. 엔비디아 주가도 하루 만에 31% 치솟으며 시장 전체를 끌어올렸고, 하루 새 늘어난 시가총액이 1300조 원에 달한다는 분석도 나왔다. 다만 AI 주식 매도 우려가 다시 부각되며 장 초반 4%대 급락세를 보이는 등 변동성도 여전히 큰 상황이다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "나스닥 6.5% 급등…1년 7개월 만에 최대 상승"
+        }
+      ]
+    },
+    "경제": {
+      "summary": "삼성전기 1.7조 자사주 소각 결정 · 코스피 급등락 반복하며 변동성 확대 · 트럼프 엔비디아 규제 역풍",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "수출",
+          "count": 5,
+          "articles": [
+            {
+              "title": "EU, 한국산 하이브리드차 수출 내년 6월까지 6만7924대로 제한",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGpRaTFuNktpM2wxeVgtUkFESnVkZXBfSDdMZ0xaZzMweXAtTlIwaVk3T0lNaWgtRHZDUTE3QTNGS2oydU1zT1gxbWVEQjg5a0o4M1lNeDU3ZUFNMGthRjJmUy1MRGxBVTNac3FEdUljNlhQTE9PamE3VFdkLU5JYnpxUmgxLXZGVUxiLUthUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "KB證 \"2027년 성장률 2.8%→3.6%…반도체 가중치·수출 전망 변경\"",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSWw4SlUyUm1Bcm55aWtlN3BWdGIwRFBadEJiVUpkTlJlUlp0M2V2cmsxcTB0OTdyVUtMall6MVR2ZWUzblR4dXYycVZCN1QxNG5QSGg2azI1Z0pPZnU3SlFGb01aU1FPTlRGNDNfM0g?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "반도체·선박 '부진' 속 석유·車 '날개'… 전남광주 수출 34% 급증",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qQldZbUcwM1N6ZVJVaVNKVUpqNElTakNuNmpIZjdMZzhqNHFkYWpMTXZmZ3VFZUJiWEczS3A5bEVOSi1DeEtrVzRHclRobHJwQmtLTkNpNWRVam8yLTJxadIBeEFVX3lxTE9MQzdyT3ljcnRiemVYNEI1Mmo2Vkg3X3AzQnd0Ri1mcGVBYlhNMWVIRmwtbWpzdFZWUUFsNnotQ3FuVUZsR3FBWjRFWFV3M3FrTHUtaE1YVDhWa0hkM0pNOUtXRFM4djlhLTA4VE5ZOVB2cGFXYVJ0Tg?oc=5",
+              "source": "뉴시스"
+            }
+          ],
+          "description": "EU가 한국산 하이브리드차 수출을 내년 6월까지 6만7924대로 제한하기로 했다. 반도체·선박이 부진한 가운데 석유·자동차가 선전하며 전남·광주 수출은 34% 급증한 것으로 나타났다. KB증권은 반도체 가중치 조정과 수출 전망 변경을 근거로 2027년 성장률 전망을 2.8%에서 3.6%로 상향했다. 품목별·지역별 수출 명암이 엇갈리는 가운데 대외 통상 환경 변화가 수출 구조에 미치는 영향이 주목받고 있다.",
+          "headline": "EU, 한국산 하이브리드차 수출 연간 제한"
+        },
+        {
+          "rank": 2,
+          "word": "삼성",
+          "count": 4,
+          "articles": [
+            {
+              "title": "삼성전기, 1조7천억원 규모 자사주 전량 소각 결정",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JLTlqeDNWNWJOYS1zZmxzWVRHWjZVdXljRWN5S25ENUFzMWNXSHp6bUtvbHZxOTlfVTF6bzQ1cU90b3M5OU9nRmd2R3J2bGw3cUZ2MHN5UnpDUDE1YXFUWTdFdGh5cXZ6V3FwZkJmSmE?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVozWDBCOXJhWVlkOHc4bDItSXZUNmloaW5yS2RUanZldDhJanI5MExTdkwwSjBXUmFhM1FGbW9UbFlKRHlSQTMtSDZ0LWVCV3A0YkU2RnBvMzE0VWhLNVh5Q0g4MHlOVVBfeGk3N0phdldPcDVrWHNBeWk1SExGbWdn0gGWAUFVX3lxTE4xUzgweWRXYXlkRzFuMTdpWmluZ0RCZi1Yb09MVGhJaVZnclk4OVRiVDNua1E2bmNkekF5ZzZIMDQ0bXMydHF6cXBST2s4MTVVSnJzd1V0UktqbTUwYXJUeHJEQmx5Wl9zYmViQUtKOWpaZmN4emtZQ1hsMWJ6SXpFMmtYX0VnRGhCMjBLYUIzZk91OV9TZw?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRDJPME11UXEyS2h1TmZwZWZFZ0U4OWZwWnc4bGdIVUZScjA5QjdLZVJURjc3ckVNVDhNM0p0TXl0V3hVUlZGUXh4a2NXVm9jb3gwN0JBQ2xZWUHSAWBBVV95cUxQcXZ1c0ZMMVVQckhvYjdXeWxidmpqWllJNkRZNDNmTk1kUGk0N3VQV2RPZVR2MWo5aGJlSWFVci1xWENkSGhTbVFkNnpwaGwzdk9qTUlzVUg0elVZN1VKODM?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "삼성전기가 11년간 보유해온 보통주 200만 주를 포함해 총 1조7319억원 규모의 자사주를 전량 소각하기로 결정했다. 주가 상승으로 소각 규모가 당초 대비 12배까지 불어난 점이 눈길을 끈다. 자사주 소각은 유통 주식 수를 줄여 주주가치를 높이는 대표적 주주환원 조치로, 시장에서는 긍정적 신호로 받아들이고 있다.",
+          "headline": "삼성전기, 1.7조원 자사주 전량 소각"
+        },
+        {
+          "rank": 3,
+          "word": "젠슨",
+          "count": 3,
+          "articles": [
+            {
+              "title": "美무역대표, 젠슨황 복귀에 \"트럼프, 경제·안보 균형 맞춰\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pR3pKU29QZWRWMnBEWXlEWXVKLXloQVhsUmZJRDU3eDJuR3ZfQjdsVk92MXctZzFBMVZFTVJvb2JrMmVrenJmV0pWc0dKVk10Vjk5ZTBqcl84bHfSAWBBVV95cUxOdW5QMnYyRUwxS2F2TEp6VVZ4QVVrM2lSRkh6WWRkUFFJaFkwZGd1MlUtOHp6eWoxV25XaGRUdkctdkpKaXFQT2ktb0hOV244aEg5V1RuVWtBd0RqY2FJUU8?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "젠슨 황 복귀에도 지배구조 ‘경고등’…S&P, 엔비디아 신용등급 하향 검토｜Global Money Club",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBscE1KeVh5RjN0Q0Jac3VHODZrMXZTUi1sLS0xQ2pLczZ2MXpzTzQ4MzdyZXFKR1BlMzFGZDZBRmxVa0ZEVldLTXNjRURDZzgyX2pjT2ZtaUgzQ28?oc=5",
+              "source": "중앙일보"
+            },
+            {
+              "title": "일일천하로 끝난 젠슨 황 효과···코스피 6% 급락, 4700선 무너져",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcnZ3R0ZqNTlyT0dJbm1tUXU5anlvVDk1eTI3NXgzOWJSLURmR19VNDFHX0paUjNfbnU5WmlmbHBEem9mVHJHVmtKVlgtbUZyeWs0SVpyQlZPUdIBX0FVX3lxTE51VjZBa1g2WG83VWduNE9jQThTdW1YMC1jR1Y0RElkdjZ4RUVhVTQyV1JBUVB3cHkxTWgtVGtVSXdwTEhYdExLYnFwRHJjd2w4SGVqdVVjcm0wSjlLV0tZ?oc=5",
+              "source": "경향신문"
+            }
+          ],
+          "description": "젠슨 황 엔비디아 CEO의 복귀 소식으로 반짝 랠리를 보였던 코스피가 하루 만에 6% 급락하며 '젠슨 황 효과'가 일일천하로 끝났다. 미국 무역대표부는 그의 복귀에 대해 트럼프 행정부가 경제·안보 균형을 맞춘 결과라고 평가했으나, S&P는 엔비디아의 지배구조를 문제 삼아 신용등급 하향 검토에 나서 불안 요인도 부각되고 있다.",
+          "headline": "젠슨 황 복귀 효과, 하루 만에 꺾여"
+        },
+        {
+          "rank": 4,
+          "word": "코스피",
+          "count": 3,
+          "articles": [
+            {
+              "title": "‘젠슨 황 랠리’ 하루만에 끝났다…코스피 6.16% 급락, 4700선 붕괴",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1laWp6dVN4YlozcmhWdWlHY3l6UnZDa0lxSHpPZ2FQNUxHNnRHbldhOWVlNW5hamtrMWNkTUllb1A4Rl85ZnZKWGVwMHZZdS1vSlFjZjE0RTdBMS1uX1ZGc0pTRlVFUFlpQ2RtUEdoVWpNaTFDenfSAWZBVV95cUxOemktWDFlSFBJdWxBLThSMjAydHdES2VwZ01oc3l3MGsyM1Z0S25LRHowb3E5V19TMGZQeDYzUkl2WU9ZczB1Qms3eUJncUJXYldjN0xyaGl4SmpmcEg4VU9ZeEJmVHc?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "코스피 6.32% 급등해 '오천피' 회복…코스닥도 4.79%↑",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVXpQQ3RaZ0x1M1RhT1VMX2VmSDZSNllWVU1IS3dsUjdSU1BZSnNDeHgtMGxLYkdKN2pOeFpIMDZXWDFvUGJZV2x1dUJLUFEtMFBnMWhEUWV2UQ?oc=5",
+              "source": "한국경제"
+            },
+            {
+              "title": "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcUZEbVVjZ2VGSHJXeDVfVS1IMmt0WFJ5dWs4Ull5cFkxRUNjVDVNNXNFMXV0TlltbXNnOWVadTctbjY3ck1WM20tRE1kX0Q2N0pqVnpjNGJoM0hjY0JuZTNkb0ZvRzFh0gFuQVVfeXFMTmthMzlzU0ROSU5VUDZlc0ZGUXVuV2NsTkdBOHVPUjJMelVKMmhqSlVJeE5uTmtELVpwWTF0NFdGU1oyTWk5Zi1IU0xiblhfbHVhME1acVVpVE16UW9GN1VlQXpTRGpxU040QnFNb1E?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "전날 6.32% 급등하며 '오천피'를 회복했던 코스피가 하루 만에 6.16% 급락해 4700선이 붕괴됐다. 젠슨 황 복귀 기대감이 단숨에 꺾이면서 3600조원에 달하는 시가총액이 증발했다는 분석이 나온다. 반등과 급락이 하루 간격으로 반복되며 투자자들은 '이제 무엇을 사야 하나'는 혼란 속에 마땅한 피난처를 찾지 못하는 상황이다.",
+          "headline": "코스피 6% 급락, 4700선 붕괴"
+        },
+        {
+          "rank": 5,
+          "word": "트럼프",
+          "count": 3,
+          "articles": [
+            {
+              "title": "\"앨리스 황, 中에 정보 넘겼다\"... 트럼프 탄핵 불쏘시개 되나",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0h6cjlCWE9kcFo2SlJxQzdSTGN0WHU5TE05RllWRGZRZ0p5MW1Sa1lPTHNvTF9mY3JDbkc1ZnNQVnBBTXZ1MEF6ZGdwa2tHX0x1RmU3UWdWT1VqLUVjdWdGQk8xM0lUQ21wU0xpSlJXQ0R3Sk9fVm1kUzdBeVdUTTNPWnhYYUYzSDBvcXJOWHlPX2RqT0Rad3M1TkNzUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "엔비디아 손댔다가 부메랑 맞는 트럼프...\"자본주의 아닌 마오주의\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaTR5SXpEMEtKSTRiNllrRnVaQnpIMERmMlFGTzYyQ0JqdVBXd1h2a1VBbWt1bks5MG9WdjdfVVRCd1JnZFBqNXRYNVJfQ1BBS3ItT0hSa2hMUUZacFE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSFduMGFTVGZsOVpGVnR1NkNsTEk0aFRyRkNhY19wcEpJQ3BGQWhoZEtZVnhlT0tOWnpOZExMWFVBZ1NjM0dhbFNHUkFyam1hbmE5MkpIMTJSRTjSAWBBVV95cUxOdnI4VFN1Sy1fazlRd1JNU0FfUUVEcGFqMzVIbUlwLWI4dzc4dEZubnNzUmJsT1g5TktqbEpjNXhmdnJxaUV5Rkt3UnRJTlFhQWNaUUFNb1ZLTjhwNXhrdzg?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "트럼프 행정부의 엔비디아 수출 규제가 되레 미국 반도체 산업에 부메랑이 됐다는 비판이 거세지고 있다. '자본주의가 아닌 마오주의'라는 혹평까지 나오는 가운데, 이민정책 비판의 상징으로 떠올랐던 엘살바도르 남성이 스페인에 도착하며 트럼프 이민정책도 다시 도마에 올랐다. 여기에 '앨리스 황이 중국에 정보를 넘겼다'는 주장이 불거지면서 탄핵 논쟁의 불씨가 될 수 있다는 관측도 제기된다.",
+          "headline": "트럼프, 엔비디아 규제 역풍 맞아"
+        }
+      ]
+    },
+    "연예": {
+      "summary": "'재혼황후' 45개국 1위로 종영 · '호프' 청룡영화상 최우수작품상, 설경구·전도연 주연상 수상",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "재혼황후",
+          "count": 2,
+          "articles": [
+            {
+              "title": "45개국 1위 찍은 ’재혼황후’, 오늘 종영",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRnJqWHJaX2RadER6SjQyd3I4RU9FYzE0US1jTFJWdHJNeGNIOGZmTC1vWExSSm50bHREV0o2azc4REF0ZFdiSDZNQzNXNjYzTldZcHlSNmRNOWRYM3ZSb1BXcjFZQ1U?oc=5",
+              "source": "연합뉴스TV"
+            },
+            {
+              "title": "'재혼 황후' 신민아, 이종석은 프러포즈 주지훈은 애원 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ybHBfWUJoY2cxX01qNkx1eUVIYXJvTU1ZVGhDSjhoT2hrc1FrdEJxWExCaHctZFVzc01xaG84Qlpmd29KY0VWOXl6c0RHeGRYVnRVbjBSUzhtaHNUdzNKZ1FKdTFmUzFxeFd6N04tWURhZDjSAXhBVV95cUxOVU1KcXA2Uy00Z0dwUXhjR19Wbkw2aGY4UzNXMVk4NXVOcVpoOE1ObTQydzhJVUhOVDR5amVOTXFzc0pwNGtDRmJkVWJZWENvZlFxWUxzNnlMc3d5b2F0TVdieXh6eWFva2JFNHdWdUVNTFJsUmNGblo?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "'재혼 황후' 이종석·최대훈·이준혁, 서왕국에서 생긴 일 [IZE 포커스] - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0TUVDWmRmcS1KUHpCZXZXdDNteVpFeHA3MDZWUjhwNXpKdHV6dFFTWldiYXVRWUJYLTFWR3JJdENmWXVhYTJoX0dUNWhaa2hZb0pwcGM3V0Y1Wmx0WnBqMkRqNkg5ZElBQlJYLXhCbGExNjjSAXhBVV95cUxOOW5rb3hGbUtTNmcyWVZ2S3R3TXUwVzI4SjlnbTU1dkpybjBQQzRmeDhLT1NMb0FfcGFUd2ZENDhFVjF0UVhoYlRGY1hxX2lVNFVZTmc0LThKVVZNMkNsdXlub1k0Ym1QVXRLN3FBRXNfaDVIcUxZbXA?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "넷플릭스 드라마 '재혼황후'가 45개국 1위를 기록한 가운데 오늘 종영을 맞았다. 신민아가 연기한 황후 라스타를 두고 이종석은 프러포즈를, 주지훈은 애원을 택하는 엔딩이 화제를 모으고 있다. 이종석·최대훈·이준혁 등 남자 주인공들의 활약도 주목받으며 작품 전반에 대한 시청자 반응이 뜨겁다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "재혼황후, 45개국 1위 찍고 오늘 종영"
+        },
+        {
+          "rank": 2,
+          "word": "이세영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'1억 성형' 이세영, 적나라한 전후 비교…학창시절 사진 공개 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ob3NYZWRWSllpaDNOV2JlNUFzSFFMcVkyYWJOYkZ6eVFWVkRzSzRMbnF1WnVtT29xVHdFVTVjSmxoQkJiakp1aEFQckNDMk5UNkJaZkMwZzBpSDFPbGEzNmtyRG5hVGFIUzVwZjgxZ0NtUlXSAXhBVV95cUxPRVhMV05rUW9jUDBEVDJ5QTZnV0J3S2I5ZHFGdXlFT0NRME0zdzZhVTVyOE5zZUxsazVGR1dVWmp6QVRrVkRfTEFlQTBvc3Z4VHkwcV9SaGI0R1dUa0hDT1ptM3l6bW1xck5HMHY0dzJMcjQxTzZiX2I?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "\"'라스타'는 여러분 덕분에 행복했어요\"…이세영, '재혼황후' 종영 앞둔 소감",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac3hGMVBoaTZOYXNmNGdodjF5Z3NkaUhWUDdHakJ5elR2REVydHhaUVh4eTBDZnVGbFEzSjBTMElsSW03RktXbEJfM1I0OHJLenZEUXYzTC16b0hpYUtlYkN3dWl6VmdJeEE?oc=5",
+              "source": "SBS 뉴스"
+            },
+            {
+              "title": "33세 이세영 ‘동안 미모’ 비결? “선크림 진짜 열심히 수시로 발랐다”…4년 반 동안 나타난 변화 [그들의 건강美학]",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aN01la1Myd3BodmNIWVpUNWpBTkpHd1RTd1dsWEpTa080VzRzdkFIb0tadGVaMTJYSl9xbndqMW0xMXJRbnVOZmkwcjl5ZGxBX2E5cmdB?oc=5",
+              "source": "헤럴드경제"
+            }
+          ],
+          "description": "배우 이세영이 출연 중인 드라마 '재혼황후'가 종영을 앞두고 그가 직접 소감을 밝혀 화제다. 그는 '라스타'(극 중 역할)로 함께한 시청자들에게 감사 인사를 전했다. 한편 '1억 성형' 루머와 관련한 학창 시절 사진 공개, 33세 나이에도 동안 미모를 유지하는 비결로 꾸준한 선크림 사용을 언급한 인터뷰도 함께 주목받고 있다.",
+          "headline": "이세영, '재혼황후' 종영 앞두고 소감 전해"
+        },
+        {
+          "rank": 3,
+          "word": "트럼프",
+          "count": 2,
+          "articles": [
+            {
+              "title": "\"앨리스 황, 中에 정보 넘겼다\"... 트럼프 탄핵 불쏘시개 되나",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0h6cjlCWE9kcFo2SlJxQzdSTGN0WHU5TE05RllWRGZRZ0p5MW1Sa1lPTHNvTF9mY3JDbkc1ZnNQVnBBTXZ1MEF6ZGdwa2tHX0x1RmU3UWdWT1VqLUVjdWdGQk8xM0lUQ21wU0xpSlJXQ0R3Sk9fVm1kUzdBeVdUTTNPWnhYYUYzSDBvcXJOWHlPX2RqT0Rad3M1TkNzUQ?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "엔비디아 손댔다가 부메랑 맞는 트럼프...\"자본주의 아닌 마오주의\"",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaTR5SXpEMEtKSTRiNllrRnVaQnpIMERmMlFGTzYyQ0JqdVBXd1h2a1VBbWt1bks5MG9WdjdfVVRCd1JnZFBqNXRYNVJfQ1BBS3ItT0hSa2hMUUZacFE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSFduMGFTVGZsOVpGVnR1NkNsTEk0aFRyRkNhY19wcEpJQ3BGQWhoZEtZVnhlT0tOWnpOZExMWFVBZ1NjM0dhbFNHUkFyam1hbmE5MkpIMTJSRTjSAWBBVV95cUxOdnI4VFN1Sy1fazlRd1JNU0FfUUVEcGFqMzVIbUlwLWI4dzc4dEZubnNzUmJsT1g5TktqbEpjNXhmdnJxaUV5Rkt3UnRJTlFhQWNaUUFNb1ZLTjhwNXhrdzg?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "도널드 트럼프 미국 대통령이 연예 분야에서도 화제에 오른 가운데, 엔비디아 관련 반도체 규제가 오히려 미국 기업에 부메랑으로 돌아온다는 비판이 나왔다. '자본주의가 아닌 마오주의'라는 직격 표현까지 등장했고, 앨리스 황의 중국 정보 유출 의혹이 탄핵 논란의 불씨가 될 수 있다는 분석도 제기됐다. 이민정책 비판의 상징으로 떠오른 엘살바도르인이 스페인에 도착했다는 소식도 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "트럼프, 엔비디아 규제 역풍·탄핵 논란 겹쳐"
+        },
+        {
+          "rank": 4,
+          "word": "호프",
+          "count": 1,
+          "articles": [
+            {
+              "title": "'호프', 최우수 작품상…나홍진 \"칸에서 주시지, 모두 최고였다\"",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONENlbF9hQ1JTeklybmgzRVByUUpFYXkxaF84Yk5xcy1ZblhXdFN6X2dCR3NkRnE3ekZETXZfZzBDUUQ4MmxQUHJnYXRJSHBoakpsNzRzLTdieVBhT3g3dWM3Y0NOSWxnT2RZLWpUeUN0S0dSUzNOYzlMZnBQM0lqRVhnWTdSUk94UzZROHFWSTFfTzJ4?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "조인성, '올해에만 호프 등 3편의 장편 영화에 출연'",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUjdFUmV6U1hSRHg2cm1XcWlZY2NHcTllU0RFZmUybklNV2ZNWERSZGRWM3ZOaS1mWW1TVm9wWTJ1c2VzTVM3N3RfNTFJUQ?oc=5",
+              "source": "전자신문"
+            },
+            {
+              "title": "나홍진 ‘호프’ 청룡 최우수작품상, ‘가능한 사랑’ 4개 부문 석권",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TNVZXMEpmdDVUdUEwSmJRaUgxa2F2UHg2TDZWbmRVYU9DLS1sOHJRckFSU09CVGVlX1ppX3BKYnFGYkI1SzBNLVRWbTJ6alc0RnYtc3FB?oc=5",
+              "source": "중앙일보"
+            }
+          ],
+          "description": "나홍진 감독의 영화 '호프'가 청룡영화상 최우수작품상을 수상하며 오늘 화제의 중심에 올랐다. 나홍진 감독은 수상 소감에서 \"칸에서 주시지\"라는 유머 섞인 말로 이목을 끌었고, 주연 배우 조인성은 올해에만 '호프'를 포함해 3편의 장편 영화에 출연한 것으로 알려졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "'호프', 청룡 최우수작품상 수상"
+        },
+        {
+          "rank": 5,
+          "word": "설경구",
+          "count": 1,
+          "articles": [
+            {
+              "title": "청룡영화 작품상에 ‘호프’... 주연상은 설경구·전도연",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1Z0c25makwteUJsaVd3S1lzRjZ0VTJkbDhCWEJqYk5KNlRWOEtpTHlkZktNdGNXWkJ6N2RCM2xHdkowei0xV0pyZDZ6Rm9USzhCVmpMbHZBMmYtRlhwRVdUN0oxTWVwZ0I3WWdoWlhRN2NaSHc0c2oySTBXODJTV091TlU3dlRMQ3lUQktlWGF4dWU1?oc=5",
+              "source": "조선일보"
+            },
+            {
+              "title": "'가능한 사랑' 각본상···전도연·조여정·설경구·조인성 환호('청룡영화상')",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qREZrX3B4ZEV6aTVrcTVWTGRzSVBXcGw5ZXhVMklIVEgwb05ZLVFzTXMyLUVHQW5XQ08yZktqRjEzc2p6LXh3c1pTT3h1NEJXTWRpbFQ1OU03eWZnRUNiWFp3?oc=5",
+              "source": "미주중앙일보"
+            },
+            {
+              "title": "청룡영화상 작품상에 '호프'…설경구·전도연 남녀주연상 석권",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vb3MxMEw5S1I0N05nbDY4MzNabmJNSFY2bWk1WE5FRnpWNUV0SVVybmd0cU5FdGhHaExfN3NqT2dqMTNoNENqRjBGVVpFdkNPVGRraEQ1VnhXWHlxR1NxWNIBYEFVX3lxTE1vb3MxMEw5S1I0N05nbDY4MzNabmJNSFY2bWk1WE5FRnpWNUV0SVVybmd0cU5FdGhHaExfN3NqT2dqMTNoNENqRjBGVVpFdkNPVGRraEQ1VnhXWHlxR1NxWA?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "설경구가 제45회 청룡영화상 남우주연상을 수상하며 화제를 모으고 있다. 여우주연상은 전도연이 받아 두 배우가 나란히 주연상을 석권했고, 최우수작품상은 나홍진 감독의 '호프'가 가져갔다. '가능한 사랑'도 각본상 등 4개 부문을 받으며 조여정·조인성 등이 함께 환호하는 모습이 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "설경구, 청룡 남우주연상 수상"
+        }
+      ]
+    },
+    "스포츠": {
+      "summary": "IBK기업은행 최정민 프로배구 1라운드 MVP 선정 · 삼성 구자욱 FA 및 MLB 행방 주목 · 김도영 MVP 경쟁 결판 임박",
+      "keywords": [
+        {
+          "rank": 1,
+          "word": "삼성",
+          "count": 3,
+          "articles": [
+            {
+              "title": "삼성전기, 1조7천억원 규모 자사주 전량 소각 결정",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JLTlqeDNWNWJOYS1zZmxzWVRHWjZVdXljRWN5S25ENUFzMWNXSHp6bUtvbHZxOTlfVTF6bzQ1cU90b3M5OU9nRmd2R3J2bGw3cUZ2MHN5UnpDUDE1YXFUWTdFdGh5cXZ6V3FwZkJmSmE?oc=5",
+              "source": "연합인포맥스"
+            },
+            {
+              "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVozWDBCOXJhWVlkOHc4bDItSXZUNmloaW5yS2RUanZldDhJanI5MExTdkwwSjBXUmFhM1FGbW9UbFlKRHlSQTMtSDZ0LWVCV3A0YkU2RnBvMzE0VWhLNVh5Q0g4MHlOVVBfeGk3N0phdldPcDVrWHNBeWk1SExGbWdn0gGWAUFVX3lxTE4xUzgweWRXYXlkRzFuMTdpWmluZ0RCZi1Yb09MVGhJaVZnclk4OVRiVDNua1E2bmNkekF5ZzZIMDQ0bXMydHF6cXBST2s4MTVVSnJzd1V0UktqbTUwYXJUeHJEQmx5Wl9zYmViQUtKOWpaZmN4emtZQ1hsMWJ6SXpFMmtYX0VnRGhCMjBLYUIzZk91OV9TZw?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRDJPME11UXEyS2h1TmZwZWZFZ0U4OWZwWnc4bGdIVUZScjA5QjdLZVJURjc3ckVNVDhNM0p0TXl0V3hVUlZGUXh4a2NXVm9jb3gwN0JBQ2xZWUHSAWBBVV95cUxQcXZ1c0ZMMVVQckhvYjdXeWxidmpqWllJNkRZNDNmTk1kUGk0N3VQV2RPZVR2MWo5aGJlSWFVci1xWENkSGhTbVFkNnpwaGwzdk9qTUlzVUg0elVZN1VKODM?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "삼성전기가 11년간 보유해온 자사주 전량을 소각하기로 결정했다. 보통주 200만 주와 우선주를 포함해 총 1조7319억원 규모로, 주가 상승으로 인해 소각 금액이 당초 대비 12배 수준으로 불어났다. 자사주 소각은 유통 주식 수를 줄여 주주 가치를 높이는 조치로, 시장의 주목을 받고 있다.",
+          "headline": "삼성전기, 1.7조 자사주 전량 소각"
+        },
+        {
+          "rank": 2,
+          "word": "한국도로공사",
+          "count": 2,
+          "articles": [
+            {
+              "title": "인천 한국도로공사서 60대 남성 제설차량에서 추락‥심정지 이송",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DbTRGUmh3bXFGSjE1XzVZUTNDa3dGa1NxN096a2dmbzVBZUtYZnY3VmJCQ3hJVnVBOEg4ZkNaajB5eXNmMnJwVEI2cG8yejk1UVd3c1VGX0FDTTBMTTNDa2c4M1o2dHg3RzhlcjJXYmw2a0dSUmhJ0gF3QVVfeXFMTURycE5ON0d6N2hXS3ZaR1JjcTB2cXV6YmlScHUxR2JYNFBuVkN5ekV4RlYxaElkLWNXX0FFQnZKVUdTTDgzX3dFLVlZUnhfQlUwR0c3RDMxWkdGaGNHX25VMERILVM4VzZuWm54SzdsTDl5NW9fR0k?oc=5",
+              "source": "MBC 뉴스"
+            },
+            {
+              "title": "한국도로공사, 4000억 규모 튀르키예 고속도로 사업, 유럽 진출 교두보",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2YV9WQ25mRWkyTWJGODdWOHZxckNpUV9EZTl4eG5uUDJrNDRWSWJQSVM3YTd3Rmg1amt0MEY0b1JsMUVFMDNhS0FzTjNyY1FiOG0xb3p1ZktEQdIBX0FVX3lxTE93R3EwOWx2MnhvYkRudDVwdmdDamRoR2VuRnhWak4xSUo2WHN6WkFLeWhMWGZyZHhoRXMxWWV4YjduRVdXYUpkdGFvQ0xtc3l4QUlvTnZKQ1V6QjJXbFNB?oc=5",
+              "source": "경향신문"
+            },
+            {
+              "title": "\"고속도로 미납통행료 앱으로\"…휘슬·한국도로공사, 상생협력 우수사례",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OdEg0QURpQU1oQ0trbWZ1NEluRkJfMVQxRWhnTzUyN3p2dk11V1NtZVRYdGhUb1RFd0JmV1VzcVNUejlHLXdMbGVzSXBUaGVManQxaXRB?oc=5",
+              "source": "지디넷코리아"
+            }
+          ],
+          "description": "인천 한국도로공사에서 60대 남성이 제설차량에서 추락해 심정지 상태로 이송되는 사고가 발생했다. 한편 한국도로공사는 4000억원 규모의 튀르키예 고속도로 사업에 참여하며 유럽 진출 교두보를 마련했다는 소식도 전해졌다. 오늘 처음 등장한 키워드다.",
+          "headline": "한국도로공사 제설차 추락 사고 발생"
+        },
+        {
+          "rank": 3,
+          "word": "IBK기업은행",
+          "count": 2,
+          "articles": [
+            {
+              "title": "삼성화재 호키·IBK기업은행 최정민, 프로배구 1라운드 MVP 선정",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00akk1a0gtc3BNTzg5aTVkdmxlbGRuRnVITDZSSS1JWjlLYldlM0RMQXpITUc2UFB1VmprUWVuN0c2OEVDRnUxU2k0T25IRUNHaWt1SzJXU3pnY2PSAWBBVV95cUxQeTRpa1RBRlQyVnNNcXN3MzlvOE9WdUZBaEJsQVljOUU4dU9ncjRYODYwRUd2MGEwcVYwLThob1pNcDhDdDV0Rk55cHhSbjZvTGtBS0pWVC1FWlQ3WEJWZVI?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "화성 IBK기업은행 최정민, 데뷔 7시즌 만에 첫 V-리그 라운드 MVP",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYkZsNXVPellRblVib2xHYUkyV0w3Y01vQ2pkdFNobG9kU0JPcUIyOU9YcE9XUmZIVFNBUEljTzBXcHFBZy1WOVg4aXl4c213MGJpUEppU2lTWjg?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "프로배구 IBK기업은행 최정민, V리그 1라운드 여자부 MVP",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fcWl0cTBDdnNvUnRWRXhZSnkwMW4xSDdRekNaTWhCNnFxcURIdldyRFBqTENYMVBaZkd2bFJfcjg4T3pjZG1MZVp1YnNxYW9yOUR5M1pVNi05dW9FblBnZjFOM2o5aFNTLWw5ZWFLZw?oc=5",
+              "source": "기호일보"
+            }
+          ],
+          "description": "화성 IBK기업은행의 최정민이 V리그 1라운드 여자부 MVP에 선정됐다. 데뷔 7시즌 만에 처음으로 받는 라운드 MVP로, 삼성화재 호키의 MVP와 함께 프로배구 1라운드 수상자로 이름을 올렸다. 오늘 처음 등장한 키워드다.",
+          "headline": "IBK기업은행 최정민, V리그 1라운드 MVP"
+        },
+        {
+          "rank": 4,
+          "word": "구자욱",
+          "count": 2,
+          "articles": [
+            {
+              "title": "FA 구자욱·원태인, 대구 카퍼레이드 참석 안 한다…KS 우승 주역들은 참여→당일 블루웨이브까지",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SS1RIdWxsZ2IwSGVsbGVMS2RlYTdfcnEzSUNWWk5fdzNxSVlMTDBfZmFMWGRDYjlLc1JvYm1KLVlqd0N5M0cxc1FjOVhPc1ItSXZ1Ti1jREpTRm5QNGg3bDNmR21USGhYdkFrLUcyT0o?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "일본 타격 1위는 MLB행, 삼성 라이온즈의 구자욱은 가능할까",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TY1NhSW9fblFjQWR3MjN4R3ozbVpITnY0N3RMSDQ5Y0NNdnBqazczYm1WOHJPRHJNUHJRZndCR0lxT2VkcDloSWFYVVVySFEyV19kSnRKNHRGbGh0NjJvWm5n?oc=5",
+              "source": "매일신문"
+            },
+            {
+              "title": "'FA 최대어' 구자욱, 타격 '2관왕' 자격으로 KBO 시상식 참석 예정→거취 힌트 나올까... 원태인은 불참 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MGJINy1QWEJEcGZIRnJvamMxVUZjazA4cWQ5c1pFOXhmdHo1UThrdjJqSlhLZGdLbC1pQ3MxazI4WUhXMExwc2QydlFGSTFlLTd3dGd6MlRXcExJOUdwS052bVZDMnZLamfSAW9BVV95cUxOOWhUV2haTjZZSGFoZ2FKX01PLWQ5OGVZQmkycVp1aUF4SWt6aG11ZG9aNkx6TXZRcGw5M3hGNW9teWN3MG1pWnhMU3Vnd21GeTYyMzduT1Y3djhoaVB5RGVwdnZCYS1RUDhvUWF2VmM?oc=5",
+              "source": "머니투데이"
+            }
+          ],
+          "description": "삼성 라이온즈의 FA 최대어 구자욱이 타격 2관왕 자격으로 KBO 시상식에 참석할 예정이어서 거취에 관심이 쏠리고 있다. 한국시리즈 우승 후 열리는 대구 카퍼레이드에는 구자욱과 원태인 모두 불참하는 것으로 알려졌다. 일본 타격 1위 타자의 MLB 진출 소식과 맞물려 구자욱의 해외 진출 가능성도 함께 거론되고 있다.",
+          "headline": "FA 구자욱, 타격 2관왕으로 KBO 시상식 참석"
+        },
+        {
+          "rank": 5,
+          "word": "김도영",
+          "count": 2,
+          "articles": [
+            {
+              "title": "김도영 vs 곽빈…살벌하게 피 튀기는 역대급 전쟁, 드디어 내일(26일) 결판난다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jM2dseU1ndW9wOXBGSE0xX1JUd29sbGJmSjhjNnFkVGx0ZDJPSS0teWZUWUIyYmJ2bDVUMDBmR3gyR0tpSXpjN2JYdnN4elBKVDJTeVJ3?oc=5",
+              "source": "위키트리"
+            },
+            {
+              "title": "KIA 특급 유망주, 힘보다 더 큰 재능이 있었네… 김도영이 어릴 때도 그랬었는데",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uYUhPTXdrWDVsdWhvTC1rOE4yVG9MenlmLU1ZcjdNYkRRVkIteGIyRGR3NWpLVWVFNjR1cW1iRlpKY0RJUzZhUlVjZDJUckZZQnh3YnZ6SFl1Q3hHVUdiTWRZM0swblBjbUlKNy1VZFM?oc=5",
+              "source": "SPOTV NEWS"
+            },
+            {
+              "title": "'日 김도영' 사토 1600억 잭팟 → 한화의 노시환 차례다. 307억 더 받을 수 있나",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEl0UTlMVi1YaTdGZ1FpS19DbWl1S0JYNG1vYVRuN21qUzFQN0ZseEhINU1FYTdWUS1MNVYyWEN3Y2tIaTRaeG1XbXo1VmQ5UERZWnYyZ2xmRXFCY2JMSU1JZUM0azg3RV8zbXBmM0k2TWo4YmVrbUFhMmhTZmx3WW9PRQ?oc=5",
+              "source": "조선일보"
+            }
+          ],
+          "description": "KIA 김도영과 곽빈의 역대급 MVP 경쟁이 26일 최종 결판을 앞두고 있다. 한편 일본 프로야구에서 '일본의 김도영'으로 불리는 사토가 1600억원대 잭팟을 터뜨리면서 한화 노시환의 계약 규모와도 비교되는 등 젊은 거포들의 몸값 경쟁도 화제다. KIA의 특급 유망주 시절부터 이어진 김도영의 성장 스토리도 재조명받고 있다.",
+          "headline": "김도영 vs 곽빈, 내일 MVP 경쟁 결판"
+        }
+      ]
+    }
+  }
+}
