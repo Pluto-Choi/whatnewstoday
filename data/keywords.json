@@ -1,485 +1,509 @@
 {
   "date": "2026-11-26",
-  "updated_at": "2026-11-26 05:16",
+  "updated_at": "2026-11-26 17:27",
   "briefing": {
-    "text": "조희대 대법원장 탄핵을 둘러싼 여야 충돌이 격화되는 가운데, 북한이 스위스 외교사무소를 전격 폐쇄하며 외교 긴장도 고조됐다.\n\n민주당은 탄핵 사유의 중대성을 강조하며 탄핵을 밀어붙이고, 국민의힘은 탄핵 남용 우려를 내세우며 맞서고 있다. 북한은 김여정 담화 하루 만에 스위스 외교관을 48시간 내 추방하라고 통보했는데, 스위스가 미·북 중간 채널 역할을 해온 국가라는 점에서 파장이 주목된다.\n\n경제 분야에서는 미국이 한국을 포함한 14개국에 과잉생산 관세 추가 부과를 예고했고, EU는 한국산 하이브리드차 수출을 내년 6월까지 6만7천여 대로 제한하기로 하면서 수출 환경에 잇따라 제동이 걸렸다. 반면 삼성전기는 11년간 보유한 자사주 전량 약 1조7천억 원어치를 소각하기로 결정해 주주환원 기대감을 키웠다.\n\n연예·스포츠에서는 넷플릭스 드라마 '재혼황후'가 45개국 1위를 기록한 채 오늘 종영하며 화제를 모았고, V리그에서는 화성 IBK기업은행 최정민이 데뷔 7시즌 만에 처음으로 1라운드 MVP를 수상했다.",
-    "period": "아침",
-    "generated_at": "2026-11-26 05:16"
+    "text": "조작 기소 특검 후보를 둘러싸고 여야가 같은 인물을 추천하면서도 추천 방식에서 충돌하며 특검 구성 논의가 본격화됐다.\n\n한국은행은 기준금리를 연 3.25%로 올리고 내년 성장률을 4.1%로 전망했다. 주담대 금리가 15년 만에 최고 수준에 달한 가운데 '7% 주담대' 현실화 우려가 제기되며, 한은이 추가 인상 속도를 조절할 가능성도 열어뒀다는 해석이 나온다.\n\n미국은 한국의 반도체·자동차 과잉생산을 근거로 25% 관세를 시사했고, 중국은 한국 단체관광객 무비자를 1년 연장받았음에도 한국인에 대한 상호 무비자 허용은 '검토 중'이라고만 밝혀 불확실성이 이어지고 있다.\n\n청룡영화상에서는 나홍진 감독의 '호프'가 작품상을, 장항준 감독이 감독상을 받았으며 아내 김은희가 직접 트로피를 건네는 장면이 감동을 자아냈다. 스포츠에서는 김도영이 KBO MVP 2연 수상으로 역대 여섯 번째 2회 수상자에 올랐고, 김하성은 디트로이트와 1년 500만 달러에 계약하며 MLB 무대를 이어간다.",
+    "period": "저녁",
+    "generated_at": "2026-11-26 17:27"
   },
   "categories": {
     "오늘의 이슈": {
-      "summary": "미국이 한국에 15% 관세 상한 유지하며 과잉생산 관세 추가 · 북한, 스위스 외교관 추방 · 젠슨 황 복귀에 나스닥 6.5% 급등",
+      "summary": "조작 기소 특검 후보에 이임성 변호사 추천·한은 기준금리 인상 및 성장 전망 발표·중국 무비자 연장 불확실성 고조",
       "keywords": [
         {
           "rank": 1,
-          "word": "조희대",
-          "count": 1,
+          "word": "조작",
+          "count": 2,
           "articles": [
             {
-              "title": "김민석, 조희대에 \"이완용의 친일 행각도 봐주게 되는 거 아닌가\"",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnNyT3Z6Y0dpNW40OE1CUGtSTzB4QXZoMkJoUUwtcHhmczZQYjhGS19qU3oyLVYwZTc2dmtFY3VxT3h3Nk1KNExSTDNjaGRmc19XMm5VRy1qeWtlV3FXcGU1bU4yVVNCenF4cGRkekI1cXFYWm5XYVlfbU1uUHJXNmlZQnExdzFXbXRaZGwyNVE?oc=5",
+              "title": "與추천 ‘조작 기소’ 특검 후보에 검찰 출신 이임성 변호사",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPamI3b1JtcnJ4aE5zei01Y01Lemp0dFNOeHpTdkZabGgycnhvNXBWcnpsX3huZ0dQaG4wZ2wwVWI3eWtHeFRJUjMxazE0UXpGWnRiLWxGcEg0MWFXZHlxNDlXZHVSb3ltZW5jcHBoejdicVdWcjlsMTJCVEZWS0treTkxUkpUZkI0UWpmT0hlNDA?oc=5",
               "source": "조선일보"
             },
             {
-              "title": "與 “조희대 직무정지만도 실익”…헌재 탄핵 남용 우려",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xaDBDeHZ6dUxVNFQxbTdKT0s4UVVLVnB6MWdaclRVWXgxamlKdFFoVEJUZmx5OEJPWnBpaS1iQ0JpRkY4R2o5NnUzcF9hV3NzT1FhVGR3?oc=5",
-              "source": "중앙일보"
+              "title": "민주당, ‘조작 기소 특검’ 후보로 이임성 변호사 추천…국민의힘은 추천 거부",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfYmEzRS1nWFJwN0U2MERHT1piRHROVTVxTTBQMF9Wa1gwajNjUGxYVmMyeTIwaklmOHppQk9VNDJkaXgyRlBIY2s0cmFDLW9OdUVVRi1JT3BhZnlQVHA4djFwcC0tRjY0cGQ0OWZB?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "‘조희대 탄핵’ 두고 민주당 “사유 합치면 중대성 넘쳐” vs ‘무리수’",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZG11b2ZuTVZPMW1DQXhvNWVwcDU3TlF0azVJZU1GUUQ1OVNyRUtYMG9qNktXLXdROWpGTnZNbXBOb0Q3VVg4Z3JqNUNDMDd4UDFUYlVWVHhNMEstaW9SeTdETVhTSjZ1amhYV2NPeEw5MEZy?oc=5",
-              "source": "한겨레"
+              "title": "與, 조작기소 특검 후보로 이임성 변호사 추천",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ROVBjTWJrcURDWFJ1US1seEV0dlk3ZWVLeXY4UWMzeDVva19SQmx5Wnlqa2RwMUQ1N1UzX0ZYd1hmQlVDeUdFcWZERXZSNHhGRW5JYU15VDhuMy1Fb0tYbWhHZEFnVXFEel93MERxdEc?oc=5",
+              "source": "연합인포맥스"
             }
           ],
-          "description": "조희대 대법원장 탄핵 추진을 둘러싸고 여야 간 충돌이 격화되고 있다. 민주당은 탄핵 사유를 합산하면 중대성 요건을 충분히 넘긴다며 탄핵을 밀어붙이는 반면, 국민의힘은 헌재의 탄핵 남용 우려를 거론하며 직무정지만으로도 실익이 있다고 맞서고 있다. 민주당 김민석 의원은 조 대법원장을 이완용에 빗대는 강경 발언을 쏟아내며 여론전에 나섰다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "조희대 탄핵, 여야 공방 가열"
+          "description": "여당이 '조작 기소 특검' 후보로 검찰 출신 이임성 변호사를 추천했다. 민주당도 같은 인물을 후보로 올렸으나, 국민의힘은 추천을 거부하며 여야 간 입장 차가 드러났다. 조작 기소 특검을 둘러싼 후보 추천 과정이 본격화되면서 향후 특검 구성 논의가 주목된다.",
+          "headline": "조작기소 특검, 이임성 변호사 후보 추천"
         },
         {
           "rank": 2,
-          "word": "관세",
-          "count": 1,
+          "word": "성장",
+          "count": 2,
           "articles": [
             {
-              "title": "美, ‘과잉 생산’ 관세 추가... “한국엔 15% 상한 유지”",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUlKVjBiYmt3X0FQUEIyXzFmVzBfUTVsWGRxTmNXZHBEQUZvX1RheDM5NW1iYVAzZk8temN1NnY2MzlYeG1zRk5WelF3Vm5IZjdEU1FiRmY5QWFZdUpfUzgxZXN1dXhleFI4NUluS19qN0ZMaWI1WDAzcmNOQnV2UHRmNnE?oc=5",
-              "source": "조선일보"
+              "title": "미국, 日 반도체도 조준‥다카이치 성장전략과 정면충돌?",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Mb3ZQUjd1MnROd3pQMm5iOFRzdWRJM052VFhrMEZmMHNJNGc1aWd4SFJWTXh4eVhaWkVVbjNwUDctc21XTU1rS0o1QngyQ2Q1NF8tX0dmWmZFMlRuU0U4TnVQcGNId0pyX0RjWUZ2ekhYV2Mx0gF0QVVfeXFMTjRvU2JxeElqZkhTb2lFRTk2T3JTZ0p5UnIwVndoclgtQ3AzWkZweHNWVnlmMEVJdERQYVhqTXN0NndpbTRnRzNfSVJRUFZiX3lra3oxRW1BMjdHcDQ5T0JRY2wyRXZwQjRObTVIYy1pSVRPYUg?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "美, 한국 등에 ‘과잉생산’ 관세 추가…‘관세 상한’ 15%는 유지",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Qm9BcnJrRmstejRzZmxBWnc5dVBZNG1LS1B2eWNHV2hoV2F1V1ZIbUFkMGwtdFBNSEtib1dtbW9IbUpldUF0Nl82WjRid1NtZEVON2V3?oc=5",
-              "source": "중앙일보"
+              "title": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYW5hQlJlaFJRRGVzVk5oSXVtanl6YjNONWg0X1Q3M1AyZERvYlpCU2d1dVMxTHJSQzZKYWhOWktYVkhFaTgtSHBjME9SRXpRU0xuaENRNWgtS01SbkVvMTJFYXRLT0Fxa25N0gFwQVVfeXFMUEJtZkFDWVZMdkx2WW5ndlhOV0VPU01DckU1WmpxY2huUXFEb2haQjMxbGF1UHI4bE1lcnlXWjlWR2x2eG9lNmFRLVc4WncyRFZyTlRjVlg5a1RUZ3lNd2tOZURGdXZoLWs5MkVTR0E0Zw?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "미국, 한국 등 14곳에 ‘과잉생산 관세’ 예고…“합의국은 15% 상한”",
-              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aUEZwVVktUWppWGtveEl1VTJZb1VWSnZYTWJadUNWc2hJaXZsaVRjRU9GcGQ5RDRTalAyTUc0dFh4bnJrZTRnLURpWXlFS0ZLSUFqWkE3TUo2dnItdXVOWm1taXRBQQ?oc=5",
-              "source": "KBS 뉴스"
+              "title": "올해 마지막 금통위…금리 3.25%로 올리고 성장전망 상향할듯",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wQUhheUhnV2xHRENBVEYwZTFWVGlBTGRHd3h2R3RsMlM1NWd3TGVCRm45dEdwQjRLZ3FUbHZfelJrTEhUT1NLZ3gtNjduakxrRnFUWDgyZFdhU0XSAWBBVV95cUxPSWxEYTFHeElxOWNZWjNlYi11Q2hROHk4TmNITUtMbHFTM3BSNHFSR3RYZnZWWVl5OF9aSjAzcllwajBYZ2J6MnVDNFZMUWNBVzBQdUR6RjUwRHRnRU5VYU0?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "미국이 한국을 포함한 14개국에 '과잉생산 관세'를 추가로 부과하겠다고 예고했다. 다만 기존 합의에 따라 한국에 적용되는 관세 상한선 15%는 그대로 유지된다고 밝혔다. 중국산 저가 제품이 제3국을 경유해 우회 수출되는 것을 겨냥한 조치로 풀이되며, 한국 수출 기업들의 추가 부담 여부에 관심이 쏠리고 있다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "미국, 한국에 '과잉생산 관세' 추가 예고"
+          "description": "한국은행이 내년 한국 경제성장률을 4.1%로 전망하며 기준금리를 연 3.25%로 올렸다. 올해 마지막 금융통화위원회에서 금리 인상과 함께 성장 전망도 상향 조정될 것으로 예상됐다. 한편 미국의 반도체 규제가 일본을 겨냥하면서 다카이치 총리의 성장전략과 정면충돌할 수 있다는 우려도 함께 제기됐다. 오늘 처음 등장한 키워드다.",
+          "headline": "한은, 내년 韓경제 4.1% 성장 전망"
         },
         {
           "rank": 3,
-          "word": "김여정",
-          "count": 1,
+          "word": "중국",
+          "count": 2,
           "articles": [
             {
-              "title": "北, 스위스 외교사무소 폐쇄…김여정 담화 하루 만",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uNDQzUkQyZXU0TFZHSnFRcGtOQzFLdTZGUzJHRm1ScTNnaTBWbDVacHNKMTFHcmJ4ZHVfMmc1NlZyNEJ2WHRkVnlmSEZ3Z01oa1lsT0FnQ2ZaODJoelpfM3NQQU90ZVU?oc=5",
-              "source": "연합뉴스TV"
+              "title": "中 단체관광객에 무비자 1년 더 허용…정작 중국은 '검토 중'",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiNjZwZG9GZlFoM04wNGpVUzR3MFJDcnpvWXAwNzdYT2duTEVVNzlITnJBZlJ0V0pzS0NhVDF2NHh5c1ZpbFQ2dnZoSDUxa3A0Q3dTOHpGeUEyV1BmaWxCU2FJUHQzLUpXTWdZ?oc=5",
+              "source": "주간조선"
             },
             {
-              "title": "김여정 담화 하루 만에 “스위스 외교관 48시간 내 추방”···대북 제재 압박에 선제 대응 나선 듯",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEY2d1Frcl8tOU05d0NmaS12dWsxaFpZNTJGbW1zUllSeFZTbmtHWVAtU3MtWG9yZjZtcjl2SEFpZ09mTGRuZGl2cmpzUGNNV0YxOXprOGFlSDJublVmUHZ5Q2tGbm9jcGs2OU8xcjI1WURhS2t3UHFRUzRVRXJfMjhmYnJzdXRkbDNuZlViTE50YXRCeG5pNVk2RmUxMU5YMmpmeVVyaUVaUdIBX0FVX3lxTFBNd0kwa0VGSzZZMkw5R1plMDRSR0pOR2ZJOEZRU21LcUR3ZkxwNDA0WG96dGdMcDRlMTRpajE2YU1wSGFMTWh4VzdNYUY3WFRFbjZzVmpkSkVrMWlielVF?oc=5",
-              "source": "경향신문"
+              "title": "\"한국인 '중국 무비자' 이대로 끝?\"...여행 앞두고 발동동 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84dGtDNWp0WEVNYUNGSFFZRWpXLW16RGItanZNU3NlNUR6SDBSUTRjU0t5VERUMlN0SWZHYk1EeTl6RV9nUnNZV3BGdy1MbEhCZXd3UGhRNWVwdWRteUp2MXNqNkNSaWd40gFuQVVfeXFMTUxzaWVlbEt5M081OXVlZHFnX1ByOG1yRDhwZjlnSkhpTUs4UHZkMkJiS2ZCdEl1QzhqTkI5WVRUWEhJQ1JPUFZBQ2hZZXFXZmpELUY5NnRBaXBuMk9fRDdOQWhFNTRaMlFoaXliVmc?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "北, 김여정 담화 하루만에 스위스 외교사무소 전격폐쇄(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYSTFKS3ExVDgzWk9YRmdickduM1liXzZwS2lfWU93eGxkbHVISGY2aHVwb2U4ZU5ZUkktMDNDMHJWU0tWV1RCeVZRMV9KcnJVRV9nU1ZTdVozeXfSAWBBVV95cUxPR1FKOEVRTEVRSzdKd0N4Rmc1WnpreW9DWXRnQXA4YUtWU3BPaFZyR0xfS1VsZ2NuQ1lQdVd2ZkF3UnhqZmtwWWFyM1NucDdOS0k1TFJpRk95R0pFd1hYOUo?oc=5",
-              "source": "연합뉴스"
+              "title": "전북문화관광재단, 중국 광저우서 관광 홍보…중국 관광객 유치 나서 - 보도자료 | 기사",
+              "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJTEUzVzhteEtnWUI3RUo3Sy1FOGRxUkNEWW1EZEkwSWZISDIyR0k1YWtkRzlaYVBhVm9ISE5XeUFQVTZtcWppNTQ4dmgzMllGTkxqV01GNmNFeTI0anVz?oc=5",
+              "source": "더팩트"
             }
           ],
-          "description": "북한이 김여정 노동당 부부장의 담화가 나온 지 하루 만에 스위스 외교사무소를 전격 폐쇄하고 스위스 외교관을 48시간 내 추방하라고 통보했다. 대북 제재 압박이 거세지는 상황에서 북한이 선제적으로 외교 관계를 차단한 것으로 분석된다. 스위스는 그간 미국과 북한 사이의 중간 외교 채널 역할을 해온 국가여서, 이번 조치가 외교적 파장을 불러올지 주목된다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "김여정 담화 하루 만에 북한, 스위스 외교사무소 폐쇄"
+          "description": "정부가 중국 단체관광객에 대한 무비자 입국을 1년 더 허용하기로 했지만, 정작 중국은 한국인에 대한 무비자 허용 여부를 '검토 중'이라고만 밝혀 여행을 앞둔 한국인들의 불안이 커지고 있다. 중국 관광객 유치를 위한 지자체 홍보 활동도 이어지는 가운데, 상호 무비자 협의의 행방이 주목된다. 오늘 처음 등장한 키워드다.",
+          "headline": "중국 무비자 연장, 한국인 상호 적용은 미지수"
         },
         {
           "rank": 4,
-          "word": "나스닥",
-          "count": 1,
+          "word": "러시아",
+          "count": 2,
           "articles": [
             {
-              "title": "'젠슨황 귀환'에 나스닥 6.5%↑…1년7개월만에 최대 상승(종합)",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XNE5yZlFNMHBNd3NuRWxTbEQ4NXBETVpNemtUczVvTlh3NXJiQllRQ25MSGRYdXdSRU1RajB2Q1hjQk9VMXRMX0hsYjAxUDR5X2xucjBZcl93T2PSAWBBVV95cUxQd1U5V2R3clR0bTE5U19OcC1hR3lrdVVBY0RuWHdrVWJjMV9XSTJ5X1dETkNvcFNvNnU4TXNMemVYQ28zWFY5b2NHTDlsZXVqRjZ2YzRESFg4cGpvR2tLai0?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "‘하루만에 무려 1300조!’ 그가 돌아오니 ‘31%’ 급등…나스닥까지 6.5% 올라 [투자360]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yYTMwZTcwQk9oeF90dHY0cmJlWlQtNFlIMERFU2FzQjd3T0NLVlg2d3d5Qlp3cTR3WEtSMEJFRUxaam10OEJfZDNWaE03M2FWWG50MGhR?oc=5",
-              "source": "헤럴드경제"
-            },
-            {
-              "title": "뉴욕증시, AI주 매도 우려에 급락…나스닥 장 초반 4%대↓",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YkNjUXNJRDV4TWhEc2xOZ0VDTUkzN0NCa2NGeGdpWkZlVE5jeVhsM2tTWkxMMXdpaFFVUEhGUHJsNERxNllYdVdGazAtbkZJTUpPd2hLcGlXUVU?oc=5",
+              "title": "우크라이나 “러시아 공군기지 타격…전투기 5대 파손”",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QMFVSSi1DaG9XNm5Tc1FFeTU2TEZ0VC0wR0hpeFQzdTVCOHB5Zks3cVlicnVjZll3QXQ2UnJmS3liblFxWmNRS2pWcTl1a243WHQxbUhrUm9iejg?oc=5",
               "source": "KBS 뉴스"
+            },
+            {
+              "title": "中, 3조원대 불법예금 범죄 용의자 러시아서 송환",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JOS1xUUl6Sl9BdWlOZnFwN0JzX0dzUmh3Ukd3eTI2cnBXMEtmT1E2QV9tX0RzMmRlZ1N2bEFfYUJrZDNNcXZiY0dUN3NJSWd4Z3B0YXRsaGpmS0NQTnF1Y3RkYnpfWG1yMHN5Sjl1amVXamPSAWZBVV95cUxQM3RkZUF2TzY0QjhUVS1xX0NCNjhxMmlHdGJoRGp3ajVUaXk4bkJuR2ZLOHVPZzlSZldkYkM3NEJ5UlBiNWFySnQtaUpfVXNPaVBGZDlmRWpLSHlyV1hYcE5MZkVQYkE?oc=5",
+              "source": "동아일보"
+            },
+            {
+              "title": "러시아 구금된 日기자 아내의 호소…\"어린 딸에 아빠를 돌려달라\"",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14RzJOZDNtejZYVGx5LUwxcWxOZml5R05xdVpzRld1QUd4UFFhTXJtWHlLMXVQU1pQN3F6OUk1aVU1TXZvN1RPQVdkbU41QWxhQkc3VE0tMmVCT2hlc2lVd3RpV2hNRHpHX0NaYkRjenpvN1k?oc=5",
+              "source": "마켓인"
             }
           ],
-          "description": "젠슨 황 엔비디아 CEO의 복귀 효과로 나스닥이 6.5% 급등하며 1년 7개월 만에 최대 상승폭을 기록했다. 엔비디아 주가도 하루 만에 31% 치솟으며 시장 전체를 끌어올렸고, 하루 새 늘어난 시가총액이 1300조 원에 달한다는 분석도 나왔다. 다만 AI 주식 매도 우려가 다시 부각되며 장 초반 4%대 급락세를 보이는 등 변동성도 여전히 큰 상황이다. 오늘 처음 화제 키워드로 등장했다.",
-          "headline": "나스닥 6.5% 급등…1년 7개월 만에 최대 상승"
+          "description": "우크라이나가 러시아 공군기지를 타격해 전투기 5대를 파손했다고 밝혔다. 같은 날 중국은 3조원대 불법예금 범죄 용의자를 러시아로부터 송환했으며, 러시아에 구금된 일본인 기자의 아내가 어린 딸을 위해 남편의 석방을 호소해 국제 사회의 이목을 끌었다. 러시아를 둘러싼 군사·외교·인권 이슈가 동시에 부상했다.",
+          "headline": "우크라이나, 러시아 공군기지 타격"
+        },
+        {
+          "rank": 5,
+          "word": "정면",
+          "count": 2,
+          "articles": [
+            {
+              "title": "다카이치 日 총리 “엔저·고금리 내 탓 아니다”… 시장 책임론 정면 반박",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNm5FWTl2Y2YzUnFTdmswN093Y3dFSVdFRm5rREFBTlc3eHA0a295NXVCN1RtNWM4V0NtS00xdUhSYlNaQUU0OF9nM1lrblFzYU5XS0F6OUdhQ3Y4UFR6QXV3ZWUteld3RmtrOFAwd083d3FKZkZJT3ZpNkF0NWo2LUVzZXFfaGJKVU1RQXczNm8xcXBxS0d5RW4zbkRxd9IBsgFBVV95cUxNaHUxTnJGdG9Jcm5QZF9oUWFtX1B5czdpejlJUWtmNzZzQXVYYTFsUHpZRnQxRldtV2NkOExTYnBrR2hSNk9QR3V6eElkVDdwYV9TcndZRzJSaTRZaU9aRk1qZDhuX3kzSDA2U2JOVEpZaUptNVdPMVhmMmFBbVRvbEdCTWpYbnpYQ0FISHpZLUpQeHNrV3FXVTR6c0NydTdFOWVTTXBCbVJZWVphWXd4UEpR?oc=5",
+              "source": "Chosunbiz"
+            },
+            {
+              "title": "다카이치 \"미국에 할 말 할 것\"...ICC 제재 진의 파악",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUcW1JN1BoMkVZSTBqT2Y3bkxpUm1tbHpqTzJXVkV0SU5Xd0dTaDFpMklPaTRqX2E0aElvdjRqajBzbmlwTEJORGRvMUZpeTdMREo4MzF1c3Fib0NxQlE?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "다카이치, '호네부토 쇼크' 일축…\"국채금리 급등, 초안탓 아냐\"",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41WXNZa21wUzdGekhvNGdFY3hrRHFjZVBrbTlRUWc5S0pZSzZwalZ6eUpBYkxpSnhQeDZJMUxieVZCMGs1N0tqWUdRODF2VWpxaTE1X0l6TGNMM03SAWBBVV95cUxPdGxOeG9HN0VUTjRLbWk1aHJNUU9JUF9KR3lFbi1OejdSVVJCRXRKVENhVW5ieDR2NlFSUTFaX211WFlseHpFc2hjMFZXY1dZUFNfZDJ5RGdfZkNNdFpMWTE?oc=5",
+              "source": "연합뉴스"
+            }
+          ],
+          "description": "일본 자민당 총재 선거에 출마한 다카이치 사나에가 엔저와 국채금리 급등 사태에 대한 책임론을 정면으로 반박하고 나섰다. 그는 '엔저·고금리는 내 탓이 아니다'라며 시장 혼란과의 연관성을 일축했고, 자신의 재정 정책 초안이 금리 급등을 불렀다는 이른바 '호네부토 쇼크' 주장도 부인했다. 아울러 미국과의 관계에서도 '할 말은 하겠다'는 강경 입장을 내비쳐 그의 외교·경제 노선에 시선이 쏠리고 있다. 오늘 처음 등장한 키워드다.",
+          "headline": "다카이치, 엔저·금리 급등 책임론 정면 반박"
         }
       ]
     },
     "경제": {
-      "summary": "삼성전기 1.7조 자사주 소각 결정 · 코스피 급등락 반복하며 변동성 확대 · 트럼프 엔비디아 규제 역풍",
+      "summary": "한은 기준금리 인상으로 주담대 7% 우려 · 미국, 한국 반도체·車에 관세 25% 인상 압박",
       "keywords": [
         {
           "rank": 1,
-          "word": "수출",
-          "count": 5,
+          "word": "금리",
+          "count": 6,
           "articles": [
             {
-              "title": "EU, 한국산 하이브리드차 수출 내년 6월까지 6만7924대로 제한",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGpRaTFuNktpM2wxeVgtUkFESnVkZXBfSDdMZ0xaZzMweXAtTlIwaVk3T0lNaWgtRHZDUTE3QTNGS2oydU1zT1gxbWVEQjg5a0o4M1lNeDU3ZUFNMGthRjJmUy1MRGxBVTNac3FEdUljNlhQTE9PamE3VFdkLU5JYnpxUmgxLXZGVUxiLUthUQ?oc=5",
-              "source": "조선일보"
+              "title": "한은, 기준금리 3.25%로 인상‥\"내년 성장률 4.1%\"",
+              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90Wmt0OF8wQnFoWnlYQ1kzVTlGTUJyN0lUQzc0OEd4VVYyVnUzX0Zyb1l6bFFXWUZfZHNyaEs3cW1ndmtoSndsZFJoQkhvSFJ1c2ZmOHo4aVp0TGdzYXJYRnN0bzVlWWlJTjlScjYtckZDV081UTNVNtIBeEFVX3lxTE4tVVFiRjZfYmxtRHdMWHd2b0dRLU9OUnA5emFVWDJUOEVzb1JyV1dFYXdySHJBd0VqMUVuVDRjd3l4VGpUOVkxR0Rxc3ZHZE14NWMxUkc1b1k0TGh1TEVTOEo1cHB2Z2lZenZtUUQtTGpkTndTdTFZcg?oc=5",
+              "source": "MBC 뉴스"
             },
             {
-              "title": "KB證 \"2027년 성장률 2.8%→3.6%…반도체 가중치·수출 전망 변경\"",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSWw4SlUyUm1Bcm55aWtlN3BWdGIwRFBadEJiVUpkTlJlUlp0M2V2cmsxcTB0OTdyVUtMall6MVR2ZWUzblR4dXYycVZCN1QxNG5QSGg2azI1Z0pPZnU3SlFGb01aU1FPTlRGNDNfM0g?oc=5",
-              "source": "연합인포맥스"
+              "title": "은행·저축은행 협업해 중저신용자 신용대출…금리 평균 10%로",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00d0tLR3N5cUoxUERPVFFIOGV5UXJ6cE1kR2RxeW1GSFVaTzFWZmpEdHlEcFp0Z1lia19tQWxKMW1uMDhJUVZtakRnTENjU0dkZ2U3eC1PcGhXMU3SAWBBVV95cUxNTmlDNkVCU0hJU2ZHMFRFWC1FcUVoQ1daUGFGN28yR1VnZXl5cWZabGwtalA0S213Rm1xRlhwMkloYWZJenVndHpLZVVmRlphbjkwSUJ5MmI2Q3hwUjRvVlY?oc=5",
+              "source": "연합뉴스"
             },
             {
-              "title": "반도체·선박 '부진' 속 석유·車 '날개'… 전남광주 수출 34% 급증",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qQldZbUcwM1N6ZVJVaVNKVUpqNElTakNuNmpIZjdMZzhqNHFkYWpMTXZmZ3VFZUJiWEczS3A5bEVOSi1DeEtrVzRHclRobHJwQmtLTkNpNWRVam8yLTJxadIBeEFVX3lxTE9MQzdyT3ljcnRiemVYNEI1Mmo2Vkg3X3AzQnd0Ri1mcGVBYlhNMWVIRmwtbWpzdFZWUUFsNnotQ3FuVUZsR3FBWjRFWFV3M3FrTHUtaE1YVDhWa0hkM0pNOUtXRFM4djlhLTA4VE5ZOVB2cGFXYVJ0Tg?oc=5",
-              "source": "뉴시스"
+              "title": "은행 돈으로 저축銀 대출…중저신용자 금리 3~5%P 낮춘다",
+              "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rZnY2dlNDcllVVkM3c0lwYnNXbXUzQmxjRHM2bjc0T1RnY2FqZi1MZVZDS0toYUhXalZuanFkUzNOVWdndVJWWHdFN1MybkNGeXc?oc=5",
+              "source": "매일경제 마켓"
             }
           ],
-          "description": "EU가 한국산 하이브리드차 수출을 내년 6월까지 6만7924대로 제한하기로 했다. 반도체·선박이 부진한 가운데 석유·자동차가 선전하며 전남·광주 수출은 34% 급증한 것으로 나타났다. KB증권은 반도체 가중치 조정과 수출 전망 변경을 근거로 2027년 성장률 전망을 2.8%에서 3.6%로 상향했다. 품목별·지역별 수출 명암이 엇갈리는 가운데 대외 통상 환경 변화가 수출 구조에 미치는 영향이 주목받고 있다.",
-          "headline": "EU, 한국산 하이브리드차 수출 연간 제한"
+          "description": "한국은행이 기준금리를 3.25%로 올리면서 금융권 전반에 파장이 커지고 있다. 주담대 금리가 15년 만에 최고 수준에 달한 상황에서 추가 인상까지 단행되며 '7% 주담대' 가능성도 거론된다. 한편 은행과 저축은행이 협업해 중저신용자에게 평균 10% 금리로 신용대출을 제공하고, 금리를 3~5%포인트 낮추는 방안도 함께 논의되고 있다.",
+          "headline": "한은, 기준금리 3.25%로 인상"
         },
         {
           "rank": 2,
-          "word": "삼성",
-          "count": 4,
+          "word": "반도체",
+          "count": 6,
           "articles": [
             {
-              "title": "삼성전기, 1조7천억원 규모 자사주 전량 소각 결정",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JLTlqeDNWNWJOYS1zZmxzWVRHWjZVdXljRWN5S25ENUFzMWNXSHp6bUtvbHZxOTlfVTF6bzQ1cU90b3M5OU9nRmd2R3J2bGw3cUZ2MHN5UnpDUDE1YXFUWTdFdGh5cXZ6V3FwZkJmSmE?oc=5",
-              "source": "연합인포맥스"
+              "title": "美 ‘과잉생산 관세’ 근거 된 호남 반도체 메가 프로젝트",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjljek5IalE3My13a0xoZDBYM2lMNG5GZjdYX2d1WVYydzlrTDlGUllFQkpmR0RsQ3dKSzZUWnBXbVJiRUdCRlVYekU5SkVueFJCZ3BleU5hdnBRMGh2RW5IR3JGeHJELUs3ZzNWR3QzcTkwd3hWTk05UDVvOFZDbnVIZGRTUkdhR211WkpPMkhkWFloYWRlWnhqUWswQQ?oc=5",
+              "source": "조선일보"
             },
             {
-              "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVozWDBCOXJhWVlkOHc4bDItSXZUNmloaW5yS2RUanZldDhJanI5MExTdkwwSjBXUmFhM1FGbW9UbFlKRHlSQTMtSDZ0LWVCV3A0YkU2RnBvMzE0VWhLNVh5Q0g4MHlOVVBfeGk3N0phdldPcDVrWHNBeWk1SExGbWdn0gGWAUFVX3lxTE4xUzgweWRXYXlkRzFuMTdpWmluZ0RCZi1Yb09MVGhJaVZnclk4OVRiVDNua1E2bmNkekF5ZzZIMDQ0bXMydHF6cXBST2s4MTVVSnJzd1V0UktqbTUwYXJUeHJEQmx5Wl9zYmViQUtKOWpaZmN4emtZQ1hsMWJ6SXpFMmtYX0VnRGhCMjBLYUIzZk91OV9TZw?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRDJPME11UXEyS2h1TmZwZWZFZ0U4OWZwWnc4bGdIVUZScjA5QjdLZVJURjc3ckVNVDhNM0p0TXl0V3hVUlZGUXh4a2NXVm9jb3gwN0JBQ2xZWUHSAWBBVV95cUxQcXZ1c0ZMMVVQckhvYjdXeWxidmpqWllJNkRZNDNmTk1kUGk0N3VQV2RPZVR2MWo5aGJlSWFVci1xWENkSGhTbVFkNnpwaGwzdk9qTUlzVUg0elVZN1VKODM?oc=5",
+              "title": "美, '韓과잉생산' 반도체·車 조준…'관세 25% 인상여지' 으름장",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LaDBtd0VJSlVlemQ3VFprUXpkdkMxRkdrMy1CZU90ZUFJaWt6alVQU3BUY3kwWFJGa1JNLXFOb0dXTXMwSE5vQU5yN3JUa1p6VmZHenBPU045RE3SAWBBVV95cUxNRXJnendZbzNWMWZxSWpjTER2Rnlja2g3ZUowNUwwTWNHeElxdzNwYmdySVRvYjBmM2VReEM5RmxjdTBDanppQWlXanhCbndJU2w5UDhfSFpEVlJXZ0dGWHo?oc=5",
               "source": "연합뉴스"
+            },
+            {
+              "title": "관세 근거로 ‘호남 반도체’까지 꺼낸 美… 정부 “동의 어려워”",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiQmtuSDdRV1BRb0FDTTNZMUJhN2NBSUFYZFVodzZWWEpvYW1hYk96M0NWU2QtbHFuOWU3VW1OSEl2eElTbWpmODJ2TEszX0pJbmpNNDJ3SVpQUQ?oc=5",
+              "source": "브릿지경제"
             }
           ],
-          "description": "삼성전기가 11년간 보유해온 보통주 200만 주를 포함해 총 1조7319억원 규모의 자사주를 전량 소각하기로 결정했다. 주가 상승으로 소각 규모가 당초 대비 12배까지 불어난 점이 눈길을 끈다. 자사주 소각은 유통 주식 수를 줄여 주주가치를 높이는 대표적 주주환원 조치로, 시장에서는 긍정적 신호로 받아들이고 있다.",
-          "headline": "삼성전기, 1.7조원 자사주 전량 소각"
+          "description": "미국이 한국의 '과잉생산'을 이유로 반도체와 자동차에 25% 관세 인상 가능성을 시사하며 압박 수위를 높였다. 특히 호남 반도체 메가 프로젝트를 과잉생산의 근거로 직접 거론해 논란이 커지고 있다. 한국 정부는 미국의 주장에 동의하기 어렵다는 입장을 밝혔다.",
+          "headline": "美, 韓 반도체 과잉생산 근거로 관세 25% 위협"
         },
         {
           "rank": 3,
-          "word": "젠슨",
-          "count": 3,
+          "word": "한은",
+          "count": 4,
           "articles": [
             {
-              "title": "美무역대표, 젠슨황 복귀에 \"트럼프, 경제·안보 균형 맞춰\"",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pR3pKU29QZWRWMnBEWXlEWXVKLXloQVhsUmZJRDU3eDJuR3ZfQjdsVk92MXctZzFBMVZFTVJvb2JrMmVrenJmV0pWc0dKVk10Vjk5ZTBqcl84bHfSAWBBVV95cUxOdW5QMnYyRUwxS2F2TEp6VVZ4QVVrM2lSRkh6WWRkUFFJaFkwZGd1MlUtOHp6eWoxV25XaGRUdkctdkpKaXFQT2ktb0hOV244aEg5V1RuVWtBd0RqY2FJUU8?oc=5",
-              "source": "연합뉴스"
+              "title": "주담대 금리 15년 만에 최고인데…한은 또 인상, '7% 주담대' 오나 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLeDQtVkRCM0FyZ1FVY0l3STBpdnJqV0IxVkIxdEFmanY2dUNOSzI1bVNvSnNpUnFXaEZPQUxBU1FYU3lGUTBfWHhQNXd3RDJkNFUxODFoM1FCeVNIdHVkOVdoc2VpLW5uRFdF0gFwQVVfeXFMTjczV0xVS2FKb2xWeVNWenAydGNIczFTVHBGQk1aMktsblE1Z19wTWoydUI3N0o0aFVncEY4Z01CRG1Fb21NRmVwZF9HQ2VHSVcwY3A4NkVPQjZSajM2RlJLelhFYmg4Q1VlTDRmLTF0Yg?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "젠슨 황 복귀에도 지배구조 ‘경고등’…S&P, 엔비디아 신용등급 하향 검토｜Global Money Club",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBscE1KeVh5RjN0Q0Jac3VHODZrMXZTUi1sLS0xQ2pLczZ2MXpzTzQ4MzdyZXFKR1BlMzFGZDZBRmxVa0ZEVldLTXNjRURDZzgyX2pjT2ZtaUgzQ28?oc=5",
-              "source": "중앙일보"
+              "title": "한은, 추가 금리 인상 가이던스서 '속도' 삭제(종합)",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xdW9Fa0NOXzByaHRMQ2xtVFlHRzF3UXZXQnB6ZFdfLUdkQTJQSVBjVi1pMTc1Qk5EUGtGSGNnZjZBdGx3T3JfVWx2ZWxzenpDWWZseUpYSlhmLVpWbUNLQ1FxQjllY2drQmtzWG8tNXI?oc=5",
+              "source": "연합인포맥스"
             },
             {
-              "title": "일일천하로 끝난 젠슨 황 효과···코스피 6% 급락, 4700선 무너져",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OcnZ3R0ZqNTlyT0dJbm1tUXU5anlvVDk1eTI3NXgzOWJSLURmR19VNDFHX0paUjNfbnU5WmlmbHBEem9mVHJHVmtKVlgtbUZyeWs0SVpyQlZPUdIBX0FVX3lxTE51VjZBa1g2WG83VWduNE9jQThTdW1YMC1jR1Y0RElkdjZ4RUVhVTQyV1JBUVB3cHkxTWgtVGtVSXdwTEhYdExLYnFwRHJjd2w4SGVqdVVjcm0wSjlLV0tZ?oc=5",
-              "source": "경향신문"
+              "title": "한은, 기준금리 연 3.25%로 올려…내년 성장률 4.1% 전망",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wT08zREVoVS0zRFdOb1BXZ3NaakNsemRGd3JkdEg1c1lic2lEd0lQeGlMZVRlODhTMFV3WXcybjN5RU1fazJRRkxVOE0wcnY5bTFPUzhQZjlNbUk?oc=5",
+              "source": "KBS 뉴스"
             }
           ],
-          "description": "젠슨 황 엔비디아 CEO의 복귀 소식으로 반짝 랠리를 보였던 코스피가 하루 만에 6% 급락하며 '젠슨 황 효과'가 일일천하로 끝났다. 미국 무역대표부는 그의 복귀에 대해 트럼프 행정부가 경제·안보 균형을 맞춘 결과라고 평가했으나, S&P는 엔비디아의 지배구조를 문제 삼아 신용등급 하향 검토에 나서 불안 요인도 부각되고 있다.",
-          "headline": "젠슨 황 복귀 효과, 하루 만에 꺾여"
+          "description": "한국은행이 기준금리를 연 3.25%로 인상하고 내년 성장률을 4.1%로 전망했다. 주담대 금리가 15년 만에 최고 수준인 상황에서 단행된 인상으로, '7% 주담대' 현실화 우려도 제기된다. 다만 한은은 추가 인상 가이던스에서 '속도'라는 표현을 삭제해 향후 인상 속도 조절 가능성을 열어뒀다는 해석도 나온다. 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "한은, 기준금리 3.25%로 올려"
         },
         {
           "rank": 4,
           "word": "코스피",
-          "count": 3,
+          "count": 4,
           "articles": [
             {
-              "title": "‘젠슨 황 랠리’ 하루만에 끝났다…코스피 6.16% 급락, 4700선 붕괴",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1laWp6dVN4YlozcmhWdWlHY3l6UnZDa0lxSHpPZ2FQNUxHNnRHbldhOWVlNW5hamtrMWNkTUllb1A4Rl85ZnZKWGVwMHZZdS1vSlFjZjE0RTdBMS1uX1ZGc0pTRlVFUFlpQ2RtUEdoVWpNaTFDenfSAWZBVV95cUxOemktWDFlSFBJdWxBLThSMjAydHdES2VwZ01oc3l3MGsyM1Z0S25LRHowb3E5V19TMGZQeDYzUkl2WU9ZczB1Qms3eUJncUJXYldjN0xyaGl4SmpmcEg4VU9ZeEJmVHc?oc=5",
-              "source": "동아일보"
-            },
-            {
-              "title": "코스피 6.32% 급등해 '오천피' 회복…코스닥도 4.79%↑",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVXpQQ3RaZ0x1M1RhT1VMX2VmSDZSNllWVU1IS3dsUjdSU1BZSnNDeHgtMGxLYkdKN2pOeFpIMDZXWDFvUGJZV2x1dUJLUFEtMFBnMWhEUWV2UQ?oc=5",
+              "title": "AI 거품론 뚫고…\"내년에 코스피 ○○○○까지 간다\" 전망",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zd0wtTWxiTURaWk1FNTNoa1JCWGVDS0czUEIzNmpyNWl1SG54TE54NFFyWk5NWXRJSjJyMFNwUVZ1STdxanJhZU4xUGY4UG1qdENZT1ctemMxUQ?oc=5",
               "source": "한국경제"
             },
             {
-              "title": "\"이젠 뭘 사야 하나\" 3600조 증발…피할 곳도 사라진 코스피 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcUZEbVVjZ2VGSHJXeDVfVS1IMmt0WFJ5dWs4Ull5cFkxRUNjVDVNNXNFMXV0TlltbXNnOWVadTctbjY3ck1WM20tRE1kX0Q2N0pqVnpjNGJoM0hjY0JuZTNkb0ZvRzFh0gFuQVVfeXFMTmthMzlzU0ROSU5VUDZlc0ZGUXVuV2NsTkdBOHVPUjJMelVKMmhqSlVJeE5uTmtELVpwWTF0NFdGU1oyTWk5Zi1IU0xiblhfbHVhME1acVVpVE16UW9GN1VlQXpTRGpxU040QnFNb1E?oc=5",
-              "source": "머니투데이"
-            }
-          ],
-          "description": "전날 6.32% 급등하며 '오천피'를 회복했던 코스피가 하루 만에 6.16% 급락해 4700선이 붕괴됐다. 젠슨 황 복귀 기대감이 단숨에 꺾이면서 3600조원에 달하는 시가총액이 증발했다는 분석이 나온다. 반등과 급락이 하루 간격으로 반복되며 투자자들은 '이제 무엇을 사야 하나'는 혼란 속에 마땅한 피난처를 찾지 못하는 상황이다.",
-          "headline": "코스피 6% 급락, 4700선 붕괴"
-        },
-        {
-          "rank": 5,
-          "word": "트럼프",
-          "count": 3,
-          "articles": [
-            {
-              "title": "\"앨리스 황, 中에 정보 넘겼다\"... 트럼프 탄핵 불쏘시개 되나",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0h6cjlCWE9kcFo2SlJxQzdSTGN0WHU5TE05RllWRGZRZ0p5MW1Sa1lPTHNvTF9mY3JDbkc1ZnNQVnBBTXZ1MEF6ZGdwa2tHX0x1RmU3UWdWT1VqLUVjdWdGQk8xM0lUQ21wU0xpSlJXQ0R3Sk9fVm1kUzdBeVdUTTNPWnhYYUYzSDBvcXJOWHlPX2RqT0Rad3M1TkNzUQ?oc=5",
-              "source": "조선일보"
-            },
-            {
-              "title": "엔비디아 손댔다가 부메랑 맞는 트럼프...\"자본주의 아닌 마오주의\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaTR5SXpEMEtKSTRiNllrRnVaQnpIMERmMlFGTzYyQ0JqdVBXd1h2a1VBbWt1bks5MG9WdjdfVVRCd1JnZFBqNXRYNVJfQ1BBS3ItT0hSa2hMUUZacFE?oc=5",
+              "title": "코스피, 소폭 반등 마감...장중 상승폭 대부분 반납",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCNmlkTE9HUWcwWlVlbFk4UXloQTBmYmVaU3g3VV91ajhwemlQNk1qeXpOc2VJYnZGU0MtbTBONkVNbHVuNFhRbm9id2E5cjh3TTNxNW1xU0NnRVVSbmc?oc=5",
               "source": "YTN"
             },
             {
-              "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSFduMGFTVGZsOVpGVnR1NkNsTEk0aFRyRkNhY19wcEpJQ3BGQWhoZEtZVnhlT0tOWnpOZExMWFVBZ1NjM0dhbFNHUkFyam1hbmE5MkpIMTJSRTjSAWBBVV95cUxOdnI4VFN1Sy1fazlRd1JNU0FfUUVEcGFqMzVIbUlwLWI4dzc4dEZubnNzUmJsT1g5TktqbEpjNXhmdnJxaUV5Rkt3UnRJTlFhQWNaUUFNb1ZLTjhwNXhrdzg?oc=5",
-              "source": "연합뉴스"
+              "title": "코스피 찔끔 반등…美 신규 관세-韓 금리인상에 발목",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iLXE2RnVTX0F4M3BWUFVuWHJLXzBVdW5PS3dQS2pfZ0RFVUxic21pV1lQZXBhRXY5U0hsQjFNUGFnWDNwamNVMU1WOXJsQS1YLWpKRVZhQk5VaHhRT3ZnSnhrSndWSENPTVBmMXZLVzZsSFlPUGfSAWZBVV95cUxPLUNJSkhLbXprRFpaZU1MRkVxbkZlbjhPemZqMGlIQ0Z0ZVZiTEhJR0kxVFh6clBOY1JsM0VPc0JwRWNCVUxDZEFuUzBLZEJrcXV3QlpPd255M1ZWUjVVcWphdEljZnc?oc=5",
+              "source": "동아일보"
             }
           ],
-          "description": "트럼프 행정부의 엔비디아 수출 규제가 되레 미국 반도체 산업에 부메랑이 됐다는 비판이 거세지고 있다. '자본주의가 아닌 마오주의'라는 혹평까지 나오는 가운데, 이민정책 비판의 상징으로 떠올랐던 엘살바도르 남성이 스페인에 도착하며 트럼프 이민정책도 다시 도마에 올랐다. 여기에 '앨리스 황이 중국에 정보를 넘겼다'는 주장이 불거지면서 탄핵 논쟁의 불씨가 될 수 있다는 관측도 제기된다.",
-          "headline": "트럼프, 엔비디아 규제 역풍 맞아"
+          "description": "코스피가 오늘 소폭 반등 마감했지만, 장중 상승폭 대부분을 반납하며 힘겨운 흐름을 이어갔다. 미국의 신규 관세 압박과 한국은행의 금리 인상이 겹치며 상승 동력이 꺾였다는 분석이다. 한편 AI 거품론을 뚫고 내년 코스피 목표치를 제시하는 긍정적 전망도 나와 시장의 시선이 엇갈리고 있다.",
+          "headline": "코스피, 미 관세·금리인상에 찔끔 반등"
+        },
+        {
+          "rank": 5,
+          "word": "주택",
+          "count": 3,
+          "articles": [
+            {
+              "title": "주택건설協 경기도회, 평택 주거취약계층 집수리 지원 완료",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRjhxSVVvMGxyZTN3TGFEaWgweHJ6TmtvZHJaU2puWThJYjVybGw1NEVlQ3dPaHlSb3BlN0xwdTVNX19YWEppd3NnMUxvbFh3eWhyUG5ON19iTDQ?oc=5",
+              "source": "경기일보"
+            },
+            {
+              "title": "주택 종부세 73만명에 고지, 19만명↑…1인당 평균세액 200만원",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRzlaUXdrYldXZ0oyZ0NoX2d2NmVrWkNoRDJKTkZUNGJiTk1KMy1HS3hpdF9jVXcxeDQzQUlkeWZadUNCeVRwbzN4QVJFYnZqY0V4SHlVaUM0ODTSAWBBVV95cUxNdU1yQzFid19QcDZRSlFMcnlkN3hkSFBjOUcyMkRSU1QtRU1vNXBVOUl2dDFtQVRYWHhiaGdreU5GV1dCdzNKbExmUjJ5NkRxbTZreW9JUzdzSFhWUXRqbkM?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "주택 종부세 대상 73만명… 1인당 평균세액 199만원",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sY2l5Ti1vbmRDY0pLT0RLX0wwVlh4LWstY3Q4X0pXeHN1RVdkQ0ExZ2JZU3BGV0dmeWFrWE9TaDdlbGprTWhBR2xINDZ1YUNIS1pCZHRabjhUY0lRVTcxRTJpckdldGROTGc?oc=5",
+              "source": "천지일보"
+            }
+          ],
+          "description": "올해 주택 종합부동산세 고지 대상이 73만 명으로, 지난해보다 19만 명 늘었다. 1인당 평균 세액은 약 199~200만 원 수준으로 집계됐다. 대상자와 세 부담이 동반 증가하면서 주택 보유자들의 관심이 높아지고 있으며, 오늘 처음 화제 키워드로 등장했다.",
+          "headline": "주택 종부세, 73만 명에 고지"
         }
       ]
     },
     "연예": {
-      "summary": "'재혼황후' 45개국 1위로 종영 · '호프' 청룡영화상 최우수작품상, 설경구·전도연 주연상 수상",
+      "summary": "청룡영화제에서 나홍진 작품상·여성 감독상 배출 등 수상 소식이 화제를 모은 가운데, 서인영은 재혼 앞두고 과거 의상 처분 소식을 전했다.",
       "keywords": [
         {
           "rank": 1,
-          "word": "재혼황후",
+          "word": "나홍진",
           "count": 2,
           "articles": [
             {
-              "title": "45개국 1위 찍은 ’재혼황후’, 오늘 종영",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CRnJqWHJaX2RadER6SjQyd3I4RU9FYzE0US1jTFJWdHJNeGNIOGZmTC1vWExSSm50bHREV0o2azc4REF0ZFdiSDZNQzNXNjYzTldZcHlSNmRNOWRYM3ZSb1BXcjFZQ1U?oc=5",
-              "source": "연합뉴스TV"
+              "title": "나홍진 “칸에서 이렇게 주시지, 왜 여기서”…청룡 작품상 받자마자 ‘농담’ [현장영상]",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SUEM4ZnoxY1VROHQ2M29OUDlRdlRUZkdLV2doYzl5MnhsdkJmVU50SVdYNkluMHowUmh0NXYyLW44SHdCR2ZQWFZ4Qks2MUlDYjlKaTdJS3ZoVUpxS1p5Y3didHlCQQ?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "'재혼 황후' 신민아, 이종석은 프러포즈 주지훈은 애원 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ybHBfWUJoY2cxX01qNkx1eUVIYXJvTU1ZVGhDSjhoT2hrc1FrdEJxWExCaHctZFVzc01xaG84Qlpmd29KY0VWOXl6c0RHeGRYVnRVbjBSUzhtaHNUdzNKZ1FKdTFmUzFxeFd6N04tWURhZDjSAXhBVV95cUxOVU1KcXA2Uy00Z0dwUXhjR19Wbkw2aGY4UzNXMVk4NXVOcVpoOE1ObTQydzhJVUhOVDR5amVOTXFzc0pwNGtDRmJkVWJZWENvZlFxWUxzNnlMc3d5b2F0TVdieXh6eWFva2JFNHdWdUVNTFJsUmNGblo?oc=5",
+              "title": "\"큰일 났다\"…장항준·나홍진 제친 '청룡 최초' 여성 감독상의 첫마디 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFS3FXNjJ3cGJDcXJXeV9KbnNzU0tzY1hvZE1OdHdTZm56eDF4dWNhdHlHd0pGajNrTmdCNGxnNWlDdk1nVTdNeE5KMWZaWDdOVVVSVERKektrVFUwbWl4cjNLbzdDY2t4d1B4eHdteVB6bFXSAXhBVV95cUxOZkhEOTVPVUJnNmlKLU80djEwMHhGSW5fTVBMZElUb3BCX1ZrczF3QTJmVFZBT1RtSHlpOFpielkyd3JRdFNGNW8tSTJ1ZTZsNEVmNWJ3eWRuZFFlYlY4WlJ0dmcxNzdxTHFIX3k3UUFIbUpvUUhJU1c?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "'재혼 황후' 이종석·최대훈·이준혁, 서왕국에서 생긴 일 [IZE 포커스] - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0TUVDWmRmcS1KUHpCZXZXdDNteVpFeHA3MDZWUjhwNXpKdHV6dFFTWldiYXVRWUJYLTFWR3JJdENmWXVhYTJoX0dUNWhaa2hZb0pwcGM3V0Y1Wmx0WnBqMkRqNkg5ZElBQlJYLXhCbGExNjjSAXhBVV95cUxOOW5rb3hGbUtTNmcyWVZ2S3R3TXUwVzI4SjlnbTU1dkpybjBQQzRmeDhLT1NMb0FfcGFUd2ZENDhFVjF0UVhoYlRGY1hxX2lVNFVZTmc0LThKVVZNMkNsdXlub1k0Ym1QVXRLN3FBRXNfaDVIcUxZbXA?oc=5",
-              "source": "머니투데이"
+              "title": "청룡이 선택한 올해의 영화는…나홍진 감독의 ‘호프’",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KemVCOUlkTHpLY0E4ZmJDNWhmOXpTRFBSRmFhZEdwOEY3RlpOVUh3UHFLWVBhUHVVQWYyekRoTml0cU1iSW0wTU9YZVRkV3lhZEpQVy1nakNYQkxaUFVMcmVBWHBSaWxtMlp4RkN5OA?oc=5",
+              "source": "진일보 | 전남일보"
             }
           ],
-          "description": "넷플릭스 드라마 '재혼황후'가 45개국 1위를 기록한 가운데 오늘 종영을 맞았다. 신민아가 연기한 황후 라스타를 두고 이종석은 프러포즈를, 주지훈은 애원을 택하는 엔딩이 화제를 모으고 있다. 이종석·최대훈·이준혁 등 남자 주인공들의 활약도 주목받으며 작품 전반에 대한 시청자 반응이 뜨겁다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "재혼황후, 45개국 1위 찍고 오늘 종영"
+          "description": "나홍진 감독이 영화 '호프'로 청룡영화상 작품상을 수상하며 화제를 모으고 있다. 시상식 현장에서 '칸에서는 이렇게 주시지, 왜 여기서'라는 농담으로 웃음을 자아내 주목받았다. '호프'가 올해 청룡이 선택한 최고의 작품으로 선정된 가운데, 같은 시상식에서 청룡 최초 여성 감독상 수상자가 나오면서 올해 청룡영화상 자체가 큰 관심을 끌었다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "나홍진, 청룡 작품상 수상 후 '칸' 농담"
         },
         {
           "rank": 2,
-          "word": "이세영",
+          "word": "장항준",
           "count": 2,
           "articles": [
             {
-              "title": "'1억 성형' 이세영, 적나라한 전후 비교…학창시절 사진 공개 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ob3NYZWRWSllpaDNOV2JlNUFzSFFMcVkyYWJOYkZ6eVFWVkRzSzRMbnF1WnVtT29xVHdFVTVjSmxoQkJiakp1aEFQckNDMk5UNkJaZkMwZzBpSDFPbGEzNmtyRG5hVGFIUzVwZjgxZ0NtUlXSAXhBVV95cUxPRVhMV05rUW9jUDBEVDJ5QTZnV0J3S2I5ZHFGdXlFT0NRME0zdzZhVTVyOE5zZUxsazVGR1dVWmp6QVRrVkRfTEFlQTBvc3Z4VHkwcV9SaGI0R1dUa0hDT1ptM3l6bW1xck5HMHY0dzJMcjQxTzZiX2I?oc=5",
+              "title": "\"정말 이런 날이 옵니다\"…김은희, 남편 장항준에 직접 트로피 전달",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSVZsSVpsRkJZOEp2NXZ0Q0pyV1I4alFXLWNTeEo4SWYybndDS3djUlFqSm9jRXNRMmd6MFhxUzJ0TjNlRWlka0x0SkZaNXBQSVNrRlU2VkFMRmRMcFN5T1NvUnZ0MWUtS3ROWWMyTy04enc?oc=5",
               "source": "머니투데이"
             },
             {
-              "title": "\"'라스타'는 여러분 덕분에 행복했어요\"…이세영, '재혼황후' 종영 앞둔 소감",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ac3hGMVBoaTZOYXNmNGdodjF5Z3NkaUhWUDdHakJ5elR2REVydHhaUVh4eTBDZnVGbFEzSjBTMElsSW03RktXbEJfM1I0OHJLenZEUXYzTC16b0hpYUtlYkN3dWl6VmdJeEE?oc=5",
-              "source": "SBS 뉴스"
+              "title": "“꿈 이루게 됐다” 김은희, 남편 장항준 트로피 건네며 울컥",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeHFJVFUxMkRTXzFDVTNoM1YxN1R4Y0FRSk5Qa2ZyTGVQRFliV0RRQ3ZoWTJvcElhd2E1aGZUdGV4SGRMc1hJR1FZenlhUUtyYlBlZ2pB?oc=5",
+              "source": "중앙일보"
             },
             {
-              "title": "33세 이세영 ‘동안 미모’ 비결? “선크림 진짜 열심히 수시로 발랐다”…4년 반 동안 나타난 변화 [그들의 건강美학]",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aN01la1Myd3BodmNIWVpUNWpBTkpHd1RTd1dsWEpTa080VzRzdkFIb0tadGVaMTJYSl9xbndqMW0xMXJRbnVOZmkwcjl5ZGxBX2E5cmdB?oc=5",
-              "source": "헤럴드경제"
+              "title": "'청룡영화상' 박지훈, '왕사남'으로 신인상 수상⋯장항준 감독 '함박웃음'",
+              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hQzZZelhQYlgwdWNMTm9KZ2ZnOFhucWdGdzQ0bU10WEwyczRiS2x1SWx0NUlBYVpLYU81RU9jdkZ3N0FqN3gyUnRHM0hrZ1lEV0ZUNA?oc=5",
+              "source": "이투데이"
             }
           ],
-          "description": "배우 이세영이 출연 중인 드라마 '재혼황후'가 종영을 앞두고 그가 직접 소감을 밝혀 화제다. 그는 '라스타'(극 중 역할)로 함께한 시청자들에게 감사 인사를 전했다. 한편 '1억 성형' 루머와 관련한 학창 시절 사진 공개, 33세 나이에도 동안 미모를 유지하는 비결로 꾸준한 선크림 사용을 언급한 인터뷰도 함께 주목받고 있다.",
-          "headline": "이세영, '재혼황후' 종영 앞두고 소감 전해"
+          "description": "장항준 감독이 청룡영화상 감독상을 수상하고, 아내이자 작가인 김은희가 직접 트로피를 건네는 장면이 감동을 전했다. 김은희는 '정말 이런 날이 옵니다', '꿈을 이루게 됐다'며 울컥한 모습을 보여 현장 분위기를 뜨겁게 달궜다. 같은 시상식에서 박지훈이 '왕사남'으로 신인상을 수상하자 함박웃음을 짓기도 했다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "장항준, 청룡 감독상…아내 김은희가 직접 트로피 전달"
         },
         {
           "rank": 3,
-          "word": "트럼프",
+          "word": "서인영",
           "count": 2,
           "articles": [
             {
-              "title": "\"앨리스 황, 中에 정보 넘겼다\"... 트럼프 탄핵 불쏘시개 되나",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0h6cjlCWE9kcFo2SlJxQzdSTGN0WHU5TE05RllWRGZRZ0p5MW1Sa1lPTHNvTF9mY3JDbkc1ZnNQVnBBTXZ1MEF6ZGdwa2tHX0x1RmU3UWdWT1VqLUVjdWdGQk8xM0lUQ21wU0xpSlJXQ0R3Sk9fVm1kUzdBeVdUTTNPWnhYYUYzSDBvcXJOWHlPX2RqT0Rad3M1TkNzUQ?oc=5",
-              "source": "조선일보"
+              "title": "\"500만원 줬다\" 서인영, 이혼할 때 챙긴 '이것'…재혼 앞두고 처분 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wR1NGbFctX3czNEVXUlBzQkZxdlo2RkZ3c2RmOWEtdlRMaF9BdTQxNGpZbFhJNmpPdHJHcFV3dHJYNnI2M3RLSDBRakFQM1owRzRoZ0F0X09JdGZZUm9lTXhzN2gydFRHMWZFcWlzYm9peXfSAXhBVV95cUxOcGVzNENEUDA2aDBGcWxSR0RpaTZMcUhRTFltcDlGaVVHOUFqSUVhMG5EZk5LTktKYm1HbGxLUkpGUmM0Y2VZdzllVDl4Vk5JQmdhb1FLdkZ2RzBVTlAxcmNmem1yWnFPOWlrTXRWM3BzaDQtOFRNd2w?oc=5",
+              "source": "머니투데이"
             },
             {
-              "title": "엔비디아 손댔다가 부메랑 맞는 트럼프...\"자본주의 아닌 마오주의\"",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kaTR5SXpEMEtKSTRiNllrRnVaQnpIMERmMlFGTzYyQ0JqdVBXd1h2a1VBbWt1bks5MG9WdjdfVVRCd1JnZFBqNXRYNVJfQ1BBS3ItT0hSa2hMUUZacFE?oc=5",
-              "source": "YTN"
+              "title": "서인영, 쥬얼리 시절 의상 두고 기싸움…\"이지현 불편했다\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQkhvUTIwbjRNd3ZqMEthNV9IaG1wTklrREhFZFBYWW1kRERwdG1BbmtGWFN0NTd1SlgwQmY2YjQ5UXdQTEhjTER1SE93by1QdURJSlR2anlFb3liZ0hjd9IBeEFVX3lxTFByLTk0dmxQMEUxRGR6ZXozc0JGalpVWlpqUnZad3NfaEotMDdMd2o2a09tNTA3WlpuVWxlMFVRN1N0ZEtGX1d3c1RWSTBCeVFacnRJQk9LUnVPUEswVzdzc1NMX19DZmdRZWc5S3pDam5ZZTJncHl5Qg?oc=5",
+              "source": "뉴시스"
             },
             {
-              "title": "'트럼프 이민정책 비판 상징' 엘살바도르인, 스페인 도착",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BSFduMGFTVGZsOVpGVnR1NkNsTEk0aFRyRkNhY19wcEpJQ3BGQWhoZEtZVnhlT0tOWnpOZExMWFVBZ1NjM0dhbFNHUkFyam1hbmE5MkpIMTJSRTjSAWBBVV95cUxOdnI4VFN1Sy1fazlRd1JNU0FfUUVEcGFqMzVIbUlwLWI4dzc4dEZubnNzUmJsT1g5TktqbEpjNXhmdnJxaUV5Rkt3UnRJTlFhQWNaUUFNb1ZLTjhwNXhrdzg?oc=5",
-              "source": "연합뉴스"
+              "title": "서인영 \"'유행꼰대' 하면서 많이 배워…세상에 이런 일이?\"",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRnJTMFhMWFBuNmtqbFFWaWk2bGd0RUZPdU9ydnVZYnFxYWFIem5FNUhpUVVNMlR3R0dILUtpVG9TYnhIenp1WDMyZ2tnSzJmY2pTNjJCUEQwT21OZV9ZWQ?oc=5",
+              "source": "뉴스1"
             }
           ],
-          "description": "도널드 트럼프 미국 대통령이 연예 분야에서도 화제에 오른 가운데, 엔비디아 관련 반도체 규제가 오히려 미국 기업에 부메랑으로 돌아온다는 비판이 나왔다. '자본주의가 아닌 마오주의'라는 직격 표현까지 등장했고, 앨리스 황의 중국 정보 유출 의혹이 탄핵 논란의 불씨가 될 수 있다는 분석도 제기됐다. 이민정책 비판의 상징으로 떠오른 엘살바도르인이 스페인에 도착했다는 소식도 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "트럼프, 엔비디아 규제 역풍·탄핵 논란 겹쳐"
+          "description": "서인영이 재혼을 앞두고 이혼 당시 챙겨온 500만 원 상당의 물품을 처분한다고 밝혀 화제다. 그룹 쥬얼리 시절 의상을 둘러싼 멤버 이지현과의 기싸움 에피소드도 함께 공개되며 과거 활동 비화에 관심이 쏠렸다. '유행꼰대' 프로그램 출연 소감도 전하며 활발한 방송 활동을 이어가는 모습이다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "서인영, 재혼 앞두고 이혼 때 챙긴 의상 처분"
         },
         {
           "rank": 4,
-          "word": "호프",
+          "word": "의 거짓말",
           "count": 1,
           "articles": [
             {
-              "title": "'호프', 최우수 작품상…나홍진 \"칸에서 주시지, 모두 최고였다\"",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONENlbF9hQ1JTeklybmgzRVByUUpFYXkxaF84Yk5xcy1ZblhXdFN6X2dCR3NkRnE3ekZETXZfZzBDUUQ4MmxQUHJnYXRJSHBoakpsNzRzLTdieVBhT3g3dWM3Y0NOSWxnT2RZLWpUeUN0S0dSUzNOYzlMZnBQM0lqRVhnWTdSUk94UzZROHFWSTFfTzJ4?oc=5",
+              "title": "‘100일의 거짓말’ 작가, 친일 미화 논란 정면 돌파 “출발은 흔들려도 끝내 도달한 독립의 숭고함”",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95bmlSa191YW0tSFNOb3JrZDJRR3g5aXVTSjY1Y0ZZLTFkQXF4alpmN1VkNFl4eHhPZXk0aEJuSHZwSTR6UjEzdWVNb092TnIwXzJFTnFUZDY3ZVlYQUHSAWNBVV95cUxPOXNmN01EVUJ6b0VNSGxFZWtlOVliLVNJRHdfOTdSLUU5T0JQZVV6NXBGRVQxQUFicWx6VE40TWppQ0lLc2M0UmRaN0dGeWwyb3JtM0lnelFHU2swTHVCTVp1ZUU?oc=5",
+              "source": "스포츠경향"
+            },
+            {
+              "title": "잘나가는 ‘100일의 거짓말’, AI활용한 브랜드 맞춤 광고 선보여",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OR2VOT2JmU1l3M3pjdVpUb3NKQjI2eF85XzFKdmhtaUxrYVlndGZKYnUwZy1La09BbWd5M3VYNktVdEVSaVlzQ2FvRHBiU0VnaktpUW0zZ2JhbkE3NzVSOUV3?oc=5",
+              "source": "디지털데일리"
+            },
+            {
+              "title": "'100일의 거짓말' 박진영 목걸이, 펀딩 사흘 만 1.2억 '잭팟'…목표액 238배[SC이슈]",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUh5SWNxYnZ3MUJ6NzI1RVhoZlp3XzVaaW1FSm9KUzZrR3JwZkNqbHVLT0VydWZIN1p0aW1DT19DRjJHSEdEWkwtVDdDdjBTaktMa2dBY3VTVmJKT2hoN1dMSW9JaVladm1ybUx5R2d2dXdOTG5tNERxSThFTU9jZjR4eTV5WS1hM3FRTDgwSV9JZ3d5?oc=5",
               "source": "조선일보"
-            },
-            {
-              "title": "조인성, '올해에만 호프 등 3편의 장편 영화에 출연'",
-              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVUjdFUmV6U1hSRHg2cm1XcWlZY2NHcTllU0RFZmUybklNV2ZNWERSZGRWM3ZOaS1mWW1TVm9wWTJ1c2VzTVM3N3RfNTFJUQ?oc=5",
-              "source": "전자신문"
-            },
-            {
-              "title": "나홍진 ‘호프’ 청룡 최우수작품상, ‘가능한 사랑’ 4개 부문 석권",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TNVZXMEpmdDVUdUEwSmJRaUgxa2F2UHg2TDZWbmRVYU9DLS1sOHJRckFSU09CVGVlX1ppX3BKYnFGYkI1SzBNLVRWbTJ6alc0RnYtc3FB?oc=5",
-              "source": "중앙일보"
             }
           ],
-          "description": "나홍진 감독의 영화 '호프'가 청룡영화상 최우수작품상을 수상하며 오늘 화제의 중심에 올랐다. 나홍진 감독은 수상 소감에서 \"칸에서 주시지\"라는 유머 섞인 말로 이목을 끌었고, 주연 배우 조인성은 올해에만 '호프'를 포함해 3편의 장편 영화에 출연한 것으로 알려졌다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "'호프', 청룡 최우수작품상 수상"
+          "description": "드라마 '100일의 거짓말' 작가가 친일 미화 논란에 정면으로 입장을 밝히며 화제를 모으고 있다. 작가는 '출발은 흔들려도 끝내 도달한 독립의 숭고함'이라고 해명하며 논란을 돌파하려는 의지를 드러냈다. 한편 극 중 박진영 목걸이는 펀딩 사흘 만에 목표액의 238배인 1억 2천만 원을 달성하며 콘텐츠 열기를 증명했고, AI를 활용한 브랜드 맞춤 광고도 선보이는 등 흥행 가도를 달리고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "'100일의 거짓말', 친일 미화 논란 정면 돌파"
         },
         {
           "rank": 5,
-          "word": "설경구",
+          "word": "강민경",
           "count": 1,
           "articles": [
             {
-              "title": "청룡영화 작품상에 ‘호프’... 주연상은 설경구·전도연",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1Z0c25makwteUJsaVd3S1lzRjZ0VTJkbDhCWEJqYk5KNlRWOEtpTHlkZktNdGNXWkJ6N2RCM2xHdkowei0xV0pyZDZ6Rm9USzhCVmpMbHZBMmYtRlhwRVdUN0oxTWVwZ0I3WWdoWlhRN2NaSHc0c2oySTBXODJTV091TlU3dlRMQ3lUQktlWGF4dWU1?oc=5",
-              "source": "조선일보"
+              "title": "강민경, 우아한 끈 드레스…청순+섹시 다 가졌네",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FaHRlX1hTSmVNMDA1RmU2cUN5SnhTbloxWlk0clVQM0ozTWwzLWtUbmcwc05YY3NPZTFwTUNCbEV5Z1pOTGJkdEl1b0RFNXF3WXVqVmNCellSYUIycXcyUDNaOVZiYzVvcmItQ2pn?oc=5",
+              "source": "스포츠동아"
             },
             {
-              "title": "'가능한 사랑' 각본상···전도연·조여정·설경구·조인성 환호('청룡영화상')",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qREZrX3B4ZEV6aTVrcTVWTGRzSVBXcGw5ZXhVMklIVEgwb05ZLVFzTXMyLUVHQW5XQ08yZktqRjEzc2p6LXh3c1pTT3h1NEJXTWRpbFQ1OU03eWZnRUNiWFp3?oc=5",
-              "source": "미주중앙일보"
+              "title": "이사 앞둔 강민경, 번개장터 플리마켓서 애장품 내놓는다",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QSlZHMndLTGhXRzZmQ19BZzVOSE9PN0hSWTdVQXRRaHJyVWp2MldmajVaUi1CUFVqNUNHVUxCdUhmbnJiN1VveldJREVGd2N5YXpCNndR?oc=5",
+              "source": "지디넷코리아"
             },
             {
-              "title": "청룡영화상 작품상에 '호프'…설경구·전도연 남녀주연상 석권",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vb3MxMEw5S1I0N05nbDY4MzNabmJNSFY2bWk1WE5FRnpWNUV0SVVybmd0cU5FdGhHaExfN3NqT2dqMTNoNENqRjBGVVpFdkNPVGRraEQ1VnhXWHlxR1NxWNIBYEFVX3lxTE1vb3MxMEw5S1I0N05nbDY4MzNabmJNSFY2bWk1WE5FRnpWNUV0SVVybmd0cU5FdGhHaExfN3NqT2dqMTNoNENqRjBGVVpFdkNPVGRraEQ1VnhXWHlxR1NxWA?oc=5",
-              "source": "연합뉴스"
+              "title": "강민경이 쓰던 소파·식탁 나온다…번개장터, 28일 성수서 플리마켓",
+              "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xT3A5VEtiRkdjM3N0MDBJcWVtVEZSTXVUZFJpRVlTZk5DVHo2VFF5RlJBTDlwdFRkNU5IdGxMQnhyQW5QOGpHeklLRlJsUQ?oc=5",
+              "source": "전자신문"
             }
           ],
-          "description": "설경구가 제45회 청룡영화상 남우주연상을 수상하며 화제를 모으고 있다. 여우주연상은 전도연이 받아 두 배우가 나란히 주연상을 석권했고, 최우수작품상은 나홍진 감독의 '호프'가 가져갔다. '가능한 사랑'도 각본상 등 4개 부문을 받으며 조여정·조인성 등이 함께 환호하는 모습이 전해졌다. 오늘 처음 트렌드에 등장한 키워드다.",
-          "headline": "설경구, 청룡 남우주연상 수상"
+          "description": "강민경이 이사를 앞두고 직접 쓰던 소파·식탁 등 애장품을 오는 28일 성수동 번개장터 플리마켓에 내놓는다고 알려져 팬들의 관심이 쏠렸다. 평소 사용하던 가구를 직접 내놓는 이례적인 행보로 화제를 모으는 가운데, 우아한 끈 드레스 화보도 함께 공개되며 왕성한 활동을 이어가고 있다. 오늘 처음 트렌드에 등장한 키워드다.",
+          "headline": "강민경, 이사 앞두고 번개장터 플리마켓서 애장품 처분"
         }
       ]
     },
     "스포츠": {
-      "summary": "IBK기업은행 최정민 프로배구 1라운드 MVP 선정 · 삼성 구자욱 FA 및 MLB 행방 주목 · 김도영 MVP 경쟁 결판 임박",
+      "summary": "김하성 디트로이트 이적·김도영 KBO MVP 2회·박지수 WKBL 최다 더블더블·김민솔 KLPGA 3관왕",
       "keywords": [
         {
           "rank": 1,
-          "word": "삼성",
+          "word": "합의",
           "count": 3,
           "articles": [
             {
-              "title": "삼성전기, 1조7천억원 규모 자사주 전량 소각 결정",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JLTlqeDNWNWJOYS1zZmxzWVRHWjZVdXljRWN5S25ENUFzMWNXSHp6bUtvbHZxOTlfVTF6bzQ1cU90b3M5OU9nRmd2R3J2bGw3cUZ2MHN5UnpDUDE1YXFUWTdFdGh5cXZ6V3FwZkJmSmE?oc=5",
-              "source": "연합인포맥스"
+              "title": "김하성, 디트로이트에서 새 출발…“1년 500만 달러에 합의”",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sT0ZHbktYUk9lYUNsM3RXdU1YT3h3b1BQOVE1em5ZUHZqeVg5NmxrVkJoMGQ5UkRvNkZ6aTRwSFpEZ216QWtmdG9sZy1oWmg4cm5LVVJEZGRjLUhXMV8yaUxhZ3hQZw?oc=5",
+              "source": "KBS 뉴스"
             },
             {
-              "title": "삼성전기, 11년 보유한 보통주 200만주 소각… 우선주 포함 1조7319억원 규모",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVozWDBCOXJhWVlkOHc4bDItSXZUNmloaW5yS2RUanZldDhJanI5MExTdkwwSjBXUmFhM1FGbW9UbFlKRHlSQTMtSDZ0LWVCV3A0YkU2RnBvMzE0VWhLNVh5Q0g4MHlOVVBfeGk3N0phdldPcDVrWHNBeWk1SExGbWdn0gGWAUFVX3lxTE4xUzgweWRXYXlkRzFuMTdpWmluZ0RCZi1Yb09MVGhJaVZnclk4OVRiVDNua1E2bmNkekF5ZzZIMDQ0bXMydHF6cXBST2s4MTVVSnJzd1V0UktqbTUwYXJUeHJEQmx5Wl9zYmViQUtKOWpaZmN4emtZQ1hsMWJ6SXpFMmtYX0VnRGhCMjBLYUIzZk91OV9TZw?oc=5",
-              "source": "Chosunbiz"
-            },
-            {
-              "title": "삼성전기, 1.7조원 자사주 소각…주가 상승에 규모 12배↑",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sRDJPME11UXEyS2h1TmZwZWZFZ0U4OWZwWnc4bGdIVUZScjA5QjdLZVJURjc3ckVNVDhNM0p0TXl0V3hVUlZGUXh4a2NXVm9jb3gwN0JBQ2xZWUHSAWBBVV95cUxQcXZ1c0ZMMVVQckhvYjdXeWxidmpqWllJNkRZNDNmTk1kUGk0N3VQV2RPZVR2MWo5aGJlSWFVci1xWENkSGhTbVFkNnpwaGwzdk9qTUlzVUg0elVZN1VKODM?oc=5",
+              "title": "김하성, MLB 디트로이트에 새 둥지…1년 500만달러에 합의",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzbnVrQk80RUxoT08tcXJIaThwR3l5bnZRRjYwV29ubWt5akZGcHRfSVpZWjZNNkJfUS1HdGgwWE5hQXlkcXJnZ0ZaS2tkR1lvTU9yeldyMXV6cGPSAWBBVV95cUxNT1FOdnd4MHhZREZSSzB6M28xUzhlYktQS0RXcE8wZVRUVlhYanJ3MTB4NHZBblN4ZGliOC1DdUU2Sng4UUQ3LUlMUFVGTGktOVBkejd3QVctTHJVN0ladGM?oc=5",
               "source": "연합뉴스"
+            },
+            {
+              "title": "디트로이트, 베테랑 가우스먼과 1년 2500만달러 합의…김하성 이어 영입 행보",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vLWVVeG4tNUo3N2Jkd1VfMmFEWW9Tc0lTb2c0X2p6RlA3WmFGYTdIblNWQ0ZBY2pqSklFRjFXVHhKeU95LVd1SDhEdmt3aXlKMzV0ZUVoc1FQeDhNb3c3c2JSUFJOTXFMWF96QVNqbzN5a3ByM2dxUTZaNWlKY0HSAX9BVV95cUxOby1lVXhuLTVKNzdiZHdVXzJhRFlvU3NJU29nNF9qekZQN1phRmE3SG5TVkNGQWNqakpJRUYxV1R4SnlPeS1XdUg4RHZrd2l5SjM1dGVFaHNRUHg4TW93N3NiUlBSTk1xTFhfekFTam8zeWtwcjNncVE2WjVpSmNB?oc=5",
+              "source": "데일리스포츠한국"
             }
           ],
-          "description": "삼성전기가 11년간 보유해온 자사주 전량을 소각하기로 결정했다. 보통주 200만 주와 우선주를 포함해 총 1조7319억원 규모로, 주가 상승으로 인해 소각 금액이 당초 대비 12배 수준으로 불어났다. 자사주 소각은 유통 주식 수를 줄여 주주 가치를 높이는 조치로, 시장의 주목을 받고 있다.",
-          "headline": "삼성전기, 1.7조 자사주 전량 소각"
+          "description": "김하성이 MLB 디트로이트 타이거스와 1년 500만 달러에 계약을 맺으며 새 출발을 알렸다. 메이저리그 무대를 이어가게 된 김하성은 디트로이트에서 재기를 노린다. 디트로이트는 김하성에 이어 베테랑 투수 가우스먼도 1년 2500만 달러에 영입하며 적극적인 오프시즌 보강에 나서고 있다.",
+          "headline": "김하성, 디트로이트와 1년 500만 달러 합의"
         },
         {
           "rank": 2,
-          "word": "한국도로공사",
-          "count": 2,
-          "articles": [
-            {
-              "title": "인천 한국도로공사서 60대 남성 제설차량에서 추락‥심정지 이송",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DbTRGUmh3bXFGSjE1XzVZUTNDa3dGa1NxN096a2dmbzVBZUtYZnY3VmJCQ3hJVnVBOEg4ZkNaajB5eXNmMnJwVEI2cG8yejk1UVd3c1VGX0FDTTBMTTNDa2c4M1o2dHg3RzhlcjJXYmw2a0dSUmhJ0gF3QVVfeXFMTURycE5ON0d6N2hXS3ZaR1JjcTB2cXV6YmlScHUxR2JYNFBuVkN5ekV4RlYxaElkLWNXX0FFQnZKVUdTTDgzX3dFLVlZUnhfQlUwR0c3RDMxWkdGaGNHX25VMERILVM4VzZuWm54SzdsTDl5NW9fR0k?oc=5",
-              "source": "MBC 뉴스"
-            },
-            {
-              "title": "한국도로공사, 4000억 규모 튀르키예 고속도로 사업, 유럽 진출 교두보",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2YV9WQ25mRWkyTWJGODdWOHZxckNpUV9EZTl4eG5uUDJrNDRWSWJQSVM3YTd3Rmg1amt0MEY0b1JsMUVFMDNhS0FzTjNyY1FiOG0xb3p1ZktEQdIBX0FVX3lxTE93R3EwOWx2MnhvYkRudDVwdmdDamRoR2VuRnhWak4xSUo2WHN6WkFLeWhMWGZyZHhoRXMxWWV4YjduRVdXYUpkdGFvQ0xtc3l4QUlvTnZKQ1V6QjJXbFNB?oc=5",
-              "source": "경향신문"
-            },
-            {
-              "title": "\"고속도로 미납통행료 앱으로\"…휘슬·한국도로공사, 상생협력 우수사례",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OdEg0QURpQU1oQ0trbWZ1NEluRkJfMVQxRWhnTzUyN3p2dk11V1NtZVRYdGhUb1RFd0JmV1VzcVNUejlHLXdMbGVzSXBUaGVManQxaXRB?oc=5",
-              "source": "지디넷코리아"
-            }
-          ],
-          "description": "인천 한국도로공사에서 60대 남성이 제설차량에서 추락해 심정지 상태로 이송되는 사고가 발생했다. 한편 한국도로공사는 4000억원 규모의 튀르키예 고속도로 사업에 참여하며 유럽 진출 교두보를 마련했다는 소식도 전해졌다. 오늘 처음 등장한 키워드다.",
-          "headline": "한국도로공사 제설차 추락 사고 발생"
-        },
-        {
-          "rank": 3,
-          "word": "IBK기업은행",
-          "count": 2,
-          "articles": [
-            {
-              "title": "삼성화재 호키·IBK기업은행 최정민, 프로배구 1라운드 MVP 선정",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00akk1a0gtc3BNTzg5aTVkdmxlbGRuRnVITDZSSS1JWjlLYldlM0RMQXpITUc2UFB1VmprUWVuN0c2OEVDRnUxU2k0T25IRUNHaWt1SzJXU3pnY2PSAWBBVV95cUxQeTRpa1RBRlQyVnNNcXN3MzlvOE9WdUZBaEJsQVljOUU4dU9ncjRYODYwRUd2MGEwcVYwLThob1pNcDhDdDV0Rk55cHhSbjZvTGtBS0pWVC1FWlQ3WEJWZVI?oc=5",
-              "source": "연합뉴스"
-            },
-            {
-              "title": "화성 IBK기업은행 최정민, 데뷔 7시즌 만에 첫 V-리그 라운드 MVP",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OYkZsNXVPellRblVib2xHYUkyV0w3Y01vQ2pkdFNobG9kU0JPcUIyOU9YcE9XUmZIVFNBUEljTzBXcHFBZy1WOVg4aXl4c213MGJpUEppU2lTWjg?oc=5",
-              "source": "경기일보"
-            },
-            {
-              "title": "프로배구 IBK기업은행 최정민, V리그 1라운드 여자부 MVP",
-              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fcWl0cTBDdnNvUnRWRXhZSnkwMW4xSDdRekNaTWhCNnFxcURIdldyRFBqTENYMVBaZkd2bFJfcjg4T3pjZG1MZVp1YnNxYW9yOUR5M1pVNi05dW9FblBnZjFOM2o5aFNTLWw5ZWFLZw?oc=5",
-              "source": "기호일보"
-            }
-          ],
-          "description": "화성 IBK기업은행의 최정민이 V리그 1라운드 여자부 MVP에 선정됐다. 데뷔 7시즌 만에 처음으로 받는 라운드 MVP로, 삼성화재 호키의 MVP와 함께 프로배구 1라운드 수상자로 이름을 올렸다. 오늘 처음 등장한 키워드다.",
-          "headline": "IBK기업은행 최정민, V리그 1라운드 MVP"
-        },
-        {
-          "rank": 4,
-          "word": "구자욱",
-          "count": 2,
-          "articles": [
-            {
-              "title": "FA 구자욱·원태인, 대구 카퍼레이드 참석 안 한다…KS 우승 주역들은 참여→당일 블루웨이브까지",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SS1RIdWxsZ2IwSGVsbGVMS2RlYTdfcnEzSUNWWk5fdzNxSVlMTDBfZmFMWGRDYjlLc1JvYm1KLVlqd0N5M0cxc1FjOVhPc1ItSXZ1Ti1jREpTRm5QNGg3bDNmR21USGhYdkFrLUcyT0o?oc=5",
-              "source": "SPOTV NEWS"
-            },
-            {
-              "title": "일본 타격 1위는 MLB행, 삼성 라이온즈의 구자욱은 가능할까",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TY1NhSW9fblFjQWR3MjN4R3ozbVpITnY0N3RMSDQ5Y0NNdnBqazczYm1WOHJPRHJNUHJRZndCR0lxT2VkcDloSWFYVVVySFEyV19kSnRKNHRGbGh0NjJvWm5n?oc=5",
-              "source": "매일신문"
-            },
-            {
-              "title": "'FA 최대어' 구자욱, 타격 '2관왕' 자격으로 KBO 시상식 참석 예정→거취 힌트 나올까... 원태인은 불참 - 머니투데이",
-              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MGJINy1QWEJEcGZIRnJvamMxVUZjazA4cWQ5c1pFOXhmdHo1UThrdjJqSlhLZGdLbC1pQ3MxazI4WUhXMExwc2QydlFGSTFlLTd3dGd6MlRXcExJOUdwS052bVZDMnZLamfSAW9BVV95cUxOOWhUV2haTjZZSGFoZ2FKX01PLWQ5OGVZQmkycVp1aUF4SWt6aG11ZG9aNkx6TXZRcGw5M3hGNW9teWN3MG1pWnhMU3Vnd21GeTYyMzduT1Y3djhoaVB5RGVwdnZCYS1RUDhvUWF2VmM?oc=5",
-              "source": "머니투데이"
-            }
-          ],
-          "description": "삼성 라이온즈의 FA 최대어 구자욱이 타격 2관왕 자격으로 KBO 시상식에 참석할 예정이어서 거취에 관심이 쏠리고 있다. 한국시리즈 우승 후 열리는 대구 카퍼레이드에는 구자욱과 원태인 모두 불참하는 것으로 알려졌다. 일본 타격 1위 타자의 MLB 진출 소식과 맞물려 구자욱의 해외 진출 가능성도 함께 거론되고 있다.",
-          "headline": "FA 구자욱, 타격 2관왕으로 KBO 시상식 참석"
-        },
-        {
-          "rank": 5,
           "word": "김도영",
           "count": 2,
           "articles": [
             {
-              "title": "김도영 vs 곽빈…살벌하게 피 튀기는 역대급 전쟁, 드디어 내일(26일) 결판난다",
-              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jM2dseU1ndW9wOXBGSE0xX1JUd29sbGJmSjhjNnFkVGx0ZDJPSS0teWZUWUIyYmJ2bDVUMDBmR3gyR0tpSXpjN2JYdnN4elBKVDJTeVJ3?oc=5",
-              "source": "위키트리"
-            },
-            {
-              "title": "KIA 특급 유망주, 힘보다 더 큰 재능이 있었네… 김도영이 어릴 때도 그랬었는데",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uYUhPTXdrWDVsdWhvTC1rOE4yVG9MenlmLU1ZcjdNYkRRVkIteGIyRGR3NWpLVWVFNjR1cW1iRlpKY0RJUzZhUlVjZDJUckZZQnh3YnZ6SFl1Q3hHVUdiTWRZM0swblBjbUlKNy1VZFM?oc=5",
-              "source": "SPOTV NEWS"
-            },
-            {
-              "title": "'日 김도영' 사토 1600억 잭팟 → 한화의 노시환 차례다. 307억 더 받을 수 있나",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEl0UTlMVi1YaTdGZ1FpS19DbWl1S0JYNG1vYVRuN21qUzFQN0ZseEhINU1FYTdWUS1MNVYyWEN3Y2tIaTRaeG1XbXo1VmQ5UERZWnYyZ2xmRXFCY2JMSU1JZUM0azg3RV8zbXBmM0k2TWo4YmVrbUFhMmhTZmx3WW9PRQ?oc=5",
+              "title": "45홈런으로 되찾은 왕좌… 김도영, 역대 여섯 번째 ‘MVP 2회’",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0ZDcjdhSE9iNTdWWXlxRXJqNFFEcWxuV0JPV2FEemJYaldTZm5uS3pnZWRla0pWcGJPaVVsWllSM0hERE5wRmR0c3lhN2tLZ1JQRkpaSzU5RzR3TXd3WS1WYWtiN3Iwb3hyMHNXc1ZtLWZTQU5qOGE2bHlwblVZZ292WQ?oc=5",
               "source": "조선일보"
+            },
+            {
+              "title": "김도영,'2026 KBO리그 MVP 수상'",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YcEVOMzlaTXU3bUQ0a1pxaFEzSjctSjVkN216Qm1yQXdmdDZVZUdLQnMxOW1CS2luZjUxa3p0VFJxWko0MU1kc0Y5V2lMTVllaVBB?oc=5",
+              "source": "OSEN"
+            },
+            {
+              "title": "KIA 김도영, 최고의 별 '우뚝'…2년 만에 KBO MVP 다시 수상(종합)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MX0JJTFRvR2tqVHFIMEZrRnpOYzZ3SndsZXBXd2ptczhvaThsd1FHUmpobEJSSDYzWVJjNU5tandqbTZfT25kUmVFRkxNMGdtVXB2Yi1mSWdkOFE?oc=5",
+              "source": "연합뉴스"
             }
           ],
-          "description": "KIA 김도영과 곽빈의 역대급 MVP 경쟁이 26일 최종 결판을 앞두고 있다. 한편 일본 프로야구에서 '일본의 김도영'으로 불리는 사토가 1600억원대 잭팟을 터뜨리면서 한화 노시환의 계약 규모와도 비교되는 등 젊은 거포들의 몸값 경쟁도 화제다. KIA의 특급 유망주 시절부터 이어진 김도영의 성장 스토리도 재조명받고 있다.",
-          "headline": "김도영 vs 곽빈, 내일 MVP 경쟁 결판"
+          "description": "KIA 타이거스 김도영이 2026 KBO리그 MVP를 수상하며 2년 만에 왕좌를 되찾았다. 45홈런을 앞세운 활약으로 역대 여섯 번째 'MVP 2회 수상자' 반열에 올랐다. 오늘 어제 5위에서 2위로 급상승하며 팬들의 뜨거운 관심을 받고 있다.",
+          "headline": "김도영, KBO MVP 2년 만에 재수상"
+        },
+        {
+          "rank": 3,
+          "word": "질주",
+          "count": 2,
+          "articles": [
+            {
+              "title": "역시 국보 센터! 돌아온 박지수, 또 역사 썼다...'무려 159회' WKBL 역대 최다 더블더블 달성→KB스타즈 2연승 질주 - 머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FSzhYd3RpUDUzWkZOREg3QWlCNTNlVk5CSXV4Q0ZYTWE0ZWxqME1Vb1AxMDREaEttTFgyV0s1ZndERHpGaE15Q0d0TWdCQzZBLXRHTGpRSl9KVUczZ3o2QlU2UV9BajRNMnfSAW9BVV95cUxQUENiMjRmcUxxMGtmX2NrQXI3V09tb3lqVUtBWlVJNkNmaTEwMjY0ZFVfcUZ2NVVPTzhkLWlVTDh4ZVJpeVRaRW1ta2pDdW44cmVsaUlleXpabnQ3aU10S0dxSEM1bXAycW16MWhhTU0?oc=5",
+              "source": "머니투데이"
+            },
+            {
+              "title": "박지수 복귀 후 확실히 살아났다! '3점슛 4개' 허예은과 39점 합작, KB스타즈 우리은행에 62-51 승리...2연승 질주하며 4위와 0.5게임차",
+              "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tYjNqS2t1VzV6QWVMQ0ppTGtpVU8wM0V2ZDIzdjYyS0s0ODNUS1M4NTFIV2M5V2R3cjVXQmFzN3RHeFJoVjNjTS04Njh0clhLYzNfQWRYZ0VYaklYN2J5emRvQjZfUQ?oc=5",
+              "source": "마이데일리"
+            },
+            {
+              "title": "이해란-김아름 맹활약! 돌풍의 삼성생명, 박지수 돌아온 KB 잡고 연승 질주",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEZC1xV0VzYkNHbDNyY0VkNmhKSkZKWElIVUhvYXlTZW9pYWFnOW85V21iVmZuSDBkdEtJUW85N0FqSWN5N0lsbHdEck02ZmgtNDMzVUw4Tmg2cDFSXzVEWE92Nmpfal9Wb3NJ?oc=5",
+              "source": "루키"
+            }
+          ],
+          "description": "박지수가 복귀한 KB스타즈가 우리은행을 62-51로 꺾으며 2연승 질주를 이어갔다. 박지수는 이번 경기에서 WKBL 역대 최다 더블더블 159회를 달성하며 존재감을 과시했고, 허예은도 3점슛 4개를 포함해 합계 39점을 합작하며 힘을 보탰다. 한편 삼성생명은 KB를 꺾고 연승 질주를 이어가며 돌풍을 이어가고 있어 순위 경쟁이 치열해지고 있다.",
+          "headline": "KB스타즈, 박지수 복귀 후 2연승 질주"
+        },
+        {
+          "rank": 4,
+          "word": "삼성",
+          "count": 2,
+          "articles": [
+            {
+              "title": "중국 화웨이, 삼성·하이닉스 따라잡을 새 HBM 공개 준비",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nUnh4Wk1VNThjVGQ4SlRsZmlYX1YyeWZTcG5JYW1CUmxZdlM2RXA0N25DWlN3WU52X0dFanRSYXR4TXpVUERxSzBUS3hiY25zWHhMWEJRS3Y4ZTA?oc=5",
+              "source": "연합뉴스"
+            },
+            {
+              "title": "중국 화웨이, 삼성·하이닉스 겨냥 새 HBM 개발...내년 2월 공개",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXQm1xRmFNdWtHaUlZdU9xYzFmam5YdW12Zm9SRE82ZDI3RlNGYTBqU3dRNG5SU2NOajFUbElpODNxd1ZOcWdSR2JvdTVFQnBiM3hjX2hHZF9qWVBGamc?oc=5",
+              "source": "YTN"
+            },
+            {
+              "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NT1hlbmtET1VLb3pxMUtHZ0xUR0VZNjZsajFSSGFJTnFkZ05YMGlJQ2V1Q3RGTHFBX2ZGRGNSUDZQd1U5WW5oTXBaeVQ3bjR3Mnh5U25ET3NSbFh2SzRyLXZGNG9QSnYzT1ktdWctLXU?oc=5",
+              "source": "연합인포맥스"
+            }
+          ],
+          "description": "중국 화웨이가 삼성전자와 SK하이닉스를 겨냥한 새 HBM을 개발해 내년 2월 공개할 예정인 것으로 알려졌다. 중국의 반도체 추격이 가시화되는 가운데, 삼성전자와 SK하이닉스는 장기공급계약 실적에도 물음표가 붙으며 이중 압박을 받는 모양새다.",
+          "headline": "화웨이, 삼성·하이닉스 겨냥 HBM 공개 예고"
+        },
+        {
+          "rank": 5,
+          "word": "등극",
+          "count": 2,
+          "articles": [
+            {
+              "title": "'대세' 김민솔, 김민솔 웰컴저축은행 대상·상금왕·신인상 3관왕 등극...서교림, 다승왕",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNDYTE5LUxGc1paYmxhUmZRTE5ObkVXR2w1dWNsSm9GV05Hd09hUkUteGZfcWRpb1BMNDQ5WGdSNUo5QnpuQkNtSWdGSUc4NkpJLW1OelRKWEQxSTY1WXRodG8xaVl5b3BhOXNBZHI5YW1ST21CcEdydkluTnozTEJQcUVXRC10SDVz?oc=5",
+              "source": "글로벌이코노믹"
+            },
+            {
+              "title": "김민솔, ‘2026 KLPGA 대상 시상식’ 3관왕 등극… 신지애 이후 20년 만의 대기록",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QWlJFOXYteGU5MDhLc1ZaZFhwRlRLTDBxUlBLeXZCWG5nWElsdVViVzZZN0ZSMGI4Nm96TFhCOWR3NmJKS2o1elFuSm5yRjlqMEg2TDJINGFaSmQ2YmZjX2RxVkp0emxIeUxydU5Jdw?oc=5",
+              "source": "레저신문"
+            },
+            {
+              "title": "2026 KLPGA 대상 시상식, 김민솔 3관왕 등극",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4R1VsdHF5TFVaaGVTX01Gb0tkWjJwODd0aTlYTDZxblNVdnRFR0E0dWVYMXRCdGJadGlGdU1iOU5aZVBybDhVaXYyX25RdE9JSWdFbnVmZlNHa0U5SGlueFFBX0xWTmVaVlhKeDR0NVI?oc=5",
+              "source": "전국뉴스"
+            }
+          ],
+          "description": "김민솔이 2026 KLPGA 대상 시상식에서 대상·상금왕·신인상을 휩쓸며 3관왕에 등극했다. 신인이 대상까지 차지한 것은 신지애 이후 20년 만의 대기록으로, 올 시즌 김민솔의 압도적인 활약을 압축해서 보여주는 결과다. 다승왕은 서교림이 차지했다.",
+          "headline": "김민솔, KLPGA 대상·상금왕·신인상 3관왕 등극"
         }
       ]
     }
